@@ -51,6 +51,11 @@ for i in data['tests'][1:]:
         print("[!] Invalid test: ", i)
         failed += 1
         continue
+    if str(i[5]) != "0" and str(i[5]) != "1" and str(i[5]) != "":
+        print("[!] Invalid stage: ", i[5])
+        print(f"\ttest: {i[4]} {i[0]}")
+        failed += 1
+        continue
     item = {
         "type":  "test",
         "data": {
@@ -87,6 +92,13 @@ for i in data['docs'][1:]:
         print("[!] Invalid doc: ", i)
         failed += 1
         continue
+    for c in i[4]:
+        if c != "M" and c != "Q" and c != "A" and c != "K" and c != "C":
+            print("[!] Invalid content: ", i[4])
+            print(f"\tdoc: {i[3]} {i[0]}")
+            failed += 1
+            continue
+
     result.append({
         "type":  "doc",
         "data": {
