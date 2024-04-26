@@ -1,0 +1,36 @@
+name: Update metadata
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup PDM
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          cd metadata
+          pdm install
+
+      - name: Run script
+        run: |
+          cd metadata
+          pdm run metadata.py
+
+      - uses: ryand56/r2-upload-action@latest
+        with:
+          r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
+          r2-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
+          r2-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          r2-bucket: ${{ secrets.R2_BUCKET }}
+          source-dir: metadata/metadata.json
+          destination-dir: ./
