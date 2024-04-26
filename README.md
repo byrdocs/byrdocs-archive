@@ -12,9 +12,8 @@
 
 ## P2P版
 
-> 预计下次更新种子时间： `2024年5月9日`
-
 > 上次更新种子时间： `2024年4月25日`
+> 预计下次更新种子时间： `2024年5月9日`
 
 P2P版通过使用 [BitTorrent（BT）](https://zh.wikipedia.org/zh-cn/BitTorrent_(%E5%8D%8F%E8%AE%AE)) 进行内容分发，您可通过种子 [byrdocs.torrent](byrdocs.torrent) 获取文件包。
 
