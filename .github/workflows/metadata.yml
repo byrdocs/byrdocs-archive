@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Setup PDM
-        uses: actions/checkout@v4
+        uses: pdm-project/setup-pdm@v4
 
       - name: Install dependencies
         run: |
