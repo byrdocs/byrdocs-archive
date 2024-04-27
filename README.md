@@ -107,6 +107,5 @@ BT使用有一定门槛，请确保您熟悉其操作。如有使用上的问题
 
 ## 其他事项
 
-- 命名及分类规范见 [RULE.md](RULE.md)。
 - 如果您有意参与本项目并愿意长期贡献，可发送邮件到 [contact@byrdocs.org](mailto:contact@byrdocs.org)。
 - 我们不接受任何形式的捐赠。
