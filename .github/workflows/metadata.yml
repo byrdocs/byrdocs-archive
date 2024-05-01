@@ -25,7 +25,7 @@ jobs:
       - name: Run script
         run: |
           cd metadata
-          pdm run metadata.py
+          pdm run metadata.py -f ../metadata.ods -s ../filesize.json -o metadata.json
 
       - name: Copy json file
         run: |
