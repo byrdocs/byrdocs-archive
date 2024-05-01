@@ -121,13 +121,12 @@ pdm run metadata.py -d /path/to/byrdocs -s ../filesize.json
 
 ```sh
 $ tree -d /path/to/byrdocs
-.
+/path/to/byrdocs
 ├── books
 ├── covers
 ├── docs
-├── tests
-└── ...other files
-# ...
+└── tests
+# ...other files
 ```
 
 ## 其他事项
