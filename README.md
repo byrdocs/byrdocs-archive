@@ -44,7 +44,6 @@ BT使用有一定门槛，请确保您熟悉有关操作。如有使用上的问
 
 所有文件均在录入元信息后，重命名为 MD5 码格式，如 `584397f272ee33d11491cf78011abee2.pdf`, `62b43f8fbed2bb3087f2afc96fd89b0f.zip`。
 
-
 一般来说，文件库中只接受 `.pdf`, `.zip` 格式的文件。形如 `.epub`, `.docx`, `.pptx`, `.png` 格式的文件，应当先转换为 `.pdf` 格式。**不推荐使用 `.zip` 格式，除非有很特殊的理由（如，文件中含有代码，或者文件太过细碎，需要统一存储）。**
 
 在整理时，有些资料应当进行合并或拆分。如，一份汇总了多年考试试题的大件资料，应当把每份试题单独拆出，作为一个文件；再如，若是明确某份试题与某份答案对应，就应当将其合并。
@@ -116,7 +115,8 @@ BT使用有一定门槛，请确保您熟悉有关操作。如有使用上的问
 在 `metadata` 目录下，安装 `pdm` 并 `pdm install` 之后，运行以下命令：
 
 ```sh
-pdm run metadata.py -d /path/to/byrdocs -s ../filesize.json
+#chmod +x metadata.py
+pdm run python ./metadata.py -d /path/to/byrdocs -s ../filesize.json
 ```
 
 其中 `/path/to/byrdocs` 是资源文件的根目录。
@@ -134,4 +134,5 @@ $ tree -d /path/to/byrdocs
 ## 其他事项
 
 - 如果您有意参与本项目并愿意长期贡献，可发送邮件到 [contact@byrdocs.org](mailto:contact@byrdocs.org)。
+- 感谢所有人直接或间接为本项目做出的贡献。本项目的资料来源十分杂乱，我们在此不一一列举。
 - 我们不接受任何形式的捐赠。
