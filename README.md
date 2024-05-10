@@ -18,9 +18,9 @@
 
 ## P2P 版本
 
-> 最近种子更新日期：`2024年4月28日`
+> 最近种子更新日期：`2024年5月10日`
 >
-> 预计下次更新日期：`2024年5月12日`
+> 预计下次更新日期：`2024年5月20日`
 
 P2P版本通过 [BitTorrent（BT）](https://zh.wikipedia.org/zh-cn/BitTorrent_(%E5%8D%8F%E8%AE%AE)) 协议分发内容。您可以通过种子文件 [byrdocs.torrent](byrdocs.torrent) 下载所需文件。
 
@@ -36,7 +36,7 @@ BT使用有一定门槛，请确保您熟悉有关操作。如有使用上的问
 
 您可以通过 BT 客户端下载全部文件，部分客户端（如 qBittorrent）支持选择性下载。
 
-如果本地存储空间充足（需约 13GiB）并愿意支持本项目，建议下载全部文件进行做种。
+如果本地存储空间充足（需约 15GiB）并愿意支持本项目，建议下载全部文件进行做种。
 
 ## BYR Docs 命名及分类规范
 
@@ -116,7 +116,7 @@ BT使用有一定门槛，请确保您熟悉有关操作。如有使用上的问
 
 ```sh
 #chmod +x metadata.py
-pdm run python ./metadata.py -d /path/to/byrdocs -s ../filesize.json
+pdm run ./metadata.py -d /path/to/byrdocs -s ../filesize.json
 ```
 
 其中 `/path/to/byrdocs` 是资源文件的根目录。
