@@ -2,16 +2,13 @@ import json
 from pyexcel_ods3 import get_data
 import isbn
 import argparse
+import urllib.request
 
 parser = argparse.ArgumentParser(description="Tool for dealing with metadata")
-parser.add_argument("-f", "--file", help="metadata ods file path")
+parser.add_argument("-f", "--file", help="metadata ods file path", required=True)
 parser.add_argument("-o", "--output", help="output json file path", default="metadata.json")
-parser.add_argument("-d", "--directory", help="data directory path. If set, the filesize will be calculated and write to a json file.")
-parser.add_argument("-s", "--size", help="filesize json file path", default="filesize.json")
-
+parser.add_argument("-s", "--size", help="filesize json file url", required=True)
 args = parser.parse_args()
-
-filesizes = {}
 
 if args.file:
     data = get_data(args.file)
@@ -129,30 +126,18 @@ if args.file:
 
     print(f"[+] {len(result)} items parsed ({success['books']} books, {success['tests']} tests, {success['docs']} docs).")
 
-if args.directory:
-    import os
-    for (path, _, files) in os.walk(args.directory):
-        if path.endswith("covers"):
-            continue
-        for file in files:
-            md5value = file.split(".")[0]
-            if len(md5value) != 32:
-                continue
-            filesizes[md5value] = os.path.getsize(os.path.join(path, file))
-    with open(args.size, "w") as f:
-        f.write(json.dumps(filesizes, ensure_ascii=False,separators=(',', ':')))
-        print(f"[+] Filesize data saved to {args.size}")
-else:
-    try:
-        with open(args.size, "r") as f:
-            filesizes = json.loads(f.read())
-    except:
-        print("[!] Failed to load filesize file.")
+filesizes = {}
+try:
+    with urllib.request.urlopen(args.size) as response:
+        data = json.loads(response.read().decode("utf-8"))
+        for item in data:
+            filesizes[item["filename"]] = item["size"]
+except:
+    print("[!] Failed to load filesize file.")
 
 if args.file:
     for item in result:
-        if item["data"]["md5"] in filesizes:
-            item["data"]["filesize"] = filesizes[item["data"]["md5"]]
+        item['data']['filesize'] = filesizes.get(f'{item["data"]["md5"]}.{item["data"]["filetype"]}', None)
 
     with open(args.output, "w") as f:
         f.write(json.dumps(result, ensure_ascii=False,separators=(',', ':')))

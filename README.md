@@ -108,29 +108,6 @@ BT使用有一定门槛，请确保您熟悉有关操作。如有使用上的问
 - `知识点`：各种辅助学习资料或考试复习资料。
 - `课件`：包括讲义、（非正式出版的）指导书、教学手册等与教学息息相关的资料。
 
-### 文件大小信息
-
-`metadata.ods` 中不包括文件大小信息。所以需要运行脚本生成 `filesize.json` 文件，以便在网页版中显示文件大小。
-
-在 `metadata` 目录下，安装 `pdm` 并 `pdm install` 之后，运行以下命令：
-
-```sh
-#chmod +x metadata.py
-pdm run ./metadata.py -d /path/to/byrdocs -s ../filesize.json
-```
-
-其中 `/path/to/byrdocs` 是资源文件的根目录。
-
-```sh
-$ tree -d /path/to/byrdocs
-/path/to/byrdocs
-├── books
-├── covers
-├── docs
-└── tests
-# ...other files
-```
-
 ## 其他事项
 
 - 如果您有意参与本项目并愿意长期贡献，可发送邮件到 [contact@byrdocs.org](mailto:contact@byrdocs.org)。
