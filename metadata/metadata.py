@@ -140,6 +140,7 @@ try:
                 item['data']['filesize'] = filesizes.get(f'{item["data"]["md5"]}.{item["data"]["filetype"]}', None)
             else:
                 print(f"[!] File not found: {filename}, deleting file from metadata.")
+                failed += 1
                 result.remove(item)
 
 except Exception as e:
@@ -147,7 +148,11 @@ except Exception as e:
     import traceback
     traceback.print_exc()
     print("[!] Failed to get filesize data, metadata.json will not include filesize information.")
+    failed += 1
 
+if failed != 0:
+    print(f"[!] {failed} errors occurred during filesize fetching.")
+    exit(1)
 
 with open(args.output, "w") as f:
     f.write(json.dumps(result, ensure_ascii=False,separators=(',', ':')))
