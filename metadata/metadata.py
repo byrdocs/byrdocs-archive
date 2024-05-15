@@ -126,21 +126,28 @@ if args.file:
 
     print(f"[+] {len(result)} items parsed ({success['books']} books, {success['tests']} tests, {success['docs']} docs).")
 
-filesizes = {}
 try:
+    filesizes = {}
     with urllib.request.urlopen(args.size) as response:
         data = json.loads(response.read().decode("utf-8"))
         for item in data:
             filesizes[item["filename"]] = item["size"]
+
+    if args.file:
+        for item in result:
+            filename = f'{item["data"]["md5"]}.{item["data"]["filetype"]}'
+            if filename in filesizes:
+                item['data']['filesize'] = filesizes.get(f'{item["data"]["md5"]}.{item["data"]["filetype"]}', None)
+            else:
+                print(f"[!] File not found: {filename}, deleting file from metadata.")
+                result.remove(item)
+
 except Exception as e:
-    print("[!] Failed to load filesize file.")
     print(e)
+    import traceback
+    traceback.print_exc()
+    print("[!] Failed to get filesize data, metadata.json will not include filesize information.")
 
-if args.file:
-    for item in result:
-        filename = f'{item["data"]["md5"]}.{item["data"]["filetype"]}'
-        if filename in filesizes:
-            item['data']['filesize'] = filesizes.get(f'{item["data"]["md5"]}.{item["data"]["filetype"]}', None)
 
-    with open(args.output, "w") as f:
-        f.write(json.dumps(result, ensure_ascii=False,separators=(',', ':')))
+with open(args.output, "w") as f:
+    f.write(json.dumps(result, ensure_ascii=False,separators=(',', ':')))
