@@ -132,12 +132,18 @@ try:
         data = json.loads(response.read().decode("utf-8"))
         for item in data:
             filesizes[item["filename"]] = item["size"]
-except:
+except Exception as e:
     print("[!] Failed to load filesize file.")
+    print(e)
 
 if args.file:
     for item in result:
-        item['data']['filesize'] = filesizes.get(f'{item["data"]["md5"]}.{item["data"]["filetype"]}', None)
+        filename = f'{item["data"]["md5"]}.{item["data"]["filetype"]}'
+        if filename in filesizes:
+            item['data']['filesize'] = filesizes.get(f'{item["data"]["md5"]}.{item["data"]["filetype"]}', None)
+        else:
+            print(f"[!] File not found: {filename}, delete it from metadata.")
+            result.remove(item)
 
     with open(args.output, "w") as f:
         f.write(json.dumps(result, ensure_ascii=False,separators=(',', ':')))
