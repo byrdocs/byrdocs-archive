@@ -25,7 +25,7 @@ jobs:
       - name: Run script
         run: |
           cd metadata
-          pdm run metadata.py -f ../metadata.ods -o metadata.json -s ${{ secrets.FILE_SERVER }}
+          pdm run metadata.py -f ../metadata.ods -o metadata.json -s https://byrdocs.org/filesize.json
 
       - name: Copy json file
         run: |
