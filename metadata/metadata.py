@@ -151,7 +151,7 @@ except Exception as e:
     failed += 1
 
 if failed != 0:
-    print(f"[!] {failed} errors occurred during filesize fetching.")
+    print(f"[!] {failed} errors occurred during metadata generation.")
     exit(1)
 
 with open(args.output, "w") as f:
