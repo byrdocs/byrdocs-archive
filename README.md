@@ -12,7 +12,7 @@
 
 ## 如何使用
 
-您可以访问 [BYR Docs](https://byrdocs.org) 网络，搜索并获取您想要的资源。
+您可以访问 [BYR Docs](https://byrdocs.org) 网站，搜索并获取您想要的资源。
 
 ![Screenshot_20240517_112259.png](https://s2.loli.net/2024/05/17/FMS2CTxUsDyRIGh.png)
 
