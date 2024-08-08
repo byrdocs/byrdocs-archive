@@ -8,10 +8,6 @@ BYRDOCS_TOKEN=$3
 API_URL="https://byrdocs.org/files/api/indexes/docs/documents?primaryKey=id"
 TASK_STATUS_URL="https://byrdocs.org/files/api/tasks"
 
-curl https://byrdocs.org/files/api/ \
-    --header "Authorization: Bearer $MEILISEARCH_API_KEY" \
-    --header "X-Byrdocs-Token: $BYRDOCS_TOKEN" \
-    "https://byrdocs.org/files/api/"
 
 # Initial request to update documents
 RESPONSE=$(curl --location --silent --show-error \
@@ -20,6 +16,8 @@ RESPONSE=$(curl --location --silent --show-error \
     --header "X-Byrdocs-Token: $BYRDOCS_TOKEN" \
     --data "@$METADATA_FILE" \
     $API_URL)
+
+echo "Response: $RESPONSE"
 
 # Extract taskUid from the response
 TASK_UID=$(echo $RESPONSE | jq -r '.taskUid')
