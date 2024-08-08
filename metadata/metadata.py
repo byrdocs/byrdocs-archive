@@ -237,7 +237,7 @@ if args.commit:
         ])
 
         with open(args.commit, "w") as f:
-            f.write(f"{commit_title}\n\n{commit_body}\n \n")
+            f.write(f"# Uncomment the following lines to commit metadata changes\n# {commit_title}\n\n{commit_body}\n \n")
         
     else:
         print(f"[!] Failed to get previous version of {args.output}.")
