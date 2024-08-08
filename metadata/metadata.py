@@ -103,6 +103,7 @@ if args.file:
             failed += 1
             continue
         result.append({
+            "id": i[0],
             "type":  "book",
             "data": {
                 "title": i[1],
@@ -131,6 +132,7 @@ if args.file:
             failed += 1
             continue
         item = {
+            "id": i[0],
             "type":  "test",
             "data": {
                 "college": i[2] if i[2] != "" else None,
@@ -174,6 +176,7 @@ if args.file:
                 continue
 
         result.append({
+            "id": i[0],
             "type":  "doc",
             "data": {
                 "title": i[3],
