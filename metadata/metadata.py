@@ -12,8 +12,6 @@ parser.add_argument("-d", "--diff", help="print data in text format", action="st
 parser.add_argument("-t", "--token", help="byrdocs token for downloading filesize data", required=False)
 args = parser.parse_args()
 
-
-
 if args.file:
     data = get_data(args.file)
     result = []
