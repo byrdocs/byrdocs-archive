@@ -112,6 +112,7 @@ if args.file:
                 "edition": i[4],
                 "publisher": i[5],
                 "isbn": isbn.ISBN(i[6]).hyphen(),
+                "isbn_raw": isbn.ISBN(i[6]).isbn13(),
                 "filetype": i[7],
                 "md5": i[0],
             }
