@@ -9,6 +9,7 @@ parser.add_argument("-f", "--file", help="metadata ods file path", required=True
 parser.add_argument("-o", "--output", help="output json file path", default="metadata.json")
 parser.add_argument("-s", "--size", help="filesize json file url", required=False)
 parser.add_argument("-d", "--diff", help="print data in text format", action="store_true")
+parser.add_argument("-t", "--token", help="byrdocs token for downloading filesize data", required=False)
 args = parser.parse_args()
 
 if args.diff:
@@ -202,7 +203,7 @@ if args.file:
 
 try:
     filesizes = {}
-    with urllib.request.urlopen(args.size) as response:
+    with urllib.request.urlopen(urllib.request.Request(args.size, headers={ "X-Byrdocs-Token": args.token })) as response:
         data = json.loads(response.read().decode("utf-8"))
         for item in data:
             filesizes[item["filename"]] = item["size"]
