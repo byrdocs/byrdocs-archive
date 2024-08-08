@@ -25,7 +25,7 @@ jobs:
       - name: Run script
         run: |
           cd metadata
-          pdm run metadata.py -f ../metadata.ods -o metadata.json -s https://byrdocs.org/filesize.json
+          pdm run metadata.py -f ../metadata.ods -o metadata.json -s https://byrdocs.org/filesize.json -t ${{ secrets.BYRDOCS_TOKEN }}
 
       - name: Copy json file
         run: |
@@ -43,4 +43,4 @@ jobs:
 
       - name: Update meilisearch
         run: |
-          bash meilisearch.sh metadata/metadata.json ${{ secrets.MEILI_KEY }}
+          bash meilisearch.sh metadata/metadata.json ${{ secrets.MEILI_KEY }} ${{ secrets.BYRDOCS_TOKEN }}

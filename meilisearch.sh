@@ -4,6 +4,7 @@
 
 METADATA_FILE=$1
 MEILISEARCH_API_KEY=$2
+BYRDOCS_TOKEN=$3
 API_URL="https://byrdocs.org/files/api/indexes/docs/documents?primaryKey=id"
 TASK_STATUS_URL="https://byrdocs.org/files/api/tasks"
 
@@ -11,6 +12,7 @@ TASK_STATUS_URL="https://byrdocs.org/files/api/tasks"
 RESPONSE=$(curl --location --silent --show-error \
     --header "Content-Type: application/json" \
     --header "Authorization: Bearer $MEILISEARCH_API_KEY" \
+    --header "X-Byrdocs-Token: $BYRDOCS_TOKEN" \
     --data "@$METADATA_FILE" \
     $API_URL)
 
@@ -21,6 +23,7 @@ TASK_UID=$(echo $RESPONSE | jq -r '.taskUid')
 get_task_details() {
     curl --location --silent --show-error \
     --header "Authorization: Bearer $MEILISEARCH_API_KEY" \
+    --header "X-Byrdocs-Token: $BYRDOS_TOKEN" \
     "$TASK_STATUS_URL/$TASK_UID"
 }
 
