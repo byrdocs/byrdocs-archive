@@ -9,3 +9,4 @@ git add metadata.json
 if [ -s "$tmpfile" ]; then
     git commit -e --template=$tmpfile $@
 fi
+rm $tmpfile
