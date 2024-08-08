@@ -1,0 +1,5448 @@
+Book: Б. П. 吉米多维奇高等数学习题精选精解
+	MD5: 000559972bfd10a2a6a8a9e34dfd2205
+	Authors: 张天德/蒋晓芸
+	Translators: 
+	Edition: 1
+	Publisher: 山东科学技术出版社
+	ISBN: 978-7-5331-4779-2
+	Filetype: pdf
+
+Book: 英语品中国：科技篇
+	MD5: 0065c9c8a499d1d5614aff3ebbdfd0f9
+	Authors: 张钫炜/赵欣/袁方/王姗姗
+	Translators: 
+	Edition: 1
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-59323-2
+	Filetype: pdf
+
+Book: 电路分析基础/Electric Circuits
+	MD5: 05a94d9250b2f41ef7e7959c5ceef758
+	Authors: James W. Nilsson/Susan A. Riedel/王宏祥/张民
+	Translators: 
+	Edition: 2
+	Publisher: 电子工业出版社
+	ISBN: 978-7-121-32283-9
+	Filetype: pdf
+
+Book: 数字电路与逻辑设计学习指导
+	MD5: 05d67011b2d1ded27ecdf15b88c0b9b1
+	Authors: 刘培植/胡春静/郭琳/孙文生/刘丽华
+	Translators: 
+	Edition: 1
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-2729-8
+	Filetype: pdf
+
+Book: Secure Coding in C and C++
+	MD5: 068860249d5f484ebce647f0c5fe4fbe
+	Authors: Robert C. Seacord
+	Translators: 
+	Edition: 2
+	Publisher: Addison-Wesley
+	ISBN: 978-0-321-82213-0
+	Filetype: pdf
+
+Book: 理论物理学教程 第10卷 物理动理学 第2版
+	MD5: 06fa27d50ba4a4baae1b665ea48fd677
+	Authors: E. М. 粟弗席兹/Л. П. 皮塔耶夫斯基
+	Translators: 徐锡申/徐春华/黄京民
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-023069-7
+	Filetype: pdf
+
+Book: Think Python: How to Think Like a Computer Scientist
+	MD5: 071070dd231e0de83f8096a72d78fdda
+	Authors: Allen Downey
+	Translators: 
+	Edition: 2
+	Publisher: Green Tea Press
+	ISBN: 978-1-4919-3941-3
+	Filetype: pdf
+
+Book: 高等数学 下册
+	MD5: 09215b9ab8b9644bd6bbb90253809f98
+	Authors: 李忠/周建莹
+	Translators: 
+	Edition: 
+	Publisher: 北京大学出版社
+	ISBN: 978-7-301-07439-8
+	Filetype: pdf
+
+Book: Java 核心技术 卷I 基础知识（原书第10版）
+	MD5: 0cb44163b35dc9438f0dd3c6610e8a75
+	Authors: Cay S. Horstmann
+	Translators: 周立新/陈波/叶乃文/邝劲筠/杜永萍
+	Edition: 1
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-54742-6
+	Filetype: pdf
+
+Book: 数值分析
+	MD5: 0cc89d10a05aab6a66002a87de26261e
+	Authors: Timothy Saner
+	Translators: 吴兆金/王国英/范红军
+	Edition: 1
+	Publisher: 人民邮电出版社
+	ISBN: 978-7-115-21759-2
+	Filetype: pdf
+
+Book: The Consumer Society
+	MD5: 0d24315e4049f6946e12f5efa6f7fc68
+	Authors: Jean Baudrillard
+	Translators: 
+	Edition: 
+	Publisher: SAGE Publications
+	ISBN: 978-1-4739-9454-6
+	Filetype: pdf
+
+Book: Database Systems: A pracital Approach to Design, Implementation, and Management
+	MD5: 0d4d151172fda23b51cf4d2abfb384c1
+	Authors: Thomas M. Connolly/Carolyn E. Begg
+	Translators: 
+	Edition: 6
+	Publisher: Pearson
+	ISBN: 978-1-292-06118-4
+	Filetype: pdf
+
+Book: 数据结构与算法分析：C语言描述（原书第2版）
+	MD5: 0d66fac61560e69cc3ccb2a5ed644311
+	Authors: Mark Allen Weiss
+	Translators: 冯舜玺
+	Edition: 1
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-12748-2
+	Filetype: pdf
+
+Book: 电子电路测量与设计实验
+	MD5: 0d696116eb3937a892c6bdffc6b6a203
+	Authors: 陈凌霄/孙丹丹/张晓磊/高英
+	Translators: 
+	Edition: 2
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-6187-2
+	Filetype: pdf
+
+Book: Beginning Python
+	MD5: 0eaf50a7f27a71479671187316367702
+	Authors: Peter Norton/Alex Samuel/David Aitel/Eric Foster-Johnson/Leonard Richardson/Jason Diamond/Aleatha Parker/Michael Roberts
+	Translators: 
+	Edition: 
+	Publisher: Wiley
+	ISBN: 978-0-7645-9654-4
+	Filetype: pdf
+
+Book: Python编程案例教程
+	MD5: 12bec49abc8fa7762f1ecc9e143a0884
+	Authors: 刘庆/姚丽娜/余美华
+	Translators: 
+	Edition: 1
+	Publisher: 航空工业出版社
+	ISBN: 978-7-5165-1666-9
+	Filetype: pdf
+
+Book: 新概念物理教程 力学
+	MD5: 130d471e1558ffe03f523396c18f3f42
+	Authors: 赵凯华/罗蔚茵
+	Translators: 
+	Edition: 2
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-015201-2
+	Filetype: pdf
+
+Book: 经济学原理 第7版 宏观经济学分册
+	MD5: 1362ba8173ccc20cb8c4477075f15933
+	Authors: N. Gregory Mankiw
+	Translators: 梁小国/梁砾
+	Edition: 1
+	Publisher: 北京大学出版社
+	ISBN: 978-7-301-25688-6
+	Filetype: pdf
+
+Book: Fundamentals of Computer Graphics
+	MD5: 13f647b47f1e40e4b3c35294cbc1386e
+	Authors: Steve Marschner/Peter Shirley/Michael Ashichmin/Michael Gleicher/Naty Hoffman/Garrett Johnson/Tamara Munzner/Erik reinhard/William B. Thompson/Peter Willemsen/Brian Wyvill
+	Translators: 
+	Edition: 4
+	Publisher: CRC Press
+	ISBN: 978-1-4822-2941-7
+	Filetype: pdf
+
+Book: 离散数学
+	MD5: 1765e8a076c70fe1849dd6845a3ead4a
+	Authors: 耿素云/屈婉玲/张立昂
+	Translators: 
+	Edition: 5
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-32507-9
+	Filetype: pdf
+
+Book: 大学物理学 力学、热学
+	MD5: 1770d21fd4b201904c70fd09217e0205
+	Authors: 张三慧/安宇/阮东/李岩松
+	Translators: 
+	Edition: 4
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-50980-6
+	Filetype: pdf
+
+Book: 数学模型（第四版）习题参考解答
+	MD5: 181382952f766888214de441eb889ea9
+	Authors: 姜启源/谢金星/叶俊
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-031149-5
+	Filetype: pdf
+
+Book: 半导体物理学
+	MD5: 182b073e555284e0d7e245bcd2875719
+	Authors: 刘恩科/朱秉升/罗晋生
+	Translators: 
+	Edition: 2
+	Publisher: 电子工业出版社
+	ISBN: 978-7-121-32007-1
+	Filetype: pdf
+
+Book: 电磁场与电磁波
+	MD5: 189952a85656a0b6f7b0d02c1a3d1c55
+	Authors: 焦其祥/王亚峰/李书芳/李莉/张阳安/高泽华/张欣
+	Translators: 
+	Edition: 3
+	Publisher: 科学出版社
+	ISBN: 978-7-03-064006-2
+	Filetype: pdf
+
+Book: 数学物理方法学习指导
+	MD5: 18b392d7e9d8b8d2a33a23c9662b4d55
+	Authors: 郭玉翠
+	Translators: 
+	Edition: 1
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-12256-2
+	Filetype: pdf
+
+Book: 编译原理与技术（第2版）学习指导与习题解析
+	MD5: 18c7de65abc52ac975562e1835f8755a
+	Authors: 李文生
+	Translators: 
+	Edition: 1
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-49580-2
+	Filetype: pdf
+
+Book: 线性代数及其应用（原书第3版）
+	MD5: 1977a0d5d0850d0f23c64165c31bff77
+	Authors: David C. Lay
+	Translators: 刘深泉/洪毅/马东魁/郭国雄/刘勇平
+	Edition: 1
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-16709-9
+	Filetype: pdf
+
+Book: MATLAB在信号与系统中的应用
+	MD5: 1ab766b920293f29c6f1cb9913316d3b
+	Authors: 尹霄丽/张健明
+	Translators: 
+	Edition: 1
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-39957-5
+	Filetype: pdf
+
+Book: 全新版大学高阶英语 综合教程 学生用书 3
+	MD5: 1af8dcccf2c8b4255f1a86d4e691ae29
+	Authors: 夏国佐/吴晓真
+	Translators: 
+	Edition: 3
+	Publisher: 上海外语教育出版社
+	ISBN: 978-7-5446-6805-7
+	Filetype: pdf
+
+Book: Neuroscuience Exploring the Brain
+	MD5: 1c7913719809f6e7b7b7aea2e68666d9
+	Authors: Mark F. Bear/Barry W. Connors/Michael A. Paradiso
+	Translators: 
+	Edition: 4
+	Publisher: Wolters Kluwer
+	ISBN: 978-0-7817-7817-6
+	Filetype: pdf
+
+Book: 算法笔记
+	MD5: 1df16655ff72f820ce3621b27cce5791
+	Authors: 刁瑞/谢研
+	Translators: 
+	Edition: 1
+	Publisher: 电子工业出版社
+	ISBN: 978-7-121-28671-1
+	Filetype: pdf
+
+Book: 编译原理与技术
+	MD5: 1ed4abdf0ae528182b4c2d4ce8e37b43
+	Authors: 李文生
+	Translators: 
+	Edition: 2
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-44141-0
+	Filetype: pdf
+
+Book: 计算机操作系统：慕课版
+	MD5: 1ee8d03b91962aeed0897d766857830a
+	Authors: 汤小丹/王红玲/姜华/汤子瀛
+	Translators: 
+	Edition: 1
+	Publisher: 人民邮电出版社
+	ISBN: 978-7-115-56115-2
+	Filetype: pdf
+
+Book: 图解密码技术
+	MD5: 1f799fb0a7cf62a1c80bde156bf5b577
+	Authors: 结城浩/周自恒
+	Translators: 
+	Edition: 1
+	Publisher: 人民邮电出版社
+	ISBN: 978-7-115-37362-5
+	Filetype: pdf
+
+Book: 工程数学 矢量分析与场论
+	MD5: 220e94908b5923c47cefbbd81f10b518
+	Authors: 谢树艺
+	Translators: 
+	Edition: 3
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-016324-7
+	Filetype: pdf
+
+Book: 视听说教程1学生用书
+	MD5: 2307dd58db8bd27a6f176de750e53df2
+	Authors: 徐锦芬/刘文波
+	Translators: 
+	Edition: 2
+	Publisher: 上海外语教育出版社
+	ISBN: 978-7-5446-6627-5
+	Filetype: pdf
+
+Book: 物理学大题典 固体物理及物理量测量
+	MD5: 240584d989d3b62d1358e78abc7cf181
+	Authors: 林鸿生/章世玲/王冠中/翁明其
+	Translators: 
+	Edition: 2
+	Publisher: 科学出版社
+	ISBN: 978-7-03-058372-7
+	Filetype: pdf
+
+Book: Database System Concepts
+	MD5: 2469ffa9527a29ae4a0a12122bb97811
+	Authors: Abraham Silberschatz/Henry E. Korth/S. Sudarshan
+	Translators: 
+	Edition: 6
+	Publisher: Mc Graw Hill Education
+	ISBN: 978-0-07-352332-3
+	Filetype: pdf
+
+Book: A Tour of C++
+	MD5: 246b8cddd307923c9a825585c701bcaa
+	Authors: Bjarne Stroustrup
+	Translators: 
+	Edition: 2
+	Publisher: Pearson
+	ISBN: 978-0-13-499783-4
+	Filetype: pdf
+
+Book: 大学计算机基础
+	MD5: 2708e0de459e6adacede29ef9dec0cbe
+	Authors: 牛少彰
+	Translators: 
+	Edition: 3
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-5576-5
+	Filetype: pdf
+
+Book: 线性代数/Linear Algebra
+	MD5: 28c11c43cdb4e7eab2618a8f25ca15c9
+	Authors: 张文博/杨娟/仝辉/杨建奎/郭永江/周清
+	Translators: 
+	Edition: 1
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-5460-7
+	Filetype: pdf
+
+Book: 新大学日语标准教程（基础篇）1
+	MD5: 28f409eeb6a5e89338dbdfb75b67cd7e
+	Authors: 陈俊森/郑玉和/赵刚/仁科喜久子
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-019938-3
+	Filetype: pdf
+
+Book: Computer Systems: A Programmer’s Perspective
+	MD5: 2a9703343767a1b7778098a4475101b0
+	Authors: Randal E. Bryant/Bryant O’Hallaron
+	Translators: 
+	Edition: 2
+	Publisher: Pearson
+	ISBN: 978-0-13-610804-7
+	Filetype: pdf
+
+Book: 物理学教程（第三版）习题分析与解答
+	MD5: 2ba0f86ba5452286a2872c8f44c9e69f
+	Authors: 马文蔚/包刚/韦娜/殷实
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-044932-7
+	Filetype: pdf
+
+Book: 新概念物理教程 电磁学
+	MD5: 2fbeb7ab88f7f9054fa43da9d4a9a7ca
+	Authors: 赵凯华/陈熙谋
+	Translators: 
+	Edition: 2
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-020202-1
+	Filetype: pdf
+
+Book: Computer Systems: A Programmer’s Perspective
+	MD5: 2fd92f3c7e38ad5c136015a7e6a3ffcf
+	Authors: Randal E. Bryant/David R. O’ Hallaron
+	Translators: 
+	Edition: 3
+	Publisher: Pearson
+	ISBN: 978-1-292-10176-7
+	Filetype: pdf
+
+Book: 工程数学 复变函数（第四版）同步辅导及习题全解
+	MD5: 31601606ba85971d6e51bd1327bda68e
+	Authors: 苏志平/郭志梅
+	Translators: 
+	Edition: 
+	Publisher: 中国水利水电出版社
+	ISBN: 978-7-5084-6678-1
+	Filetype: pdf
+
+Book: Mathematics for Machine Learning
+	MD5: 328ad8172dbc863771d70e46b424ee7a
+	Authors: Marc Peter Deisenroth/A. Aldo Faisal/Cheng Soon Ong
+	Translators: 
+	Edition: 1
+	Publisher: Cambridge University Press
+	ISBN: 978-1-108-56932-3
+	Filetype: pdf
+
+Book: 高等代数 下册
+	MD5: 32a4b5a7d6f540371f641e655ded6ec0
+	Authors: 丘维声
+	Translators: 
+	Edition: 3
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-042235-1
+	Filetype: pdf
+
+Book: 深入理解计算机系统（原书第3版）
+	MD5: 32bf1b77f6079fec59c7234944d42b58
+	Authors: Randal E. Bryant/David R. O’Hallaron
+	Translators: 龚奕利/贺莲
+	Edition: 1
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-54493-7
+	Filetype: pdf
+
+Book: 理论物理学教程 第6卷 流体动力学 第5版
+	MD5: 332997c311e2387ae423538e3aba6834
+	Authors: Л. Д. 朗道/E. М. 粟弗席兹
+	Translators: 李植
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-034659-6
+	Filetype: pdf
+
+Book: 大学物理学 下册
+	MD5: 3439e1d8caa517dd4d40629962618aa6
+	Authors: 吴百诗/罗春荣/马永庚/张孝林
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-015815-1
+	Filetype: pdf
+
+Book: 数字电路与逻辑设计
+	MD5: 347ec8f725088b8f12fe1a68bfe2f587
+	Authors: 刘培植/胡春静/郭琳/孙文生/刘丽华
+	Translators: 
+	Edition: 2
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-3387-9
+	Filetype: pdf
+
+Book: Java语言程序设计与数据结构（基础篇）
+	MD5: 34d685c30d68913bc37dbdd15f993266
+	Authors: Y. Daniel Liang
+	Translators: 戴开宇
+	Edition: 1
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-60074-9
+	Filetype: pdf
+
+Book: 计算机导论与程序设计基础
+	MD5: 34dcff3d4e7faaaa747a5e2c0adf5ff8
+	Authors: 张雷/周春燕/艾波
+	Translators: 
+	Edition: 2
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-1325-3
+	Filetype: pdf
+
+Book: 离散数学结构/Discrete Mathematical Structures
+	MD5: 35af4353636279f6572da915e782a833
+	Authors: Bernard Kolman/Robert C. Busby/Sharon Cutler Ross
+	Translators: 
+	Edition: 4
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-010096-9
+	Filetype: pdf
+
+Book: 计算机系统结构学习指导与题解
+	MD5: 373f437400dd4d3d53d8bf11cde57af7
+	Authors: 张晨曦/刘依/沈立/孙大一/李江峰
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-029575-7
+	Filetype: pdf
+
+Book: Operating System Concepts
+	MD5: 376e69c9ca2df90bdf5748c3c16bda69
+	Authors: Abraham Silberschatz/Peter Baer Galvin/Greg Gagne
+	Translators: 
+	Edition: 9
+	Publisher: Wiley
+	ISBN: 978-1-118-12938-8
+	Filetype: pdf
+
+Book: 大学英语实验教程（阅读）1
+	MD5: 37dd011efb2c7715274b577f3ee63b0d
+	Authors: 范姣莲/连晶晶
+	Translators: 
+	Edition: 1
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-4451-6
+	Filetype: pdf
+
+Book: 工科数学分析基础教学辅导书 下册
+	MD5: 3869d408e8ca241c4e055a1666851767
+	Authors: 武忠祥
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-021198-6
+	Filetype: pdf
+
+Book: 应用密码学
+	MD5: 3b597d14bfeab1e5eaeb5582e7c8f9a8
+	Authors: 雷敏/杨义先
+	Translators: 
+	Edition: 3
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-6612-9
+	Filetype: pdf
+
+Book: 计算机网络
+	MD5: 3b6d735bea40f502a8e0bdc04f016d70
+	Authors: 谢希仁
+	Translators: 
+	Edition: 7
+	Publisher: 电子工业出版社
+	ISBN: 978-7-121-30295-4
+	Filetype: pdf
+
+Book: 高等数学 下册
+	MD5: 3b71117af25ad5f9e702bf33899c2ef0
+	Authors: 北京邮电大学数学系
+	Translators: 
+	Edition: 2
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-5361-7
+	Filetype: pdf
+
+Book: Real-World Cryptography
+	MD5: 3b79591a34004130db8702cb61eb2c9b
+	Authors: David Wong
+	Translators: 
+	Edition: 
+	Publisher: Manning
+	ISBN: 978-1-61729-671-0
+	Filetype: pdf
+
+Book: 信号与系统
+	MD5: 3cf9fa8e25025f1134cca21a99f5bd51
+	Authors: 吕玉琴/俎云霄/张健明
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-039232-6
+	Filetype: pdf
+
+Book: 数据结构与算法
+	MD5: 3ddd1d4a0f47e21679af623963614cea
+	Authors: 徐雅静/肖波/马占宇/黄平牧
+	Translators: 
+	Edition: 1
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-5175-0
+	Filetype: pdf
+
+Book: 新概念物理教程 光学
+	MD5: 3eba821057e920c1347821208b6b12a9
+	Authors: 赵凯华
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-015562-4
+	Filetype: pdf
+
+Book: 大学物理学 上册
+	MD5: 3f3f3ed4a935ba8b936248f0f6014b66
+	Authors: 吴百诗/罗春荣/马永庚/张孝林
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-015573-0
+	Filetype: pdf
+
+Book: 光纤通信系统
+	MD5: 3fac6cab591ee2da4b1551c49dd801da
+	Authors: Govind P. Agrawal
+	Translators: 贾东方/忻向军
+	Edition: 4
+	Publisher: 电子工业出版社
+	ISBN: 978-7-121-28140-2
+	Filetype: pdf
+
+Book: 离散数学
+	MD5: 4203c9aaf3ddf7447f147625d65f297b
+	Authors: 邓俊辉
+	Translators: 
+	Edition: 2
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-041908-5
+	Filetype: pdf
+
+Book: 思想道德与法治：2023年版
+	MD5: 428187ce4a8635d5472693f597e45014
+	Authors: 《思想道德与法治（2023年版）》编写组
+	Translators: 
+	Edition: 2023
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-059902-2
+	Filetype: pdf
+
+Book: 工科数学分析基础教学辅导书 上册
+	MD5: 44bc6d4d52be12e46679c2166987a256
+	Authors: 武忠祥
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-020052-2
+	Filetype: pdf
+
+Book: 密码学原理与实践（第三版）
+	MD5: 44d5aeeeccbc036be55297f3a175e837
+	Authors: Douglas R. Stinson
+	Translators: 冯登国
+	Edition: 2
+	Publisher: 电子工业出版社
+	ISBN: 978-7-121-27971-3
+	Filetype: pdf
+
+Book: Б. П. 吉米多维奇数学分析习题集题解 1
+	MD5: 45399c27ec4a96ae6d826948c746302b
+	Authors: 费定晖/周学圣
+	Translators: 
+	Edition: 1
+	Publisher: 山东科学技术出版社
+	ISBN: 978-7-5331-5900-9
+	Filetype: pdf
+
+Book: 离散数学及其应用/Discrete Mathematics and Its Applications
+	MD5: 45786cd09764cb66c8afde5244fdc95c
+	Authors: Kenneth H. Roson
+	Translators: 
+	Edition: 8
+	Publisher: Mc Graw Hill Education
+	ISBN: 978-1-259-67651-2
+	Filetype: pdf
+
+Book: 物理光学学习指导与题解
+	MD5: 46ab086bad733201969fafa81ea2f142
+	Authors: 刘翠红/张伟/黄峰
+	Translators: 
+	Edition: 3
+	Publisher: 电子工业出版社
+	ISBN: 978-7-121-39840-7
+	Filetype: pdf
+
+Book: 概率论与数理统计/Probability Theory and Mathematical Statistics
+	MD5: 476afb576b270023204c2c95413bdd09
+	Authors: 王学丽/杨建奎/郭永江
+	Translators: 
+	Edition: 1
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-5169-9
+	Filetype: pdf
+
+Book: 全新版大学英语综合教程学生用书3
+	MD5: 478c9559138dcb88dd1552c973788727
+	Authors: 李荫华/王德明
+	Translators: 
+	Edition: 2
+	Publisher: 上海外语教育出版社
+	ISBN: 978-7-5446-3721-3
+	Filetype: pdf
+
+Book: 理论物理学教程 第9卷 统计物理学II（凝聚态理论） 第4版
+	MD5: 47941ac5cb2b3947862f2aed19bec27e
+	Authors: E. М. 粟弗席兹/Л. П. 皮塔耶夫斯基
+	Translators: 王锡绂
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-024160-0
+	Filetype: pdf
+
+Book: 通信原理习题集
+	MD5: 499086a51b571be5e49007812fdcd7c8
+	Authors: 杨鸿文/桑林
+	Translators: 
+	Edition: 1
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-1101-3
+	Filetype: pdf
+
+Book: 程控数字交换与现代通信网
+	MD5: 4b61949bdb42c49872544de9a2659f42
+	Authors: 叶敏
+	Translators: 
+	Edition: 1
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-0291-2
+	Filetype: pdf
+
+Book: 新概念物理教程 热学
+	MD5: 4cb3372f96a5019d764376cedd949412
+	Authors: 赵凯华/罗蔚茵
+	Translators: 
+	Edition: 2
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-017680-3
+	Filetype: pdf
+
+Book: 物理学大题典 电磁学与电动力学
+	MD5: 4e04cfc1548959eeaf378db64b53b3d2
+	Authors: 刘金英/陈银华/赵叔平/尤峻汉/朱俊杰/胡友秋
+	Translators: 
+	Edition: 
+	Publisher: 科学出版社
+	ISBN: 978-7-03-015497-2
+	Filetype: pdf
+
+Book: 数学模型（第三版）习题参考解答
+	MD5: 4f951d10a5466f4a9e2f425b7856e6ba
+	Authors: 姜启源/谢金星/叶俊
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-011945-9
+	Filetype: pdf
+
+Book: 理论物理学教程 第4卷 量子电动力学 第4版
+	MD5: 505c3b1c51804b6347863acf2fb0a0ef
+	Authors: В. Б. 别列斯捷茨基/E. М. 粟弗席兹/Л. П. 皮塔耶夫斯基
+	Translators: 朱允伦
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-041597-1
+	Filetype: pdf
+
+Book: 社会工程：防范钓鱼欺诈
+	MD5: 50734eef24f997c8876d5f82d58b4f77
+	Authors: Christopher Hadnagy
+	Translators: 肖诗尧
+	Edition: 1
+	Publisher: 人民邮电出版社
+	ISBN: 978-7-115-43547-7
+	Filetype: pdf
+
+Book: 组合数学引论
+	MD5: 510b6f23d13c96e1720a74916203954e
+	Authors: 许胤龙/孙淑玲
+	Translators: 
+	Edition: 2
+	Publisher: 中国科学技术大学出版社
+	ISBN: 978-7-312-02665-2
+	Filetype: pdf
+
+Book: 数字信号处理
+	MD5: 511ef3cda6181ff7f4279d5e1d100351
+	Authors: 高西全/丁玉美
+	Translators: 
+	Edition: 4
+	Publisher: 西安电子科技大学出版社
+	ISBN: 978-7-5606-3950-5
+	Filetype: pdf
+
+Book: 运筹学
+	MD5: 51a645280ae361ae78392ebbfbdaa37c
+	Authors: 卓新建
+	Translators: 
+	Edition: 1
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-3406-7
+	Filetype: pdf
+
+Book: 习近平新时代中国特色社会主义思想概论
+	MD5: 524868387fdc7521e6507563e7d7f511
+	Authors: 习近平新时代中国特色社会主义思想概论编写组
+	Translators: 
+	Edition: 2023
+	Publisher: 高等教育出版社/人民出版社
+	ISBN: 978-7-04-061053-6
+	Filetype: pdf
+
+Book: 计算机网络：自顶向下方法（原书第七版）
+	MD5: 526d3407d543c60ccd90ada0964d76ee
+	Authors: James F. Kurose/Keith W.Ross
+	Translators: 陈鸣
+	Edition: 1
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-59971-5
+	Filetype: pdf
+
+Book: 大学物理学 中册
+	MD5: 549bd5295685a240c4eae6ea37948884
+	Authors: 吴百诗/罗春荣/马永庚/张孝林
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-015571-6
+	Filetype: pdf
+
+Book: Linear Algebra and Its Applications
+	MD5: 549f303b6ebc12b204bd545acab3eb9e
+	Authors: Gilbert Strang
+	Translators: 
+	Edition: 4
+	Publisher: Thomson Brooks/Cole
+	ISBN: 978-0-534-42200-4
+	Filetype: pdf
+
+Book: 离散数学结构习题与解答
+	MD5: 54ea0e5a92fe6b708caedf213efd18f3
+	Authors: 王家𫷷
+	Translators: 
+	Edition: 1
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-09190-5
+	Filetype: pdf
+
+Book: 矩阵论
+	MD5: 54ed72b53165a9a0441bc4fe3fdff917
+	Authors: 张凯院/徐仲
+	Translators: 
+	Edition: 1
+	Publisher: 西北工业大学出版社
+	ISBN: 978-7-5612-5570-4
+	Filetype: pdf
+
+Book: 社会工程：安全体系中的人性漏洞
+	MD5: 5779d0f9490dc6b721b4c9eb101f2f21
+	Authors: Christopher Hadnagy
+	Translators: 陆道宏/杜娟/邱璟
+	Edition: 1
+	Publisher: 人民邮电出版社
+	ISBN: 978-7-115-33538-8
+	Filetype: pdf
+
+Book: 计算机网络：自顶向下方法（原书第八版）
+	MD5: 584397f272ee33d11491cf78011abee2
+	Authors: James F. Kurose/Keith W. Ross
+	Translators: 陈鸣
+	Edition: 1
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-71236-7
+	Filetype: pdf
+
+Book: 形式语言与自动机
+	MD5: 58b89e10c57425ce7cceb5dad17fde5b
+	Authors: 杨娟/石川/王柏
+	Translators: 
+	Edition: 2
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-4997-9
+	Filetype: pdf
+
+Book: Discrete and Combinatorial Mathematics – An Applied Introduction
+	MD5: 5a6058e26290543bdfce4481414585f7
+	Authors: Palph P. Grimaldi
+	Translators: 
+	Edition: 5
+	Publisher: Pearson
+	ISBN: 978-0-201-72634-3
+	Filetype: pdf
+
+Book: Б. П. 吉米多维奇数学分析习题集题解 4
+	MD5: 5d03a7496666f9bb241b73c28fa527a0
+	Authors: 费定晖/周学圣
+	Translators: 
+	Edition: 1
+	Publisher: 山东科学技术出版社
+	ISBN: 978-7-5331-5897-2
+	Filetype: pdf
+
+Book: 量子计算机编程：从入门到实践
+	MD5: 5d3d7be09e4842ca74fb739cbd2e5687
+	Authors: Eric R. Johnston/Nicholas Harrigan/Mercedes Gimeno-Segovia
+	Translators: 郑明智
+	Edition: 
+	Publisher: 人民邮电出版社
+	ISBN: 978-7-115-56635-5
+	Filetype: pdf
+
+Book: 工科数学分析基础 下册
+	MD5: 5e8a15d1410d9831b6c93c8b62e387bb
+	Authors: 王绵森/马知恩
+	Translators: 
+	Edition: 3
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-049115-9
+	Filetype: pdf
+
+Book: 信号与系统 上册
+	MD5: 5edefa4dee186e0e25de5b6012f4655f
+	Authors: 郑君里/应启珩/杨为理
+	Translators: 
+	Edition: 2
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-007981-4
+	Filetype: pdf
+
+Book: 算法数论：格、数域、曲线和密码学
+	MD5: 5fc43cb745c14415890cde51f7772125
+	Authors: J.P. Puhler/P. Stevenhagen
+	Translators: 王元/冯克勤/张俊
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-050123-0
+	Filetype: pdf
+
+Book: 随机信号分析与处理
+	MD5: 600a47858f280bae6a4d52792a07ed60
+	Authors: 罗鹏飞/张文明
+	Translators: 
+	Edition: 1
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-12899-1
+	Filetype: pdf
+
+Book: 离散数学与组合数学（第5版）
+	MD5: 60d948647e7c2e9d5b7c41807a2680e6
+	Authors: Ralph P. Grimaldi
+	Translators: 林永钢
+	Edition: 1
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-14416-8
+	Filetype: pdf
+
+Book: Fundamentals of Computer Graphics
+	MD5: 610aca40599a0f42ecaa2b20bb95850c
+	Authors: Peter Shirley/Steve Marschner/Michael Ashikhmin/Michael Gleicher/Naty Hoffman/Garrett Johnson/Tamara Munzner/Erik Reinhard/Kelvin Sung/Willian B. Thompson/Peter Willemsen/Brian Wyvill
+	Translators: 
+	Edition: 3
+	Publisher: CRC Press
+	ISBN: 978-1-4398-6552-1
+	Filetype: pdf
+
+Book: 信号与系统（第三版）习题解析
+	MD5: 62d8ab20ac19daa09ad453dd252b80c3
+	Authors: 谷源涛
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-031601-8
+	Filetype: pdf
+
+Book: 材料科学基础
+	MD5: 63b4a281b6b0762d8567d5e570e1c06c
+	Authors: 胡赓祥/蔡珣/戎咏华
+	Translators: 
+	Edition: 3
+	Publisher: 上海交通大学出版社
+	ISBN: 978-7-313-02480-0
+	Filetype: pdf
+
+Book: Б. П. 吉米多维奇数学分析习题集题解 6
+	MD5: 643349041f9bc8ab891db6fbb7e93a01
+	Authors: 费定晖/周学圣
+	Translators: 
+	Edition: 1
+	Publisher: 山东科学技术出版社
+	ISBN: 978-7-5331-5895-8
+	Filetype: pdf
+
+Book: C程序设计语言
+	MD5: 65c525d65939c5026df092f68a3cf2f4
+	Authors: Brian W. Kernighan/Dennis M. Ritchie
+	Translators: 徐宝文/李志
+	Edition: 2
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-12806-9
+	Filetype: pdf
+
+Book: 理论物理学教程 第5卷 统计物理学I 第5版
+	MD5: 67b1ae01879c8d4ca862c4827c2aa31a
+	Authors: Л. Д. 朗道/E. М. 粟弗席兹
+	Translators: 束仁贵/束莼
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-030572-2
+	Filetype: pdf
+
+Book: 线性代数（原书第8版）
+	MD5: 686ba1fb30d0a12f75512ad1e0863462
+	Authors: Steven J. Leon
+	Translators: 张文博/张丽静
+	Edition: 1
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-31344-1
+	Filetype: pdf
+
+Book: MySQL必知必会
+	MD5: 68eaf713ff6d2297e4a40e8ab8519aaa
+	Authors: Ben Forta
+	Translators: 刘晓霞/钟鸣
+	Edition: 1
+	Publisher: 人民邮电出版社
+	ISBN: 978-7-115-19112-0
+	Filetype: pdf
+
+Book: 理论物理学教程 第1卷 力学 第5版
+	MD5: 6a7c3b94a1ab6c903d2a324d2f824652
+	Authors: Л. Д. 朗道/E. М. 粟弗席兹
+	Translators: 李俊峰/鞠国兴
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-020849-8
+	Filetype: pdf
+
+Book: 数字逻辑
+	MD5: 6a9b2b59b06cf3ed0919dcd5d11aa6ba
+	Authors: 白中英/谢松云/朱正东/方维/吴俊
+	Translators: 
+	Edition: 6
+	Publisher: 科学出版社
+	ISBN: 978-7-03-036909-3
+	Filetype: pdf
+
+Book: 线性代数附册 学习辅导与习题全解：同济 第五版
+	MD5: 6b34f7e70671dc91d384b263e4098571
+	Authors: 同济大学数学系
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-021507-6
+	Filetype: pdf
+
+Book: 电子技术基础 模拟部分
+	MD5: 6b5ddaf29b0b4f34eecb5dd1885c30e2
+	Authors: 康华光/张林/陈大钦/秦臻/邓天平/罗杰
+	Translators: 
+	Edition: 7
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-055419-9
+	Filetype: pdf
+
+Book: 网络渗透技术攻防高手修炼
+	MD5: 6d0502c9dbeb66a80421869f3161aaef
+	Authors: 武新华/王英英/李伟
+	Translators: 
+	Edition: 1
+	Publisher: 电子工业出版社
+	ISBN: 978-7-121-12573-7
+	Filetype: pdf
+
+Book: 数据结构：C语言版
+	MD5: 6ea87e3d5ff76bd43d6ba16d376956cb
+	Authors: 严蔚敏/吴伟民
+	Translators: 
+	Edition: 1
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-14751-0
+	Filetype: pdf
+
+Book: 形式语言与自动机导论（原书第3版）
+	MD5: 6ede300e49c07cfa650f4c920d7eb049
+	Authors: Peter Linz
+	Translators: 孙家骕
+	Edition: 
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-16788-4
+	Filetype: pdf
+
+Book: Verilog数字系统设计教程
+	MD5: 7102f1e80a9412da63fe7383e6093201
+	Authors: 夏宇闻
+	Translators: 
+	Edition: 3
+	Publisher: 北京航空航天大学出版社
+	ISBN: 978-7-5124-2469-2
+	Filetype: pdf
+
+Book: 运筹学基础及应用
+	MD5: 71acf7a30fef4ff0e62238ee9a8ea71c
+	Authors: 胡运权
+	Translators: 
+	Edition: 4
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-013990-7
+	Filetype: pdf
+
+Book: 社会工程：解读肢体语言
+	MD5: 71c1698db0a1bd3dcdbdac36a83c6d17
+	Authors: Christopher Hadnagy
+	Translators: 蔡筠竹
+	Edition: 1
+	Publisher: 人民邮电出版社
+	ISBN: 978-7-115-38246-7
+	Filetype: pdf
+
+Book: 高等数学（下）/Advanced Mathematics(II)
+	MD5: 724d7b3192836b01e99f33c45a405c42
+	Authors: 北京邮电大学高等数学双语教学组
+	Translators: 
+	Edition: 2
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-2893-6
+	Filetype: pdf
+
+Book: 离散数学结构（第五版）
+	MD5: 7282f03d043e8251bb566a85ce077cc8
+	Authors: Bernard Kolman/Robert C. Busby/Sharon Cutler Ross
+	Translators: 罗平
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-017196-9
+	Filetype: pdf
+
+Book: 信号与系统
+	MD5: 72a0594cdec6bd1632b74db7c5fd412a
+	Authors: Alan V. Oppenheim/Alan S. Willsky/ S. Hamid Nawab
+	Translators: 刘树棠
+	Edition: 1
+	Publisher: 西安交通大学出版社
+	ISBN: 978-7-5605-0970-9
+	Filetype: pdf
+
+Book: Operating System Concepts
+	MD5: 7312960d0fb110104ea01347f30cc98a
+	Authors: Abraham silberschatz/Peter Baer Galvin/Greg Gagne
+	Translators: 
+	Edition: 10
+	Publisher: Wiley
+	ISBN: 978-1-119-32091-3
+	Filetype: pdf
+
+Book: 机器人学：机构、运动学、动力学及运动规划
+	MD5: 75d6005de169698c1b13d8572fc213f3
+	Authors: 战强
+	Translators: 
+	Edition: 1
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-52740-4
+	Filetype: pdf
+
+Book: 数学分析习题课讲义 下册
+	MD5: 765a7d6a7da84cc3d60aa4b3b4bd29d2
+	Authors: 谢惠民/恽自求/易法槐/钱定边
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-012941-0
+	Filetype: pdf
+
+Book: 新大学日语标准教程（基础篇）2
+	MD5: 766020fc65e6453b1ff5b7dddf0119f6
+	Authors: 陈俊森/郑玉和/侯仁锋/宫本晶子
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-020125-3
+	Filetype: pdf
+
+Book: 大学生数学竞赛教程
+	MD5: 76ba2bce64b9c85ca12b12ec6be9af5e
+	Authors: 蒲和平
+	Translators: 
+	Edition: 1
+	Publisher: 电子工业出版社
+	ISBN: 978-7-121-23332-6
+	Filetype: pdf
+
+Book: 物理学教程 上册
+	MD5: 76c44aa97e5bed26555c8aa01fae8d7f
+	Authors: 马文蔚/周雨青
+	Translators: 
+	Edition: 3
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-043674-7
+	Filetype: pdf
+
+Book: 复变函数
+	MD5: 77868b5758910626b8bd808a78a0f29c
+	Authors: 西安交通大学高等数学教研室
+	Translators: 
+	Edition: 4
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-005553-5
+	Filetype: pdf
+
+Book: 现代密码学教程
+	MD5: 77b71fe091b9831943ec2e84ebda41f2
+	Authors: 谷利泽/郑世慧/杨义先
+	Translators: 
+	Edition: 3
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-6939-7
+	Filetype: pdf
+
+Book: Premiere Pro CC实例教程（全彩版）
+	MD5: 79166f30d8a4b65df26bbb77b19cd7a0
+	Authors: 古城/刘焰
+	Translators: 
+	Edition: 1
+	Publisher: 人民邮电出版社
+	ISBN: 978-7-115-36523-1
+	Filetype: pdf
+
+Book: 组合数学引论
+	MD5: 79f7363b487c31b1899510f1383402fb
+	Authors: 孙淑玲/许胤龙
+	Translators: 
+	Edition: 1
+	Publisher: 中国科学技术大学出版社
+	ISBN: 978-7-312-01035-4
+	Filetype: pdf
+
+Book: C++ Templates: The Complete Guide
+	MD5: 7a0aadf912008e0c1201f32772c97ce6
+	Authors: David Vandevoorde/Nicolai M. Josuttis/Douglas Gregor
+	Translators: 
+	Edition: 2
+	Publisher: Pearson
+	ISBN: 978-0-321-71412-1
+	Filetype: pdf
+
+Book: 数学物理方法——理论、历史与计算机
+	MD5: 7a60522f051ee295ed476ce8dbe44a75
+	Authors: 郭玉翠
+	Translators: 
+	Edition: 1
+	Publisher: 大连理工大学出版社
+	ISBN: 978-7-5611-5750-3
+	Filetype: pdf
+
+Book: 中国近现代史纲要：2023年版
+	MD5: 7b52d26c0120afc780633a535820504d
+	Authors: 《中国近现代史纲要（2023年版）》编写组
+	Translators: 
+	Edition: 2023
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-059901-5
+	Filetype: pdf
+
+Book: 理论物理学教程 第3卷 量子力学（非相对论理论） 第6版
+	MD5: 7b586fedbe2d159f970e3e799962fd7f
+	Authors: Л. Д. 朗道/E. М. 粟弗席兹
+	Translators: 严肃
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-024306-2
+	Filetype: pdf
+
+Book: 高等数学 上册
+	MD5: 7b79b6c39c82de69a737f3b85f3d9c9d
+	Authors: 北京邮电大学数学系
+	Translators: 
+	Edition: 2
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-5265-8
+	Filetype: pdf
+
+Book: 计算机系统结构教程
+	MD5: 7e4cf3500c9039006a70e9c417ff7d16
+	Authors: 张晨曦/王志英
+	Translators: 
+	Edition: 2
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-36038-4
+	Filetype: pdf
+
+Book: Б. П. 吉米多维奇数学分析习题集题解 3
+	MD5: 811ab5ebc29aee53c72e1f97e1a51b2d
+	Authors: 费定晖/周学圣
+	Translators: 
+	Edition: 1
+	Publisher: 山东科学技术出版社
+	ISBN: 978-7-5331-5898-9
+	Filetype: pdf
+
+Book: 计算机组成原理试题解析
+	MD5: 81acc5c8038547bcc15a77ad572188f7
+	Authors: 白中英/戴志涛/赖晓铮/李小勇/张天乐/王智广
+	Translators: 
+	Edition: 6
+	Publisher: 科学出版社
+	ISBN: 978-7-03-064001-7
+	Filetype: pdf
+
+Book: 电工学 下册 电子技术
+	MD5: 860d8585ca9c1ddc997addcfb6d53dc6
+	Authors: 秦曾煌/姜三勇
+	Translators: 
+	Edition: 7
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-026450-0
+	Filetype: pdf
+
+Book: 物理学大题典 光学
+	MD5: 864132832321ba2054bb3fbf3c4bd950
+	Authors: 轩植华/白贵儒/郭光灿
+	Translators: 
+	Edition: 
+	Publisher: 科学出版社
+	ISBN: 978-7-03-015493-4
+	Filetype: pdf
+
+Book: 现代数字电路与逻辑设计实验教程
+	MD5: 86d4086945a3acef642cf7d0e1503b2b
+	Authors: 袁东明/史晓东/陈凌霄
+	Translators: 
+	Edition: 2
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-3428-9
+	Filetype: pdf
+
+Book: 计算机组成原理题解、题库与实验
+	MD5: 86d5702bbf1346f264c1b99e8dc6c9c5
+	Authors: 白中英/戴志涛/杨春武/覃健诚/冯一兵/陈江
+	Translators: 
+	Edition: 3
+	Publisher: 科学出版社
+	ISBN: 978-7-03-008980-9
+	Filetype: pdf
+
+Book: 物理学大题典 力学 上册
+	MD5: 86e146d2397160d233fc1f919fa28e82
+	Authors: 强元棨/程稼夫
+	Translators: 
+	Edition: 
+	Publisher: 科学出版社
+	ISBN: 978-7-03-015494-1
+	Filetype: pdf
+
+Book: 数据结构（C语言版）
+	MD5: 87e7581a3a0d4520089d56344ee34b9f
+	Authors: 严蔚敏/李冬梅/吴伟民
+	Translators: 
+	Edition: 1
+	Publisher: 人民邮电出版社
+	ISBN: 978-7-115-23490-2
+	Filetype: pdf
+
+Book: 数字电路答疑解惑与典型题解
+	MD5: 87f04b2ecc70eaf034c5a7ac8648201a
+	Authors: 吴蕾/杨平乐/王诗兵/吴婷
+	Translators: 
+	Edition: 1
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-4159-1
+	Filetype: pdf
+
+Book: Calculus
+	MD5: 88824e85cbd66b40ac4bc3a53b05ed78
+	Authors: Gilbert Strang
+	Translators: 
+	Edition: 1
+	Publisher: Wellesley-Cambridge Press
+	ISBN: 978-0-9614088-2-4
+	Filetype: pdf
+
+Book: 工程数学 线性代数
+	MD5: 88f2ac7ab736a755bedf388e92f43012
+	Authors: 同济大学数学系
+	Translators: 
+	Edition: 5
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-021218-1
+	Filetype: pdf
+
+Book: 物理学 上册
+	MD5: 893f48cacead4bd0e157bffbe9cd7a27
+	Authors: 东南大学等七所工科院校/马文蔚/周雨青/解希顺
+	Translators: 
+	Edition: 7
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-053823-6
+	Filetype: pdf
+
+Book: 数据结构题集：C语言版
+	MD5: 8a0b6d5f8bfe10eeef83d55f11ef19e7
+	Authors: 严蔚敏/吴伟民
+	Translators: 
+	Edition: 1
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-03314-1
+	Filetype: pdf
+
+Book: 计算机网络教程：自顶向下方法
+	MD5: 8a19768604fc6ba326f5d68d62ced78f
+	Authors: Forouzan, B. A./Mosharraf, F.
+	Translators: 张建忠/靳星/林安华/周立斌
+	Edition: 1
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-40088-2
+	Filetype: pdf
+
+Book: JavaScript百炼成仙
+	MD5: 8a36320a5811132b30cafd656cb6b75e
+	Authors: 杨逸飞
+	Translators: 
+	Edition: 1
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-56662-5
+	Filetype: pdf
+
+Book: C Primer Plus（第6彼）中文版
+	MD5: 8af3d6edf76aee39f18296250e84ec14
+	Authors: Stephen Prata
+	Translators: 姜佑
+	Edition: 1
+	Publisher: 人民邮电出版社
+	ISBN: 978-7-115-39059-2
+	Filetype: pdf
+
+Book: 大学物理学习题分析与解答
+	MD5: 8c92556e21aff8919c755d4a12ee6681
+	Authors: 李存志/郑建邦/徐忠锋
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-016562-3
+	Filetype: pdf
+
+Book: 算法：第4版
+	MD5: 8cda98812fcd67ad975c8eacdf081bc1
+	Authors: Robert Sedgewick/Kevin Wayne
+	Translators: 谢路云
+	Edition: 1
+	Publisher: 人民邮电出版社
+	ISBN: 978-7-115-29380-0
+	Filetype: pdf
+
+Book: 计算机网络（原书第4版）
+	MD5: 8d769b65491ff4cbf0666720f4cb23c2
+	Authors: James F. Kurose/Keith W. Ross
+	Translators: 陈鸣
+	Edition: 1
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-16505-7
+	Filetype: pdf
+
+Book: 概率论基础教程（原书第9版）
+	MD5: 8f28e7693e1543315d9fcf2105a508b6
+	Authors: Sheldon M. Ross
+	Translators: 童行伟/梁宝生
+	Edition: 1
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-44789-4
+	Filetype: pdf
+
+Book: 跨文化交际实用教程
+	MD5: 8fa18ea3629dae332889a5f7e1576748
+	Authors: 胡超
+	Translators: 
+	Edition: 1
+	Publisher: 外语教学与研究出版社
+	ISBN: 978-7-5213-1757-2
+	Filetype: pdf
+
+Book: Python与Tkinter编程
+	MD5: 8fc9ba46eada59173218622b083db847
+	Authors: John E. Grayson
+	Translators: 陈文志/高垒/缪瑾/崔广仁/蒋涛
+	Edition: 1
+	Publisher: 国防工业出版社
+	ISBN: 978-7-118-02781-5
+	Filetype: pdf
+
+Book: 数据库系统概念（原书第6版）
+	MD5: 8ffced631647d35c9a0d980b778aa74a
+	Authors: Abraham Silberschatz/Henry F. Korth/S. Sudarshan
+	Translators: 杨冬吉/李红燕/唐世渭
+	Edition: 1
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-37529-6
+	Filetype: pdf
+
+Book: 电路分析与电子电路基础
+	MD5: 901074a49a7c2cbc045db032a61511b9
+	Authors: 刘刚/侯宾/吕玉琴
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-033447-0
+	Filetype: pdf
+
+Book: 工科数学分析基础 上册
+	MD5: 90e9d85ea86d4716780a7bbafecb767c
+	Authors: 王绵森/马知恩
+	Translators: 
+	Edition: 3
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-048216-4
+	Filetype: pdf
+
+Book: 物理学教程 下册
+	MD5: 9103c46ef783eb9d4b0ecfa9e3ff8311
+	Authors: 马文蔚/周雨青/解希顺
+	Translators: 
+	Edition: 3
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-043751-5
+	Filetype: pdf
+
+Book: 电路：第10版
+	MD5: 9187a989382d47c1a8e44f02430a9c7b
+	Authors: James W. Nilsson/Susan A. Riedel
+	Translators: 周玉坤/洗立勤/李莉/宿淑春
+	Edition: 5
+	Publisher: 电子工业出版社
+	ISBN: 978-7-121-25041-5
+	Filetype: pdf
+
+Book: 大学物理学 电磁学、光学、量子物理
+	MD5: 924360bef16f99351c3e869b13e75f94
+	Authors: 张三慧/安宇/阮东/李岩松
+	Translators: 
+	Edition: 4
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-50984-4
+	Filetype: pdf
+
+Book: Mark F. Bear/Barry W. Connors/Michael A. Paradiso
+	MD5: 925aafb1a370c234510be06f7d36c576
+	Authors: Mark F. Bear/Barry W. Connors/Michael A. Paradiso
+	Translators: 王建军/高静/吉永华/梁培基/罗兰/梅岩艾/彭聿平/翁旭初/张月萍
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-012194-0
+	Filetype: pdf
+
+Book: 物理学教程（第二版）习题分析与解答
+	MD5: 92bba17b35fb8677448e610ada5b99db
+	Authors: 马文蔚/包刚/韦娜/殷实
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-021280-8
+	Filetype: pdf
+
+Book: 空时无线通信导论
+	MD5: 948d862120e3a7510ee31e7ac94cca71
+	Authors: Arogyaswami Paulraj/Rohit Nabar/Dhananjay Gore
+	Translators: 刘威鑫
+	Edition: 
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-14952-1
+	Filetype: pdf
+
+Book: 线性代数与几何
+	MD5: 950abd598f29ecf5fbae8fc3b0092588
+	Authors: 刘吉佑/莫骄
+	Translators: 
+	Edition: 2
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-5587-1
+	Filetype: pdf
+
+Book: 信息论、编码与密码学
+	MD5: 951001ecfd0c9c2fa27377781c89a1aa
+	Authors: 博斯/武传坤/李徽
+	Translators: 
+	Edition: 2
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-30888-1
+	Filetype: pdf
+
+Book: 高等数学试题集
+	MD5: 954b2776d7896ae286cfad8bee5fd4ae
+	Authors: 北京邮电大学数学系
+	Translators: 
+	Edition: 1
+	Publisher: 电子工业出版社
+	ISBN: 978-7-121-29432-7
+	Filetype: pdf
+
+Book: Introduction to Algorithms
+	MD5: 976ef8725bf7d4e41a591f5b0d296fdb
+	Authors: Thomas H. Cormen/Charles E. Leiserson/Ronald L. Rivest/Clifford Stein
+	Translators: 
+	Edition: 3
+	Publisher: The MIT Press
+	ISBN: 978-0-262-03384-8
+	Filetype: pdf
+
+Book: 理论物理学教程 第7卷 弹性理论 第5版
+	MD5: 9788a9c4e60d1fb202350feecf416e81
+	Authors: Л. Д. 朗道/E. М. 粟弗席兹
+	Translators: 曹富新
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-026382-4
+	Filetype: pdf
+
+Book: 普通化学原理
+	MD5: 97e5bd184845eebb753860f34819cf1e
+	Authors: 华彤文/王颖霞/卞江/陈景祖
+	Translators: 
+	Edition: 4
+	Publisher: 北京大学出版社
+	ISBN: 978-7-301-22557-8
+	Filetype: pdf
+
+Book: 毛译东思想与中国特色社会主义理论体系概论：2023年版
+	MD5: 987fd5ec15807bddbf3b57336c49e1b6
+	Authors: 《毛泽东思想和中国特色社会主义理论体系概论（2023年版）编写组
+	Translators: 
+	Edition: 2023
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-059903-9
+	Filetype: pdf
+
+Book: Linear Algebra and Its Applications
+	MD5: 98c679fa51bfce2752213fe0809bfb39
+	Authors: David C. Lay/Steven R. Lay/Judi J. McDownald
+	Translators: 
+	Edition: 5
+	Publisher: Pearson
+	ISBN: 978-0-321-98238-4
+	Filetype: pdf
+
+Book: 数字信号处理
+	MD5: 99388739aa1a46625fdd515c1577f85f
+	Authors: 赵志诚
+	Translators: 
+	Edition: 1
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-6642-6
+	Filetype: pdf
+
+Book: 数据结构与算法：AI与大数据版
+	MD5: 9a03cc9ad53d4d271d3c2f75f92e03e2
+	Authors: 徐雅静/肖波/马占宇/黄平牧
+	Translators: 
+	Edition: 2
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-7163-5
+	Filetype: pdf
+
+Book: 全新版大学英语综合教程学生用书4
+	MD5: 9a3f620bc3ea550661b6b332fad8eed4
+	Authors: 李荫华/夏国佐/王德明/赵建/吴晓真/范烨
+	Translators: 
+	Edition: 2
+	Publisher: 上海外语教育出版社
+	ISBN: 978-7-5446-3138-9
+	Filetype: pdf
+
+Book: 数字图像处理的MATLAB实现（第2版）
+	MD5: 9aa4249675de591a5c0a3cb2498ab815
+	Authors: Rafael C. Gonzalez/Richard E. Woods/Steven L. Eddins
+	Translators: 阮秋琦
+	Edition: 1
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-30745-7
+	Filetype: pdf
+
+Book: 信号与系统
+	MD5: 9b019b1bf92a250b813993c51617f6e4
+	Authors: 熊庆旭/刘锋/常青
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-030904-1
+	Filetype: pdf
+
+Book: 计算机网络（第5版）
+	MD5: 9c8f6b777fdeb9bb4c92fb3643a79ba6
+	Authors: Andrew S. Tanenbaum/David J. Wetherall
+	Translators: 严伟/潘爱民
+	Edition: 1
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-27462-9
+	Filetype: pdf
+
+Book: 电子电路基础
+	MD5: 9e6cade55a482829bc0429b8d0b80f9f
+	Authors: 刘宝玲
+	Translators: 
+	Edition: 2
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-04-036419-4
+	Filetype: pdf
+
+Book: Introduction to Linear Algebra
+	MD5: 9f9de1451759399fb877f998910b25c9
+	Authors: Gilbert Strang
+	Translators: 
+	Edition: 5
+	Publisher: Wellesley-Cambridge Press
+	ISBN: 978-0-9802327-7-6
+	Filetype: pdf
+
+Book: 大学英语实验教程（阅读）2
+	MD5: a092293c13e73a66aec99e17ae9c347b
+	Authors: 范姣莲/陈真真
+	Translators: 
+	Edition: 1
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-4532-2
+	Filetype: pdf
+
+Book: 概率论与随机过程
+	MD5: a1952ba0675b00c391f2597098089287
+	Authors: 史悦/孙洪祥
+	Translators: 
+	Edition: 1
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-2132-6
+	Filetype: pdf
+
+Book: 高等数学学习指导与习题解析（第2版 上）
+	MD5: a1c22a40527f1488eb5afc7ea5e2d998
+	Authors: 北京邮电大学高等数学双语教学组
+	Translators: 
+	Edition: 1
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-5267-2
+	Filetype: pdf
+
+Book: Б. П. 吉米多维奇数学分析习题集题解 2
+	MD5: a2a306f3b1f2d1743b78f6a9c452698d
+	Authors: 费定晖/周学圣
+	Translators: 
+	Edition: 1
+	Publisher: 山东科学技术出版社
+	ISBN: 978-7-5331-5899-6
+	Filetype: pdf
+
+Book: 新概念物理教程 量子物理
+	MD5: a42ffb116c332fcfb2b1d12a81b05658
+	Authors: 赵凯华/罗蔚茵
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-008834-2
+	Filetype: pdf
+
+Book: 演讲的艺术教师用书：第10版：中国版/The Art of Public Speaking Teacher’s Manual, Tenth Edition, Specially adapted for Chinese readers
+	MD5: a4c9ff7a62a3193849ba750bd242fce0
+	Authors: Lucas, S. E./殷苏娅
+	Translators: 
+	Edition: 1
+	Publisher: 外语教学与研究出版社
+	ISBN: 978-7-5135-0922-0
+	Filetype: pdf
+
+Book: 工程数学 复变函数（第四版）学习辅导与习题选解
+	MD5: a662f6e98ba793412ec9c7df6f217c1b
+	Authors: 王绵森
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-012957-1
+	Filetype: pdf
+
+Book: 计算机组成原理：立体化教材
+	MD5: a71b86146e27a04b8c6b82840d1d6e89
+	Authors: 白中英/戴志涛
+	Translators: 
+	Edition: 6
+	Publisher: 科学出版社
+	ISBN: 978-7-03-061971-6
+	Filetype: pdf
+
+Book: 朗道《力学》解读
+	MD5: aaa65e5cafcce806f8474bbb7cba538f
+	Authors: 鞠国兴
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-039945-5
+	Filetype: pdf
+
+Book: 计算机程序的构造和解释（原书第2版）
+	MD5: aba3fe568ae8ba438347fd713dd80bab
+	Authors: Harold Abelson/Gerald Jay Sussman Julie Sussman
+	Translators: 裘宗燕
+	Edition: 1
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-13510-4
+	Filetype: pdf
+
+Book: 复分析可视化方法
+	MD5: ac125eb2cebaba49bf3d78672d915a0b
+	Authors: Tristan Needham
+	Translators: 齐民友
+	Edition: 1
+	Publisher: 人民邮电出版社
+	ISBN: 978-7-115-20883-5
+	Filetype: pdf
+
+Book: 理论物理学教程 第8卷 连续介质电动力学 第4版
+	MD5: ac14f08c4821f738a45b467558196387
+	Authors: Л. Д. 朗道/E. М. 粟弗席兹
+	Translators: 刘寄星/周奇
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-052701-8
+	Filetype: pdf
+
+Book: 计算几何：算法与应用
+	MD5: aca7d97687a23dfe00b815d44b2e2daf
+	Authors: Mark de Berg/Otfried Cheong/Marc van Kreveld/Mark Overmars
+	Translators: 邓俊辉
+	Edition: 3
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-19938-0
+	Filetype: pdf
+
+Book: 计算机系统结构教程
+	MD5: acbeab0ceaf07c0fa36a24c8a7093713
+	Authors: 张晨曦/李江峰/刘依/沈立
+	Translators: 
+	Edition: 2
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-38940-8
+	Filetype: pdf
+
+Book: 程序设计（C语言）实验指导
+	MD5: b3c2e8ed864220d210d2c55fcef81be6
+	Authors: 周春燕/张艳梅
+	Translators: 
+	Edition: 1
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-2731-1
+	Filetype: pdf
+
+Book: 算法图解
+	MD5: b4a7b8c2975dc22d6ef9292c9fe5486c
+	Authors: Aditya Bhargava
+	Translators: 袁国忠
+	Edition: 1
+	Publisher: 人民邮电出版社
+	ISBN: 978-7-115-44763-0
+	Filetype: pdf
+
+Book: The Linux Command Line: A Complete Introduction
+	MD5: b5b7ff56b6eb6a59a39f49e888302619
+	Authors: William Shotts
+	Translators: 
+	Edition: 2
+	Publisher: No Starch Press
+	ISBN: 978-1-59327-389-7
+	Filetype: pdf
+
+Book: 电路分析基础
+	MD5: b7f5ffe93a7a64697d0cd2055a4b6b69
+	Authors: 俎云霄/李巍海/侯宾/张勇
+	Translators: 
+	Edition: 3
+	Publisher: 电子工业出版社
+	ISBN: 978-7-121-38191-1
+	Filetype: pdf
+
+Book: 电路分析基础
+	MD5: b8e7406e24db82a4c3b2e8a82154cd55
+	Authors: 俎云霄/李巍海/吕玉琴
+	Translators: 
+	Edition: 1
+	Publisher: 电子工业出版社
+	ISBN: 978-7-121-22043-2
+	Filetype: pdf
+
+Book: 初等数论及其应用（原书第5版）
+	MD5: b990e2b2b026fc49762526284d0559fb
+	Authors: Kenneth H. Rosen
+	Translators: 夏鸿刚
+	Edition: 1
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-26520-7
+	Filetype: pdf
+
+Book: All of Statistics: A Concise Course in Statistical Inference (Springer Texts in Statistics)
+	MD5: b9e6052395ba047bd154ea45130026fc
+	Authors: Larry Wasserman
+	Translators: 
+	Edition: 
+	Publisher: Springer
+	ISBN: 978-1-4419-2322-6
+	Filetype: pdf
+
+Book: 高等数学（经管类） 下册
+	MD5: b9fa0a5313a94b4033ecde5c9ba4511b
+	Authors: 史悦/李晓莉/李晓花
+	Translators: 
+	Edition: 2
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-6325-8
+	Filetype: pdf
+
+Book: 数学分析 下册
+	MD5: ba23aa445555a3e19be43a792baae081
+	Authors: 华东师范大学数学系
+	Translators: 
+	Edition: 4
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-029567-2
+	Filetype: pdf
+
+Book: 线性代数
+	MD5: bbd6bd3414f1ce89bec8ee8acafef0d3
+	Authors: 李尚志
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-019870-6
+	Filetype: pdf
+
+Book: 模块化机器人创新教学与实践
+	MD5: bc924f9ca8ace537aca5219129fe4cbc
+	Authors: 王滨生/刘辉/刘佳男/郑世杰/毛文睿
+	Translators: 
+	Edition: 1
+	Publisher: 哈尔滨工业大学出版社
+	ISBN: 978-7-5603-6193-2
+	Filetype: pdf
+
+Book: 概率论与随机过程
+	MD5: bd5450ea00a7844950b8f6b2579b4f06
+	Authors: 北京邮电大学数学系概率教学组
+	Translators: 
+	Edition: 1
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-6266-4
+	Filetype: pdf
+
+Book: 微机原理与接口技术：基于ARM Cortex-M4
+	MD5: bdb1fc3eb895400d8fd7e6f2ad57a9dc
+	Authors: 田辉
+	Translators: 
+	Edition: 3
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-04-053783-3
+	Filetype: pdf
+
+Book: 物理学（第七版）习题分析与解答
+	MD5: c28516c721c6cf7a4233873171bd1df0
+	Authors: 马文蔚/殷实/沈才康/包刚
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-055679-7
+	Filetype: pdf
+
+Book: 高等代数辅导与习题解答（北大·第四版）
+	MD5: c287fe784ad09b9476ee90d9f5948bbf
+	Authors: 王萼芳/石生明
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-038631-8
+	Filetype: pdf
+
+Book: 概率论与数理统计习题全解指南（浙大·五版）
+	MD5: c28a67a40ba4f5ba8cac663fc8c6becf
+	Authors: 盛骤/谢式干/潘承毅
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-051548-0
+	Filetype: pdf
+
+Book: 电子电路基础及通信电子电路学习指导书
+	MD5: c375804ce7b1fe32aa1e1e676b4a221d
+	Authors: 刘宝玲/胡春静/郭琳/孙文生/刘培植/张晓莹/邓钢/崔琪楠/李立华
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-026637-5
+	Filetype: pdf
+
+Book: C++语言程序设计
+	MD5: c79336f53a916d999319aded55abd78b
+	Authors: 刘瑞芳/肖波/许桂平/孙勇/徐惠民
+	Translators: 
+	Edition: 1
+	Publisher: 西安电子科技大学出版社
+	ISBN: 978-7-5606-4370-0
+	Filetype: pdf
+
+Book: 通信原理
+	MD5: c83bedbfbf780f64ea459e8b5bb8682d
+	Authors: 周烔槃/庞沁华/续大我/吴伟陵/杨鸿文
+	Translators: 
+	Edition: 4
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-4427-1
+	Filetype: pdf
+
+Book: 数字信号处理
+	MD5: c876b9c4ba06f4537533ddce3db361c6
+	Authors: 门爱东/苏菲/王雷/王海婴/李江军
+	Translators: 
+	Edition: 2
+	Publisher: 科学出版社
+	ISBN: 978-7-03-025415-3
+	Filetype: pdf
+
+Book: 工程数学：复变函数、矢量分析与场论、数学物理方法
+	MD5: c99d0ea28615e3deb23930d7b036596e
+	Authors: 田玉/郭玉翠
+	Translators: 
+	Edition: 1
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-50904-2
+	Filetype: pdf
+
+Book: Database System Concepts
+	MD5: c9c855cf4ac2c771ac98734246847656
+	Authors: Abraham Silberschatz/Henry F. Korth/S. Sudarshan
+	Translators: 
+	Edition: 7
+	Publisher: Mc Graw Hill Education
+	ISBN: 978-0-07-802215-9
+	Filetype: pdf
+
+Book: 离散数学及其应用（原书第8版）
+	MD5: cb969c1ad8fed47a63a19eb16a3368d4
+	Authors: Kenneth H. Rosen
+	Translators: 徐六通/杨娟/吴斌
+	Edition: 1
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-63687-8
+	Filetype: pdf
+
+Book: 汇编语言
+	MD5: cc8e160a156df4304ef2ecaf900bf46b
+	Authors: 王爽
+	Translators: 
+	Edition: 4
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-53941-4
+	Filetype: pdf
+
+Book: 大学物理学（第三版）/Physics for Scientists and Engineers with Modern Physics
+	MD5: cd5236541336f5ebbc0fbaedf4392629
+	Authors: Douglas C. Giancoli
+	Translators: 滕小瑛
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-016563-0
+	Filetype: pdf
+
+Book: 数学分析 上册
+	MD5: ce3c183f24860ef819f2cec738d14c05
+	Authors: 华东师范大学数学系
+	Translators: 
+	Edition: 4
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-029566-5
+	Filetype: pdf
+
+Book: The C Programming Language
+	MD5: ce97c823196212c1cb6998710da384fb
+	Authors: Brian W. Kernighan/Dennis M. Ritchie
+	Translators: 
+	Edition: 2
+	Publisher: Perentice Hall
+	ISBN: 978-0-13-110362-7
+	Filetype: pdf
+
+Book: 线性代数与几何学习辅导
+	MD5: cea6f356655a3c870392f19d8b0720fb
+	Authors: 刘吉佑/莫骄/李亚杰
+	Translators: 
+	Edition: 1
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-4155-3
+	Filetype: pdf
+
+Book: 理论物理学教程 第2卷 场论 第8版
+	MD5: d084ca00aa6a0d5c97f81c63ac93abe1
+	Authors: Л. Д. 朗道/E. М. 粟弗席兹
+	Translators: 鲁欣/任朗/袁炳南
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-035173-6
+	Filetype: pdf
+
+Book: 计算机系统要素：从零开始构建现代计算机
+	MD5: d0853b6e2ce355f12b4f119dea47567a
+	Authors: Noam Nisan/Shimon Schocken
+	Translators: 周维/宋磊/陈曦
+	Edition: 1
+	Publisher: 电子工业出版社
+	ISBN: 978-7-121-03336-0
+	Filetype: pdf
+
+Book: Linear Analysis An Introductory Course
+	MD5: d0a79ee64f4b02a94bda3f24ce726051
+	Authors: Bela Bollobas
+	Translators: 
+	Edition: 
+	Publisher: Cambridge University Press
+	ISBN: 978-0-521-65577-4
+	Filetype: pdf
+
+Book: 大话数据结构
+	MD5: d1eb80f498b81137c90e9e52bb824f84
+	Authors: 程杰
+	Translators: 
+	Edition: 1
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-25565-9
+	Filetype: pdf
+
+Book: C程序设计导引
+	MD5: d23966bc5bd8bc4042ca5318e32311b0
+	Authors: 尹宝林
+	Translators: 
+	Edition: 1
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-41891-7
+	Filetype: pdf
+
+Book: 操作系统概念（原书第9版）
+	MD5: d435a8af6248ac2141c14987ab4ed0ed
+	Authors: Abraham Silberschatz/Peter B. Galvin/Greg Gagne
+	Translators: 郑扣根/唐杰/李善平
+	Edition: 1
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-60436-5
+	Filetype: pdf
+
+Book: 高等代数
+	MD5: d5876c57b5f31c83fa738dd6d9694c50
+	Authors: 北京大学数学系前代数小组
+	Translators: 
+	Edition: 4
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-037910-5
+	Filetype: pdf
+
+Book: 数据结构：C++语言版
+	MD5: d6518bfa7ce38149fce9e7dcff22874a
+	Authors: 邓俊辉
+	Translators: 
+	Edition: 3
+	Publisher: 清华大学出版社
+	ISBN: 978-7-302-33064-6
+	Filetype: pdf
+
+Book: 数学分析习题课讲义 上册
+	MD5: d6ba0b8fefebb74ac6d13f806d752618
+	Authors: 谢惠民/恽自求/易法槐/钱定边
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-011922-0
+	Filetype: pdf
+
+Book: 数据结构与算法分析：Java语言描述（原书第2版）
+	MD5: db88b5202d55128296d337ab7c2da1f2
+	Authors: Mark Allen Weiss
+	Translators: 冯舜玺
+	Edition: 1
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-23183-7
+	Filetype: pdf
+
+Book: 数学建模方法与分析（原书第2版）
+	MD5: dd888ac40f6100415395d8c6d553aad4
+	Authors: Mark M. Meerschaert
+	Translators: 刘来福/杨淳/黄海洋
+	Edition: 1
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-16440-1
+	Filetype: pdf
+
+Book: 数据库系统概论
+	MD5: de68b153bfe8f8e8ee2df0e077545533
+	Authors: 王珊/萨师煊
+	Translators: 
+	Edition: 5
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-040664-1
+	Filetype: pdf
+
+Book: 高等数学（上）/Advanced Mathematics
+	MD5: dea2f4822df9b5802803a3b3875100ba
+	Authors: 北京邮电大学高等数学双语教学组
+	Translators: 
+	Edition: 2
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-5272-6
+	Filetype: pdf
+
+Book: 数学模型
+	MD5: debb2a13def8c76d61f98cc0afde7e65
+	Authors: 姜启源/谢金星/叶俊
+	Translators: 
+	Edition: 4
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-031150-1
+	Filetype: pdf
+
+Book: Б. П. 吉米多维奇数学分析习题集题解 5
+	MD5: df7733fd40c247cba5aeea385bac2125
+	Authors: 费定晖/周学圣
+	Translators: 
+	Edition: 1
+	Publisher: 山东科学技术出版社
+	ISBN: 978-7-5331-5896-5
+	Filetype: pdf
+
+Book: 物理学 下册
+	MD5: e03103b4e075f619532000ae311c270d
+	Authors: 东南大学等七所工科院校/马文蔚/解希顺/周雨青
+	Translators: 
+	Edition: 7
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-053822-9
+	Filetype: pdf
+
+Book: C语言程序设计：现代方法（第2版）
+	MD5: e17571c192d5fbf4a37bd7e56c57e473
+	Authors: K. N. King
+	Translators: 吕秀锋/黄倩
+	Edition: 1
+	Publisher: 人民邮电出版社
+	ISBN: 978-7-115-21957-2
+	Filetype: pdf
+
+Book: 英语视听说教程
+	MD5: e265d188d900a53c7328a32029ed1a2b
+	Authors: Loren Steele/Joel Lintner
+	Translators: 
+	Edition: 
+	Publisher: 外语教学与研究出版社
+	ISBN: 978-7-5600-5539-8
+	Filetype: pdf
+
+Book: 全新版大学英语综合教程学生用书2
+	MD5: e2d138008f2b50a6819deddee48bd745
+	Authors: 李荫华/夏国佐
+	Translators: 
+	Edition: 2
+	Publisher: 上海外语教育出版社
+	ISBN: 978-7-5446-1528-0
+	Filetype: pdf
+
+Book: Operating System Concepts International Student Version
+	MD5: e4389641249a0f69ea9e61be1e00855b
+	Authors: Abraham Silberschatz/Peter Baer Galvin/Greg Garne
+	Translators: 
+	Edition: 9
+	Publisher: Wiley
+	ISBN: 978-1-118-09375-7
+	Filetype: pdf
+
+Book: 高等代数与解析几何 上册
+	MD5: e7677b095ec223d810a92f39f4163f0d
+	Authors: 孟道骥
+	Translators: 
+	Edition: 1
+	Publisher: 科学出版社
+	ISBN: 978-7-03-006194-2
+	Filetype: pdf
+
+Book: 数学模型
+	MD5: e890393f0304ec5147f0e3813a76eb2c
+	Authors: 姜启源/谢金星/叶俊
+	Translators: 
+	Edition: 3
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-011944-2
+	Filetype: pdf
+
+Book: 概率论与数理统计
+	MD5: ea80087009e8bcf78dbc45f475890fb8
+	Authors: 盛骤/谢式干/潘承毅
+	Translators: 
+	Edition: 5
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-051660-9
+	Filetype: pdf
+
+Book: 计算机组成原理：立体化教材
+	MD5: ec21533f9f3c4e7798902fc1f69cc3e7
+	Authors: 白中英/戴志涛/赖晓铮/覃健诚/杨春武
+	Translators: 
+	Edition: 5
+	Publisher: 科学出版社
+	ISBN: 978-7-03-036964-2
+	Filetype: pdf
+
+Book: VHDL数字电路设计教程
+	MD5: ecc132df66b256729d191511f450e1bf
+	Authors: Volnei A. Pedroni
+	Translators: 乔庐峰/王志功
+	Edition: 1
+	Publisher: 电子工业出版社
+	ISBN: 978-7-121-18672-1
+	Filetype: pdf
+
+Book: 应用随机过程概率模型导论（第11版）
+	MD5: eda085225d39de8158b3c28526b93963
+	Authors: Sheldon M. Ross
+	Translators: 龚光鲁
+	Edition: 1
+	Publisher: 人民邮电出版社
+	ISBN: 978-7-115-40430-5
+	Filetype: pdf
+
+Book: 数字逻辑习题解析与实验教程
+	MD5: edad62ee4840b547066a20b292ac2dbd
+	Authors: 缪相林/白中英/郭军/高荔/杨春武
+	Translators: 
+	Edition: 6
+	Publisher: 科学出版社
+	ISBN: 978-7-03-037162-1
+	Filetype: pdf
+
+Book: 半导体器件基础
+	MD5: f0373a09752edea95cf16769b861c07b
+	Authors: Robert F. Pierret
+	Translators: 黄如/王漪/王金延/金海岩
+	Edition: 1
+	Publisher: 电子工业出版社
+	ISBN: 978-7-5053-9915-0
+	Filetype: pdf
+
+Book: 现代交换原理与通信网技术
+	MD5: f2ca5be2a63a444d616db54c27739b08
+	Authors: 卞佳丽
+	Translators: 
+	Edition: 1
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-1055-9
+	Filetype: pdf
+
+Book: Numerical Analysis
+	MD5: f3e0057a9893be05137de4d43e33e189
+	Authors: Timothy Sauer
+	Translators: 
+	Edition: 3
+	Publisher: Pearson
+	ISBN: 978-0-13-469645-4
+	Filetype: pdf
+
+Book: 高等数学解题法
+	MD5: f3f66564a90945dce8f8f73081c0b781
+	Authors: 刘吉佑/赵新超/陈秀卿/钱江
+	Translators: 
+	Edition: 2
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-4909-2
+	Filetype: pdf
+
+Book: Linux Command Line and Shell Scripting Bible
+	MD5: f4b40da3f699eed06c5e37a566e1b4a6
+	Authors: Richard Blum/Christine Breshahan
+	Translators: 
+	Edition: 3
+	Publisher: Wiley
+	ISBN: 978-1-118-98384-3
+	Filetype: pdf
+
+Book: 高等代数 上册
+	MD5: f5c623be96e601eaa4a80cc0b9e7847d
+	Authors: 丘维声
+	Translators: 
+	Edition: 3
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-041880-4
+	Filetype: pdf
+
+Book: Computer Graphics Principles and Practice
+	MD5: f7cc22f7a6ab92c85d75ac226305a004
+	Authors: John F. Hughes/Andries Van Dam/Morgan McGuire/David F. Sklar/James D. Foley/Steven K. Feiner/Kurt Akeley
+	Translators: 
+	Edition: 2
+	Publisher: Pearson
+	ISBN: 978-0-321-39952-6
+	Filetype: pdf
+
+Book: 信号与系统引论
+	MD5: f7dec8339bb165825b0af62eb192cb6d
+	Authors: 郑君里/应启珩/杨为理
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-025787-8
+	Filetype: pdf
+
+Book: 现代密码学教程
+	MD5: f866e637c46339b19a926ac9b16d0699
+	Authors: 谷利泽/郑世慧/杨义先
+	Translators: 
+	Edition: 2
+	Publisher: 高等教育出版社
+	ISBN: 978-7-5635-4307-6
+	Filetype: pdf
+
+Book: 大学英语实验教程（阅读）3
+	MD5: fbaf6d82a182863cbfe947bf6e59ccc2
+	Authors: 范姣莲/陈真真/李颖
+	Translators: 
+	Edition: 1
+	Publisher: 北京邮电大学出版社
+	ISBN: 978-7-5635-4783-8
+	Filetype: pdf
+
+Book: 概率论与数理统计习题全解指南（浙大·四版）
+	MD5: fd30d3eec63de0859687f00ef694068d
+	Authors: 盛骤/谢式干/潘承毅
+	Translators: 
+	Edition: 1
+	Publisher: 高等教育出版社
+	ISBN: 978-7-04-023898-3
+	Filetype: pdf
+
+Book: 软件项目管理案例教程
+	MD5: fe4f009ca99a5925ee2facce21d6c051
+	Authors: 韩万江/姜立新
+	Translators: 
+	Edition: 4
+	Publisher: 机械工业出版社
+	ISBN: 978-7-111-62920-7
+	Filetype: pdf
+
+Book: 你必须知道的495个C语言问题
+	MD5: ff2eb431fa091c6f4cf2ac99ffef7c0e
+	Authors: Steve Summit
+	Translators: 孙云/朱群英
+	Edition: 1
+	Publisher: 人民邮电出版社
+	ISBN: 978-7-115-19432-9
+	Filetype: pdf
+
+Book: 全国大学生数学竞赛参赛指南
+	MD5: ddc5290e160f4433f27665753a40ce62
+	Authors: 佘志坤
+	Translators: 
+	Edition: 1
+	Publisher: 科学出版社
+	ISBN: 978-7-03-071442-8
+	Filetype: pdf
+
+Book: 数学电路与逻辑设计：慕课版
+	MD5: 6b581fef3fd3170e43d96785e00faf82
+	Authors: 刘培植/孙文生/张治/陈佃军/胡春静/马楠
+	Translators: 
+	Edition: 1
+	Publisher: 人民邮电出版社
+	ISBN: 978-7-115-63237-1
+	Filetype: pdf
+
+Book: 全国大学生数学竞赛解析教程 数学专业类 上册 数学分析
+	MD5: 26c08d65e4e847344e11f981ff605231
+	Authors: 佘志坤
+	Translators: 
+	Edition: 1
+	Publisher: 科学出版社
+	ISBN: 978-7-03-078553-4
+	Filetype: pdf
+
+Book: 全国大学生数学竞赛解析教程 数学专业类 下册 高等代数与解析几何
+	MD5: 40e92469a31d04f6b703aa48f314936e
+	Authors: 佘志坤
+	Translators: 
+	Edition: 1
+	Publisher: 科学出版社
+	ISBN: 978-7-03-078554-1
+	Filetype: pdf
+
+Test: 概率论与随机过程
+	MD5: 864ca7caef1fab5151a3f0e4e1460125
+	College: 
+	Course type: 研究生
+	Filetype: pdf
+	Stage: None
+	Content: 试题+答案
+	Time: 2010
+
+Test: 计算机网络
+	MD5: c1c02c53ee13c0350af48736043bd2ce
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2012
+
+Test: 数据库系统原理
+	MD5: 629e2bdabb663548e534c5451a79417c
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2013
+
+Test: 计算机网络
+	MD5: 748127d0968d81074a9997c3f647fe31
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2014
+
+Test: 计算机网络
+	MD5: fedbbaf33438219910eb65f67e328259
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2015
+
+Test: 计算机网络
+	MD5: 1fd60b1d44154f14c18874521f5778d1
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2016
+
+Test: 电路与电子学基础
+	MD5: e2b8a17496513993c77dd63007f090b9
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 答案
+	Time: 2017
+
+Test: 计算机网络
+	MD5: 22ac74c14e7a31aec32e77512d76c3c7
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2017
+
+Test: 数据库系统原理
+	MD5: ffa63802dfb34a42c77a67005443a1b8
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: None
+	Content: 试题+答案
+	Time: 2019
+
+Test: 计算机网络
+	MD5: 5e49851c2f6e58e1467ce774a7641b75
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2019
+
+Test: CSAPP
+	MD5: 220acb70bd8690c91ddc58beecf7482a
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2020
+
+Test: 数据结构与算法
+	MD5: fc9834ff526fc678c3fda2ea5489c482
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2021
+
+Test: 计算机组成原理
+	MD5: bdbe445cbba7ae36385bf344ebafad77
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2003-2004-2
+
+Test: 电磁场与电磁波
+	MD5: e834b50fe132458d1d6820c8e66323fc
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2004-2005
+
+Test: 电磁场与电磁波
+	MD5: ef71dd2c1dbb836494173d8e6c6f0b26
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2005-2006
+
+Test: 矩阵分析与应用
+	MD5: cbb5ac5a98a8f9ee183cf3ee1f1e9dc9
+	College: 
+	Course type: 
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2006-2007
+
+Test: 电子电路基础
+	MD5: 66666f4478e3c243a36ae13395fb5a4a
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2006-2007-1
+
+Test: 电磁场与电磁波
+	MD5: 8578e8129134146fe1e349dd200b856a
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2006-2007-1
+
+Test: 电磁场与电磁波
+	MD5: a77eae255279152eb9e97ca327772fc2
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2007-2008-1
+
+Test: 电磁场与电磁波
+	MD5: 9bea702248313eb549624a159ce24872
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2007-2008-1
+
+Test: 矩阵论
+	MD5: 6ef616ee85a3fa0ede059fb535ab7c69
+	College: 
+	Course type: 
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2007-2008-1
+
+Test: 数字逻辑与数字系统
+	MD5: 753c36d141148b2354d58ec8e6875b7b
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2008-2009-1
+
+Test: 矩阵分析与应用
+	MD5: 284a8c4755dc816915ec4c5c08769c3e
+	College: 
+	Course type: 
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2008-2009-1
+
+Test: 线性代数
+	MD5: 6c138aa3a19f96d6947334bfd1bcc1b8
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 答案
+	Time: 2008-2009-1
+
+Test: 线性代数
+	MD5: c3e79a6265b99806a5c782a77f6db471
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 答案
+	Time: 2008-2009-1
+
+Test: 线性代数
+	MD5: 0fc54e4791f82de19c8ab4ae09ce0d53
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2008-2009-1
+
+Test: 线性代数
+	MD5: 94ba29640213eb47582080030e91ef68
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2008-2009-1
+
+Test: 数字逻辑与数字系统
+	MD5: 73d7085b07086f677f3fd31bd501cf60
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2009-2010-1
+
+Test: 电子电路基础
+	MD5: 66ce1dd19cafeb5bd66b30bfd06ac4a2
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2009-2010-1
+
+Test: 电子电路基础
+	MD5: 9ee319288166efe6c042a31016e21f8c
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2009-2010-1
+
+Test: 电磁场与电磁波
+	MD5: 11409537ff27247404067953b87c6c1d
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2009-2010-1
+
+Test: 线性代数
+	MD5: b19ad61345bd4feb90c310ad83dc5f4c
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2009-2010-1
+
+Test: 线性代数
+	MD5: ec4799cc2ad02a02b8b6b8d36e72ede6
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2009-2010-1
+
+Test: 计算导论与程序设计
+	MD5: 3ffbfb9c3faf7b38a5f4c3d990a064d4
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2009-2010-1
+
+Test: 矩阵分析与应用
+	MD5: 75225494d0068fc5e2a5edca95fbce5b
+	College: 
+	Course type: 
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2010-2011
+
+Test: 电子电路基础
+	MD5: 87e0a3b832285e327712d3f7b7342976
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2010-2011-1
+
+Test: 电子电路基础
+	MD5: 75ea0387ac1bca1e4e6da8eea2b79d85
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2010-2011-1
+
+Test: 电磁场与电磁波
+	MD5: 2552b27778c55d739994b000ca769e36
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2010-2011-1
+
+Test: 电磁场与电磁波
+	MD5: b12db1258282aa42b5357bfbc0a48624
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2010-2011-1
+
+Test: 线性代数
+	MD5: 204eaba9f9b617167923f9e77c5bfd21
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 答案
+	Time: 2010-2011-1
+
+Test: 线性代数
+	MD5: 9bb0ebe0b41bad93e859b82c24a88ddd
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 答案
+	Time: 2010-2011-1
+
+Test: 线性代数
+	MD5: 0fbf89f624f8c693d1d6076f20b88653
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2010-2011-1
+
+Test: 线性代数
+	MD5: 8386b1020dbd67ee3724ff01d76e6d84
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2010-2011-1
+
+Test: 计算机组成原理
+	MD5: e578fc44b6e3d520456368e8e51d457e
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2010-2011-1
+
+Test: 计算机网络
+	MD5: 08b0f82dccc287a8421db9cf3efd9b26
+	College: 数字媒体与设计艺术学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2010-2011-1
+
+Test: 通信原理
+	MD5: 4b319f960fab65fb9d04c94e22b6a3a5
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 答案
+	Time: 2010-2011-1
+
+Test: 通信原理
+	MD5: a9d542dc0d20596b21368f82bc6a2282
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题
+	Time: 2010-2011-1
+
+Test: 通信原理
+	MD5: 1d873cf9df048cfe5d49827f75c74196
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2010-2011-1
+
+Test: 电磁场与电磁波
+	MD5: be5019e3c9f813463acb6e2b7b74b99d
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2010-2011-2
+
+Test: 电磁场与电磁波
+	MD5: e7ef756eb20fe52424bc84609e330ff1
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2010-2011-2
+
+Test: 电路与电子学基础
+	MD5: b789040b390b200a9eaf8f6e69c276ce
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: None
+	Content: 试题
+	Time: 2010-2011-2
+
+Test: 矩阵分析与应用
+	MD5: 3545b42bdc23f6049e573496f7aef7b2
+	College: 
+	Course type: 
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2011-2012
+
+Test: 电子电路基础
+	MD5: 961c70159704741913a9928b71bf4f37
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2011-2012-1
+
+Test: 电磁场与电磁波
+	MD5: 4b863cddff7de4edac58e5de623d6886
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2011-2012-1
+
+Test: 电磁场与电磁波
+	MD5: 9cf559457f491ff55fce7e55e1887630
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2011-2012-1
+
+Test: 线性代数
+	MD5: b57bed8d8a682fc7cbf1e629358aacda
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2011-2012-1
+
+Test: 通信原理
+	MD5: 813583adfb5cdb9ba7f3a40255bafa10
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2011-2012-1
+
+Test: 数字电路与逻辑设计
+	MD5: 0b71d51e46b462deb642c79517ebb913
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2011-2012-2
+
+Test: 电磁场与电磁波
+	MD5: 94781c90d5c6742b0c5bebfd2850ea86
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2011-2012-2
+
+Test: 电磁场与电磁波
+	MD5: c8f6a9c7e6a787afb79c1d598e08b0d8
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2011-2012-2
+
+Test: 电路与电子学基础
+	MD5: 47f2842316419a350c06e4b4f1556315
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: None
+	Content: 试题
+	Time: 2011-2012-2
+
+Test: 概率论与随机过程
+	MD5: 84ba27bb384364c4f9128ea0c2a71aad
+	College: 
+	Course type: 研究生
+	Filetype: pdf
+	Stage: None
+	Content: 试题+答案
+	Time: 2012-2013
+
+Test: 概率论与随机过程
+	MD5: 2e76df5704640cbf3d424047ee6fd7bb
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2012-2013-1
+
+Test: 电磁场与电磁波
+	MD5: 0402fc82f4af38fa2a5a6326b7fb7da9
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 答案
+	Time: 2012-2013-1
+
+Test: 电磁场与电磁波
+	MD5: 5c6ef55b4f53eb14152236b5170457cd
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题
+	Time: 2012-2013-1
+
+Test: 电磁场与电磁波
+	MD5: 0fa70fb21fb3876d7901f65192551242
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2012-2013-1
+
+Test: 线性代数
+	MD5: 471bba6ef86e7b4b58b6e3398920c490
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2012-2013-1
+
+Test: 线性代数
+	MD5: 8ffafda3fcc50094cdf496eab865a1eb
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2012-2013-1
+
+Test: 通信原理
+	MD5: 08cf7a9edfa9001dbc8619d4d99a799d
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2012-2013-1
+
+Test: 通信原理
+	MD5: 2d0494637e471a52f2d6ffa5d79bd711
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2012-2013-1
+
+Test: 通信原理
+	MD5: 66e56d594c00ed32bb6e443b6a38b1b9
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2012-2013-1
+
+Test: 通信原理
+	MD5: 4f258aab2c194da48922075b4114c803
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2012-2013-1
+
+Test: 电磁场与电磁波
+	MD5: 5e8aea2dd9b1f80e2f173121a58766c3
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2012-2013-2
+
+Test: 电磁场与电磁波
+	MD5: 0b4fbc5fe0a72b50fc21f3abc00322ff
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2012-2013-2
+
+Test: 运筹学
+	MD5: 5d5caffb7c7eea9225a62e2955ab707b
+	College: 
+	Course type: 
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2012-2013-2
+
+Test: 概率论与随机过程
+	MD5: 94830ba73c4e74ec7acab68538d91ca2
+	College: 
+	Course type: 研究生
+	Filetype: pdf
+	Stage: None
+	Content: 试题+答案
+	Time: 2013-2014
+
+Test: 通信原理
+	MD5: 10f7c2334af86eaa381ea0a97a1282b6
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2013-2014
+
+Test: 通信原理
+	MD5: 95507752cfb757cb0c720fd4b771cf2c
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: None
+	Content: 试题+答案
+	Time: 2013-2014
+
+Test: 概率论与随机过程
+	MD5: 4ab18c36122f1e867125de15da6675e4
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2013-2014-1
+
+Test: 电子电路基础
+	MD5: 1f57c0f2d695233304d68515c0c2e0ba
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2013-2014-1
+
+Test: 线性代数
+	MD5: f8a7d4d06495d7004ecf3c93ba19dcdb
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2013-2014-1
+
+Test: 工程数学
+	MD5: ed89db2b6871881ce1e8078445721b11
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2013-2014-2
+
+Test: 概率论与随机过程
+	MD5: f80c519e8f32dcac42bae6d077ff2bde
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2013-2014-2
+
+Test: 电磁场与电磁波
+	MD5: e767cc0311d85c386bc9affc88b59b90
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2013-2014-2
+
+Test: 电磁场与电磁波
+	MD5: fe40bd886917bcd81c7dbe1cc6599ba2
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2013-2014-2
+
+Test: 马克思主义基本原理
+	MD5: 3c6665b721d1095c59cda53ee86c8057
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2013-2014-2
+
+Test: 线性代数
+	MD5: 2139094f92567048cc6d6135a1c85242
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2014-2015
+
+Test: 线性代数
+	MD5: 7fc9c42d6688357b7aef116fd01724fd
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2014-2015
+
+Test: 通信原理
+	MD5: cabae899bc16dea5ef813e802ca92809
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2014-2015
+
+Test: 通信原理
+	MD5: bbd667677aa758295f4dda426719deee
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2014-2015
+
+Test: 信号与系统
+	MD5: be7aa0e8852bd3494304d94ade003aa0
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2014-2015-1
+
+Test: 大学物理B（下）
+	MD5: 9c16184da3ccf888c57fd8c27c5dd486
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2014-2015-1
+
+Test: 大学物理B（下）
+	MD5: 4a5f8d07c7a75388db13258cc6d39854
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2014-2015-1
+
+Test: 概率论与随机过程
+	MD5: 937ab8abe7027de1731fceaf9f4694eb
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2014-2015-2
+
+Test: 电磁场与电磁波
+	MD5: 0d2d84b4fa1f933311bf575fe7ea9f4b
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2014-2015-2
+
+Test: 电磁场与电磁波
+	MD5: cebe2f8471281bc7e2a202bfbbad2d6e
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2014-2015-2
+
+Test: 电路与电子学基础
+	MD5: 68ff12202da66861d0e4e9e3d63ac3f2
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2014-2015-2
+
+Test: Discrete Mathematics
+	MD5: 25c0b8ddb8337b772bdbe717a41144bc
+	College: 国际学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2015-2016
+
+Test: Discrete Mathematics
+	MD5: 270bc26297c69530cdb85672c7723d31
+	College: 国际学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2015-2016
+
+Test: Discrete Techniques for Computing
+	MD5: 5c80c18e8835ed7dea88c36d1b80053c
+	College: 国际学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2015-2016
+
+Test: Signals and Systems Theory
+	MD5: 7899d927e78a5ad1909a6587bd7cae47
+	College: 国际学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2015-2016
+
+Test: 概率论与随机过程
+	MD5: 895a212bb94c98235af4d93627e08f0d
+	College: 
+	Course type: 研究生
+	Filetype: pdf
+	Stage: None
+	Content: 试题+答案
+	Time: 2015-2016
+
+Test: 信号与系统
+	MD5: ae5bfd346a394d81aec5cd07d5f82afb
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2015-2016-1
+
+Test: 大学物理B（下）
+	MD5: ff0a3dedf62a7ac902df147d48efa14f
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2015-2016-1
+
+Test: 电磁场与电磁波
+	MD5: cd7e5942ce4103e93e2cdb63ba4a93c6
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2015-2016-1
+
+Test: 通信原理
+	MD5: 8f70543ca6c03685ebc88e4ec6068887
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2015-2016-1
+
+Test: 大学物理B（上）
+	MD5: d48875497d31f88735659851ebde24fe
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2015-2016-2
+
+Test: 大学物理C
+	MD5: 0179a7f2bf9cbf86f5f474bf953222aa
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2015-2016-2
+
+Test: 工程数学
+	MD5: 06ba31f20399c82d6a6346d93e7c5c97
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2015-2016-2
+
+Test: 数字电路与逻辑设计
+	MD5: b6534ffccbb6c45d991463aa9cf5e99c
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: None
+	Content: 试题+答案
+	Time: 2015-2016-2
+
+Test: 电路与电子学基础
+	MD5: 1cf3edd5beb8031c4a7ccf092dee91d2
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2015-2016-2
+
+Test: 运筹学
+	MD5: 6965c14c9f2c5e8a46568d44ec17dc92
+	College: 
+	Course type: 
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2015-2016-2
+
+Test: Discrete Mathematics
+	MD5: 364ea4af394e6b2a3117e0055b085b5a
+	College: 国际学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2016-2017
+
+Test: Discrete Mathematics
+	MD5: 45739d0073beda294f1f8e1400e3f899
+	College: 国际学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2016-2017
+
+Test: 电磁场与电磁波
+	MD5: 8c74152b7589ef118782a5d0b6cefb14
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2016-2017
+
+Test: 电磁场与电磁波
+	MD5: cd7b59dda6f2c56652c88459dee6f524
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2016-2017
+
+Test: 电磁场与电磁波
+	MD5: e4fd5eaa2dba9358acdfacfa570c7bc2
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2016-2017
+
+Test: 信号与系统
+	MD5: 8d7d2f71a01ff07f4dffddc51b630122
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2016-2017-1
+
+Test: 概率论与数理统计
+	MD5: 35743e2d801ea71a1a9288fec83290a7
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2016-2017-1
+
+Test: 概率论与随机过程
+	MD5: 907592946c7aac27799bc3704fb098f9
+	College: 
+	Course type: 研究生
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2016-2017-1
+
+Test: 电磁场与电磁波
+	MD5: fbd08968a6d4f64065724aaf0fad3d37
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2016-2017-1
+
+Test: 通信原理
+	MD5: 539b14edce7dc6e9d065672c903bddb5
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2016-2017-1
+
+Test: 通信原理
+	MD5: db1ee21d9dd21ab8828c1e87af45d0f2
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2016-2017-1
+
+Test: 大学物理C
+	MD5: 79b3980e11156df9f87ada571f738cbc
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2016-2017-2
+
+Test: 数学分析
+	MD5: 345560e5d0b32d4e073ade8f6b7afb21
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2016-2017-2
+
+Test: 概率论与数理统计
+	MD5: 42a8a732bbff753c7df0118dfd8522b7
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2016-2017-2
+
+Test: 概率论与随机过程
+	MD5: a5e7760d89965fdf30af34987033900a
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2016-2017-2
+
+Test: 概率论与随机过程
+	MD5: 7e460141c042cca13776eb1560b4c95d
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2016-2017-2
+
+Test: 电路与电子学基础
+	MD5: 64d0c66d05c2d888120cfefa1ba88699
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2016-2017-2
+
+Test: Discrete Mathematics
+	MD5: 29ef39f72d3b115cf61a866abef02ac1
+	College: 国际学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2017-2018
+
+Test: Discrete Mathematics
+	MD5: b13fb7384a17d2ed5db46ee98e201a21
+	College: 国际学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2017-2018
+
+Test: Signals and Systems Theory
+	MD5: 81a5dda899ee9160da015dc46e1b8b52
+	College: 国际学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2017-2018
+
+Test: 概率论与数理统计
+	MD5: 4b4a0cde8acf3a5a0ffd96a277ebe169
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2017-2018
+
+Test: 概率论与随机过程
+	MD5: 42e1e61ee3fcd532d97ad55a1365b0e1
+	College: 
+	Course type: 
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2017-2018
+
+Test: 电磁场与电磁波
+	MD5: 7cb145c31da58f6415c949d90c53c1d6
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2017-2018
+
+Test: 通信原理
+	MD5: 8a92c4c6b3a2f15553357a1c6fabdb5e
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: None
+	Content: 试题+答案
+	Time: 2017-2018
+
+Test: 信号与系统
+	MD5: 50a9ce76b982a4e60bc9d9bb74b1bd98
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2017-2018-1
+
+Test: 大学物理B（下）
+	MD5: 7ca2f6efa0299f99aee464cfbd50f300
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2017-2018-1
+
+Test: 大学物理B（下）
+	MD5: 8488d0877a40c1fc9ba958fb0d44a639
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2017-2018-1
+
+Test: 大学物理C
+	MD5: 24d19286e6acd13ff2b9a2f4d359387b
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2017-2018-1
+
+Test: 概率论与数理统计
+	MD5: 8e6b2aef86a4a81559fcae57544db29b
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2017-2018-1
+
+Test: 概率论与随机过程
+	MD5: 21d5bd1ad08d81ce169eb030112cd082
+	College: 
+	Course type: 研究生
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2017-2018-1
+
+Test: 毛泽东思想和中国特色社会主义理论体系概论
+	MD5: eaea67ccc96809b1a8489f2c1cf10b2f
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2017-2018-1
+
+Test: 电磁场与电磁波
+	MD5: 87b8af482dab12f3a107e238f74e68a2
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2017-2018-1
+
+Test: 通信原理
+	MD5: 51ed902f14799a78e3389914eff93ecf
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2017-2018-1
+
+Test: 高等数学（上）
+	MD5: 74227d671578746fdadceddc4133795c
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题
+	Time: 2017-2018-1
+
+Test: 大学物理
+	MD5: fab3e96a60fb4404767e81a41df44d22
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 答案
+	Time: 2017-2018-2
+
+Test: 大学物理（上）
+	MD5: 68181ce07c6c99d18346384e3dbc0ecc
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2017-2018-2
+
+Test: 大学物理（上）
+	MD5: 3d71956ffd093f88a038ed3a4bbe4bbc
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2017-2018-2
+
+Test: 大学物理B（上）
+	MD5: b403b018451bd6a254283c25b125b3c1
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2017-2018-2
+
+Test: 大学物理C
+	MD5: ec177e10b14855c2631707261e4cc0bd
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2017-2018-2
+
+Test: 大学物理E（上）
+	MD5: 31fecb6274bc437b549295eca6e171c6
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2017-2018-2
+
+Test: 大学物理E（上）
+	MD5: a986cb9a111d95d7ca8f9715b2a72bed
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2017-2018-2
+
+Test: 数字电路与逻辑设计
+	MD5: 2d4152ed853a6e54476474395b008e67
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2017-2018-2
+
+Test: 数学分析（下）
+	MD5: 65c367b3f7fe40375ebacdcc5b880b86
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2017-2018-2
+
+Test: 电路与电子学基础
+	MD5: 9d307b70f42afcf47baa779aab7aad69
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 答案
+	Time: 2017-2018-2
+
+Test: 电路与电子学基础
+	MD5: e3e56573621a31886f75fe14ba4e2a22
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 答案
+	Time: 2017-2018-2
+
+Test: 电路与电子学基础
+	MD5: f36df488a0ceb62f4dbab0c7ca427bc1
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 答案
+	Time: 2017-2018-2
+
+Test: 电路与电子学基础
+	MD5: b58a150027858fb0bc686a426d6613d3
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2017-2018-2
+
+Test: 电路与电子学基础
+	MD5: c73dc52bf566d0b3f2b277f32406b4b9
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2017-2018-2
+
+Test: 线性代数
+	MD5: 06061c2907f1f90b540b10cc9efc0224
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2018-2019
+
+Test: 线性代数
+	MD5: 9e1e046b26f46a72a65f699d422f5876
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2018-2019
+
+Test: 线性代数
+	MD5: 0e3cdba49a2400c48f336483480e62e1
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2018-2019
+
+Test: 通信原理
+	MD5: f5d6f9013c1f231e86925ffcdf059d53
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: None
+	Content: 试题+答案
+	Time: 2018-2019
+
+Test: 信号与系统
+	MD5: 7cfb43402735b71cf97bfa1de00b91c8
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2018-2019-1
+
+Test: 大学物理（下）
+	MD5: 7c117f0bb66f86b0298bab7a508f757d
+	College: 
+	Course type: 双培
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2018-2019-1
+
+Test: 工程数学
+	MD5: 14e65d6dd48de095c4c472a155d1f5a0
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: None
+	Content: 试题+答案
+	Time: 2018-2019-1
+
+Test: 概率论与数理统计
+	MD5: 18fa7bab515f1bc500245258312827b0
+	College: 计算机学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2018-2019-1
+
+Test: 概率论与数理统计
+	MD5: 2e4093ab834dc271e58b5d1c424f6bf4
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2018-2019-1
+
+Test: 概率论与数理统计
+	MD5: 2dbc60f16e4273643eff8a51b95b70c2
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2018-2019-1
+
+Test: 概率论与随机过程
+	MD5: 0c885db5e7a13f6ba77d1db8d613462f
+	College: 
+	Course type: 研究生
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2018-2019-1
+
+Test: 线性代数
+	MD5: 5ad46509d80836ef294ec491aca3c9cd
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2018-2019-1
+
+Test: 线性代数
+	MD5: 96aacec5a3b14e57c92e0f6f69830a72
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2018-2019-1
+
+Test: 高等数学（上）
+	MD5: e55055d4af7ecb20dcc6e470e53822e0
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题
+	Time: 2018-2019-1
+
+Test: 高等数学（上）
+	MD5: 3e302b8953884e9e83de977b5afc8a83
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2018-2019-1
+
+Test: 高等数学（上）
+	MD5: 8e303fc875a20e4e7165c5cfa7261307
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2018-2019-1
+
+Test: 高等数学（上）
+	MD5: 8c863bc0823220f19eb5de670743057c
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2018-2019-1
+
+Test: 高等数学A（上）
+	MD5: 0c1294f3798f1a5d14c29e4c007b8773
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 答案
+	Time: 2018-2019-1
+
+Test: 大学物理（上）
+	MD5: 18f8c5aeb9b911dfa9f0ddbe12e29fe7
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2018-2019-2
+
+Test: 大学物理B（上）
+	MD5: ebe4e1b762090fd3b151a039066f5712
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2018-2019-2
+
+Test: 大学物理E（上）
+	MD5: 486b04c1cee8ad634fca399ec918c527
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2018-2019-2
+
+Test: 数学分析（下）
+	MD5: 6b4d4d3391aa630caf11a765190c5d46
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2018-2019-2
+
+Test: 概率论与随机过程
+	MD5: 849dd35294193f30bf5fe7acfd18a05c
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2018-2019-2
+
+Test: 电路与电子学基础
+	MD5: 58c9352e1502381ddd98451f81d97cee
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2018-2019-2
+
+Test: 计算机原理与应用
+	MD5: e39711f6650499e06f12a45d8b2c9522
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2018-2019-2
+
+Test: 高等数学（下）
+	MD5: e3c36c8ede7fa95198867cb91db35cfd
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2018-2019-2
+
+Test: 线性代数
+	MD5: 89c05d7717bf876abd175788b3ff4301
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2019-2020
+
+Test: 计算机网络
+	MD5: b9c34d5bcfbc9522525f630bd7ba1803
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: None
+	Content: 试题
+	Time: 2019-2020
+
+Test: Discrete Computing Techniques
+	MD5: 66336341da6b1951c43b0346a87c471c
+	College: 国际学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2019-2020-1
+
+Test: 数学分析（上）
+	MD5: 4345526830c15162b3918f828ae52cae
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2019-2020-1
+
+Test: 综合英语（A/上）
+	MD5: 25236ad8d593d89e459078c9ffef00a4
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题
+	Time: 2019-2020-1
+
+Test: 通信原理
+	MD5: e5ed4c4e05b2a6a1338eae5e8745bbce
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2019-2020-1
+
+Test: 马克思主义基本原理
+	MD5: bdf4418eb87621556f5288b505dab1f8
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2019-2020-1
+
+Test: 马克思主义基本原理
+	MD5: ebf74504a5c50d3b08c804e244e27499
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2019-2020-1
+
+Test: 高等数学A（上）
+	MD5: 7171e59ef02cc6c4482247f33524ea6c
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2019-2020-1
+
+Test: 形式语言与自动机
+	MD5: 035fedb6e16b00341c635a31f0c32022
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2019-2020-2
+
+Test: 形式语言与自动机
+	MD5: 0f7a5f382035b56b1f6014058e32ce0b
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2019-2020-2
+
+Test: 形式语言与自动机
+	MD5: 1bf085886430714753c7eef70b686067
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2019-2020-2
+
+Test: 形式语言与自动机
+	MD5: 7aff4b1404e3fc6125d47d998ed1582a
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2019-2020-2
+
+Test: 形式语言与自动机
+	MD5: 913837d7b25aa5f5c0be63cf2624dc5a
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2019-2020-2
+
+Test: 形式语言与自动机
+	MD5: 9a4b60d766cf665a4d954d2572d6c415
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2019-2020-2
+
+Test: 形式语言与自动机
+	MD5: b4df47c6c76b1d3a51d8fba6f5b48e5c
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2019-2020-2
+
+Test: 形式语言与自动机
+	MD5: d2f1c75a9110dc1f13f61edec7150999
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2019-2020-2
+
+Test: 形式语言与自动机
+	MD5: f75f8eb43a3c0b6261df0eb907d2ffa7
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2019-2020-2
+
+Test: 形式语言与自动机
+	MD5: fe4afd980822b9e2a6782444a857e8c1
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2019-2020-2
+
+Test: 概率论与数理统计
+	MD5: 035badd4babe144df7778137a43890f0
+	College: 自动化学院
+	Course type: 
+	Filetype: pdf
+	Stage: None
+	Content: 试题
+	Time: 2019-2020-2
+
+Test: 概率论与数理统计
+	MD5: 61e9c6d116a264c943cda80d6c601746
+	College: 计算机学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2019-2020-2
+
+Test: 概率论与数理统计
+	MD5: 7c9e9fee84da21a422a14b148ecd71dd
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2019-2020-2
+
+Test: 毛泽东思想和中国特色社会主义理论体系概论
+	MD5: fb927b28c101492bf3f7501aeb641da2
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2019-2020-2
+
+Test: 电磁场与电磁波
+	MD5: 4ed8f3649ac1ed7ef9802bab9511221a
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2019-2020-2
+
+Test: 离散数学
+	MD5: 56d92229ba8b7923c6fa8a7bfc141987
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2019-2020-2
+
+Test: 离散数学
+	MD5: 801ba14d40990295cd84934263e93cde
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2019-2020-2
+
+Test: 计算机原理与应用
+	MD5: e39c2f0f4e8aee249c95dd8874249eef
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2019-2020-2
+
+Test: Signals and Systems Theory
+	MD5: f43cfd27385be32bfb54507339aad3b9
+	College: 国际学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2020-2021
+
+Test: 计算机组成原理
+	MD5: a488db9712180d4448769f77d2aef8e5
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题
+	Time: 2020-2021
+
+Test: C/C++程序设计与编程方法
+	MD5: 2139310d38722880f5645c9d3d38e29a
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2020-2021-1
+
+Test: C/C++程序设计与编程方法
+	MD5: 9eb33c0d2381d4d080212ac6497d55ae
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2020-2021-1
+
+Test: 矩阵分析与应用
+	MD5: b93e9776e8fca87d5817dee916925f73
+	College: 
+	Course type: 
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2020-2021-2
+
+Test: 计算机组成原理
+	MD5: 0b39b89bbea3a187d2aa856381473de3
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2020-2021-2
+
+Test: 高等数学A（下）
+	MD5: 1c1513e1df7d00d032dcef8b7e90c6bf
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2020-2021-2
+
+Test: python编程与实践
+	MD5: 7925c1d2b3729b11548ecc73002b1190
+	College: 信息与通信工程学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2021-2022-2
+
+Test: python编程与实践
+	MD5: 00550196f94d2dbb7125d32d7c690017
+	College: 信息与通信工程学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2021-2022-2
+
+Test: 概率论与数理统计
+	MD5: 76253b363c57556b3feff5dd08303fc2
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 答案
+	Time: 2021-2022-2
+
+Test: 现代密码学
+	MD5: 75dbcdf6e6c8977db3c413db21111e53
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2021-2022-2
+
+Test: 理工通用学术英语一
+	MD5: bfbeb927bc88b0fb73c6ba5dfe16be81
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2021-2022-2
+
+Test: 计算机原理与应用
+	MD5: 3056cd821ddb6a8fff47471e93f02996
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2021-2022-2
+
+Test: 计算机组成与系统结构
+	MD5: 5a187acf5ba518bc81100a170602b15f
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题
+	Time: 2021-2022-2
+
+Test: 计算机组成与系统结构
+	MD5: 26f4886706f4a8f8e8f6b4b994761e14
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2021-2022-2
+
+Test: 计算机组成与系统结构
+	MD5: fbc86b58e9ed211e9aad3d3ef9338f4c
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2021-2022-2
+
+Test: Signals and Systems Theory
+	MD5: fa7b8862ac2ba6eb11ceaaeaa7a55e59
+	College: 国际学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2022-2023
+
+Test: Signals and Systems Theory
+	MD5: fe4d4aa453eef805451c313afdf95c1c
+	College: 国际学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2022-2023
+
+Test: 大学计算机
+	MD5: d2c7dba3c16005c19603778664e584ab
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2022-2023-1
+
+Test: 矩阵理论和方法
+	MD5: 6955afa70111ebf6f5d9edd57261480b
+	College: 
+	Course type: 
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2022-2023-1
+
+Test: python编程与实践
+	MD5: aa9e3acac26664c8f44bd88e769d630c
+	College: 信息与通信工程学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2022-2023-2
+
+Test: python编程与实践
+	MD5: 68b6bc31e1817db6ed7ec5fd2b29493b
+	College: 信息与通信工程学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2022-2023-2
+
+Test: 中国近现代史纲要
+	MD5: 7b4ca8302911023c5d9bcd513c0c64f3
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2022-2023-2
+
+Test: 大学物理E（上）
+	MD5: b5e7e11323a9eef91d615f3999074185
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2022-2023-2
+
+Test: 大学物理E（上）
+	MD5: ffda74da2cc11a76c32b580b47daebb5
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2022-2023-2
+
+Test: 数学分析（下）
+	MD5: 36c0deb11dc005fa69feb03f1e67da15
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2022-2023-2
+
+Test: 计算机网络
+	MD5: b0bb0477e6bb5dbca9520c3bf0222cb4
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2022-2023-2
+
+Test: 高等代数（下）
+	MD5: d42ffa323388de30d9988553e1bf3dda
+	College: 未来学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2022-2023-2
+
+Test: 高等数学A（下）
+	MD5: affc420cd2a72ee00ef4c185a58d2cfa
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2022-2023-2
+
+Test: 全球胜任力英语I
+	MD5: 19079d7a68f933480b2077975d98aac9
+	College: 未来学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题
+	Time: 2023-2024-1
+
+Test: 电磁场与电磁波
+	MD5: 052cefeef110ed97ceddcfb2ced7f3e8
+	College: 电子工程学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2023-2024-1
+
+Test: 英语听说2
+	MD5: 1a92aa990fbabba6006fee5c68f1bcdb
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2023-2024-1
+
+Test: 全球胜任力英语II
+	MD5: 11baa55135782bc04fb82d5723e93822
+	College: 未来学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题
+	Time: 2023-2024-2
+
+Test: 大学物理（上）
+	MD5: 66d445a376309350d504a3fe35631216
+	College: 未来学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2023-2024-2
+
+Test: 大学物理E（上）
+	MD5: 60e05985b7edcf14438897910f7b5311
+	College: 电子工程学院/人工智能学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2023-2024-2
+
+Test: 形式语言与自动机
+	MD5: 4f1323cba925db6422ae9b4b8a5f30d2
+	College: 人工智能学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题
+	Time: 2023-2024-2
+
+Test: 数学分析（下）
+	MD5: 48278b0e56a51148afdb0f15012ac0ea
+	College: 未来学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2023-2024-2
+
+Test: 毛泽东思想和中国特色社会主义理论体系概论
+	MD5: 72ac9f31d5e355a12a8ac2e509df0716
+	College: 电子工程学院/国际学院/经济管理学院/计算机学院/理学院/人工智能学院/数字媒体与设计艺术学院/人文学院/网络空间安全学院/未来学院/自动化学院/信息与通信工程学院/
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2023-2024-2
+
+Test: 理科数学分析（二）
+	MD5: 4b1de9a514a76f1c07d1a00fd28f28ae
+	College: 理学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2023-2024-2
+
+Test: 离散数学
+	MD5: f2291430ae9edc9fea63ba7fcc614acb
+	College: 计算机学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2023-2024-2
+
+Test: 高等代数（下）
+	MD5: de70c14f746855ea0f2ef024ad22c3eb
+	College: 未来学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2023-2024-2
+
+Test: 高等数学（下）
+	MD5: 8d6637c8406385b768d8564f1bfe451f
+	College: 计算机学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2023-2024-2
+
+Test: 高等数学A（下）
+	MD5: 709413e17d8e3a28849c057b656a4db1
+	College: 电子工程学院/计算机学院/数字媒体与设计艺术学院/网络空间与安全学院/自动化学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2023-2024-2
+
+Test: 高等数学A（下）
+	MD5: 6ce695ffa86f6c56ed5c4416d5e15222
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期中
+	Content: 试题+答案
+	Time: 2023-2024-2
+
+Test: 数学分析（下）
+	MD5: 74f0afc01b138d14cc7bf1760f35b5b0
+	College: 信息与通信工程学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题+答案
+	Time: 2023-2024-2
+
+Test: 概率论与数理统计
+	MD5: 154a930358251fe7bf774dd194bd9a00
+	College: 人工智能学院/自动化学院/信息与通信工程学院
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 2023-2024-2
+
+Test: 工程图学
+	MD5: 1ea3ad7f34658f5b085189e02124ff92
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 
+
+Test: 工程图学
+	MD5: 2330a4d73d5cc84954e1ce486f79b321
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 
+
+Test: 工程图学
+	MD5: d4de28efded7e05bf3431969072cc3c6
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 
+
+Test: 概率论与数理统计
+	MD5: 8b746766f1cda0aeedd0045c54312892
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 
+
+Test: 计算机网络
+	MD5: aca8096360814dee0c4e23730cc90e10
+	College: 
+	Course type: 本科
+	Filetype: pdf
+	Stage: 期末
+	Content: 试题
+	Time: 
+
+Doc: 大学物理实验 讲义（2023年）
+	MD5: 066eb70dd44b90210c97ddb946183935
+	Course type: 本科
+	Course name: 大学物理实验
+	Filetype: pdf
+	Content: 课件
+
+Doc: 线性代数公式归纳
+	MD5: 0a989899a0724b171007e4adcb5f3917
+	Course type: 本科
+	Course name: 线性代数
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 运筹学题库
+	MD5: 0d3f8f6c537922dacec4ea5f5c2a9eec
+	Course type: 本科
+	Course name: 运筹学
+	Filetype: pdf
+	Content: 题库
+
+Doc: 学解 考试宝典 大学（普通）物理
+	MD5: 118f2d5bebf10f9adb3cf89614b0a47c
+	Course type: 本科
+	Course name: 大学物理
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 期末复习
+	MD5: 19b833b8934f45fccee0c8f1c3c1abe0
+	Course type: 
+	Course name: 运筹学
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 马原思维导图
+	MD5: 1c3d7f68adab058635b158c4595b165c
+	Course type: 本科
+	Course name: 马克思主义基本原理
+	Filetype: pdf
+	Content: 思维导图
+
+Doc: 积分精选
+	MD5: 1d81f9c30b9d5013d8e5d6beb4d74ef4
+	Course type: 本科
+	Course name: 高等数学（上）
+	Filetype: pdf
+	Content: 题库
+
+Doc: 线性代数讲义
+	MD5: 2f86b1c34727833d3572761e99368818
+	Course type: 本科
+	Course name: 线性代数
+	Filetype: pdf
+	Content: 课件
+
+Doc: 数据结构习题集答案
+	MD5: 34bf9c88e2a7ce920aa8854f75c4eea5
+	Course type: 本科
+	Course name: 数据结构
+	Filetype: pdf
+	Content: 答案
+
+Doc: Computer Networks Fifth Edition Problem Solutions
+	MD5: 37ede6b756b350460371b6d31c609d1b
+	Course type: 
+	Course name: 计算机网络
+	Filetype: pdf
+	Content: 答案
+
+Doc: 高等数学基础
+	MD5: 3ad204d9f1ecfbde8832802fc3eee0be
+	Course type: 本科
+	Course name: 高等数学（上）/高等数学（下）
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 工程制图习题解答
+	MD5: 3d6fa4f7305fb91e9c014e468037310c
+	Course type: 本科
+	Course name: 工程图学
+	Filetype: pdf
+	Content: 题库, 答案
+
+Doc: 数字信号处理答案 科学社第2版
+	MD5: 3e5a331e25c57384ee12fdaca11823e5
+	Course type: 本科
+	Course name: 数字信号处理
+	Filetype: pdf
+	Content: 答案
+
+Doc: 题库/知识点
+	MD5: 3eb071b6be2e6614d27aa4d894c51493
+	Course type: 本科
+	Course name: 马克思主义基本原理
+	Filetype: pdf
+	Content: 题库, 知识点
+
+Doc: 17年数据结构课件
+	MD5: 3fc6130e80ce9f651193a4668c3c582c
+	Course type: 本科
+	Course name: 数据结构与算法
+	Filetype: zip
+	Content: 课件
+
+Doc: 毛概2021前七章知识点
+	MD5: 3ff668e65a1f46c1b08a91260334d0e6
+	Course type: 本科
+	Course name: 毛泽东思想和中国特色社会主义理论体系概论
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 《中国近现代史纲要》考试宝典题库
+	MD5: 43f894ce7840714612c5aa265455f34a
+	Course type: 本科
+	Course name: 中国近现代史纲要
+	Filetype: pdf
+	Content: 题库
+
+Doc: 电子工程学院 电路与电子电路 各章复习
+	MD5: 58e9726b5c5dab42a432b80a44c58caf
+	Course type: 本科
+	Course name: 电路分析基础
+	Filetype: zip
+	Content: 知识点
+
+Doc: 线代绿书2018版答案
+	MD5: 5aae01f0a98b3fc6d3d1b3ba807070e4
+	Course type: 本科
+	Course name: 线性代数
+	Filetype: pdf
+	Content: 答案
+
+Doc: 2020爱课堂数电客观题解析
+	MD5: 62b43f8fbed2bb3087f2afc96fd89b0f
+	Course type: 本科
+	Course name: 数字电路与逻辑系统
+	Filetype: zip
+	Content: 答案
+
+Doc: 21级物联网工程期末串讲笔记
+	MD5: 680b6abcd0be13a2ea4acb1f31e21772
+	Course type: 本科
+	Course name: 物联网工程
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 《考试宝典》中国近现代史纲要
+	MD5: 6d7a3ce447f1b9f75b8bfee6e98275f7
+	Course type: 本科
+	Course name: 中国近现代史纲要
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 知识梳理（第五章~第七章）
+	MD5: 726471bd31ef01df1c4d797b7402ef0c
+	Course type: 本科
+	Course name: 马克思主义基本原理
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 奇数题答案
+	MD5: 7983d676bb595b6be4f8993f556a1d34
+	Course type: 本科
+	Course name: 离散数学（I）/离散数学（II）
+	Filetype: pdf
+	Content: 答案
+
+Doc: 军事理论题库
+	MD5: 8087447999a9996dba3c54e32345aee9
+	Course type: 本科
+	Course name: 军事理论
+	Filetype: pdf
+	Content: 题库
+
+Doc: 大学物理实验 讲义（2020年）
+	MD5: 8285ae9bb8aec3dbf665dd1bdf75bef4
+	Course type: 本科
+	Course name: 大学物理实验
+	Filetype: pdf
+	Content: 课件
+
+Doc: 复变函数与数学物理方法-部分习题解答
+	MD5: 8853903287d58621391474f65450b928
+	Course type: 本科
+	Course name: 工程数学
+	Filetype: pdf
+	Content: 答案
+
+Doc: 新目标大学英语（第二版）视听说教程参考答案
+	MD5: 8b3bc2a11252293e2c255aabf6d301b7
+	Course type: 本科
+	Course name: 大学英语
+	Filetype: pdf
+	Content: 答案
+
+Doc: 思维导图
+	MD5: 901f73f8b0b112c57503c71376200bf7
+	Course type: 本科
+	Course name: 毛泽东思想和中国特色社会主义理论体系概论
+	Filetype: pdf
+	Content: 思维导图
+
+Doc: 蜂考速成课《数字电子技术》
+	MD5: 978c539a2fcd228458118a0c07d59b85
+	Course type: 本科
+	Course name: 数字电路与逻辑系统
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 电子电路全书课后习题答案合并
+	MD5: 98e5627649bdfc873a0f4302349f4fb7
+	Course type: 本科
+	Course name: 电路分析基础/电子电路基础
+	Filetype: pdf
+	Content: 答案
+
+Doc: 题库/模拟试卷
+	MD5: a068341adf389097090e9bf05d53c024
+	Course type: 本科
+	Course name: 马克思主义基本原理
+	Filetype: pdf
+	Content: 题库
+
+Doc: 学解 考试宝典 电路
+	MD5: a721ecde2dde9effb76768da391ac497
+	Course type: 本科
+	Course name: 电路分析基础
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 电路分析基础俎云霄 课后答案
+	MD5: acaa28a9381ab134352f2d499eab39db
+	Course type: 本科
+	Course name: 电路分析基础
+	Filetype: pdf
+	Content: 答案
+
+Doc: 《微波工程基础》实验教学手册
+	MD5: acb674edeea9e45d58c94016b13351a5
+	Course type: 本科
+	Course name: 微波工程基础
+	Filetype: pdf
+	Content: 课件
+
+Doc: 毛概笔记
+	MD5: ad4d3ada914782f60c0293008d1ce996
+	Course type: 本科
+	Course name: 毛泽东思想和中国特色社会主义理论体系概论
+	Filetype: zip
+	Content: 思维导图, 知识点
+
+Doc: 期末复习讲义
+	MD5: b39de807ea75fc083b7b7ea31aeb8519
+	Course type: 本科
+	Course name: 高等数学（下）
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 大学计算机基础练习题
+	MD5: b464f2c0becdce1d24d22b4fe9154fef
+	Course type: 本科
+	Course name: 大学计算机基础
+	Filetype: zip
+	Content: 题库
+
+Doc: 计算机基础知识
+	MD5: b4e2114f4fa50282fe33485907706e5b
+	Course type: 本科
+	Course name: 大学计算机基础
+	Filetype: pdf
+	Content: 课件
+
+Doc: 时间轴
+	MD5: b624cb81305d085c690a408693945595
+	Course type: 本科
+	Course name: 中国近现代史纲要
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 线代绿书2018版
+	MD5: b6fae3f7464a1f80021cf070ca732205
+	Course type: 本科
+	Course name: 线性代数
+	Filetype: pdf
+	Content: 题库
+
+Doc: 知识框架
+	MD5: be10e83fe557073cbfe158737729a9d4
+	Course type: 本科
+	Course name: 马克思主义基本原理
+	Filetype: pdf
+	Content: 思维导图, 知识点
+
+Doc: 知识梳理（导论~第三章）
+	MD5: c5b8df80724f60c1ac23a4dbf72ae862
+	Course type: 本科
+	Course name: 马克思主义基本原理
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 廖承恩《微波技术基础》习题解答
+	MD5: c8e97b1d423103e1693c6a33eb5669a2
+	Course type: 本科
+	Course name: 微波技术基础
+	Filetype: pdf
+	Content: 答案
+
+Doc: 知识点
+	MD5: c93cd3f32fdcdacf20b59129e3796b47
+	Course type: 本科
+	Course name: 毛泽东思想和中国特色社会主义理论体系概论
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 2015年课件
+	MD5: cbbdc0828717c5d6eef6c9cc6e71b1c6
+	Course type: 本科
+	Course name: 模拟电子技术
+	Filetype: zip
+	Content: 课件
+
+Doc: 思维导图
+	MD5: cea8d3fbbd654a034177eac609fdb01e
+	Course type: 本科
+	Course name: 中国近现代史纲要
+	Filetype: pdf
+	Content: 思维导图
+
+Doc: 军事理论题库
+	MD5: cff2fb2ee5eba8180781836ab9a268c4
+	Course type: 本科
+	Course name: 军事理论
+	Filetype: pdf
+	Content: 题库
+
+Doc: 23年毛概-大纲
+	MD5: d067b4aa14a05457162906222eab2dc1
+	Course type: 本科
+	Course name: 毛泽东思想和中国特色社会主义理论体系概论
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 知识点
+	MD5: d0a4279569b9fe79de8d00dfa0827392
+	Course type: 本科
+	Course name: 中国近现代史纲要
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 军事理论题库
+	MD5: d1e32cef9a688384716b9001680c19f0
+	Course type: 本科
+	Course name: 军事理论
+	Filetype: pdf
+	Content: 题库
+
+Doc: 偶数题答案
+	MD5: d90c3c5665ae897fe9110e5a9ecbc0c0
+	Course type: 本科
+	Course name: 离散数学（I）/离散数学（II）
+	Filetype: pdf
+	Content: 答案
+
+Doc: 罗鹏飞习题解答
+	MD5: db1d0153d20bc177c614f06981850a34
+	Course type: 
+	Course name: 随机信号分析与处理
+	Filetype: pdf
+	Content: 答案
+
+Doc: 操作系统
+	MD5: dc13924148a20b4efe4f81af03220632
+	Course type: 本科
+	Course name: 大学计算机基础
+	Filetype: pdf
+	Content: 课件
+
+Doc: 2022-2023学年第二学期毛概课程学生复习题
+	MD5: e44c14587796bc7ad276d37c81eefa09
+	Course type: 本科
+	Course name: 毛泽东思想和中国特色社会主义理论体系概论
+	Filetype: pdf
+	Content: 题库
+
+Doc: 嵌入式系统控制与应用 实验指导书（2015年）
+	MD5: e66ce7007cd563e6c7e8acc58f27ef90
+	Course type: 本科
+	Course name: 嵌入式系统控制与应用
+	Filetype: pdf
+	Content: 课件
+
+Doc: 《中国近现代史纲要》通关宝典
+	MD5: e6869464777a90d754e3418cecd3bfb3
+	Course type: 本科
+	Course name: 中国近现代史纲要
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 数据结构课件与资料-张海旸
+	MD5: eb30ada79c8df0abd0df64dc9e7be4fd
+	Course type: 本科
+	Course name: 数据结构与算法
+	Filetype: zip
+	Content: 课件
+
+Doc: 马原知识点
+	MD5: f27dbba58082d1aecb6cb90d7333a7cb
+	Course type: 本科
+	Course name: 马克思主义基本原理
+	Filetype: pdf
+	Content: 知识点
+
+Doc: C++程序设计 课件
+	MD5: f97243ad75e829b854175d43b3170df1
+	Course type: 本科
+	Course name: C++语言程序设计
+	Filetype: zip
+	Content: 课件
+
+Doc: 知识梳理（第四章）
+	MD5: fb961636c3e8a00b42c2f4ead061340f
+	Course type: 本科
+	Course name: 马克思主义基本原理
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 单项选择题 修正版
+	MD5: 5fa1b8c8638b050f24cb3b9d06fde606
+	Course type: 本科
+	Course name: 数据库系统原理
+	Filetype: pdf
+	Content: 题库
+
+Doc: 《数字信号处理》试题库
+	MD5: b972a85813717b1a9c4637c71b80acb8
+	Course type: 本科
+	Course name: 数字信号处理
+	Filetype: pdf
+	Content: 题库
+
+Doc: 机械制图习题集 第6版解答
+	MD5: f8b70cdcaaf75598c6b2bf71c18d34aa
+	Course type: 本科
+	Course name: 工程图学
+	Filetype: pdf
+	Content: 答案
+
+Doc: 23版知识点
+	MD5: f42e9ccab12f4d139580d8e8803f2bc4
+	Course type: 本科
+	Course name: 毛泽东思想和中国特色社会主义理论体系概论
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 文治学业辅导中心 课程提纲
+	MD5: 07db70884c483b4bbe6aa733c964d586
+	Course type: 本科
+	Course name: 毛泽东思想和中国特色社会主义理论体系概论
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 毛概知识点章节整理（完整版）
+	MD5: 2f8a8b67527ceb062a8626b4cc3d37fe
+	Course type: 本科
+	Course name: 毛泽东思想和中国特色社会主义理论体系概论
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 毛概题库+答案
+	MD5: 4a7fabef0146a3cbf55b7f73f299f220
+	Course type: 本科
+	Course name: 毛泽东思想和中国特色社会主义理论体系概论
+	Filetype: pdf
+	Content: 题库
+
+Doc: 期末复习题
+	MD5: 57ce6e0b892b257adfbe8e33eacac409
+	Course type: 本科
+	Course name: 计算机组成原理
+	Filetype: pdf
+	Content: 题库
+
+Doc: 期末复习重点问题-2023年
+	MD5: 66b707867e24843c84d5937546007251
+	Course type: 本科
+	Course name: 毛泽东思想和中国特色社会主义理论体系概论
+	Filetype: pdf
+	Content: 题库
+
+Doc: 2022毛概宇宙v1.5
+	MD5: f296bb5b55aefcc3d428550d74cc1ad2
+	Course type: 本科
+	Course name: 毛泽东思想和中国特色社会主义理论体系概论
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 各章练习题
+	MD5: 41f62d9b234263bc1ffa787f98bff0ce
+	Course type: 本科
+	Course name: 大学计算机基础
+	Filetype: zip
+	Content: 题库
+
+Doc: 新版各章书后习题答案
+	MD5: adb827ed398cf93b11aa228267a484ff
+	Course type: 本科
+	Course name: 大学计算机基础
+	Filetype: zip
+	Content: 答案
+
+Doc: 大学物理公式全储集
+	MD5: 5196f44cdd8097106aa7aeb384fd1cd5
+	Course type: 本科
+	Course name: 大学物理E
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 《计算机网络》课后习题答案
+	MD5: 485994b7215891ea2abe9238677a7c4e
+	Course type: 本科
+	Course name: 计算机网络
+	Filetype: pdf
+	Content: 答案
+
+Doc: 北邮高等代数13-14讲义稿 复习题
+	MD5: 4d592869d18dcd1d45aebb00faafd943
+	Course type: 本科
+	Course name: 高等代数（下）
+	Filetype: pdf
+	Content: 题库
+
+Doc: 高等代数（下）复习题
+	MD5: 49ddf970e64c41cd01eba60db840240e
+	Course type: 本科
+	Course name: 高等代数（下）
+	Filetype: pdf
+	Content: 题库
+
+Doc: 计算机网络课后习题参考解答
+	MD5: 2cf0e5ecbda0a0f1f7b18c190afc7c5d
+	Course type: 本科
+	Course name: 计算机网络
+	Filetype: pdf
+	Content: 答案
+
+Doc: 计算机网络 自顶向下方法 7版答案
+	MD5: 08f44b319cc240ca9c740abbb14ea9e4
+	Course type: 本科
+	Course name: 计算机网络
+	Filetype: pdf
+	Content: 答案
+
+Doc: 计算机网络 自顶向下方法 8版答案
+	MD5: ba296e718e5bbfd498d9d582e05963d2
+	Course type: 本科
+	Course name: 计算机网络
+	Filetype: pdf
+	Content: 答案
+
+Doc: 元班数学分析第三次测验
+	MD5: 362b2d475ae7645d201dc5d951fe0637
+	Course type: 本科
+	Course name: 数学分析
+	Filetype: pdf
+	Content: 题库
+
+Doc: 固体物理-笔记
+	MD5: bbae58d55692d5efec8f01906b358743
+	Course type: 本科
+	Course name: 固体物理
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 信号与系统期末串讲
+	MD5: afd7172379c2bf6e2e3cee16f072c9dc
+	Course type: 本科
+	Course name: 信号与系统
+	Filetype: pdf
+	Content: 知识点
+
+Doc: 电磁场各章PPT/复习
+	MD5: 388c174a82fb62011832090796326dd4
+	Course type: 本科
+	Course name: 电磁场与电磁波
+	Filetype: zip
+	Content: 课件
+
