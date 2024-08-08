@@ -1,0 +1,3 @@
+[filter "ods_diff"]
+    clean = ./ods
+    smudge = cat

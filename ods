@@ -1,0 +1,12 @@
+#!/bin/bash
+
+set -e
+
+if ! command -v pdm &> /dev/null; then
+    echo "Error: pdm is not installed. Please install pdm and try again."
+    exit 1
+fi
+
+cd "$(dirname "$0")"
+cd metadata
+pdm run metadata.py -f ../metadata.ods -d

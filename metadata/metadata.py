@@ -7,8 +7,78 @@ import urllib.request
 parser = argparse.ArgumentParser(description="Tool for dealing with metadata")
 parser.add_argument("-f", "--file", help="metadata ods file path", required=True)
 parser.add_argument("-o", "--output", help="output json file path", default="metadata.json")
-parser.add_argument("-s", "--size", help="filesize json file url", required=True)
+parser.add_argument("-s", "--size", help="filesize json file url", required=False)
+parser.add_argument("-d", "--diff", help="print data in text format", action="store_true")
 args = parser.parse_args()
+
+if args.diff:
+    data = get_data(args.file)
+    for i in data['books'][1:]:
+        if all([x == "" for x in i]):
+            continue
+        if len(i) < 8:
+            print("[!] Invalid book: ", i)
+            continue
+        if not isbn.ISBN.valid(i[6]):
+            print("[!] Invalid ISBN: ", i[6])
+            print(f"\tbooks: {i[1]} {i[0]}")
+            continue
+        print(f"Book: {i[1]}")
+        print(f"\tMD5: {i[0]}")
+        print(f"\tAuthors: {i[2]}")
+        print(f"\tTranslators: {i[3]}")
+        print(f"\tEdition: {i[4]}")
+        print(f"\tPublisher: {i[5]}")
+        print(f"\tISBN: {isbn.ISBN(i[6]).hyphen()}")
+        print(f"\tFiletype: {i[7]}")
+        print()
+
+    for i in data['tests'][1:]:
+        if all([x == "" for x in i]):
+            continue
+        if len(i) < 8:
+            print("[!] Invalid test: ", i)
+            continue
+        if str(i[5]) != "0" and str(i[5]) != "1" and str(i[5]) != "":
+            print("[!] Invalid stage: ", i[5])
+            print(f"\ttest: {i[4]} {i[0]}")
+            continue
+        print(f"Test: {i[4]}")
+        print(f"\tMD5: {i[0]}")
+        print(f"\tCollege: {i[2]}")
+        print(f"\tCourse type: {i[1]}")
+        print(f"\tFiletype: {i[7]}")
+        print(f"\tStage: {'期中' if str(i[5]) == '0' else '期末' if str(i[5]) == '1' else None}")
+        print(f"\tContent: {'试题' if i[6] == 'Q' else '答案' if i[6] == 'A' else '试题+答案' if i[6] == 'QA' else '未知'}")
+        print(f"\tTime: {i[3]}")
+        print()
+
+    for i in data['docs'][1:]:
+        if all([x == "" for x in i]):
+            continue
+        if len(i) < 6:
+            print("[!] Invalid doc: ", i)
+            continue
+        for c in i[4]:
+            if c != "M" and c != "Q" and c != "A" and c != "K" and c != "C":
+                print("[!] Invalid content: ", i[4])
+                print(f"\tdoc: {i[3]} {i[0]}")
+                continue
+
+        print(f"Doc: {i[3]}")
+        print(f"\tMD5: {i[0]}")
+        print(f"\tCourse type: {i[1]}")
+        print(f"\tCourse name: {i[2]}")
+        print(f"\tFiletype: {i[5]}")
+        print(f"\tContent: {', '.join(['思维导图' if c == 'M' else '题库' if c == 'Q' else '答案' if c == 'A' else '知识点' if c == 'K' else '课件' if c == 'C' else '未知' for c in i[4]])}")
+        print()
+
+    exit(0)
+
+if args.size is None:
+    print("[!] Filesize data not provided")
+    exit(1)
+
 
 if args.file:
     data = get_data(args.file)
