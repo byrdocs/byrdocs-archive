@@ -1,12 +1,17 @@
 #!/bin/bash
 
-# Usage: ./meilisearch_update.sh <metadata_file_path> <meilisearch_api_key>
+# Usage: ./meilisearch_update.sh <metadata_file_path> <meilisearch_api_key> <byrdocs_token>
 
 METADATA_FILE=$1
 MEILISEARCH_API_KEY=$2
 BYRDOCS_TOKEN=$3
 API_URL="https://byrdocs.org/files/api/indexes/docs/documents?primaryKey=id"
 TASK_STATUS_URL="https://byrdocs.org/files/api/tasks"
+
+curl https://byrdocs.org/files/api/ \
+    --header "Authorization: Bearer $MEILISEARCH_API_KEY" \
+    --header "X-Byrdocs-Token: $BYRDOCS_TOKEN" \
+    "https://byrdocs.org/files/api/"
 
 # Initial request to update documents
 RESPONSE=$(curl --location --silent --show-error \
@@ -31,6 +36,7 @@ get_task_details() {
 TIMEOUT=60
 INTERVAL=5
 ELAPSED=0
+
 
 while [ $ELAPSED -lt $TIMEOUT ]; do
     TASK_DETAILS=$(get_task_details)
