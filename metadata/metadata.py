@@ -2,6 +2,7 @@ import json
 from pyexcel_ods3 import get_data
 import isbn
 import argparse
+import subprocess
 import urllib.request
 
 parser = argparse.ArgumentParser(description="Tool for dealing with metadata")
@@ -10,6 +11,7 @@ parser.add_argument("-o", "--output", help="output json file path", default="met
 parser.add_argument("-s", "--size", help="filesize json file url", required=False)
 parser.add_argument("-d", "--diff", help="print data in text format", action="store_true")
 parser.add_argument("-t", "--token", help="byrdocs token for downloading filesize data", required=False)
+parser.add_argument("-c", "--commit", help="commit message for git", required=False)
 args = parser.parse_args()
 
 if args.file:
@@ -132,7 +134,6 @@ if args.file:
 
     print(f"[+] {len(result)} items parsed ({success['books']} books, {success['tests']} tests, {success['docs']} docs).")
 
-
 if args.size:
     try:
         filesizes = {}
@@ -170,3 +171,73 @@ with open(args.output, "w") as f:
         json.dump(result, f, ensure_ascii=False, indent=4, separators=(',', ': '))
     else:
         json.dump(result, f, ensure_ascii=False,separators=(',', ':'))
+
+if args.commit:
+    def get_previous_version_of_file(file_path):
+        try:
+            result = subprocess.run(
+                ['git', 'show', f'HEAD~1:{file_path}'],
+                capture_output=True,
+                text=True,
+                check=True
+            )
+            return result.stdout
+        except subprocess.CalledProcessError as e:
+            print(f"Error: {e.stderr}")
+            return None
+        
+    previous_version = get_previous_version_of_file(args.output)
+    if previous_version:
+        old_data = json.loads(previous_version)
+        new_data = result
+        old_data_dict = {item["id"]: item for item in old_data}
+        new_data_dict = {item["id"]: item for item in new_data}
+        diff = []
+        for item in old_data:
+            if item["id"] not in new_data_dict:
+                diff.append({
+                    "action": "deleted",
+                    "data": item
+                })
+        for item in new_data:
+            if item["id"] not in old_data_dict:
+                diff.append({
+                    "action": "added",
+                    "data": item
+                })
+            elif item != old_data_dict[item["id"]]:
+                diff.append({
+                    "action": "modified",
+                    "data": item
+                })
+        if len(diff) == 0:
+            print("[-] No changes detected.")
+            exit(0)
+        commit_title = "metadata: "
+        if len(diff) == 1:
+            commit_title += f"{diff[0]['action']} `{diff[0]['data']['data']['title']}`"
+        else:
+            actions = {
+                "added": 0,
+                "deleted": 0,
+                "modified": 0
+            }
+            for item in diff:
+                actions[item["action"]] += 1
+            cnt = (actions["added"] != 0) + (actions["deleted"] != 0) + (actions["modified"] != 0)
+            if cnt == 1:
+                commit_title += ''.join([f"{actions[action]} {action}" for action in actions if actions[action] != 0])
+            elif cnt > 1:
+                action_titles = [f"{actions[action]} {action}" for action in actions if actions[action] != 0]
+                commit_title += ', '.join(action_titles[:-1]) + f" and {action_titles[-1]}"
+
+        commit_body = "\n".join([
+            f"{item['action'].capitalize()}: {item['data']['data']['title']} ({item['data']['id']})"
+            for item in diff
+        ])
+
+        with open(args.commit, "w") as f:
+            f.write(f"{commit_title}\n\n{commit_body}\n \n")
+        
+    else:
+        print(f"[!] Failed to get previous version of {args.output}.")
