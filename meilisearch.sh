@@ -38,6 +38,7 @@ ELAPSED=0
 
 while [ $ELAPSED -lt $TIMEOUT ]; do
     TASK_DETAILS=$(get_task_details)
+    echo "Task details: $TASK_DETAILS"
     STATUS=$(echo $TASK_DETAILS | jq -r '.status')
     echo "Task status: $STATUS (Elapsed time: ${ELAPSED}s)"
 
