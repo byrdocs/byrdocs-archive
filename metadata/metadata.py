@@ -168,7 +168,9 @@ if failed != 0:
 
 with open(args.output, "w") as f:
     if args.diff:
-        json.dump(result, f, ensure_ascii=False, indent=4, separators=(',', ': '))
+        def cmp(x):
+            return (x["type"], x['id'])
+        json.dump(sorted(result, key=cmp), f, ensure_ascii=False, indent=4, separators=(',', ': '))
     else:
         json.dump(result, f, ensure_ascii=False,separators=(',', ':'))
 
