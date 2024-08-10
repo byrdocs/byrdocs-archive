@@ -40,7 +40,3 @@ jobs:
           r2-bucket: ${{ secrets.R2_BUCKET }}
           source-dir: result
           destination-dir: ./
-
-      - name: Update meilisearch
-        run: |
-          bash meilisearch.sh metadata/metadata.json ${{ secrets.MEILI_KEY }} ${{ secrets.BYRDOCS_TOKEN }}
