@@ -77,7 +77,7 @@ if args.file:
                 },
                 "filetype": str(i[7]).lower(),
                 "stage": "期中" if str(i[5]) == "0" else "期末" if str(i[5]) == "1" else None,
-                "content": "试题" if i[6] == "Q" else "答案" if i[6] == "A" else "试题+答案" if i[6] == "QA" else "未知",
+                "content": ["试题"] if i[6] == "Q" else ["答案"] if i[6] == "A" else ["试题", "答案"] if i[6] == "QA" else "未知",
                 "md5": i[0],
                 "time": str(i[3]) if i[3] != "" else None,
             }
