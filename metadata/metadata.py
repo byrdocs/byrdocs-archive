@@ -43,7 +43,7 @@ if args.file:
                 "title": i[1],
                 "authors": list(filter(lambda x: x != '', i[2].split('/'))),
                 "translators": list(filter(lambda x: x != '', i[3].split('/'))),
-                "edition": i[4],
+                "edition": str(i[4]),
                 "publisher": i[5],
                 "isbn": isbn.ISBN(i[6]).hyphen(),
                 "isbn_raw": isbn.ISBN(i[6]).isbn13(),
