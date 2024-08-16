@@ -1479,6 +1479,24 @@
         }
     },
     {
+        "id": "47444b141792442ee9f87acc23ec5b8b",
+        "type": "book",
+        "data": {
+            "title": "网络空间安全治理",
+            "authors": [
+                "邓小龙",
+                "吴旭"
+            ],
+            "translators": [],
+            "edition": "1",
+            "publisher": "北京邮电大学出版社",
+            "isbn": "978-7-5635-6011-0",
+            "isbn_raw": "9787563560110",
+            "filetype": "pdf",
+            "md5": "47444b141792442ee9f87acc23ec5b8b"
+        }
+    },
+    {
         "id": "476afb576b270023204c2c95413bdd09",
         "type": "book",
         "data": {
