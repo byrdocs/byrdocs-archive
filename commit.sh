@@ -5,7 +5,7 @@ cd metadata
 tmpfile=$(mktemp)
 pdm run metadata.py -f ../metadata.ods -o ../metadata.json -d -c $tmpfile
 cd ..
-git add metadata.json
+git add metadata.json metadata.ods
 if [ -s "$tmpfile" ]; then
     git commit -e --template=$tmpfile $@
 fi

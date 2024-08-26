@@ -4877,6 +4877,26 @@
         }
     },
     {
+        "id": "e3cc31bd3895e142b2de0b46170852b4",
+        "type": "book",
+        "data": {
+            "title": "计算机组成与系统结构：立体化教材",
+            "authors": [
+                "白中英",
+                "戴志涛",
+                "张天乐",
+                "覃健成"
+            ],
+            "translators": [],
+            "edition": "5",
+            "publisher": "科学出版社",
+            "isbn": "978-7-03-032736-9",
+            "isbn_raw": "9787030327369",
+            "filetype": "pdf",
+            "md5": "e3cc31bd3895e142b2de0b46170852b4"
+        }
+    },
+    {
         "id": "e4389641249a0f69ea9e61be1e00855b",
         "type": "book",
         "data": {
