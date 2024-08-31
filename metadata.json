@@ -38,6 +38,24 @@
         }
     },
     {
+        "id": "030013717ceb90865c713e8febb3948d",
+        "type": "book",
+        "data": {
+            "title": "组合数学",
+            "authors": [
+                "卢开澄",
+                "卢华明"
+            ],
+            "translators": [],
+            "edition": "4",
+            "publisher": "清华大学出版社",
+            "isbn": "978-7-302-13961-4",
+            "isbn_raw": "9787302139614",
+            "filetype": "pdf",
+            "md5": "030013717ceb90865c713e8febb3948d"
+        }
+    },
+    {
         "id": "05a94d9250b2f41ef7e7959c5ceef758",
         "type": "book",
         "data": {
@@ -811,6 +829,23 @@
         }
     },
     {
+        "id": "28d669ed25a04beecd3bf750d46c2ec5",
+        "type": "book",
+        "data": {
+            "title": "统计学：从数据到结论",
+            "authors": [
+                "吴喜之"
+            ],
+            "translators": [],
+            "edition": "4",
+            "publisher": "中国统计出版社",
+            "isbn": "978-7-5037-6789-0",
+            "isbn_raw": "9787503767890",
+            "filetype": "pdf",
+            "md5": "28d669ed25a04beecd3bf750d46c2ec5"
+        }
+    },
+    {
         "id": "28f409eeb6a5e89338dbdfb75b67cd7e",
         "type": "book",
         "data": {
@@ -828,6 +863,23 @@
             "isbn_raw": "9787040199383",
             "filetype": "pdf",
             "md5": "28f409eeb6a5e89338dbdfb75b67cd7e"
+        }
+    },
+    {
+        "id": "2a02abca2539f003e0d3f7c3d53bc8c9",
+        "type": "book",
+        "data": {
+            "title": "统计学基础",
+            "authors": [
+                "贾俊平"
+            ],
+            "translators": [],
+            "edition": "2",
+            "publisher": "中国人民大学出版社",
+            "isbn": "978-7-300-17513-3",
+            "isbn_raw": "9787300175133",
+            "filetype": "pdf",
+            "md5": "2a02abca2539f003e0d3f7c3d53bc8c9"
         }
     },
     {
@@ -1095,6 +1147,24 @@
             "isbn_raw": "9787040100969",
             "filetype": "pdf",
             "md5": "35af4353636279f6572da915e782a833"
+        }
+    },
+    {
+        "id": "3642ec9c93ce1dc4be05a5c8dde56752",
+        "type": "book",
+        "data": {
+            "title": "组合数学",
+            "authors": [
+                "冯荣权",
+                "宋春伟"
+            ],
+            "translators": [],
+            "edition": "1",
+            "publisher": "北京大学出版社",
+            "isbn": "978-7-301-26105-7",
+            "isbn_raw": "9787301261057",
+            "filetype": "pdf",
+            "md5": "3642ec9c93ce1dc4be05a5c8dde56752"
         }
     },
     {
@@ -1554,6 +1624,24 @@
         }
     },
     {
+        "id": "491ce071a29e3969624b4e47380bbf1e",
+        "type": "book",
+        "data": {
+            "title": "Linear Algebra Done Right",
+            "authors": [
+                "Sheldon Axler",
+                "Kenneth Ribet"
+            ],
+            "translators": [],
+            "edition": "3",
+            "publisher": "Springer",
+            "isbn": "978-3-319-11079-0",
+            "isbn_raw": "9783319110790",
+            "filetype": "pdf",
+            "md5": "491ce071a29e3969624b4e47380bbf1e"
+        }
+    },
+    {
         "id": "499086a51b571be5e49007812fdcd7c8",
         "type": "book",
         "data": {
@@ -1775,6 +1863,25 @@
             "isbn_raw": "9787111599715",
             "filetype": "pdf",
             "md5": "526d3407d543c60ccd90ada0964d76ee"
+        }
+    },
+    {
+        "id": "52c186e906a773c9145f3230d1006b4f",
+        "type": "book",
+        "data": {
+            "title": "组合数学",
+            "authors": [
+                "Richard A. Brualdi"
+            ],
+            "translators": [
+                "冯速"
+            ],
+            "edition": "1",
+            "publisher": "机械工业出版社",
+            "isbn": "978-7-111-37787-0",
+            "isbn_raw": "9787111377870",
+            "filetype": "pdf",
+            "md5": "52c186e906a773c9145f3230d1006b4f"
         }
     },
     {
@@ -2348,6 +2455,23 @@
         }
     },
     {
+        "id": "6d76d024cf3ce6ecd6c4a2ce5f59043f",
+        "type": "book",
+        "data": {
+            "title": "高等数学学习指导与习题解析（第2版 下）",
+            "authors": [
+                "北京邮电大学高等数学双语教学组"
+            ],
+            "translators": [],
+            "edition": "2",
+            "publisher": "北京邮电大学出版社",
+            "isbn": "978-7-5635-5411-9",
+            "isbn_raw": "9787563554119",
+            "filetype": "pdf",
+            "md5": "6d76d024cf3ce6ecd6c4a2ce5f59043f"
+        }
+    },
+    {
         "id": "6ea87e3d5ff76bd43d6ba16d376956cb",
         "type": "book",
         "data": {
@@ -2533,6 +2657,23 @@
         }
     },
     {
+        "id": "7608e0091a7ebfb6d712145bfcb7d2f6",
+        "type": "book",
+        "data": {
+            "title": "A First Course in Information Theory",
+            "authors": [
+                "Raymond W. Yeung"
+            ],
+            "translators": [],
+            "edition": "",
+            "publisher": "Springer",
+            "isbn": "978-1-4613-4645-6",
+            "isbn_raw": "9781461346456",
+            "filetype": "pdf",
+            "md5": "7608e0091a7ebfb6d712145bfcb7d2f6"
+        }
+    },
+    {
         "id": "765a7d6a7da84cc3d60aa4b3b4bd29d2",
         "type": "book",
         "data": {
@@ -2641,6 +2782,24 @@
             "isbn_raw": "9787563569397",
             "filetype": "pdf",
             "md5": "77b71fe091b9831943ec2e84ebda41f2"
+        }
+    },
+    {
+        "id": "78cdb1f68e32c64a088bd0d763e72633",
+        "type": "book",
+        "data": {
+            "title": "An Introduction to Optimization",
+            "authors": [
+                "Edwin K. P. Chong",
+                "Stanislaw H. Zak"
+            ],
+            "translators": [],
+            "edition": "4",
+            "publisher": "Wiley",
+            "isbn": "978-1-118-27901-4",
+            "isbn_raw": "9781118279014",
+            "filetype": "pdf",
+            "md5": "78cdb1f68e32c64a088bd0d763e72633"
         }
     },
     {
@@ -3988,6 +4147,24 @@
         }
     },
     {
+        "id": "b45bd5d0088f0646f64dff3b1ff032dc",
+        "type": "book",
+        "data": {
+            "title": "Complex Analysis",
+            "authors": [
+                "Elias M. Stein",
+                "Rami Shakarchi"
+            ],
+            "translators": [],
+            "edition": "",
+            "publisher": "Princeton University Press",
+            "isbn": "978-0-691-11385-2",
+            "isbn_raw": "9780691113852",
+            "filetype": "pdf",
+            "md5": "b45bd5d0088f0646f64dff3b1ff032dc"
+        }
+    },
+    {
         "id": "b4a7b8c2975dc22d6ef9292c9fe5486c",
         "type": "book",
         "data": {
@@ -4286,6 +4463,23 @@
             "isbn_raw": "9787040266375",
             "filetype": "pdf",
             "md5": "c375804ce7b1fe32aa1e1e676b4a221d"
+        }
+    },
+    {
+        "id": "c5c7fa8e4fccec239ae74783a21d9d2b",
+        "type": "book",
+        "data": {
+            "title": "Combinatorial Optimization: Polyhedra and Efficiency",
+            "authors": [
+                "Alexander Schrijver"
+            ],
+            "translators": [],
+            "edition": "",
+            "publisher": "Springer",
+            "isbn": "978-3-540-20456-5",
+            "isbn_raw": "9783540204565",
+            "filetype": "pdf",
+            "md5": "c5c7fa8e4fccec239ae74783a21d9d2b"
         }
     },
     {
