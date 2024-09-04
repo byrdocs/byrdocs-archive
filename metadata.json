@@ -3176,6 +3176,24 @@
         }
     },
     {
+        "id": "89caf72f6761f0240c589a88227f4d23",
+        "type": "book",
+        "data": {
+            "title": "随机信号分析与处理",
+            "authors": [
+                "罗鹏飞",
+                "张文明"
+            ],
+            "translators": [],
+            "edition": "3",
+            "publisher": "清华大学出版社",
+            "isbn": "978-7-302-57503-0",
+            "isbn_raw": "9787302575030",
+            "filetype": "pdf",
+            "md5": "89caf72f6761f0240c589a88227f4d23"
+        }
+    },
+    {
         "id": "8a0b6d5f8bfe10eeef83d55f11ef19e7",
         "type": "book",
         "data": {
@@ -6097,6 +6115,22 @@
             "course": {
                 "type": "本科",
                 "name": "马克思主义基本原理"
+            },
+            "content": [
+                "知识点"
+            ]
+        }
+    },
+    {
+        "id": "729413265d89ee6947b9cc1c4de01a13",
+        "type": "doc",
+        "data": {
+            "title": "数字系统设计课内实验指导书",
+            "filetype": "pdf",
+            "md5": "729413265d89ee6947b9cc1c4de01a13",
+            "course": {
+                "type": "本科",
+                "name": "数字电路与逻辑系统"
             },
             "content": [
                 "知识点"
