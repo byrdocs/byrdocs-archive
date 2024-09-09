@@ -5204,6 +5204,24 @@
         }
     },
     {
+        "id": "ec623b952c1317e5216415058e6eb287",
+        "type": "book",
+        "data": {
+            "title": "图论基础及其应用",
+            "authors": [
+                "舒贤林",
+                "徐志才"
+            ],
+            "translators": [],
+            "edition": "1",
+            "publisher": "北京邮电学院出版社",
+            "isbn": "978-7-5635-0002-4",
+            "isbn_raw": "9787563500024",
+            "filetype": "pdf",
+            "md5": "ec623b952c1317e5216415058e6eb287"
+        }
+    },
+    {
         "id": "ecc132df66b256729d191511f450e1bf",
         "type": "book",
         "data": {
