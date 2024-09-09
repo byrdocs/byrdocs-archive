@@ -1978,6 +1978,25 @@
         }
     },
     {
+        "id": "582b782c0f607eff698f71cb2d274d11",
+        "type": "book",
+        "data": {
+            "title": "离散数学",
+            "authors": [
+                "耿素云",
+                "屈婉玲",
+                "张立昂"
+            ],
+            "translators": [],
+            "edition": "6",
+            "publisher": "清华大学出版社",
+            "isbn": "978-7-302-59268-6",
+            "isbn_raw": "9787302592686",
+            "filetype": "pdf",
+            "md5": "582b782c0f607eff698f71cb2d274d11"
+        }
+    },
+    {
         "id": "584397f272ee33d11491cf78011abee2",
         "type": "book",
         "data": {
@@ -2389,28 +2408,6 @@
             "isbn_raw": "9787040215076",
             "filetype": "pdf",
             "md5": "6b34f7e70671dc91d384b263e4098571"
-        }
-    },
-    {
-        "id": "6b581fef3fd3170e43d96785e00faf82",
-        "type": "book",
-        "data": {
-            "title": "数学电路与逻辑设计：慕课版",
-            "authors": [
-                "刘培植",
-                "孙文生",
-                "张治",
-                "陈佃军",
-                "胡春静",
-                "马楠"
-            ],
-            "translators": [],
-            "edition": "1",
-            "publisher": "人民邮电出版社",
-            "isbn": "978-7-115-63237-1",
-            "isbn_raw": "9787115632371",
-            "filetype": "pdf",
-            "md5": "6b581fef3fd3170e43d96785e00faf82"
         }
     },
     {
@@ -3990,6 +3987,28 @@
             "isbn_raw": "9787513509220",
             "filetype": "pdf",
             "md5": "a4c9ff7a62a3193849ba750bd242fce0"
+        }
+    },
+    {
+        "id": "a53505202b9c9ce55259e1ff3d707ac1",
+        "type": "book",
+        "data": {
+            "title": "数字电路与逻辑设计：慕课版",
+            "authors": [
+                "刘培植",
+                "孙文生",
+                "张治",
+                "陈佃军",
+                "胡春静",
+                "马楠"
+            ],
+            "translators": [],
+            "edition": "1",
+            "publisher": "人民邮电出版社",
+            "isbn": "978-7-115-63237-1",
+            "isbn_raw": "9787115632371",
+            "filetype": "pdf",
+            "md5": "a53505202b9c9ce55259e1ff3d707ac1"
         }
     },
     {
