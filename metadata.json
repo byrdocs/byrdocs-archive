@@ -4196,6 +4196,23 @@
         }
     },
     {
+        "id": "ac3ed96db796aa04ac56c486573df72f",
+        "type": "book",
+        "data": {
+            "title": "马克思主义基本原理：2023年版",
+            "authors": [
+                "《马克思主义基本原理（2023年版）》编写组"
+            ],
+            "translators": [],
+            "edition": "2",
+            "publisher": "高等教育出版社",
+            "isbn": "978-7-04-059900-8",
+            "isbn_raw": "9787040599008",
+            "filetype": "pdf",
+            "md5": "ac3ed96db796aa04ac56c486573df72f"
+        }
+    },
+    {
         "id": "aca7d97687a23dfe00b815d44b2e2daf",
         "type": "book",
         "data": {
