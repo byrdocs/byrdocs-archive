@@ -994,6 +994,23 @@
         }
     },
     {
+        "id": "3168220dbaa4d46dcdff9cc019a50e29",
+        "type": "book",
+        "data": {
+            "title": "Cryptography and Network Security",
+            "authors": [
+                "William Stallings"
+            ],
+            "translators": [],
+            "edition": "5",
+            "publisher": "Pearson",
+            "isbn": "978-0-13-609704-4",
+            "isbn_raw": "9780136097044",
+            "filetype": "pdf",
+            "md5": "3168220dbaa4d46dcdff9cc019a50e29"
+        }
+    },
+    {
         "id": "328ad8172dbc863771d70e46b424ee7a",
         "type": "book",
         "data": {
