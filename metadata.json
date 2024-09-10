@@ -921,6 +921,25 @@
         }
     },
     {
+        "id": "2f3ef1fc7a45bc4d1b0225ac3a548f1e",
+        "type": "book",
+        "data": {
+            "title": "信号与系统",
+            "authors": [
+                "尹霄丽",
+                "尹龙飞",
+                "滕颖蕾"
+            ],
+            "translators": [],
+            "edition": "1",
+            "publisher": "人民邮电出版社",
+            "isbn": "978-7-115-61320-2",
+            "isbn_raw": "9787115613202",
+            "filetype": "pdf",
+            "md5": "2f3ef1fc7a45bc4d1b0225ac3a548f1e"
+        }
+    },
+    {
         "id": "2fbeb7ab88f7f9054fa43da9d4a9a7ca",
         "type": "book",
         "data": {
@@ -1049,6 +1068,24 @@
             "isbn_raw": "9787040346596",
             "filetype": "pdf",
             "md5": "332997c311e2387ae423538e3aba6834"
+        }
+    },
+    {
+        "id": "3385fa45af7d9dac34513a2a3ac8a349",
+        "type": "book",
+        "data": {
+            "title": "高质量程序设计指南：C++/C语言",
+            "authors": [
+                "林锐",
+                "韩永泉"
+            ],
+            "translators": [],
+            "edition": "3",
+            "publisher": "电子工业出版社",
+            "isbn": "978-7-121-04114-3",
+            "isbn_raw": "9787121041143",
+            "filetype": "pdf",
+            "md5": "3385fa45af7d9dac34513a2a3ac8a349"
         }
     },
     {
@@ -1223,6 +1260,23 @@
             "isbn_raw": "9787563544516",
             "filetype": "pdf",
             "md5": "37dd011efb2c7715274b577f3ee63b0d"
+        }
+    },
+    {
+        "id": "380fdde4a20a388442ffefc6c8acb122",
+        "type": "book",
+        "data": {
+            "title": "Introduction to Linear Optimization",
+            "authors": [
+                "Dimitris Bertsimas and John N. Tsitsiklis"
+            ],
+            "translators": [],
+            "edition": "4",
+            "publisher": "Athena Scientific/Dynamic Ideas",
+            "isbn": "978-1-886529-19-9",
+            "isbn_raw": "9781886529199",
+            "filetype": "pdf",
+            "md5": "380fdde4a20a388442ffefc6c8acb122"
         }
     },
     {
@@ -2309,6 +2363,24 @@
             "isbn_raw": "9787040305722",
             "filetype": "pdf",
             "md5": "67b1ae01879c8d4ca862c4827c2aa31a"
+        }
+    },
+    {
+        "id": "6853bfcf8719c895a15b8ed778a26789",
+        "type": "book",
+        "data": {
+            "title": "测度与概率",
+            "authors": [
+                "严士健",
+                "刘秀芳"
+            ],
+            "translators": [],
+            "edition": "2",
+            "publisher": "北京师范大学出版社",
+            "isbn": "978-7-303-03790-2",
+            "isbn_raw": "9787303037902",
+            "filetype": "pdf",
+            "md5": "6853bfcf8719c895a15b8ed778a26789"
         }
     },
     {
@@ -5470,6 +5542,23 @@
             "isbn_raw": "9787563543076",
             "filetype": "pdf",
             "md5": "f866e637c46339b19a926ac9b16d0699"
+        }
+    },
+    {
+        "id": "fbae45092a3f21e1359a8a4f4076d2dc",
+        "type": "book",
+        "data": {
+            "title": "测度论讲义",
+            "authors": [
+                "严加安"
+            ],
+            "translators": [],
+            "edition": "2",
+            "publisher": "科学出版社",
+            "isbn": "978-7-03-013409-7",
+            "isbn_raw": "9787030134097",
+            "filetype": "pdf",
+            "md5": "fbae45092a3f21e1359a8a4f4076d2dc"
         }
     },
     {
