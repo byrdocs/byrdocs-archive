@@ -699,6 +699,24 @@
         }
     },
     {
+        "id": "22a2319148941625bcd15f272fa53aff",
+        "type": "book",
+        "data": {
+            "title": "Cryptography Theory and Practice",
+            "authors": [
+                "Douglas R. Stinson",
+                "Maura B. Paterson"
+            ],
+            "translators": [],
+            "edition": "4",
+            "publisher": "CRC Press",
+            "isbn": "978-1-138-19701-5",
+            "isbn_raw": "9781138197015",
+            "filetype": "pdf",
+            "md5": "22a2319148941625bcd15f272fa53aff"
+        }
+    },
+    {
         "id": "2307dd58db8bd27a6f176de750e53df2",
         "type": "book",
         "data": {
@@ -898,6 +916,26 @@
             "isbn_raw": "9780136108047",
             "filetype": "pdf",
             "md5": "2a9703343767a1b7778098a4475101b0"
+        }
+    },
+    {
+        "id": "2b4cd70ccff05241a0dfc87c22455413",
+        "type": "book",
+        "data": {
+            "title": "物联网基础与应用",
+            "authors": [
+                "彭木根",
+                "刘雅琼",
+                "闫实",
+                "赵中原"
+            ],
+            "translators": [],
+            "edition": "1",
+            "publisher": "北京邮电大学出版社",
+            "isbn": "978-7-5635-5847-6",
+            "isbn_raw": "9787563558476",
+            "filetype": "pdf",
+            "md5": "2b4cd70ccff05241a0dfc87c22455413"
         }
     },
     {
@@ -2665,6 +2703,24 @@
         }
     },
     {
+        "id": "72562a3a733c2e842be163ca97d0fa7a",
+        "type": "book",
+        "data": {
+            "title": "Matrix Computations",
+            "authors": [
+                "Gene H. Golub",
+                "Charles F. Van Loan"
+            ],
+            "translators": [],
+            "edition": "4",
+            "publisher": "The Johns Hopkins University Press",
+            "isbn": "978-1-4214-0794-4",
+            "isbn_raw": "9781421407944",
+            "filetype": "pdf",
+            "md5": "72562a3a733c2e842be163ca97d0fa7a"
+        }
+    },
+    {
         "id": "7282f03d043e8251bb566a85ce077cc8",
         "type": "book",
         "data": {
@@ -2868,6 +2924,27 @@
             "isbn_raw": "9787563569397",
             "filetype": "pdf",
             "md5": "77b71fe091b9831943ec2e84ebda41f2"
+        }
+    },
+    {
+        "id": "78399eddc546bd98a6b6a53cbbfde730",
+        "type": "book",
+        "data": {
+            "title": "复分析（原书第3版）",
+            "authors": [
+                "Lars V. Ahlfors"
+            ],
+            "translators": [
+                "赵志勇",
+                "薛运华",
+                "杨旭"
+            ],
+            "edition": "1",
+            "publisher": "机械工业出版社",
+            "isbn": "978-7-111-16793-8",
+            "isbn_raw": "9787111167938",
+            "filetype": "pdf",
+            "md5": "78399eddc546bd98a6b6a53cbbfde730"
         }
     },
     {
@@ -3782,6 +3859,26 @@
         }
     },
     {
+        "id": "9800ddaf26c45d7246e796f3ff4cc53d",
+        "type": "book",
+        "data": {
+            "title": "矩阵计算（第3版）",
+            "authors": [
+                "Gene H. Golub",
+                "Charles F. Van Loan"
+            ],
+            "translators": [
+                "袁亚湘"
+            ],
+            "edition": "1",
+            "publisher": "人民邮电出版社",
+            "isbn": "978-7-115-24785-8",
+            "isbn_raw": "9787115247858",
+            "filetype": "pdf",
+            "md5": "9800ddaf26c45d7246e796f3ff4cc53d"
+        }
+    },
+    {
         "id": "987fd5ec15807bddbf3b57336c49e1b6",
         "type": "book",
         "data": {
@@ -4287,6 +4384,25 @@
             "isbn_raw": "9787563527311",
             "filetype": "pdf",
             "md5": "b3c2e8ed864220d210d2c55fcef81be6"
+        }
+    },
+    {
+        "id": "b4514bddee861cb5707a764b3c766a6e",
+        "type": "book",
+        "data": {
+            "title": "概率极限理论基础",
+            "authors": [
+                "林焉炎",
+                "陆传荣",
+                "苏中根"
+            ],
+            "translators": [],
+            "edition": "2",
+            "publisher": "高等教育出版社",
+            "isbn": "978-7-04-042762-2",
+            "isbn_raw": "9787040427622",
+            "filetype": "pdf",
+            "md5": "b4514bddee861cb5707a764b3c766a6e"
         }
     },
     {
@@ -5426,6 +5542,24 @@
             "isbn_raw": "9787505399150",
             "filetype": "pdf",
             "md5": "f0373a09752edea95cf16769b861c07b"
+        }
+    },
+    {
+        "id": "f2bf10f6b4c2d068a49b58b632b71176",
+        "type": "book",
+        "data": {
+            "title": "Convex Optimization",
+            "authors": [
+                "Stephen Boyd",
+                "Lieven Vandenberghe"
+            ],
+            "translators": [],
+            "edition": "7",
+            "publisher": "Cambridge University Press",
+            "isbn": "978-0-521-83378-3",
+            "isbn_raw": "9780521833783",
+            "filetype": "pdf",
+            "md5": "f2bf10f6b4c2d068a49b58b632b71176"
         }
     },
     {
@@ -10484,6 +10618,25 @@
             "md5": "96aacec5a3b14e57c92e0f6f69830a72",
             "time": "2018-2019 第一学期",
             "title": "2018-2019 第一学期 线性代数 期末"
+        }
+    },
+    {
+        "id": "99da4d5e574f1c26404246968783c922",
+        "type": "test",
+        "data": {
+            "college": null,
+            "course": {
+                "type": "本科",
+                "name": "数学实验"
+            },
+            "filetype": "pdf",
+            "stage": "期末",
+            "content": [
+                "试题"
+            ],
+            "md5": "99da4d5e574f1c26404246968783c922",
+            "time": "2018-2019 第一学期",
+            "title": "2018-2019 第一学期 数学实验 期末"
         }
     },
     {
