@@ -38,6 +38,24 @@
         }
     },
     {
+        "id": "011170ccba0f48b62db6b02474516d49",
+        "type": "book",
+        "data": {
+            "title": "Lectures on Modern Optimization",
+            "authors": [
+                "Aharon Ben-Tal",
+                "Arkadi Nemirovski"
+            ],
+            "translators": [],
+            "edition": "",
+            "publisher": "Siam/MPS",
+            "isbn": "978-0-89871-491-3",
+            "isbn_raw": "9780898714913",
+            "filetype": "pdf",
+            "md5": "011170ccba0f48b62db6b02474516d49"
+        }
+    },
+    {
         "id": "030013717ceb90865c713e8febb3948d",
         "type": "book",
         "data": {
@@ -2159,6 +2177,28 @@
             "isbn_raw": "9780201726343",
             "filetype": "pdf",
             "md5": "5a6058e26290543bdfce4481414585f7"
+        }
+    },
+    {
+        "id": "5b66f9768d832eca6dae6a8c8457c69b",
+        "type": "book",
+        "data": {
+            "title": "模拟CMOS集成电路设计",
+            "authors": [
+                "Behzad Razavi"
+            ],
+            "translators": [
+                "陈贵灿",
+                "程军",
+                "张瑞智",
+                "张鸿"
+            ],
+            "edition": "2",
+            "publisher": "西安交通大学出版社",
+            "isbn": "978-7-5693-0992-8",
+            "isbn_raw": "9787569309928",
+            "filetype": "pdf",
+            "md5": "5b66f9768d832eca6dae6a8c8457c69b"
         }
     },
     {
@@ -5691,6 +5731,24 @@
             "isbn_raw": "9787040257878",
             "filetype": "pdf",
             "md5": "f7dec8339bb165825b0af62eb192cb6d"
+        }
+    },
+    {
+        "id": "f84d706dd712f25317df40949026f072",
+        "type": "book",
+        "data": {
+            "title": "Elements of Information Theory",
+            "authors": [
+                "Thomas M. Cover",
+                "Joy A. Thomas"
+            ],
+            "translators": [],
+            "edition": "2",
+            "publisher": "Wiley",
+            "isbn": "978-0-471-24195-9",
+            "isbn_raw": "9780471241959",
+            "filetype": "pdf",
+            "md5": "f84d706dd712f25317df40949026f072"
         }
     },
     {
