@@ -415,6 +415,24 @@
         }
     },
     {
+        "id": "165ecff0d4eb341deab6ef40dda51c92",
+        "type": "book",
+        "data": {
+            "title": "矩阵分析（英文版·第2版）",
+            "authors": [
+                "Horn, R. A.",
+                "Johnson, C. R."
+            ],
+            "translators": [],
+            "edition": "1",
+            "publisher": "人民邮电出版社",
+            "isbn": "978-7-115-40569-2",
+            "isbn_raw": "9787115405692",
+            "filetype": "pdf",
+            "md5": "165ecff0d4eb341deab6ef40dda51c92"
+        }
+    },
+    {
         "id": "1765e8a076c70fe1849dd6845a3ead4a",
         "type": "book",
         "data": {
@@ -1141,6 +1159,24 @@
             "isbn_raw": "9787040346596",
             "filetype": "pdf",
             "md5": "332997c311e2387ae423538e3aba6834"
+        }
+    },
+    {
+        "id": "337270cccff77b6f7318ebff83a08fbf",
+        "type": "book",
+        "data": {
+            "title": "Matrix Analysis",
+            "authors": [
+                "Roger A. Horn",
+                "Charles R. Johnson"
+            ],
+            "translators": [],
+            "edition": "1",
+            "publisher": "Cambridge University Press",
+            "isbn": "978-0-521-30586-0",
+            "isbn_raw": "9780521305860",
+            "filetype": "pdf",
+            "md5": "337270cccff77b6f7318ebff83a08fbf"
         }
     },
     {
@@ -2782,6 +2818,25 @@
         }
     },
     {
+        "id": "729645773b107dbed5d172bda4ed0951",
+        "type": "book",
+        "data": {
+            "title": "Robust Optimization",
+            "authors": [
+                "Aharon Ben-Tal",
+                "Laurent El Ghaoui",
+                "Arkadi Nemirovski"
+            ],
+            "translators": [],
+            "edition": "",
+            "publisher": "Princeton University Press/Princeton and Oxford",
+            "isbn": "978-0-691-14368-2",
+            "isbn_raw": "9780691143682",
+            "filetype": "pdf",
+            "md5": "729645773b107dbed5d172bda4ed0951"
+        }
+    },
+    {
         "id": "72a0594cdec6bd1632b74db7c5fd412a",
         "type": "book",
         "data": {
@@ -3187,6 +3242,24 @@
             "isbn_raw": "9787030640017",
             "filetype": "pdf",
             "md5": "81acc5c8038547bcc15a77ad572188f7"
+        }
+    },
+    {
+        "id": "84a841b7c585553f38e4332290d60fae",
+        "type": "book",
+        "data": {
+            "title": "Linear and Nonlinear Programming",
+            "authors": [
+                "David G. Luenberger",
+                "Yinyu Ye"
+            ],
+            "translators": [],
+            "edition": "4",
+            "publisher": "Springer",
+            "isbn": "978-3-319-18841-6",
+            "isbn_raw": "9783319188416",
+            "filetype": "pdf",
+            "md5": "84a841b7c585553f38e4332290d60fae"
         }
     },
     {
