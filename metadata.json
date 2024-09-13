@@ -1693,6 +1693,23 @@
         }
     },
     {
+        "id": "45d9a611e17e9f724688e1f0d2744726",
+        "type": "book",
+        "data": {
+            "title": "《马克思主义基本原理》实践教学辅学读本",
+            "authors": [
+                "李全喜"
+            ],
+            "translators": [],
+            "edition": "1",
+            "publisher": "研究出版社",
+            "isbn": "978-7-5199-1388-5",
+            "isbn_raw": "9787519913885",
+            "filetype": "pdf",
+            "md5": "45d9a611e17e9f724688e1f0d2744726"
+        }
+    },
+    {
         "id": "46ab086bad733201969fafa81ea2f142",
         "type": "book",
         "data": {
