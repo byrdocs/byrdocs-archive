@@ -4972,6 +4972,24 @@
         }
     },
     {
+        "id": "cabb1baaf1bea1664d28f94f0205a751",
+        "type": "book",
+        "data": {
+            "title": "An Introduction to Single-User Information Theory",
+            "authors": [
+                "Fady Alajaji",
+                "Po-Ning Chen"
+            ],
+            "translators": [],
+            "edition": "",
+            "publisher": "Springer",
+            "isbn": "978-981-10-8000-5",
+            "isbn_raw": "9789811080005",
+            "filetype": "pdf",
+            "md5": "cabb1baaf1bea1664d28f94f0205a751"
+        }
+    },
+    {
         "id": "cb969c1ad8fed47a63a19eb16a3368d4",
         "type": "book",
         "data": {
