@@ -331,6 +331,25 @@
         }
     },
     {
+        "id": "11253d47c000e5431b15177e6ecb7269",
+        "type": "book",
+        "data": {
+            "title": "信号与系统",
+            "authors": [
+                "尹霄丽",
+                "尹龙飞",
+                "滕颖蕾"
+            ],
+            "translators": [],
+            "edition": "1",
+            "publisher": "人民邮电出版社",
+            "isbn": "978-7-115-61320-2",
+            "isbn_raw": "9787115613202",
+            "filetype": "pdf",
+            "md5": "11253d47c000e5431b15177e6ecb7269"
+        }
+    },
+    {
         "id": "12bec49abc8fa7762f1ecc9e143a0884",
         "type": "book",
         "data": {
@@ -992,25 +1011,6 @@
             "isbn_raw": "9787040449327",
             "filetype": "pdf",
             "md5": "2ba0f86ba5452286a2872c8f44c9e69f"
-        }
-    },
-    {
-        "id": "2f3ef1fc7a45bc4d1b0225ac3a548f1e",
-        "type": "book",
-        "data": {
-            "title": "信号与系统",
-            "authors": [
-                "尹霄丽",
-                "尹龙飞",
-                "滕颖蕾"
-            ],
-            "translators": [],
-            "edition": "1",
-            "publisher": "人民邮电出版社",
-            "isbn": "978-7-115-61320-2",
-            "isbn_raw": "9787115613202",
-            "filetype": "pdf",
-            "md5": "2f3ef1fc7a45bc4d1b0225ac3a548f1e"
         }
     },
     {
