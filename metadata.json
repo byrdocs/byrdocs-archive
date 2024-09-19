@@ -2256,6 +2256,23 @@
         }
     },
     {
+        "id": "593b641d5fccc1fe406470e5df5c6390",
+        "type": "book",
+        "data": {
+            "title": "政治学概论",
+            "authors": [
+                "《政治学概论》编写组"
+            ],
+            "translators": [],
+            "edition": "2",
+            "publisher": "高等教育出版社",
+            "isbn": "978-7-04-054399-5",
+            "isbn_raw": "9787040543995",
+            "filetype": "pdf",
+            "md5": "593b641d5fccc1fe406470e5df5c6390"
+        }
+    },
+    {
         "id": "5a6058e26290543bdfce4481414585f7",
         "type": "book",
         "data": {
@@ -3686,6 +3703,26 @@
         }
     },
     {
+        "id": "8dbedcd06ecce4667e3145ec558a2c5b",
+        "type": "book",
+        "data": {
+            "title": "常微分方程",
+            "authors": [
+                "王高雄",
+                "周之铭",
+                "朱思铭",
+                "王寿松"
+            ],
+            "translators": [],
+            "edition": "4",
+            "publisher": "高等教育出版社",
+            "isbn": "978-7-04-051465-0",
+            "isbn_raw": "9787040514650",
+            "filetype": "pdf",
+            "md5": "8dbedcd06ecce4667e3145ec558a2c5b"
+        }
+    },
+    {
         "id": "8f28e7693e1543315d9fcf2105a508b6",
         "type": "book",
         "data": {
@@ -4029,6 +4066,27 @@
             "isbn_raw": "9787040263824",
             "filetype": "pdf",
             "md5": "9788a9c4e60d1fb202350feecf416e81"
+        }
+    },
+    {
+        "id": "978c8ddebadc346a0d5d74c8a0d8de9a",
+        "type": "book",
+        "data": {
+            "title": "移动通信原理与系统",
+            "authors": [
+                "啜钢",
+                "王文博",
+                "王晓湘",
+                "高伟东",
+                "赵龙"
+            ],
+            "translators": [],
+            "edition": "5",
+            "publisher": "北京邮电大学出版社",
+            "isbn": "978-7-5635-6798-0",
+            "isbn_raw": "9787563567980",
+            "filetype": "pdf",
+            "md5": "978c8ddebadc346a0d5d74c8a0d8de9a"
         }
     },
     {
@@ -5017,6 +5075,24 @@
         }
     },
     {
+        "id": "c8d06801df540cd6a81fc7c6459d7a37",
+        "type": "book",
+        "data": {
+            "title": "德国民法典",
+            "authors": [
+                "台湾大学法律学院",
+                "台大法学基金会"
+            ],
+            "translators": [],
+            "edition": "1",
+            "publisher": "北京大学出版社",
+            "isbn": "978-7-301-28011-9",
+            "isbn_raw": "9787301280119",
+            "filetype": "pdf",
+            "md5": "c8d06801df540cd6a81fc7c6459d7a37"
+        }
+    },
+    {
         "id": "c99d0ea28615e3deb23930d7b036596e",
         "type": "book",
         "data": {
@@ -5596,6 +5672,24 @@
             "isbn_raw": "9781118093757",
             "filetype": "pdf",
             "md5": "e4389641249a0f69ea9e61be1e00855b"
+        }
+    },
+    {
+        "id": "e6cd17de3be97c3c626426b5ed063025",
+        "type": "book",
+        "data": {
+            "title": "常微分方程教程",
+            "authors": [
+                "丁同仁",
+                "李承治"
+            ],
+            "translators": [],
+            "edition": "2",
+            "publisher": "高等教育出版社",
+            "isbn": "978-7-04-014369-0",
+            "isbn_raw": "9787040143690",
+            "filetype": "pdf",
+            "md5": "e6cd17de3be97c3c626426b5ed063025"
         }
     },
     {
@@ -6263,6 +6357,22 @@
         }
     },
     {
+        "id": "34050313fffcaa60cb0d4568373d064d",
+        "type": "doc",
+        "data": {
+            "title": "马工程《中国法制史》课本期末重点笔记整理",
+            "filetype": "pdf",
+            "md5": "34050313fffcaa60cb0d4568373d064d",
+            "course": {
+                "type": "本科",
+                "name": "中国法制史"
+            },
+            "content": [
+                "知识点"
+            ]
+        }
+    },
+    {
         "id": "34bf9c88e2a7ce920aa8854f75c4eea5",
         "type": "doc",
         "data": {
@@ -6500,6 +6610,23 @@
                 "name": "毛泽东思想和中国特色社会主义理论体系概论"
             },
             "content": [
+                "题库"
+            ]
+        }
+    },
+    {
+        "id": "4ab3eaed5c6bb3c39648b3c2ce955768",
+        "type": "doc",
+        "data": {
+            "title": "高铭暄《刑法学》（第10版）笔记和考研真题（含典型题）详解",
+            "filetype": "pdf",
+            "md5": "4ab3eaed5c6bb3c39648b3c2ce955768",
+            "course": {
+                "type": "本科",
+                "name": "刑法学"
+            },
+            "content": [
+                "知识点",
                 "题库"
             ]
         }
