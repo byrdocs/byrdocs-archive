@@ -664,6 +664,28 @@
         }
     },
     {
+        "id": "1d43f7e79f9cb4c80bd9d4877871d48b",
+        "type": "book",
+        "data": {
+            "title": "通信电子电路：微课版",
+            "authors": [
+                "邓钢",
+                "刘宝玲",
+                "崔琪楣",
+                "李立华",
+                "张铁凡",
+                "姚远"
+            ],
+            "translators": [],
+            "edition": "1",
+            "publisher": "人民邮电出版社",
+            "isbn": "978-7-115-64912-6",
+            "isbn_raw": "9787115649126",
+            "filetype": "pdf",
+            "md5": "1d43f7e79f9cb4c80bd9d4877871d48b"
+        }
+    },
+    {
         "id": "1df16655ff72f820ce3621b27cce5791",
         "type": "book",
         "data": {
@@ -10449,6 +10471,26 @@
             "md5": "895a212bb94c98235af4d93627e08f0d",
             "time": "2015-2016",
             "title": "2015-2016 概率论与随机过程"
+        }
+    },
+    {
+        "id": "896e2d3802afc93b20babea0ce921099",
+        "type": "test",
+        "data": {
+            "college": "人文学院",
+            "course": {
+                "type": "本科",
+                "name": "宪法学"
+            },
+            "filetype": "pdf",
+            "stage": "期末",
+            "content": [
+                "试题",
+                "答案"
+            ],
+            "md5": "896e2d3802afc93b20babea0ce921099",
+            "time": "2022-2023 第一学期",
+            "title": "2022-2023 第一学期 宪法学 期末"
         }
     },
     {
