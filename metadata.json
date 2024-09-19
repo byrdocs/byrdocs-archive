@@ -350,6 +350,24 @@
         }
     },
     {
+        "id": "11f259fcb50065ec1db0c36bc0b1a697",
+        "type": "book",
+        "data": {
+            "title": "刑法练习题集",
+            "authors": [
+                "王作富",
+                "黄京平"
+            ],
+            "translators": [],
+            "edition": "7",
+            "publisher": "中国人民大学出版社",
+            "isbn": "978-7-300-30423-6",
+            "isbn_raw": "9787300304236",
+            "filetype": "pdf",
+            "md5": "11f259fcb50065ec1db0c36bc0b1a697"
+        }
+    },
+    {
         "id": "12bec49abc8fa7762f1ecc9e143a0884",
         "type": "book",
         "data": {
@@ -4818,6 +4836,25 @@
         }
     },
     {
+        "id": "bfed5b5572c6249cb91668051a1f1b0d",
+        "type": "book",
+        "data": {
+            "title": "新未来大学英语综合教程. 3B",
+            "authors": [
+                "季佩英",
+                "潘海英",
+                "Edward Price"
+            ],
+            "translators": [],
+            "edition": "1",
+            "publisher": "外语教学与研究出版社",
+            "isbn": "978-7-5213-2807-3",
+            "isbn_raw": "9787521328073",
+            "filetype": "pdf",
+            "md5": "bfed5b5572c6249cb91668051a1f1b0d"
+        }
+    },
+    {
         "id": "c28516c721c6cf7a4233873171bd1df0",
         "type": "book",
         "data": {
@@ -6560,6 +6597,22 @@
             },
             "content": [
                 "题库"
+            ]
+        }
+    },
+    {
+        "id": "610f8620aac14b1653849f1a6245f714",
+        "type": "doc",
+        "data": {
+            "title": "知识梳理",
+            "filetype": "pdf",
+            "md5": "610f8620aac14b1653849f1a6245f714",
+            "course": {
+                "type": "本科",
+                "name": "习近平法治思想概论"
+            },
+            "content": [
+                "思维导图"
             ]
         }
     },
