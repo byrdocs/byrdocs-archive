@@ -7904,6 +7904,25 @@
         }
     },
     {
+        "id": "09afab1d9a271435ccc7ede3968727b6",
+        "type": "test",
+        "data": {
+            "college": null,
+            "course": {
+                "type": "本科",
+                "name": "数字信号处理"
+            },
+            "filetype": "pdf",
+            "stage": "期中",
+            "content": [
+                "试题"
+            ],
+            "md5": "09afab1d9a271435ccc7ede3968727b6",
+            "time": "2023-2024 第一学期",
+            "title": "2023-2024 第一学期 数字信号处理 期中"
+        }
+    },
+    {
         "id": "0b39b89bbea3a187d2aa856381473de3",
         "type": "test",
         "data": {
