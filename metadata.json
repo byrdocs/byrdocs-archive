@@ -189,6 +189,27 @@
         }
     },
     {
+        "id": "093867ede03624d5e443fe575bafaceb",
+        "type": "book",
+        "data": {
+            "title": "Optimization Based Data Mining: Theory and Applications",
+            "authors": [
+                "Yong Shi",
+                "Yingjie Tian",
+                "Gang Kou",
+                "Yi Peng",
+                "Jianping Li"
+            ],
+            "translators": [],
+            "edition": "",
+            "publisher": "Springer",
+            "isbn": "978-0-85729-503-3",
+            "isbn_raw": "9780857295033",
+            "filetype": "pdf",
+            "md5": "093867ede03624d5e443fe575bafaceb"
+        }
+    },
+    {
         "id": "0cb44163b35dc9438f0dd3c6610e8a75",
         "type": "book",
         "data": {
@@ -1051,6 +1072,23 @@
             "isbn_raw": "9787040449327",
             "filetype": "pdf",
             "md5": "2ba0f86ba5452286a2872c8f44c9e69f"
+        }
+    },
+    {
+        "id": "2f37e55c5a9b4f14c5e64697dcf71306",
+        "type": "book",
+        "data": {
+            "title": "Measure Theory",
+            "authors": [
+                "Donald L. Cohn"
+            ],
+            "translators": [],
+            "edition": "2",
+            "publisher": "Birkhäuser",
+            "isbn": "978-1-4614-6955-1",
+            "isbn_raw": "9781461469551",
+            "filetype": "pdf",
+            "md5": "2f37e55c5a9b4f14c5e64697dcf71306"
         }
     },
     {
@@ -4303,6 +4341,24 @@
         }
     },
     {
+        "id": "9f2ab259c0c662b59cda32277f1ca284",
+        "type": "book",
+        "data": {
+            "title": "Numerical Optimization",
+            "authors": [
+                "Jorge Nocedal",
+                "Stephen J. Wright"
+            ],
+            "translators": [],
+            "edition": "",
+            "publisher": "Springer",
+            "isbn": "978-0-387-98793-4",
+            "isbn_raw": "9780387987934",
+            "filetype": "pdf",
+            "md5": "9f2ab259c0c662b59cda32277f1ca284"
+        }
+    },
+    {
         "id": "9f9de1451759399fb877f998910b25c9",
         "type": "book",
         "data": {
@@ -4747,6 +4803,25 @@
             "isbn_raw": "9787121220432",
             "filetype": "pdf",
             "md5": "b8e7406e24db82a4c3b2e8a82154cd55"
+        }
+    },
+    {
+        "id": "b93dce2e650213bfec55fa8b6fd5161e",
+        "type": "book",
+        "data": {
+            "title": "Nonlinear Programming Theory and Algorithms",
+            "authors": [
+                "Mokhtar S. Bazaraa",
+                "Hanif D. Sherali",
+                "C. M. Shetty"
+            ],
+            "translators": [],
+            "edition": "3",
+            "publisher": "Wiley",
+            "isbn": "978-0-471-48600-8",
+            "isbn_raw": "9780471486008",
+            "filetype": "pdf",
+            "md5": "b93dce2e650213bfec55fa8b6fd5161e"
         }
     },
     {
@@ -5431,6 +5506,26 @@
         }
     },
     {
+        "id": "da83335d9211ed08b587f6477df9fb99",
+        "type": "book",
+        "data": {
+            "title": "复变函数及应用（原书第7版）",
+            "authors": [
+                "James Ward Brown",
+                "Ruel V. Churchill"
+            ],
+            "translators": [
+                "邓冠铁"
+            ],
+            "edition": "1",
+            "publisher": "机械工业出版社",
+            "isbn": "978-7-111-15830-1",
+            "isbn_raw": "9787111158301",
+            "filetype": "pdf",
+            "md5": "da83335d9211ed08b587f6477df9fb99"
+        }
+    },
+    {
         "id": "db88b5202d55128296d337ab7c2da1f2",
         "type": "book",
         "data": {
@@ -5743,6 +5838,23 @@
             "isbn_raw": "9787040525533",
             "filetype": "pdf",
             "md5": "e9001b2bbf800581331b16e664e657bd"
+        }
+    },
+    {
+        "id": "e95e92d662404e2a89958c8338989e9e",
+        "type": "book",
+        "data": {
+            "title": "Partial Differential Equations",
+            "authors": [
+                "Lawrence C. Evans"
+            ],
+            "translators": [],
+            "edition": "",
+            "publisher": "American Mathematical Society",
+            "isbn": "978-0-8218-4974-3",
+            "isbn_raw": "9780821849743",
+            "filetype": "pdf",
+            "md5": "e95e92d662404e2a89958c8338989e9e"
         }
     },
     {
