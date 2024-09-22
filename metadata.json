@@ -210,6 +210,27 @@
         }
     },
     {
+        "id": "0cb116e913b266137e793daf60b3515a",
+        "type": "book",
+        "data": {
+            "title": "密码编码学与网络安全：原理与实践",
+            "authors": [
+                "William Stallings"
+            ],
+            "translators": [
+                "王张宜",
+                "杨敏",
+                "杜瑞颖"
+            ],
+            "edition": "1",
+            "publisher": "电子工业出版社",
+            "isbn": "978-7-121-15250-4",
+            "isbn_raw": "9787121152504",
+            "filetype": "pdf",
+            "md5": "0cb116e913b266137e793daf60b3515a"
+        }
+    },
+    {
         "id": "0cb44163b35dc9438f0dd3c6610e8a75",
         "type": "book",
         "data": {
@@ -1484,6 +1505,28 @@
         }
     },
     {
+        "id": "3ab7b2a0ea89be913f753392763b2975",
+        "type": "book",
+        "data": {
+            "title": "复变函数论方法（复6版）",
+            "authors": [
+                "М. А. 拉夫连季耶夫",
+                "Б. В. 沙巴特"
+            ],
+            "translators": [
+                "施祥林",
+                "夏定中",
+                "吕乃刚"
+            ],
+            "edition": "2",
+            "publisher": "高等教育出版社",
+            "isbn": "978-7-04-018398-6",
+            "isbn_raw": "9787040183986",
+            "filetype": "pdf",
+            "md5": "3ab7b2a0ea89be913f753392763b2975"
+        }
+    },
+    {
         "id": "3b597d14bfeab1e5eaeb5582e7c8f9a8",
         "type": "book",
         "data": {
@@ -1950,6 +1993,23 @@
             "isbn_raw": "9787040176803",
             "filetype": "pdf",
             "md5": "4cb3372f96a5019d764376cedd949412"
+        }
+    },
+    {
+        "id": "4d19e927c70b149f870913d353bfad83",
+        "type": "book",
+        "data": {
+            "title": "Complex Analysis",
+            "authors": [
+                "Lars V. Ahlfors"
+            ],
+            "translators": [],
+            "edition": "3",
+            "publisher": "McGraw-Hill, Inc.",
+            "isbn": "978-0-07-000657-7",
+            "isbn_raw": "9780070006577",
+            "filetype": "pdf",
+            "md5": "4d19e927c70b149f870913d353bfad83"
         }
     },
     {
@@ -4574,6 +4634,24 @@
             "isbn_raw": "9787111135104",
             "filetype": "pdf",
             "md5": "aba3fe568ae8ba438347fd713dd80bab"
+        }
+    },
+    {
+        "id": "abd263b9af0620e8a1b7e6a7c253f72e",
+        "type": "book",
+        "data": {
+            "title": "Stochastic Global Optimization",
+            "authors": [
+                "Anatoly Zhigliavsky",
+                "Antanas Zilinskas"
+            ],
+            "translators": [],
+            "edition": "",
+            "publisher": "Springer",
+            "isbn": "978-0-387-74022-5",
+            "isbn_raw": "9780387740225",
+            "filetype": "pdf",
+            "md5": "abd263b9af0620e8a1b7e6a7c253f72e"
         }
     },
     {
@@ -10904,6 +10982,25 @@
         }
     },
     {
+        "id": "8d10b540e4b39a628e2d7b0d5dfffbe5",
+        "type": "test",
+        "data": {
+            "college": "人文学院",
+            "course": {
+                "type": "本科",
+                "name": "法理学"
+            },
+            "filetype": "pdf",
+            "stage": "期末",
+            "content": [
+                "试题"
+            ],
+            "md5": "8d10b540e4b39a628e2d7b0d5dfffbe5",
+            "time": "2022-2023 第一学期",
+            "title": "2022-2023 第一学期 法理学 期末"
+        }
+    },
+    {
         "id": "8d6637c8406385b768d8564f1bfe451f",
         "type": "test",
         "data": {
@@ -12175,6 +12272,26 @@
             "md5": "d2f1c75a9110dc1f13f61edec7150999",
             "time": "2019-2020 第二学期",
             "title": "2019-2020 第二学期 形式语言与自动机 期末"
+        }
+    },
+    {
+        "id": "d4082875ceb29f91df11117b70bffae0",
+        "type": "test",
+        "data": {
+            "college": null,
+            "course": {
+                "type": "本科",
+                "name": "微机原理与接口技术"
+            },
+            "filetype": "pdf",
+            "stage": "期末",
+            "content": [
+                "试题",
+                "答案"
+            ],
+            "md5": "d4082875ceb29f91df11117b70bffae0",
+            "time": "2007-2008 第一学期",
+            "title": "2007-2008 第一学期 微机原理与接口技术 期末"
         }
     },
     {
