@@ -6469,6 +6469,22 @@
         }
     },
     {
+        "id": "0f5a8e81ad0c2a7de6d4dde00289b9fa",
+        "type": "doc",
+        "data": {
+            "title": "大学学术英语视听说教程 下册 （第2版） Unit 1 TOP课件",
+            "filetype": "zip",
+            "md5": "0f5a8e81ad0c2a7de6d4dde00289b9fa",
+            "course": {
+                "type": "本科",
+                "name": "大学英语"
+            },
+            "content": [
+                "课件"
+            ]
+        }
+    },
+    {
         "id": "118f2d5bebf10f9adb3cf89614b0a47c",
         "type": "doc",
         "data": {
