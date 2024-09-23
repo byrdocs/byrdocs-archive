@@ -5507,6 +5507,23 @@
         }
     },
     {
+        "id": "d26d12213f3883ddea4fe15b683a0676",
+        "type": "book",
+        "data": {
+            "title": "多元统计分析",
+            "authors": [
+                "何晓群"
+            ],
+            "translators": [],
+            "edition": "5",
+            "publisher": "中国人民大学出版社",
+            "isbn": "978-7-300-26858-3",
+            "isbn_raw": "9787300268583",
+            "filetype": "pdf",
+            "md5": "d26d12213f3883ddea4fe15b683a0676"
+        }
+    },
+    {
         "id": "d435a8af6248ac2141c14987ab4ed0ed",
         "type": "book",
         "data": {
