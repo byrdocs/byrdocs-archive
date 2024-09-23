@@ -4754,6 +4754,23 @@
         }
     },
     {
+        "id": "b2fcb9f9776331b777903d8cd2b84c77",
+        "type": "book",
+        "data": {
+            "title": "Visual Complex Analysis",
+            "authors": [
+                "Tristan Needham"
+            ],
+            "translators": [],
+            "edition": "1",
+            "publisher": "Oxford University Press",
+            "isbn": "978-0-19-853447-1",
+            "isbn_raw": "9780198534471",
+            "filetype": "pdf",
+            "md5": "b2fcb9f9776331b777903d8cd2b84c77"
+        }
+    },
+    {
         "id": "b3c2e8ed864220d210d2c55fcef81be6",
         "type": "book",
         "data": {
