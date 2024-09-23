@@ -7096,6 +7096,22 @@
         }
     },
     {
+        "id": "82070039cb069541329ed51107715e9f",
+        "type": "doc",
+        "data": {
+            "title": "新目标大学英语（第二版 第2册）视听说教程参考答案",
+            "filetype": "pdf",
+            "md5": "82070039cb069541329ed51107715e9f",
+            "course": {
+                "type": "本科",
+                "name": "大学英语"
+            },
+            "content": [
+                "答案"
+            ]
+        }
+    },
+    {
         "id": "8285ae9bb8aec3dbf665dd1bdf75bef4",
         "type": "doc",
         "data": {
@@ -7131,7 +7147,7 @@
         "id": "8b3bc2a11252293e2c255aabf6d301b7",
         "type": "doc",
         "data": {
-            "title": "新目标大学英语（第二版）视听说教程参考答案",
+            "title": "新目标大学英语（第二版 第1册）视听说教程参考答案",
             "filetype": "pdf",
             "md5": "8b3bc2a11252293e2c255aabf6d301b7",
             "course": {
@@ -7446,6 +7462,22 @@
             "content": [
                 "思维导图",
                 "知识点"
+            ]
+        }
+    },
+    {
+        "id": "c2bbb58aaa754ad6e6dfa956c8459406",
+        "type": "doc",
+        "data": {
+            "title": "新目标大学英语（第二版 第3册）视听说教程参考答案",
+            "filetype": "pdf",
+            "md5": "c2bbb58aaa754ad6e6dfa956c8459406",
+            "course": {
+                "type": "本科",
+                "name": "大学英语"
+            },
+            "content": [
+                "答案"
             ]
         }
     },
