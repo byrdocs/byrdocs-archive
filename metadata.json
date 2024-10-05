@@ -94,6 +94,23 @@
         }
     },
     {
+        "id": "05c9ef5429efbb3d9ae774f9ff8102a5",
+        "type": "book",
+        "data": {
+            "title": "ARM体系结构与编程",
+            "authors": [
+                "杜春雷"
+            ],
+            "translators": [],
+            "edition": "2",
+            "publisher": "清华大学出版社",
+            "isbn": "978-7-302-40342-5",
+            "isbn_raw": "9787302403425",
+            "filetype": "pdf",
+            "md5": "05c9ef5429efbb3d9ae774f9ff8102a5"
+        }
+    },
+    {
         "id": "05d67011b2d1ded27ecdf15b88c0b9b1",
         "type": "book",
         "data": {
