@@ -5657,6 +5657,27 @@
         }
     },
     {
+        "id": "dd6388976e48a6ce2f8a30355acfcba0",
+        "type": "book",
+        "data": {
+            "title": "物联网基础与应用",
+            "authors": [
+                "彭木根",
+                "刘雅琼",
+                "刘晨熙",
+                "曹傧",
+                "刘喜庆"
+            ],
+            "translators": [],
+            "edition": "2",
+            "publisher": "北京邮电大学出版社",
+            "isbn": "978-7-5635-6938-0",
+            "isbn_raw": "9787563569380",
+            "filetype": "pdf",
+            "md5": "dd6388976e48a6ce2f8a30355acfcba0"
+        }
+    },
+    {
         "id": "dd888ac40f6100415395d8c6d553aad4",
         "type": "book",
         "data": {
