@@ -1760,6 +1760,24 @@
         }
     },
     {
+        "id": "43a201ec157adde7c431092738c974a0",
+        "type": "book",
+        "data": {
+            "title": "图论及其应用",
+            "authors": [
+                "卓新建",
+                "苏永美"
+            ],
+            "translators": [],
+            "edition": "1",
+            "publisher": "北京邮电大学出版社",
+            "isbn": "978-7-5635-5560-4",
+            "isbn_raw": "9787563555604",
+            "filetype": "pdf",
+            "md5": "43a201ec157adde7c431092738c974a0"
+        }
+    },
+    {
         "id": "44bc6d4d52be12e46679c2166987a256",
         "type": "book",
         "data": {
