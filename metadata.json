@@ -1148,24 +1148,6 @@
         }
     },
     {
-        "id": "2fd92f3c7e38ad5c136015a7e6a3ffcf",
-        "type": "book",
-        "data": {
-            "title": "Computer Systems: A Programmer’s Perspective",
-            "authors": [
-                "Randal E. Bryant",
-                "David R. O’ Hallaron"
-            ],
-            "translators": [],
-            "edition": "3",
-            "publisher": "Pearson",
-            "isbn": "978-1-292-10176-7",
-            "isbn_raw": "9781292101767",
-            "filetype": "pdf",
-            "md5": "2fd92f3c7e38ad5c136015a7e6a3ffcf"
-        }
-    },
-    {
         "id": "31601606ba85971d6e51bd1327bda68e",
         "type": "book",
         "data": {
@@ -4521,6 +4503,24 @@
             "isbn_raw": "9787563552672",
             "filetype": "pdf",
             "md5": "a1c22a40527f1488eb5afc7ea5e2d998"
+        }
+    },
+    {
+        "id": "a1e1a6de1fed7b4d0a0fc91337e7d6f4",
+        "type": "book",
+        "data": {
+            "title": "Computer Systems: A Programmer’s Perspective",
+            "authors": [
+                "Randal E. Bryant",
+                "David R. O’ Hallaron"
+            ],
+            "translators": [],
+            "edition": "3",
+            "publisher": "Pearson",
+            "isbn": "978-1-292-10176-7",
+            "isbn_raw": "9781292101767",
+            "filetype": "pdf",
+            "md5": "a1e1a6de1fed7b4d0a0fc91337e7d6f4"
         }
     },
     {
