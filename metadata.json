@@ -8647,25 +8647,6 @@
         }
     },
     {
-        "id": "1ea3ad7f34658f5b085189e02124ff92",
-        "type": "test",
-        "data": {
-            "college": null,
-            "course": {
-                "type": "本科",
-                "name": "工程图学"
-            },
-            "filetype": "pdf",
-            "stage": "期末",
-            "content": [
-                "试题"
-            ],
-            "md5": "1ea3ad7f34658f5b085189e02124ff92",
-            "time": null,
-            "title": "工程图学 期末"
-        }
-    },
-    {
         "id": "1f57c0f2d695233304d68515c0c2e0ba",
         "type": "test",
         "data": {
@@ -8819,25 +8800,6 @@
             "md5": "22ac74c14e7a31aec32e77512d76c3c7",
             "time": "2017",
             "title": "2017 计算机网络 期中"
-        }
-    },
-    {
-        "id": "2330a4d73d5cc84954e1ce486f79b321",
-        "type": "test",
-        "data": {
-            "college": null,
-            "course": {
-                "type": "本科",
-                "name": "工程图学"
-            },
-            "filetype": "pdf",
-            "stage": "期末",
-            "content": [
-                "试题"
-            ],
-            "md5": "2330a4d73d5cc84954e1ce486f79b321",
-            "time": null,
-            "title": "工程图学 期末"
         }
     },
     {
@@ -11199,25 +11161,6 @@
         }
     },
     {
-        "id": "8b746766f1cda0aeedd0045c54312892",
-        "type": "test",
-        "data": {
-            "college": null,
-            "course": {
-                "type": "本科",
-                "name": "概率论与数理统计"
-            },
-            "filetype": "pdf",
-            "stage": "期末",
-            "content": [
-                "试题"
-            ],
-            "md5": "8b746766f1cda0aeedd0045c54312892",
-            "time": null,
-            "title": "概率论与数理统计 期末"
-        }
-    },
-    {
         "id": "8b8959530a6bcacd67543af98ea32400",
         "type": "test",
         "data": {
@@ -11940,25 +11883,6 @@
             "md5": "aa9e3acac26664c8f44bd88e769d630c",
             "time": "2022-2023 第二学期",
             "title": "2022-2023 第二学期 python编程与实践 期末"
-        }
-    },
-    {
-        "id": "aca8096360814dee0c4e23730cc90e10",
-        "type": "test",
-        "data": {
-            "college": null,
-            "course": {
-                "type": "本科",
-                "name": "计算机网络"
-            },
-            "filetype": "pdf",
-            "stage": "期末",
-            "content": [
-                "试题"
-            ],
-            "md5": "aca8096360814dee0c4e23730cc90e10",
-            "time": null,
-            "title": "计算机网络 期末"
         }
     },
     {
@@ -12687,25 +12611,6 @@
             "md5": "d48875497d31f88735659851ebde24fe",
             "time": "2015-2016 第二学期",
             "title": "2015-2016 第二学期 大学物理B（上） 期末"
-        }
-    },
-    {
-        "id": "d4de28efded7e05bf3431969072cc3c6",
-        "type": "test",
-        "data": {
-            "college": null,
-            "course": {
-                "type": "本科",
-                "name": "工程图学"
-            },
-            "filetype": "pdf",
-            "stage": "期末",
-            "content": [
-                "试题"
-            ],
-            "md5": "d4de28efded7e05bf3431969072cc3c6",
-            "time": null,
-            "title": "工程图学 期末"
         }
     },
     {
