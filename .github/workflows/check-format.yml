@@ -5,9 +5,6 @@ on:
     types: [opened, synchronize, reopened]
     branches:
       - master
-  push:
-    branches:
-      - master
 
 jobs:
   update:
