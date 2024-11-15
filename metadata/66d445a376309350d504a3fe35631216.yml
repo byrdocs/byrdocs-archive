@@ -1,0 +1,19 @@
+id: 66d445a376309350d504a3fe35631216
+url: https://byrdocs.org/files/66d445a376309350d504a3fe35631216.pdf
+type: test
+data:
+  title: 2023-2024 第二学期 大学物理（上） 期末
+  college:
+  - 未来学院
+  course:
+    type: null
+    name: 大学物理（上）
+  time:
+    start: '2023'
+    end: '2024'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

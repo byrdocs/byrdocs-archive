@@ -1,0 +1,17 @@
+id: fab3e96a60fb4404767e81a41df44d22
+url: https://byrdocs.org/files/fab3e96a60fb4404767e81a41df44d22.pdf
+type: test
+data:
+  title: 2017-2018 第二学期 大学物理 期末
+  college: null
+  course:
+    type: null
+    name: 大学物理
+  time:
+    start: '2017'
+    end: '2018'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 答案

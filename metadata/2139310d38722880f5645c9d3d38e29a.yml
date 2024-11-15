@@ -1,0 +1,18 @@
+id: 2139310d38722880f5645c9d3d38e29a
+url: https://byrdocs.org/files/2139310d38722880f5645c9d3d38e29a.pdf
+type: test
+data:
+  title: 2020-2021 第一学期 C/C++程序设计与编程方法 期末
+  college: null
+  course:
+    type: null
+    name: C/C++程序设计与编程方法
+  time:
+    start: '2020'
+    end: '2021'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

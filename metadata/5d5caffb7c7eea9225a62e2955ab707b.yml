@@ -1,0 +1,17 @@
+id: 5d5caffb7c7eea9225a62e2955ab707b
+url: https://byrdocs.org/files/5d5caffb7c7eea9225a62e2955ab707b.pdf
+type: test
+data:
+  title: 2012-2013 第二学期 运筹学 期末
+  college: null
+  course:
+    type: null
+    name: 运筹学
+  time:
+    start: '2012'
+    end: '2013'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

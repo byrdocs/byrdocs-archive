@@ -1,0 +1,18 @@
+id: 7c117f0bb66f86b0298bab7a508f757d
+url: https://byrdocs.org/files/7c117f0bb66f86b0298bab7a508f757d.pdf
+type: test
+data:
+  title: 2018-2019 第一学期 大学物理（下） 期末
+  college: null
+  course:
+    type: null
+    name: 大学物理（下）
+  time:
+    start: '2018'
+    end: '2019'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

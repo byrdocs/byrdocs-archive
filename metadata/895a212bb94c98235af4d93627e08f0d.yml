@@ -1,0 +1,18 @@
+id: 895a212bb94c98235af4d93627e08f0d
+url: https://byrdocs.org/files/895a212bb94c98235af4d93627e08f0d.pdf
+type: test
+data:
+  title: 2015-2016 概率论与随机过程
+  college: null
+  course:
+    type: null
+    name: 概率论与随机过程
+  time:
+    start: '2015'
+    end: '2016'
+    semester: null
+    stage: null
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

@@ -1,0 +1,17 @@
+id: c3e79a6265b99806a5c782a77f6db471
+url: https://byrdocs.org/files/c3e79a6265b99806a5c782a77f6db471.pdf
+type: test
+data:
+  title: 2008-2009 第一学期 线性代数 期末
+  college: null
+  course:
+    type: null
+    name: 线性代数
+  time:
+    start: '2008'
+    end: '2009'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 答案

@@ -1,0 +1,18 @@
+id: 73d7085b07086f677f3fd31bd501cf60
+url: https://byrdocs.org/files/73d7085b07086f677f3fd31bd501cf60.pdf
+type: test
+data:
+  title: 2009-2010 第一学期 数字逻辑与数字系统 期末
+  college: null
+  course:
+    type: null
+    name: 数字逻辑与数字系统
+  time:
+    start: '2009'
+    end: '2010'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

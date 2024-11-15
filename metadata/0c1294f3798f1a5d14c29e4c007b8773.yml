@@ -1,0 +1,17 @@
+id: 0c1294f3798f1a5d14c29e4c007b8773
+url: https://byrdocs.org/files/0c1294f3798f1a5d14c29e4c007b8773.pdf
+type: test
+data:
+  title: 2018-2019 第一学期 高等数学A（上） 期末
+  college: null
+  course:
+    type: null
+    name: 高等数学A（上）
+  time:
+    start: '2018'
+    end: '2019'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 答案

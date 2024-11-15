@@ -1,0 +1,19 @@
+id: 8d6637c8406385b768d8564f1bfe451f
+url: https://byrdocs.org/files/8d6637c8406385b768d8564f1bfe451f.pdf
+type: test
+data:
+  title: 2023-2024 第二学期 高等数学（下） 期末
+  college:
+  - 计算机学院
+  course:
+    type: null
+    name: 高等数学（下）
+  time:
+    start: '2023'
+    end: '2024'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

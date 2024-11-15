@@ -1,0 +1,19 @@
+id: 052cefeef110ed97ceddcfb2ced7f3e8
+url: https://byrdocs.org/files/052cefeef110ed97ceddcfb2ced7f3e8.pdf
+type: test
+data:
+  title: 2023-2024 第一学期 电磁场与电磁波 期中
+  college:
+  - 电子工程学院
+  course:
+    type: null
+    name: 电磁场与电磁波
+  time:
+    start: '2023'
+    end: '2024'
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

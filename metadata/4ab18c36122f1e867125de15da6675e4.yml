@@ -1,0 +1,18 @@
+id: 4ab18c36122f1e867125de15da6675e4
+url: https://byrdocs.org/files/4ab18c36122f1e867125de15da6675e4.pdf
+type: test
+data:
+  title: 2013-2014 第一学期 概率论与随机过程 期末
+  college: null
+  course:
+    type: null
+    name: 概率论与随机过程
+  time:
+    start: '2013'
+    end: '2014'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

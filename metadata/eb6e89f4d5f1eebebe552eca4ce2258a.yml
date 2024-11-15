@@ -1,0 +1,18 @@
+id: eb6e89f4d5f1eebebe552eca4ce2258a
+url: https://byrdocs.org/files/eb6e89f4d5f1eebebe552eca4ce2258a.pdf
+type: test
+data:
+  title: 2015-2016 第二学期 概率论与数理统计 期末
+  college: null
+  course:
+    type: null
+    name: 概率论与数理统计
+  time:
+    start: '2015'
+    end: '2016'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

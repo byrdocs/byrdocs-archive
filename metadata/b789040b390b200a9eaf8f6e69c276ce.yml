@@ -1,0 +1,17 @@
+id: b789040b390b200a9eaf8f6e69c276ce
+url: https://byrdocs.org/files/b789040b390b200a9eaf8f6e69c276ce.pdf
+type: test
+data:
+  title: 2010-2011 第二学期 电路与电子学基础
+  college: null
+  course:
+    type: null
+    name: 电路与电子学基础
+  time:
+    start: '2010'
+    end: '2011'
+    semester: Second
+    stage: null
+  filetype: pdf
+  content:
+  - 原题

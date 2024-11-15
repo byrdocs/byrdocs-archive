@@ -1,0 +1,18 @@
+id: 65c367b3f7fe40375ebacdcc5b880b86
+url: https://byrdocs.org/files/65c367b3f7fe40375ebacdcc5b880b86.pdf
+type: test
+data:
+  title: 2017-2018 第二学期 数学分析（下） 期末
+  college: null
+  course:
+    type: null
+    name: 数学分析（下）
+  time:
+    start: '2017'
+    end: '2018'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

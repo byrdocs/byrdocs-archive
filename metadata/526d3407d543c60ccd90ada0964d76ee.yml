@@ -1,0 +1,16 @@
+id: 526d3407d543c60ccd90ada0964d76ee
+url: https://byrdocs.org/files/526d3407d543c60ccd90ada0964d76ee.pdf
+type: book
+data:
+  title: 计算机网络：自顶向下方法（原书第七版）
+  authors:
+  - James F. Kurose
+  - Keith W.Ross
+  translators:
+  - 陈鸣
+  edition: '1'
+  publisher: 机械工业出版社
+  publish_year: null
+  isbn:
+  - 978-7-111-59971-5
+  filetype: pdf

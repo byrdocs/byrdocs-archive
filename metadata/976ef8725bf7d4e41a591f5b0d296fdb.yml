@@ -1,0 +1,17 @@
+id: 976ef8725bf7d4e41a591f5b0d296fdb
+url: https://byrdocs.org/files/976ef8725bf7d4e41a591f5b0d296fdb.pdf
+type: book
+data:
+  title: Introduction to Algorithms
+  authors:
+  - Thomas H. Cormen
+  - Charles E. Leiserson
+  - Ronald L. Rivest
+  - Clifford Stein
+  translators: []
+  edition: '3'
+  publisher: The MIT Press
+  publish_year: null
+  isbn:
+  - 978-0-262-03384-8
+  filetype: pdf

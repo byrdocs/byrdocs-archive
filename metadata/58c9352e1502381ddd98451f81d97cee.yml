@@ -1,0 +1,18 @@
+id: 58c9352e1502381ddd98451f81d97cee
+url: https://byrdocs.org/files/58c9352e1502381ddd98451f81d97cee.pdf
+type: test
+data:
+  title: 2018-2019 第二学期 电路与电子学基础 期末
+  college: null
+  course:
+    type: null
+    name: 电路与电子学基础
+  time:
+    start: '2018'
+    end: '2019'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

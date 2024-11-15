@@ -1,0 +1,18 @@
+id: fe40bd886917bcd81c7dbe1cc6599ba2
+url: https://byrdocs.org/files/fe40bd886917bcd81c7dbe1cc6599ba2.pdf
+type: test
+data:
+  title: 2013-2014 第二学期 电磁场与电磁波 期末
+  college: null
+  course:
+    type: null
+    name: 电磁场与电磁波
+  time:
+    start: '2013'
+    end: '2014'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

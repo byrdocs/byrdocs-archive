@@ -1,0 +1,18 @@
+id: 95507752cfb757cb0c720fd4b771cf2c
+url: https://byrdocs.org/files/95507752cfb757cb0c720fd4b771cf2c.pdf
+type: test
+data:
+  title: 2013-2014 通信原理
+  college: null
+  course:
+    type: null
+    name: 通信原理
+  time:
+    start: '2013'
+    end: '2014'
+    semester: null
+    stage: null
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

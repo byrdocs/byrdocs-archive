@@ -1,0 +1,17 @@
+id: 09afab1d9a271435ccc7ede3968727b6
+url: https://byrdocs.org/files/09afab1d9a271435ccc7ede3968727b6.pdf
+type: test
+data:
+  title: 2023-2024 第一学期 数字信号处理 期中
+  college: null
+  course:
+    type: null
+    name: 数字信号处理
+  time:
+    start: '2023'
+    end: '2024'
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题

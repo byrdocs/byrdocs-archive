@@ -1,0 +1,18 @@
+id: ed89db2b6871881ce1e8078445721b11
+url: https://byrdocs.org/files/ed89db2b6871881ce1e8078445721b11.pdf
+type: test
+data:
+  title: 2013-2014 第二学期 工程数学 期末
+  college: null
+  course:
+    type: null
+    name: 工程数学
+  time:
+    start: '2013'
+    end: '2014'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

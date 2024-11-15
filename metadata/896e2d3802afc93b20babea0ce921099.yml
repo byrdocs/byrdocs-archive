@@ -1,0 +1,19 @@
+id: 896e2d3802afc93b20babea0ce921099
+url: https://byrdocs.org/files/896e2d3802afc93b20babea0ce921099.pdf
+type: test
+data:
+  title: 2022-2023 第一学期 宪法学 期末
+  college:
+  - 人文学院
+  course:
+    type: null
+    name: 宪法学
+  time:
+    start: '2022'
+    end: '2023'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

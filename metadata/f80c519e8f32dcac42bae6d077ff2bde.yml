@@ -1,0 +1,18 @@
+id: f80c519e8f32dcac42bae6d077ff2bde
+url: https://byrdocs.org/files/f80c519e8f32dcac42bae6d077ff2bde.pdf
+type: test
+data:
+  title: 2013-2014 第二学期 概率论与随机过程 期末
+  college: null
+  course:
+    type: null
+    name: 概率论与随机过程
+  time:
+    start: '2013'
+    end: '2014'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

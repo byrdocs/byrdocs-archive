@@ -1,0 +1,18 @@
+id: b57bed8d8a682fc7cbf1e629358aacda
+url: https://byrdocs.org/files/b57bed8d8a682fc7cbf1e629358aacda.pdf
+type: test
+data:
+  title: 2011-2012 第一学期 线性代数 期末
+  college: null
+  course:
+    type: null
+    name: 线性代数
+  time:
+    start: '2011'
+    end: '2012'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

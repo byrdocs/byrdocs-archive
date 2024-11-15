@@ -1,0 +1,17 @@
+id: 4b319f960fab65fb9d04c94e22b6a3a5
+url: https://byrdocs.org/files/4b319f960fab65fb9d04c94e22b6a3a5.pdf
+type: test
+data:
+  title: 2010-2011 第一学期 通信原理 期末
+  college: null
+  course:
+    type: null
+    name: 通信原理
+  time:
+    start: '2010'
+    end: '2011'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 答案

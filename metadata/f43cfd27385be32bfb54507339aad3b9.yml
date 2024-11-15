@@ -1,0 +1,18 @@
+id: f43cfd27385be32bfb54507339aad3b9
+url: https://byrdocs.org/files/f43cfd27385be32bfb54507339aad3b9.pdf
+type: test
+data:
+  title: 2020-2021 信号与系统 期末
+  college:
+  - 国际学院
+  course:
+    type: null
+    name: 信号与系统
+  time:
+    start: '2020'
+    end: '2021'
+    semester: null
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

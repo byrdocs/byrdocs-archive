@@ -1,0 +1,23 @@
+id: 709413e17d8e3a28849c057b656a4db1
+url: https://byrdocs.org/files/709413e17d8e3a28849c057b656a4db1.pdf
+type: test
+data:
+  title: 2023-2024 第二学期 高等数学A（下） 期末
+  college:
+  - 电子工程学院
+  - 计算机学院
+  - 数字媒体与设计艺术学院
+  - 网络空间与安全学院
+  - 自动化学院
+  course:
+    type: null
+    name: 高等数学A（下）
+  time:
+    start: '2023'
+    end: '2024'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

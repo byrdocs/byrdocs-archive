@@ -1,0 +1,18 @@
+id: b19ad61345bd4feb90c310ad83dc5f4c
+url: https://byrdocs.org/files/b19ad61345bd4feb90c310ad83dc5f4c.pdf
+type: test
+data:
+  title: 2009-2010 第一学期 线性代数 期末
+  college: null
+  course:
+    type: null
+    name: 线性代数
+  time:
+    start: '2009'
+    end: '2010'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

@@ -1,0 +1,17 @@
+id: d2c7dba3c16005c19603778664e584ab
+url: https://byrdocs.org/files/d2c7dba3c16005c19603778664e584ab.pdf
+type: test
+data:
+  title: 2022-2023 第一学期 大学计算机 期末
+  college: null
+  course:
+    type: null
+    name: 大学计算机
+  time:
+    start: '2022'
+    end: '2023'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

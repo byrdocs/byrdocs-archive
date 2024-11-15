@@ -1,0 +1,17 @@
+id: 7aff4b1404e3fc6125d47d998ed1582a
+url: https://byrdocs.org/files/7aff4b1404e3fc6125d47d998ed1582a.pdf
+type: test
+data:
+  title: 2019-2020 第二学期 形式语言与自动机 期末
+  college: null
+  course:
+    type: null
+    name: 形式语言与自动机
+  time:
+    start: '2019'
+    end: '2020'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

@@ -1,0 +1,18 @@
+id: 813583adfb5cdb9ba7f3a40255bafa10
+url: https://byrdocs.org/files/813583adfb5cdb9ba7f3a40255bafa10.pdf
+type: test
+data:
+  title: 2011-2012 第一学期 通信原理 期末
+  college: null
+  course:
+    type: null
+    name: 通信原理
+  time:
+    start: '2011'
+    end: '2012'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

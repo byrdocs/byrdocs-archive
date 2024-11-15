@@ -1,0 +1,18 @@
+id: 748127d0968d81074a9997c3f647fe31
+url: https://byrdocs.org/files/748127d0968d81074a9997c3f647fe31.pdf
+type: test
+data:
+  title: 2014 计算机网络 期中
+  college: null
+  course:
+    type: null
+    name: 计算机网络
+  time:
+    start: '2014'
+    end: '2014'
+    semester: null
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

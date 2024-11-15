@@ -1,0 +1,18 @@
+id: 4b1de9a514a76f1c07d1a00fd28f28ae
+url: https://byrdocs.org/files/4b1de9a514a76f1c07d1a00fd28f28ae.pdf
+type: test
+data:
+  title: 2023-2024 第二学期 理科数学分析（二） 期末
+  college:
+  - 理学院
+  course:
+    type: null
+    name: 理科数学分析（二）
+  time:
+    start: '2023'
+    end: '2024'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

@@ -1,0 +1,17 @@
+id: f8a7d4d06495d7004ecf3c93ba19dcdb
+url: https://byrdocs.org/files/f8a7d4d06495d7004ecf3c93ba19dcdb.pdf
+type: test
+data:
+  title: 2013-2014 第一学期 线性代数 期末
+  college: null
+  course:
+    type: null
+    name: 线性代数
+  time:
+    start: '2013'
+    end: '2014'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

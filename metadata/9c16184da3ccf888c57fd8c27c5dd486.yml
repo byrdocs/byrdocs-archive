@@ -1,0 +1,18 @@
+id: 9c16184da3ccf888c57fd8c27c5dd486
+url: https://byrdocs.org/files/9c16184da3ccf888c57fd8c27c5dd486.pdf
+type: test
+data:
+  title: 2014-2015 第一学期 大学物理B（下） 期中
+  college: null
+  course:
+    type: null
+    name: 大学物理B（下）
+  time:
+    start: '2014'
+    end: '2015'
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

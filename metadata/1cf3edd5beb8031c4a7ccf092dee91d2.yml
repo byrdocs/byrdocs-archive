@@ -1,0 +1,17 @@
+id: 1cf3edd5beb8031c4a7ccf092dee91d2
+url: https://byrdocs.org/files/1cf3edd5beb8031c4a7ccf092dee91d2.pdf
+type: test
+data:
+  title: 2015-2016 第二学期 电路与电子学基础 期末
+  college: null
+  course:
+    type: null
+    name: 电路与电子学基础
+  time:
+    start: '2015'
+    end: '2016'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

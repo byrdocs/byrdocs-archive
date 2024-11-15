@@ -1,0 +1,19 @@
+id: d6e30ed70f74dd20bb53381a5d1e185a
+url: https://byrdocs.org/files/d6e30ed70f74dd20bb53381a5d1e185a.pdf
+type: test
+data:
+  title: 2019-2020 第一学期 线性代数 期末
+  college:
+  - 国际学院
+  course:
+    type: null
+    name: 线性代数
+  time:
+    start: '2019'
+    end: '2020'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

@@ -1,0 +1,18 @@
+id: 10f7c2334af86eaa381ea0a97a1282b6
+url: https://byrdocs.org/files/10f7c2334af86eaa381ea0a97a1282b6.pdf
+type: test
+data:
+  title: 2013-2014 通信原理 期末
+  college: null
+  course:
+    type: null
+    name: 通信原理
+  time:
+    start: '2013'
+    end: '2014'
+    semester: null
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

@@ -1,0 +1,18 @@
+id: 22ac74c14e7a31aec32e77512d76c3c7
+url: https://byrdocs.org/files/22ac74c14e7a31aec32e77512d76c3c7.pdf
+type: test
+data:
+  title: 2017 计算机网络 期中
+  college: null
+  course:
+    type: null
+    name: 计算机网络
+  time:
+    start: '2017'
+    end: '2017'
+    semester: null
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

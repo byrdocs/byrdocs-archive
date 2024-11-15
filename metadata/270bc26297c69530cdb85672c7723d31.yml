@@ -1,0 +1,19 @@
+id: 270bc26297c69530cdb85672c7723d31
+url: https://byrdocs.org/files/270bc26297c69530cdb85672c7723d31.pdf
+type: test
+data:
+  title: 2015-2016 离散数学 期末
+  college:
+  - 国际学院
+  course:
+    type: null
+    name: 离散数学
+  time:
+    start: '2015'
+    end: '2016'
+    semester: null
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

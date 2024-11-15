@@ -1,0 +1,18 @@
+id: b403b018451bd6a254283c25b125b3c1
+url: https://byrdocs.org/files/b403b018451bd6a254283c25b125b3c1.pdf
+type: test
+data:
+  title: 2017-2018 第二学期 大学物理B（上） 期末
+  college: null
+  course:
+    type: null
+    name: 大学物理B（上）
+  time:
+    start: '2017'
+    end: '2018'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

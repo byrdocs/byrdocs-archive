@@ -1,0 +1,19 @@
+id: 45739d0073beda294f1f8e1400e3f899
+url: https://byrdocs.org/files/45739d0073beda294f1f8e1400e3f899.pdf
+type: test
+data:
+  title: 2016-2017 离散数学 期末
+  college:
+  - 国际学院
+  course:
+    type: null
+    name: 离散数学
+  time:
+    start: '2016'
+    end: '2017'
+    semester: null
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

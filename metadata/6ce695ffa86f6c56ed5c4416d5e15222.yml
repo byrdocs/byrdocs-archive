@@ -1,0 +1,18 @@
+id: 6ce695ffa86f6c56ed5c4416d5e15222
+url: https://byrdocs.org/files/6ce695ffa86f6c56ed5c4416d5e15222.pdf
+type: test
+data:
+  title: 2023-2024 第二学期 高等数学A（下） 期中
+  college: null
+  course:
+    type: null
+    name: 高等数学A（下）
+  time:
+    start: '2023'
+    end: '2024'
+    semester: Second
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

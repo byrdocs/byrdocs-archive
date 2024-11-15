@@ -1,0 +1,19 @@
+id: d42ffa323388de30d9988553e1bf3dda
+url: https://byrdocs.org/files/d42ffa323388de30d9988553e1bf3dda.pdf
+type: test
+data:
+  title: 2022-2023 第二学期 高等代数（下） 期末
+  college:
+  - 未来学院
+  course:
+    type: null
+    name: 高等代数（下）
+  time:
+    start: '2022'
+    end: '2023'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

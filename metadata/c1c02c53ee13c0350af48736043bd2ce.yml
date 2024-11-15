@@ -1,0 +1,18 @@
+id: c1c02c53ee13c0350af48736043bd2ce
+url: https://byrdocs.org/files/c1c02c53ee13c0350af48736043bd2ce.pdf
+type: test
+data:
+  title: 2012 计算机网络 期中
+  college: null
+  course:
+    type: null
+    name: 计算机网络
+  time:
+    start: '2012'
+    end: '2012'
+    semester: null
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

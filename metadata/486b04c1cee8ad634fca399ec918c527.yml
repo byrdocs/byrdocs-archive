@@ -1,0 +1,18 @@
+id: 486b04c1cee8ad634fca399ec918c527
+url: https://byrdocs.org/files/486b04c1cee8ad634fca399ec918c527.pdf
+type: test
+data:
+  title: 2018-2019 第二学期 大学物理E（上） 期中
+  college: null
+  course:
+    type: null
+    name: 大学物理E（上）
+  time:
+    start: '2018'
+    end: '2019'
+    semester: Second
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

@@ -1,0 +1,19 @@
+id: b13fb7384a17d2ed5db46ee98e201a21
+url: https://byrdocs.org/files/b13fb7384a17d2ed5db46ee98e201a21.pdf
+type: test
+data:
+  title: 2017-2018 离散数学 期末
+  college:
+  - 国际学院
+  course:
+    type: null
+    name: 离散数学
+  time:
+    start: '2017'
+    end: '2018'
+    semester: null
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

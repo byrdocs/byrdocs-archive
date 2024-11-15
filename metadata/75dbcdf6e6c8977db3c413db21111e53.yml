@@ -1,0 +1,18 @@
+id: 75dbcdf6e6c8977db3c413db21111e53
+url: https://byrdocs.org/files/75dbcdf6e6c8977db3c413db21111e53.pdf
+type: test
+data:
+  title: 2021-2022 第二学期 现代密码学 期末
+  college: null
+  course:
+    type: null
+    name: 现代密码学
+  time:
+    start: '2021'
+    end: '2022'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

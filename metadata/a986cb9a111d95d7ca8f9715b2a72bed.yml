@@ -1,0 +1,18 @@
+id: a986cb9a111d95d7ca8f9715b2a72bed
+url: https://byrdocs.org/files/a986cb9a111d95d7ca8f9715b2a72bed.pdf
+type: test
+data:
+  title: 2017-2018 第二学期 大学物理E（上） 期末
+  college: null
+  course:
+    type: null
+    name: 大学物理E（上）
+  time:
+    start: '2017'
+    end: '2018'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

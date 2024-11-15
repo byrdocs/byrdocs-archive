@@ -1,0 +1,16 @@
+id: 7a0aadf912008e0c1201f32772c97ce6
+url: https://byrdocs.org/files/7a0aadf912008e0c1201f32772c97ce6.pdf
+type: book
+data:
+  title: 'C++ Templates: The Complete Guide'
+  authors:
+  - David Vandevoorde
+  - Nicolai M. Josuttis
+  - Douglas Gregor
+  translators: []
+  edition: '2'
+  publisher: Pearson
+  publish_year: null
+  isbn:
+  - 978-0-321-71412-1
+  filetype: pdf

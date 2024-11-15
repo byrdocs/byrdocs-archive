@@ -1,0 +1,18 @@
+id: f5d6f9013c1f231e86925ffcdf059d53
+url: https://byrdocs.org/files/f5d6f9013c1f231e86925ffcdf059d53.pdf
+type: test
+data:
+  title: 2018-2019 通信原理
+  college: null
+  course:
+    type: null
+    name: 通信原理
+  time:
+    start: '2018'
+    end: '2019'
+    semester: null
+    stage: null
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

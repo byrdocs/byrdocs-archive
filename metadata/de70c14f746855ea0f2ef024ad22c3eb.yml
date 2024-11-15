@@ -1,0 +1,18 @@
+id: de70c14f746855ea0f2ef024ad22c3eb
+url: https://byrdocs.org/files/de70c14f746855ea0f2ef024ad22c3eb.pdf
+type: test
+data:
+  title: 2023-2024 第二学期 高等代数（下） 期末
+  college:
+  - 未来学院
+  course:
+    type: null
+    name: 高等代数（下）
+  time:
+    start: '2023'
+    end: '2024'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

@@ -1,0 +1,17 @@
+id: 7fc9c42d6688357b7aef116fd01724fd
+url: https://byrdocs.org/files/7fc9c42d6688357b7aef116fd01724fd.pdf
+type: test
+data:
+  title: 2014-2015 线性代数 期末
+  college: null
+  course:
+    type: null
+    name: 线性代数
+  time:
+    start: '2014'
+    end: '2015'
+    semester: null
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

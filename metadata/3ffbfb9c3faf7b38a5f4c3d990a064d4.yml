@@ -1,0 +1,18 @@
+id: 3ffbfb9c3faf7b38a5f4c3d990a064d4
+url: https://byrdocs.org/files/3ffbfb9c3faf7b38a5f4c3d990a064d4.pdf
+type: test
+data:
+  title: 2009-2010 第一学期 计算导论与程序设计 期中
+  college: null
+  course:
+    type: null
+    name: 计算导论与程序设计
+  time:
+    start: '2009'
+    end: '2010'
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

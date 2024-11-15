@@ -1,0 +1,18 @@
+id: 864ca7caef1fab5151a3f0e4e1460125
+url: https://byrdocs.org/files/864ca7caef1fab5151a3f0e4e1460125.pdf
+type: test
+data:
+  title: 2010 概率论与随机过程
+  college: null
+  course:
+    type: null
+    name: 概率论与随机过程
+  time:
+    start: '2010'
+    end: '2010'
+    semester: null
+    stage: null
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

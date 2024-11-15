@@ -1,0 +1,18 @@
+id: 94830ba73c4e74ec7acab68538d91ca2
+url: https://byrdocs.org/files/94830ba73c4e74ec7acab68538d91ca2.pdf
+type: test
+data:
+  title: 2013-2014 概率论与随机过程
+  college: null
+  course:
+    type: null
+    name: 概率论与随机过程
+  time:
+    start: '2013'
+    end: '2014'
+    semester: null
+    stage: null
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

@@ -1,0 +1,18 @@
+id: 14e65d6dd48de095c4c472a155d1f5a0
+url: https://byrdocs.org/files/14e65d6dd48de095c4c472a155d1f5a0.pdf
+type: test
+data:
+  title: 2018-2019 第一学期 工程数学
+  college: null
+  course:
+    type: null
+    name: 工程数学
+  time:
+    start: '2018'
+    end: '2019'
+    semester: First
+    stage: null
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

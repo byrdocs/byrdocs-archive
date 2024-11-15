@@ -1,0 +1,18 @@
+id: ffda74da2cc11a76c32b580b47daebb5
+url: https://byrdocs.org/files/ffda74da2cc11a76c32b580b47daebb5.pdf
+type: test
+data:
+  title: 2022-2023 第二学期 大学物理E（上） 期末
+  college: null
+  course:
+    type: null
+    name: 大学物理E（上）
+  time:
+    start: '2022'
+    end: '2023'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

@@ -1,0 +1,19 @@
+id: 48278b0e56a51148afdb0f15012ac0ea
+url: https://byrdocs.org/files/48278b0e56a51148afdb0f15012ac0ea.pdf
+type: test
+data:
+  title: 2023-2024 第二学期 数学分析（下） 期中
+  college:
+  - 未来学院
+  course:
+    type: null
+    name: 数学分析（下）
+  time:
+    start: '2023'
+    end: '2024'
+    semester: Second
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

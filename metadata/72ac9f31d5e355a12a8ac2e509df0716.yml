@@ -1,0 +1,30 @@
+id: 72ac9f31d5e355a12a8ac2e509df0716
+url: https://byrdocs.org/files/72ac9f31d5e355a12a8ac2e509df0716.pdf
+type: test
+data:
+  title: 2023-2024 第二学期 毛泽东思想和中国特色社会主义理论体系概论 期末
+  college:
+  - 电子工程学院
+  - 国际学院
+  - 经济管理学院
+  - 计算机学院
+  - 理学院
+  - 人工智能学院
+  - 数字媒体与设计艺术学院
+  - 人文学院
+  - 网络空间安全学院
+  - 未来学院
+  - 自动化学院
+  - 信息与通信工程学院
+  - ''
+  course:
+    type: null
+    name: 毛泽东思想和中国特色社会主义理论体系概论
+  time:
+    start: '2023'
+    end: '2024'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

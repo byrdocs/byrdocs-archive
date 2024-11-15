@@ -1,0 +1,18 @@
+id: a77eae255279152eb9e97ca327772fc2
+url: https://byrdocs.org/files/a77eae255279152eb9e97ca327772fc2.pdf
+type: test
+data:
+  title: 2007-2008 第一学期 电磁场与电磁波 期中
+  college: null
+  course:
+    type: null
+    name: 电磁场与电磁波
+  time:
+    start: '2007'
+    end: '2008'
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

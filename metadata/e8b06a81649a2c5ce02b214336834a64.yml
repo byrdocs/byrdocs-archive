@@ -1,0 +1,18 @@
+id: e8b06a81649a2c5ce02b214336834a64
+url: https://byrdocs.org/files/e8b06a81649a2c5ce02b214336834a64.pdf
+type: test
+data:
+  title: 2022-2023 第一学期 组合数学 期末
+  college:
+  - 计算机学院
+  course:
+    type: null
+    name: 组合数学
+  time:
+    start: '2022'
+    end: '2023'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

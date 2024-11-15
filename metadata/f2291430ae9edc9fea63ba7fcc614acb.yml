@@ -1,0 +1,18 @@
+id: f2291430ae9edc9fea63ba7fcc614acb
+url: https://byrdocs.org/files/f2291430ae9edc9fea63ba7fcc614acb.pdf
+type: test
+data:
+  title: 2023-2024 第二学期 离散数学 期末
+  college:
+  - 计算机学院
+  course:
+    type: null
+    name: 离散数学
+  time:
+    start: '2023'
+    end: '2024'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

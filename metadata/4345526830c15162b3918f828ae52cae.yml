@@ -1,0 +1,18 @@
+id: 4345526830c15162b3918f828ae52cae
+url: https://byrdocs.org/files/4345526830c15162b3918f828ae52cae.pdf
+type: test
+data:
+  title: 2019-2020 第一学期 数学分析（上） 期中
+  college: null
+  course:
+    type: null
+    name: 数学分析（上）
+  time:
+    start: '2019'
+    end: '2020'
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

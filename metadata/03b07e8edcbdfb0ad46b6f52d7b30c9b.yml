@@ -1,0 +1,18 @@
+id: 03b07e8edcbdfb0ad46b6f52d7b30c9b
+url: https://byrdocs.org/files/03b07e8edcbdfb0ad46b6f52d7b30c9b.pdf
+type: test
+data:
+  title: 2021-2022 第一学期 高等数学A（上） 期中
+  college:
+  - 国际学院
+  course:
+    type: null
+    name: 高等数学A（上）
+  time:
+    start: '2021'
+    end: '2022'
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题

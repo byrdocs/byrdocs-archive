@@ -1,0 +1,19 @@
+id: 81a5dda899ee9160da015dc46e1b8b52
+url: https://byrdocs.org/files/81a5dda899ee9160da015dc46e1b8b52.pdf
+type: test
+data:
+  title: 2017-2018 信号与系统 期末
+  college:
+  - 国际学院
+  course:
+    type: null
+    name: 信号与系统
+  time:
+    start: '2017'
+    end: '2018'
+    semester: null
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

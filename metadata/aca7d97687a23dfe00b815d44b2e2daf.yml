@@ -1,0 +1,18 @@
+id: aca7d97687a23dfe00b815d44b2e2daf
+url: https://byrdocs.org/files/aca7d97687a23dfe00b815d44b2e2daf.pdf
+type: book
+data:
+  title: 计算几何：算法与应用
+  authors:
+  - Mark de Berg
+  - Otfried Cheong
+  - Marc van Kreveld
+  - Mark Overmars
+  translators:
+  - 邓俊辉
+  edition: '3'
+  publisher: 清华大学出版社
+  publish_year: null
+  isbn:
+  - 978-7-302-19938-0
+  filetype: pdf

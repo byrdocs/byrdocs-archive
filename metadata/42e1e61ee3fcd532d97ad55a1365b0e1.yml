@@ -1,0 +1,18 @@
+id: 42e1e61ee3fcd532d97ad55a1365b0e1
+url: https://byrdocs.org/files/42e1e61ee3fcd532d97ad55a1365b0e1.pdf
+type: test
+data:
+  title: 2017-2018 概率论与随机过程 期末
+  college: null
+  course:
+    type: null
+    name: 概率论与随机过程
+  time:
+    start: '2017'
+    end: '2018'
+    semester: null
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

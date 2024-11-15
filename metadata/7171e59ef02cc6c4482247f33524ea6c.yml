@@ -1,0 +1,18 @@
+id: 7171e59ef02cc6c4482247f33524ea6c
+url: https://byrdocs.org/files/7171e59ef02cc6c4482247f33524ea6c.pdf
+type: test
+data:
+  title: 2019-2020 第一学期 高等数学A（上） 期末
+  college: null
+  course:
+    type: null
+    name: 高等数学A（上）
+  time:
+    start: '2019'
+    end: '2020'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

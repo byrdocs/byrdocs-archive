@@ -1,0 +1,17 @@
+id: 6ef616ee85a3fa0ede059fb535ab7c69
+url: https://byrdocs.org/files/6ef616ee85a3fa0ede059fb535ab7c69.pdf
+type: test
+data:
+  title: 2007-2008 第一学期 矩阵论 期末
+  college: null
+  course:
+    type: null
+    name: 矩阵论
+  time:
+    start: '2007'
+    end: '2008'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

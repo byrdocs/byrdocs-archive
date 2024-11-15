@@ -1,0 +1,15 @@
+id: 0d4d151172fda23b51cf4d2abfb384c1
+url: https://byrdocs.org/files/0d4d151172fda23b51cf4d2abfb384c1.pdf
+type: book
+data:
+  title: 'Database Systems: A pracital Approach to Design, Implementation, and Management'
+  authors:
+  - Thomas M. Connolly
+  - Carolyn E. Begg
+  translators: []
+  edition: '6'
+  publisher: Pearson
+  publish_year: null
+  isbn:
+  - 978-1-292-06118-4
+  filetype: pdf

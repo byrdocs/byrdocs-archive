@@ -1,0 +1,17 @@
+id: 99da4d5e574f1c26404246968783c922
+url: https://byrdocs.org/files/99da4d5e574f1c26404246968783c922.pdf
+type: test
+data:
+  title: 2018-2019 第一学期 数学实验 期末
+  college: null
+  course:
+    type: null
+    name: 数学实验
+  time:
+    start: '2018'
+    end: '2019'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

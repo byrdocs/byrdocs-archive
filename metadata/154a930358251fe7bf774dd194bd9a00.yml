@@ -1,0 +1,20 @@
+id: 154a930358251fe7bf774dd194bd9a00
+url: https://byrdocs.org/files/154a930358251fe7bf774dd194bd9a00.pdf
+type: test
+data:
+  title: 2023-2024 第二学期 概率论与数理统计 期末
+  college:
+  - 人工智能学院
+  - 自动化学院
+  - 信息与通信工程学院
+  course:
+    type: null
+    name: 概率论与数理统计
+  time:
+    start: '2023'
+    end: '2024'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

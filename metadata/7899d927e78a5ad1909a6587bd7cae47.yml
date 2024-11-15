@@ -1,0 +1,19 @@
+id: 7899d927e78a5ad1909a6587bd7cae47
+url: https://byrdocs.org/files/7899d927e78a5ad1909a6587bd7cae47.pdf
+type: test
+data:
+  title: 2015-2016 信号与系统 期末
+  college:
+  - 国际学院
+  course:
+    type: null
+    name: 信号与系统
+  time:
+    start: '2015'
+    end: '2016'
+    semester: null
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

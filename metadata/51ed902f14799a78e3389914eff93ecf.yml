@@ -1,0 +1,18 @@
+id: 51ed902f14799a78e3389914eff93ecf
+url: https://byrdocs.org/files/51ed902f14799a78e3389914eff93ecf.pdf
+type: test
+data:
+  title: 2017-2018 第一学期 通信原理 期末
+  college: null
+  course:
+    type: null
+    name: 通信原理
+  time:
+    start: '2017'
+    end: '2018'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

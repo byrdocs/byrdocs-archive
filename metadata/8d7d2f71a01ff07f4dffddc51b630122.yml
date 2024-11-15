@@ -1,0 +1,18 @@
+id: 8d7d2f71a01ff07f4dffddc51b630122
+url: https://byrdocs.org/files/8d7d2f71a01ff07f4dffddc51b630122.pdf
+type: test
+data:
+  title: 2016-2017 第一学期 信号与系统 期末
+  college: null
+  course:
+    type: null
+    name: 信号与系统
+  time:
+    start: '2016'
+    end: '2017'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

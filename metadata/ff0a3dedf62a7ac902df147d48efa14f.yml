@@ -1,0 +1,18 @@
+id: ff0a3dedf62a7ac902df147d48efa14f
+url: https://byrdocs.org/files/ff0a3dedf62a7ac902df147d48efa14f.pdf
+type: test
+data:
+  title: 2015-2016 第一学期 大学物理B（下） 期末
+  college: null
+  course:
+    type: null
+    name: 大学物理B（下）
+  time:
+    start: '2015'
+    end: '2016'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

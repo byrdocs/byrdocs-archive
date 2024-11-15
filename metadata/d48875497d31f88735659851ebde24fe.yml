@@ -1,0 +1,18 @@
+id: d48875497d31f88735659851ebde24fe
+url: https://byrdocs.org/files/d48875497d31f88735659851ebde24fe.pdf
+type: test
+data:
+  title: 2015-2016 第二学期 大学物理B（上） 期末
+  college: null
+  course:
+    type: null
+    name: 大学物理B（上）
+  time:
+    start: '2015'
+    end: '2016'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

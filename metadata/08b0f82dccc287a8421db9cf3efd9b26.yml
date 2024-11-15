@@ -1,0 +1,18 @@
+id: 08b0f82dccc287a8421db9cf3efd9b26
+url: https://byrdocs.org/files/08b0f82dccc287a8421db9cf3efd9b26.pdf
+type: test
+data:
+  title: 2010-2011 第一学期 计算机网络 期末
+  college:
+  - 数字媒体与设计艺术学院
+  course:
+    type: null
+    name: 计算机网络
+  time:
+    start: '2010'
+    end: '2011'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

@@ -1,0 +1,17 @@
+id: 961c70159704741913a9928b71bf4f37
+url: https://byrdocs.org/files/961c70159704741913a9928b71bf4f37.pdf
+type: test
+data:
+  title: 2011-2012 第一学期 电子电路基础 期末
+  college: null
+  course:
+    type: null
+    name: 电子电路基础
+  time:
+    start: '2011'
+    end: '2012'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

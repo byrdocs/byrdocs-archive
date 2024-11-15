@@ -1,0 +1,19 @@
+id: 68b6bc31e1817db6ed7ec5fd2b29493b
+url: https://byrdocs.org/files/68b6bc31e1817db6ed7ec5fd2b29493b.pdf
+type: test
+data:
+  title: 2022-2023 第二学期 python编程与实践 期末
+  college:
+  - 信息与通信工程学院
+  course:
+    type: null
+    name: python编程与实践
+  time:
+    start: '2022'
+    end: '2023'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

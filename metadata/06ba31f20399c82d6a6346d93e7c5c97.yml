@@ -1,0 +1,18 @@
+id: 06ba31f20399c82d6a6346d93e7c5c97
+url: https://byrdocs.org/files/06ba31f20399c82d6a6346d93e7c5c97.pdf
+type: test
+data:
+  title: 2015-2016 第二学期 工程数学 期末
+  college: null
+  course:
+    type: null
+    name: 工程数学
+  time:
+    start: '2015'
+    end: '2016'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

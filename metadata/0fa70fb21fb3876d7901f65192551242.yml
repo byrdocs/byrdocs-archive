@@ -1,0 +1,18 @@
+id: 0fa70fb21fb3876d7901f65192551242
+url: https://byrdocs.org/files/0fa70fb21fb3876d7901f65192551242.pdf
+type: test
+data:
+  title: 2012-2013 第一学期 电磁场与电磁波 期末
+  college: null
+  course:
+    type: null
+    name: 电磁场与电磁波
+  time:
+    start: '2012'
+    end: '2013'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

@@ -1,0 +1,18 @@
+id: 035badd4babe144df7778137a43890f0
+url: https://byrdocs.org/files/035badd4babe144df7778137a43890f0.pdf
+type: test
+data:
+  title: 2019-2020 第二学期 概率论与数理统计
+  college:
+  - 自动化学院
+  course:
+    type: null
+    name: 概率论与数理统计
+  time:
+    start: '2019'
+    end: '2020'
+    semester: Second
+    stage: null
+  filetype: pdf
+  content:
+  - 原题

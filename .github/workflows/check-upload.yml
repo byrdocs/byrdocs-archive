@@ -1,0 +1,47 @@
+name: Upload metadata
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+
+      - id: pdfium
+        name: Get pdfium-binaries latest
+        uses: pozetroninc/github-action-get-latest-release@master
+        with:
+          owner: bblanchon
+          repo: pdfium-binaries
+
+      - id: check
+        name: Get byrdocs-check release
+        uses: pozetroninc/github-action-get-latest-release@master
+        with:
+          owner: byrdocs
+          repo: byrdocs-check
+
+      - name: Download release
+        run: |
+          wget https://github.com/bblanchon/pdfium-binaries/releases/download/${{ steps.pdfium.outputs.release }}/pdfium-linux-x64.tgz
+          tar -zxvf pdfium-linux-x64.tgz
+          wget https://github.com/byrdocs/byrdocs-check/releases/download/${{ steps.check.outputs.release }}/check-cmt
+          wget https://github.com/byrdocs/byrdocs-check/releases/download/${{ steps.check.outputs.release }}/check-pr
+          chmod 777 check-cmt
+          chmod 777 check-pr
+
+      - name: Check format
+        run: |
+          ./check-pr -d ./metadata -u ${{ secrets.S3_URL }} -a ${{ secrets.S3_ACCESS_KEY }} -s ${{ secrets.S3_SECRET_ACCESS_KEY }} -b ${{ secrets.BACKEND_URL }} -t ${{ secrets.BACKEND_TOKEN }} -c ${{ vars.S3_BUCKET }}
+
+      - name: Upload metadata
+        run: |
+          ./check-cmt -d ./metadata -u ${{ secrets.S3_URL }} -a ${{ secrets.S3_ACCESS_KEY }} -s ${{ secrets.S3_SECRET_ACCESS_KEY }} -b ${{ secrets.BACKEND_URL }} -t ${{ secrets.BACKEND_TOKEN }} -c ${{ vars.S3_BUCKET }} --r2_url ${{ secrets.R2_URL }} --r2_acc ${{ secrets.R2_ACCESS_KEY_ID }} --r2_secret ${{ secrets.R2_SECRET_ACCESS_KEY }} --r2_bucket ${{ vars.R2_BUCKET }}
