@@ -13,8 +13,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-        with:
-          ref: ${{ github.head_ref }}
+
+      - name: Show log
+        run: git log -1
 
       - id: pdfium
         name: Get pdfium-binaries latest
