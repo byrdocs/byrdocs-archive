@@ -2,7 +2,11 @@
 
 欢迎你向本项目贡献文件！在此之前请你仔细阅读本方针的内容，通常情况下你应当遵守本方针。
 
-## 上传新文件
+## 前提
+
+首先，你需要确保你试图上传的文件符合本站的 [文件收录规则](https://github.com/byrdocs/byrdocs-archive/wiki/%E5%85%B3%E4%BA%8E%E6%96%87%E4%BB%B6#%E6%96%87%E4%BB%B6%E6%94%B6%E5%BD%95%E8%A7%84%E5%88%99)。
+
+## 步骤
 
 1. [Fork 本项目](https://github.com/byrdocs/byrdocs-archive/fork)。
 2. 安装 [byrdocs-cli](https://github.com/byrdocs/byrdocs-cli)。
@@ -29,14 +33,14 @@
         File URL: https://byrdocs.org/files/0a2ec7a3b027bb439e7bf021c4b1b1be.pdf
     ```
 5. 在 metadata 中新建一个名为 `<md5>.yml` 的文件，填写文件的元信息，其中 `<md5>` 是你上传的文件的 md5 值。在上一步的例子中，它是 `0a2ec7a3b027bb439e7bf021c4b1b1be`，所以应当创建 `metadata/0a2ec7a3b027bb439e7bf021c4b1b1be.yml` 文件。
-6. 编写文件元信息，参见[文件收录规则](https://github.com/byrdocs/byrdocs-archive/wiki/%E5%85%B3%E4%BA%8E%E6%96%87%E4%BB%B6#%E6%96%87%E4%BB%B6%E6%94%B6%E5%BD%95%E8%A7%84%E5%88%99) 以及 [文件元信息](https://github.com/byrdocs/byrdocs-archive/wiki/%E5%85%B3%E4%BA%8E%E6%96%87%E4%BB%B6#%E6%96%87%E4%BB%B6%E5%85%83%E4%BF%A1%E6%81%AF)。
+6. 编写文件元信息，参见 [文件元信息](https://github.com/byrdocs/byrdocs-archive/wiki/%E5%85%B3%E4%BA%8E%E6%96%87%E4%BB%B6#%E6%96%87%E4%BB%B6%E5%85%83%E4%BF%A1%E6%81%AF)。
 7. 提交并推送到你 Fork 的仓库，创建一个 Pull Request。
 8. 维护者审核、合并。
 
 如果在上传文件时遇到如下问题：
 
 ```shell
-$ byrdocs upload 24-25-1-计算机系统基础-期中-Hexropt.pdf
+$ byrdocs upload 2020期中.pdf
 Error from server: 文件已存在
 ```
 
@@ -44,11 +48,10 @@ Error from server: 文件已存在
 
 ## 其他修改方式
 
-1. **修改文件内容**：使用 `byrdocs-cli` 上传新文件，并更新元信息的文件名、`id` 和 `url` 字段；
-2. **修改文件元信息**：直接修改元信息文件；
-3. **删除文件**：仅删除元信息文件即可。
+1. **修改文件内容**：使用 `byrdocs-cli` 上传新文件，并更新对应 `yml` 文件的文件名、`id` 和 `url` 字段；
+2. **修改文件元信息**：直接修改对应的 `yml` 文件；
+3. **删除文件**：直接删除对应的 `yml` 文件即可。
 
-
-## 其他你需要阅读的
+## 另请参见
 
 - [关于文件](https://github.com/byrdocs/byrdocs-archive/wiki/%E5%85%B3%E4%BA%8E%E6%96%87%E4%BB%B6)
