@@ -27,6 +27,6 @@
 
 ## 如何贡献
 
+- 贡献文件，请参阅[贡献指南](./CONTRIBUTING.md)
 - 我们不接受任何形式的捐赠，除非是向我们提供资料。当然，您需要确保您对自己提供的资料有合法的分发权限。
-- 如果您有意参与本项目并愿意长期贡献，可发送邮件到 [contact@byrdocs.org](mailto:contact@byrdocs.org) 与我们联系。
-- 我们正在构建 byrdocs-tui 程序，以方便用户整理元信息和上传文件。现阶段请您根据 [工作流程](https://github.com/byrdocs/byrdocs-tui/blob/master/docs/workflow.md) 中的指引来向本项目贡献资料。
+- 如果您有意参与维护本项目，可发送邮件到 [contact@byrdocs.org](mailto:contact@byrdocs.org) 与我们联系。
