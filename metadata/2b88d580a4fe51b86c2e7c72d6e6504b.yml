@@ -1,0 +1,18 @@
+id: 2b88d580a4fe51b86c2e7c72d6e6504b
+url: https://byrdocs.org/files/2b88d580a4fe51b86c2e7c72d6e6504b.pdf
+type: test
+data:
+  title: 2024-2025 第一学期 计算机系统基础 期中
+  college:
+    - 计算机学院
+  course:
+    type: 本科
+    name: 计算机系统基础
+  time:
+    start: '2024'
+    end: '2025'
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+    - 原题
