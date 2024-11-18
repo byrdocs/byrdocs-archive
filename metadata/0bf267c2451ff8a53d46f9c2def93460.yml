@@ -1,0 +1,19 @@
+id: 0bf267c2451ff8a53d46f9c2def93460
+url: https://byrdocs.org/files/0bf267c2451ff8a53d46f9c2def93460.pdf
+type: test
+data:
+  title: 2024-2025 第一学期 信号与系统 期中
+  college:
+    - 信息与通信工程学院
+    - 未来学院
+  course:
+    type: 本科
+    name: 信号与系统
+  time:
+    start: '2024'
+    end: '2025'
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+    - 原题
