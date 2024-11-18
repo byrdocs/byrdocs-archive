@@ -1,18 +1,21 @@
 name: Check format
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, synchronize, reopened]
     branches:
       - master
 
 jobs:
-  update:
+  check-format:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.sha }}
 
       - name: Show log
         run: git log -5
@@ -33,9 +36,13 @@ jobs:
 
       - name: Download release
         run: |
-          wget https://github.com/byrdocs/byrdocs-check/releases/download/${{ steps.check.outputs.release }}/check-pr
+          wget https://github.com/bblanchon/pdfium-binaries/releases/download/${{ steps.pdfium.outputs.release }}/pdfium-linux-x64.tgz
+          tar --overwrite -zxvf pdfium-linux-x64.tgz
+          wget https://github.com/byrdocs/byrdocs-check/releases/download/${{ steps.check.outputs.release }}/check-cmt -O check-cmt
+          wget https://github.com/byrdocs/byrdocs-check/releases/download/${{ steps.check.outputs.release }}/check-pr -O check-pr
+          chmod 777 check-cmt
           chmod 777 check-pr
 
       - name: Check
         run: |
-          ./check-pr -d ./metadata
+          ./check-pr -d ./metadata -u ${{ secrets.S3_URL }} -a ${{ secrets.S3_ACCESS_KEY }} -s ${{ secrets.S3_SECRET_ACCESS_KEY }} -b ${{ secrets.BACKEND_URL }} -t ${{ secrets.BACKEND_TOKEN }} -c ${{ vars.S3_BUCKET }}
