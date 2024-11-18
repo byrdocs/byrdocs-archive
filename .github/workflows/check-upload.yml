@@ -12,8 +12,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-        with:
-          ref: ${{ github.head_ref }}
 
       - id: pdfium
         name: Get pdfium-binaries latest
@@ -40,7 +38,7 @@ jobs:
 
       - name: Check format
         run: |
-          ./check-pr -d ./metadata -u ${{ secrets.S3_URL }} -a ${{ secrets.S3_ACCESS_KEY }} -s ${{ secrets.S3_SECRET_ACCESS_KEY }} -b ${{ secrets.BACKEND_URL }} -t ${{ secrets.BACKEND_TOKEN }} -c ${{ vars.S3_BUCKET }}
+          ./check-pr -d ./metadata
 
       - name: Upload metadata
         run: |
