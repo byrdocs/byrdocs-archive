@@ -1,8 +1,10 @@
+# 贡献指南
+
 欢迎你向本项目贡献文件！在此之前请你仔细阅读本方针的内容，通常情况下你应当遵守本方针。
 
 ## 上传新文件
 
-1. [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) [本项目](https://github.com/byrdocs/byrdocs-archive)。
+1. [Fork 本项目](https://github.com/byrdocs/byrdocs-archive/fork)。
 2. 安装 [byrdocs-cli](https://github.com/byrdocs/byrdocs-cli)。
     ```bash
     pip3 install byrdocs-cli
