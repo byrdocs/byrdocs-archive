@@ -1,7 +1,7 @@
 name: Check format
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, synchronize, reopened]
     branches:
       - master
@@ -13,8 +13,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-        with:
-          ref: ${{ github.head_ref }}
+
+      - name: Show log
+        run: git log -2
 
       - id: pdfium
         name: Get pdfium-binaries latest
