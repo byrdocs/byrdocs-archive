@@ -1,0 +1,65 @@
+type: object
+properties:
+  id:
+    type: string
+    description: 文件的 MD5 值
+  url:
+    type: string
+    format: uri
+    description: 文件 URL
+  type:
+    type: string
+    enum: [test]
+    description: 文件类型
+  data:
+    type: object
+    properties:
+      college:
+        type: array
+        items:
+          type: string
+        description: 学院列表，可选
+      course:
+        type: object
+        properties:
+          type:
+            type: string
+            enum: [本科, 研究生]
+            description: 课程类型，可选
+          name:
+            type: string
+            description: 课程名称，不可以留空
+        required: [name]
+      time:
+        type: object
+        properties:
+          start:
+            type: string
+            pattern: "^[0-9]{4}$"
+            description: 起始年份
+          end:
+            type: string
+            pattern: "^[0-9]{4}$"
+            description: 结束年份
+          semester:
+            type: string
+            enum: [First, Second]
+            description: 学期，可选
+          stage:
+            type: string
+            enum: [期中, 期末]
+            description: 考试阶段，可选
+        required: [start, end]
+      filetype:
+        type: string
+        enum: [pdf]
+        description: 文件格式
+      content:
+        type: array
+        items:
+          type: string
+          enum: [原题, 答案]
+        description: 文件内容类型
+        minItems: 1
+    required: [course, time, filetype, content]
+required: [id, url, type, data]

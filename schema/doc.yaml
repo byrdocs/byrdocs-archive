@@ -1,0 +1,46 @@
+type: object
+properties:
+  id:
+    type: string
+    description: 文件的 MD5 值
+  url:
+    type: string
+    format: uri
+    description: 文件 URL
+  type:
+    type: string
+    enum: [doc]
+    description: 文件类型
+  data:
+    type: object
+    properties:
+      title:
+        type: string
+        description: 文件标题
+      filetype:
+        type: string
+        enum: [pdf, zip]
+        description: 文件格式，只能是 pdf 或 zip
+      course:
+        type: array
+        description: 课程信息
+        items:
+          type: object
+          properties:
+            type:
+              type: string
+              enum: [本科, 研究生]
+              description: 课程类型，可选
+            name:
+              type: string
+              description: 课程名称，必填
+          required: [name]
+      content:
+        type: array
+        items:
+          type: string
+          enum: [思维导图, 题库, 答案, 知识点, 课件]
+          description: 文件内容类型
+        minItems: 1
+    required: [title, filetype, course, content]
+required: [id, url, type, data]

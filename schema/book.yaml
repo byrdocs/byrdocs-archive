@@ -1,0 +1,54 @@
+type: object
+properties:
+  id:
+    type: string
+    description: 文件的 MD5 值
+  url:
+    type: string
+    format: uri
+    description: 文件 URL
+  type:
+    type: string
+    enum: [book]
+    description: 文件类型
+  data:
+    type: object
+    properties:
+      title:
+        type: string
+        description: 书籍标题
+      authors:
+        type: array
+        items:
+          type: string
+        description: 作者列表，必填
+        minItems: 1
+      translators:
+        type: array
+        items:
+          type: string
+        description: 译者列表，可选
+        minItems: 1
+      edition:
+        type: string
+        description: 版本信息，可选
+      publisher:
+        type: string
+        description: 出版社，可选
+      publish_year:
+        type: string
+        pattern: "^[0-9]{4}$"
+        description: 出版年份，可选
+      isbn:
+        type: array
+        items:
+          type: string
+          pattern: "^(97(8|9))-\\d{1,5}-\\d{1,7}-\\d{1,7}-\\d{1}$"
+        description: ISBN 列表，必须为 ISBN13 格式
+        minItems: 1
+      filetype:
+        type: string
+        enum: [pdf]
+        description: 文件格式
+    required: [title, authors, isbn, filetype]
+required: [id, url, type, data]
