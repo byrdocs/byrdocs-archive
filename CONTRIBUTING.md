@@ -1,6 +1,6 @@
 欢迎你向本项目贡献文件！在此之前请你仔细阅读本方针的内容，通常情况下你应当遵守本方针。
 
-## 开始
+## 上传新文件
 
 1. [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) [本项目](https://github.com/byrdocs/byrdocs-archive)。
 2. 安装 [byrdocs-cli](https://github.com/byrdocs/byrdocs-cli)。
@@ -39,6 +39,12 @@ Error from server: 文件已存在
 ```
 
 说明此文件已在服务器存在，如果你确信在 [byrdocs.org](https://byrdocs.org/) 上无法搜索到相关内容，该文件可能正在由其他人上传、编写元信息和提交 Pull Request。你可以考虑暂缓添加此文件。
+
+## 其他修改方式
+
+1. **修改文件内容**：使用 `byrdocs-cli` 上传新文件，并更新元信息的文件名、`id` 和 `url` 字段；
+2. **修改文件元信息**：直接修改元信息文件；
+3. **删除文件**：仅删除元信息文件即可。
 
 
 ## 其他你需要阅读的
