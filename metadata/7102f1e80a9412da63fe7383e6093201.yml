@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 7102f1e80a9412da63fe7383e6093201
 url: https://byrdocs.org/files/7102f1e80a9412da63fe7383e6093201.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: Verilog数字系统设计教程
   authors:
   - 夏宇闻
-  translators: []
   edition: '3'
   publisher: 北京航空航天大学出版社
-  publish_year: null
   isbn:
   - 978-7-5124-2469-2
   filetype: pdf

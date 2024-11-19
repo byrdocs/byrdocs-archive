@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: e95e92d662404e2a89958c8338989e9e
 url: https://byrdocs.org/files/e95e92d662404e2a89958c8338989e9e.pdf
 type: book
@@ -5,10 +7,7 @@ data:
   title: Partial Differential Equations
   authors:
   - Lawrence C. Evans
-  translators: []
-  edition: ''
   publisher: American Mathematical Society
-  publish_year: null
   isbn:
   - 978-0-8218-4974-3
   filetype: pdf

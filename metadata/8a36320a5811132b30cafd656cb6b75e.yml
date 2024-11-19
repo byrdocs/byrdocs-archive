@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 8a36320a5811132b30cafd656cb6b75e
 url: https://byrdocs.org/files/8a36320a5811132b30cafd656cb6b75e.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: JavaScript百炼成仙
   authors:
   - 杨逸飞
-  translators: []
   edition: '1'
   publisher: 清华大学出版社
-  publish_year: null
   isbn:
   - 978-7-302-56662-5
   filetype: pdf

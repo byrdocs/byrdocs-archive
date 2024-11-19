@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 54ed72b53165a9a0441bc4fe3fdff917
 url: https://byrdocs.org/files/54ed72b53165a9a0441bc4fe3fdff917.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 张凯院
   - 徐仲
-  translators: []
   edition: '1'
   publisher: 西北工业大学出版社
-  publish_year: null
   isbn:
   - 978-7-5612-5570-4
   filetype: pdf

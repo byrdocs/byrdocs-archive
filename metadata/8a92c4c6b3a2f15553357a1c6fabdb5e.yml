@@ -1,17 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 8a92c4c6b3a2f15553357a1c6fabdb5e
 url: https://byrdocs.org/files/8a92c4c6b3a2f15553357a1c6fabdb5e.pdf
 type: test
 data:
-  title: 2017-2018 通信原理
-  college: null
   course:
-    type: null
     name: 通信原理
   time:
     start: '2017'
     end: '2018'
-    semester: null
-    stage: null
   filetype: pdf
   content:
   - 原题

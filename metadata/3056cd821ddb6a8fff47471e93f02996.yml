@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 3056cd821ddb6a8fff47471e93f02996
 url: https://byrdocs.org/files/3056cd821ddb6a8fff47471e93f02996.pdf
 type: test
 data:
-  title: 2021-2022 第二学期 计算机原理与应用 期末
-  college: null
   course:
-    type: null
     name: 计算机原理与应用
   time:
     start: '2021'

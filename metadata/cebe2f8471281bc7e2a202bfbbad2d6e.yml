@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: cebe2f8471281bc7e2a202bfbbad2d6e
 url: https://byrdocs.org/files/cebe2f8471281bc7e2a202bfbbad2d6e.pdf
 type: test
 data:
-  title: 2014-2015 第二学期 电磁场与电磁波 期末
-  college: null
   course:
-    type: null
     name: 电磁场与电磁波
   time:
     start: '2014'

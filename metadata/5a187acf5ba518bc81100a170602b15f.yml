@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 5a187acf5ba518bc81100a170602b15f
 url: https://byrdocs.org/files/5a187acf5ba518bc81100a170602b15f.pdf
 type: test
 data:
-  title: 2021-2022 第二学期 计算机组成与系统结构 期中
-  college: null
   course:
-    type: null
     name: 计算机组成与系统结构
   time:
     start: '2021'

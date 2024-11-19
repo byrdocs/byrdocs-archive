@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: c28a67a40ba4f5ba8cac663fc8c6becf
 url: https://byrdocs.org/files/c28a67a40ba4f5ba8cac663fc8c6becf.pdf
 type: book
@@ -7,10 +9,8 @@ data:
   - 盛骤
   - 谢式干
   - 潘承毅
-  translators: []
   edition: '1'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-051548-0
   filetype: pdf

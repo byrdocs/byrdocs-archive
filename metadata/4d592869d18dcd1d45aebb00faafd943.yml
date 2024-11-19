@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: 4d592869d18dcd1d45aebb00faafd943
 url: https://byrdocs.org/files/4d592869d18dcd1d45aebb00faafd943.pdf
 type: doc
@@ -5,7 +7,6 @@ data:
   title: 北邮高等代数13-14讲义稿 复习题
   filetype: pdf
   course:
-  - type: null
-    name: 高等代数（下）
+  - name: 高等代数（下）
   content:
   - 题库

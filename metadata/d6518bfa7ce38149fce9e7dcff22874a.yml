@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: d6518bfa7ce38149fce9e7dcff22874a
 url: https://byrdocs.org/files/d6518bfa7ce38149fce9e7dcff22874a.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: 数据结构：C++语言版
   authors:
   - 邓俊辉
-  translators: []
   edition: '3'
   publisher: 清华大学出版社
-  publish_year: null
   isbn:
   - 978-7-302-33064-6
   filetype: pdf

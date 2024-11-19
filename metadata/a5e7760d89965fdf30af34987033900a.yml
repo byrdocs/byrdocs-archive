@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: a5e7760d89965fdf30af34987033900a
 url: https://byrdocs.org/files/a5e7760d89965fdf30af34987033900a.pdf
 type: test
 data:
-  title: 2016-2017 第二学期 概率论与随机过程 期末
-  college: null
   course:
-    type: null
     name: 概率论与随机过程
   time:
     start: '2016'

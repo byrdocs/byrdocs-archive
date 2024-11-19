@@ -1,12 +1,12 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 11baa55135782bc04fb82d5723e93822
 url: https://byrdocs.org/files/11baa55135782bc04fb82d5723e93822.pdf
 type: test
 data:
-  title: 2023-2024 第二学期 全球胜任力英语II 期中
   college:
   - 未来学院
   course:
-    type: null
     name: 全球胜任力英语II
   time:
     start: '2023'

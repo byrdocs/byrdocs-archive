@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: d435a8af6248ac2141c14987ab4ed0ed
 url: https://byrdocs.org/files/d435a8af6248ac2141c14987ab4ed0ed.pdf
 type: book
@@ -13,7 +15,6 @@ data:
   - 李善平
   edition: '1'
   publisher: 机械工业出版社
-  publish_year: null
   isbn:
   - 978-7-111-60436-5
   filetype: pdf

@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 6955afa70111ebf6f5d9edd57261480b
 url: https://byrdocs.org/files/6955afa70111ebf6f5d9edd57261480b.pdf
 type: test
 data:
-  title: 2022-2023 第一学期 矩阵理论和方法 期末
-  college: null
   course:
-    type: null
     name: 矩阵理论和方法
   time:
     start: '2022'

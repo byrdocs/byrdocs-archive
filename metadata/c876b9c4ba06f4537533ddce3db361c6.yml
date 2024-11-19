@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: c876b9c4ba06f4537533ddce3db361c6
 url: https://byrdocs.org/files/c876b9c4ba06f4537533ddce3db361c6.pdf
 type: book
@@ -9,10 +11,8 @@ data:
   - 王雷
   - 王海婴
   - 李江军
-  translators: []
   edition: '2'
   publisher: 科学出版社
-  publish_year: null
   isbn:
   - 978-7-03-025415-3
   filetype: pdf

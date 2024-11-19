@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 0eaf50a7f27a71479671187316367702
 url: https://byrdocs.org/files/0eaf50a7f27a71479671187316367702.pdf
 type: book
@@ -12,10 +14,7 @@ data:
   - Jason Diamond
   - Aleatha Parker
   - Michael Roberts
-  translators: []
-  edition: ''
   publisher: Wiley
-  publish_year: null
   isbn:
   - 978-0-7645-9654-4
   filetype: pdf

@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 9eb33c0d2381d4d080212ac6497d55ae
 url: https://byrdocs.org/files/9eb33c0d2381d4d080212ac6497d55ae.pdf
 type: test
 data:
-  title: 2020-2021 第一学期 C/C++程序设计与编程方法 期末
-  college: null
   course:
-    type: null
     name: C/C++程序设计与编程方法
   time:
     start: '2020'

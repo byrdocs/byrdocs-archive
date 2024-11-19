@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: afd7172379c2bf6e2e3cee16f072c9dc
 url: https://byrdocs.org/files/afd7172379c2bf6e2e3cee16f072c9dc.pdf
 type: doc
@@ -5,7 +7,6 @@ data:
   title: 信号与系统期末串讲
   filetype: pdf
   course:
-  - type: null
-    name: 信号与系统
+  - name: 信号与系统
   content:
   - 知识点

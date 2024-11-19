@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: adb827ed398cf93b11aa228267a484ff
 url: https://byrdocs.org/files/adb827ed398cf93b11aa228267a484ff.zip
 type: doc
@@ -5,7 +7,6 @@ data:
   title: 新版各章书后习题答案
   filetype: zip
   course:
-  - type: null
-    name: 大学计算机基础
+  - name: 大学计算机基础
   content:
   - 答案

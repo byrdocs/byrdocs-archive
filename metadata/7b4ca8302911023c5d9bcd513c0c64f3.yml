@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 7b4ca8302911023c5d9bcd513c0c64f3
 url: https://byrdocs.org/files/7b4ca8302911023c5d9bcd513c0c64f3.pdf
 type: test
 data:
-  title: 2022-2023 第二学期 中国近现代史纲要 期末
-  college: null
   course:
-    type: null
     name: 中国近现代史纲要
   time:
     start: '2022'

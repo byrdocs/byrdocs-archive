@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: f2ca5be2a63a444d616db54c27739b08
 url: https://byrdocs.org/files/f2ca5be2a63a444d616db54c27739b08.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: 现代交换原理与通信网技术
   authors:
   - 卞佳丽
-  translators: []
   edition: '1'
   publisher: 北京邮电大学出版社
-  publish_year: null
   isbn:
   - 978-7-5635-1055-9
   filetype: pdf

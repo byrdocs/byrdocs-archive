@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: a1952ba0675b00c391f2597098089287
 url: https://byrdocs.org/files/a1952ba0675b00c391f2597098089287.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 史悦
   - 孙洪祥
-  translators: []
   edition: '1'
   publisher: 北京邮电大学出版社
-  publish_year: null
   isbn:
   - 978-7-5635-2132-6
   filetype: pdf

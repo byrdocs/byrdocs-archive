@@ -1,16 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 5e49851c2f6e58e1467ce774a7641b75
 url: https://byrdocs.org/files/5e49851c2f6e58e1467ce774a7641b75.pdf
 type: test
 data:
-  title: 2019 计算机网络 期中
-  college: null
   course:
-    type: null
     name: 计算机网络
   time:
     start: '2019'
     end: '2019'
-    semester: null
     stage: 期中
   filetype: pdf
   content:

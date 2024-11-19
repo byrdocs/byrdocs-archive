@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 52c186e906a773c9145f3230d1006b4f
 url: https://byrdocs.org/files/52c186e906a773c9145f3230d1006b4f.pdf
 type: book
@@ -9,7 +11,6 @@ data:
   - 冯速
   edition: '1'
   publisher: 机械工业出版社
-  publish_year: null
   isbn:
   - 978-7-111-37787-0
   filetype: pdf

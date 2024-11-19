@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 58b89e10c57425ce7cceb5dad17fde5b
 url: https://byrdocs.org/files/58b89e10c57425ce7cceb5dad17fde5b.pdf
 type: book
@@ -7,10 +9,8 @@ data:
   - 杨娟
   - 石川
   - 王柏
-  translators: []
   edition: '2'
   publisher: 北京邮电大学出版社
-  publish_year: null
   isbn:
   - 978-7-5635-4997-9
   filetype: pdf

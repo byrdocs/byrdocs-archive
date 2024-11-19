@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 8c92556e21aff8919c755d4a12ee6681
 url: https://byrdocs.org/files/8c92556e21aff8919c755d4a12ee6681.pdf
 type: book
@@ -7,10 +9,8 @@ data:
   - 李存志
   - 郑建邦
   - 徐忠锋
-  translators: []
   edition: '1'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-016562-3
   filetype: pdf

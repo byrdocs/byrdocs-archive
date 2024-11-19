@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 600a47858f280bae6a4d52792a07ed60
 url: https://byrdocs.org/files/600a47858f280bae6a4d52792a07ed60.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 罗鹏飞
   - 张文明
-  translators: []
   edition: '1'
   publisher: 清华大学出版社
-  publish_year: null
   isbn:
   - 978-7-302-12899-1
   filetype: pdf

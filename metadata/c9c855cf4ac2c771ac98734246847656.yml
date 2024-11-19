@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: c9c855cf4ac2c771ac98734246847656
 url: https://byrdocs.org/files/c9c855cf4ac2c771ac98734246847656.pdf
 type: book
@@ -7,10 +9,8 @@ data:
   - Abraham Silberschatz
   - Henry F. Korth
   - S. Sudarshan
-  translators: []
   edition: '7'
   publisher: Mc Graw Hill Education
-  publish_year: null
   isbn:
   - 978-0-07-802215-9
   filetype: pdf

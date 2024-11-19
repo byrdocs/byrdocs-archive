@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 0d24315e4049f6946e12f5efa6f7fc68
 url: https://byrdocs.org/files/0d24315e4049f6946e12f5efa6f7fc68.pdf
 type: book
@@ -5,10 +7,7 @@ data:
   title: The Consumer Society
   authors:
   - Jean Baudrillard
-  translators: []
-  edition: ''
   publisher: SAGE Publications
-  publish_year: null
   isbn:
   - 978-1-4739-9454-6
   filetype: pdf

@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 0a2ec7a3b027bb439e7bf021c4b1b1be
 url: https://byrdocs.org/files/0a2ec7a3b027bb439e7bf021c4b1b1be.pdf
 type: test
@@ -10,5 +12,5 @@ data:
     stage: 期中
   filetype: pdf
   content:
-    - 原题
-    - 答案
+  - 原题
+  - 答案

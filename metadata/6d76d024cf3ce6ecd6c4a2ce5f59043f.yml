@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 6d76d024cf3ce6ecd6c4a2ce5f59043f
 url: https://byrdocs.org/files/6d76d024cf3ce6ecd6c4a2ce5f59043f.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: 高等数学学习指导与习题解析（第2版 下）
   authors:
   - 北京邮电大学高等数学双语教学组
-  translators: []
   edition: '2'
   publisher: 北京邮电大学出版社
-  publish_year: null
   isbn:
   - 978-7-5635-5411-9
   filetype: pdf

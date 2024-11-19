@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 36c0deb11dc005fa69feb03f1e67da15
 url: https://byrdocs.org/files/36c0deb11dc005fa69feb03f1e67da15.pdf
 type: test
 data:
-  title: 2022-2023 第二学期 数学分析（下） 期末
-  college: null
   course:
-    type: null
     name: 数学分析（下）
   time:
     start: '2022'

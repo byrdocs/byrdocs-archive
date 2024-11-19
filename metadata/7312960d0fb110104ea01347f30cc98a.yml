@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 7312960d0fb110104ea01347f30cc98a
 url: https://byrdocs.org/files/7312960d0fb110104ea01347f30cc98a.pdf
 type: book
@@ -7,10 +9,8 @@ data:
   - Abraham silberschatz
   - Peter Baer Galvin
   - Greg Gagne
-  translators: []
   edition: '10'
   publisher: Wiley
-  publish_year: null
   isbn:
   - 978-1-119-32091-3
   filetype: pdf

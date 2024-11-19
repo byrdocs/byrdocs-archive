@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 2d4152ed853a6e54476474395b008e67
 url: https://byrdocs.org/files/2d4152ed853a6e54476474395b008e67.pdf
 type: test
 data:
-  title: 2017-2018 第二学期 数字电路与逻辑设计 期中
-  college: null
   course:
-    type: null
     name: 数字电路与逻辑设计
   time:
     start: '2017'

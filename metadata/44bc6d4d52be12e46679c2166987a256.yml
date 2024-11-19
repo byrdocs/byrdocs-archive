@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 44bc6d4d52be12e46679c2166987a256
 url: https://byrdocs.org/files/44bc6d4d52be12e46679c2166987a256.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: 工科数学分析基础教学辅导书 上册
   authors:
   - 武忠祥
-  translators: []
   edition: '1'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-020052-2
   filetype: pdf

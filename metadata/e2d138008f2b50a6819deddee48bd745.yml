@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: e2d138008f2b50a6819deddee48bd745
 url: https://byrdocs.org/files/e2d138008f2b50a6819deddee48bd745.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 李荫华
   - 夏国佐
-  translators: []
   edition: '2'
   publisher: 上海外语教育出版社
-  publish_year: null
   isbn:
   - 978-7-5446-1528-0
   filetype: pdf

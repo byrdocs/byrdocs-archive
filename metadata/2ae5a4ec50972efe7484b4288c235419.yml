@@ -1,12 +1,12 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 2ae5a4ec50972efe7484b4288c235419
 url: https://byrdocs.org/files/2ae5a4ec50972efe7484b4288c235419.pdf
 type: test
 data:
-  title: 2022-2023 第一学期 计算导论与程序设计 期末
   college:
   - 国际学院
   course:
-    type: null
     name: 计算导论与程序设计
   time:
     start: '2022'

@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 83e6b74c2f4bf6b17b74debe4e59ed7c
 url: https://byrdocs.org/files/83e6b74c2f4bf6b17b74debe4e59ed7c.pdf
 type: book
@@ -13,7 +15,6 @@ data:
   - 张金波
   edition: '1'
   publisher: 机械工业出版社
-  publish_year: null
   isbn:
   - 978-7-111-68181-6
   filetype: pdf

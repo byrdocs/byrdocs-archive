@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 893f48cacead4bd0e157bffbe9cd7a27
 url: https://byrdocs.org/files/893f48cacead4bd0e157bffbe9cd7a27.pdf
 type: book
@@ -8,10 +10,8 @@ data:
   - 马文蔚
   - 周雨青
   - 解希顺
-  translators: []
   edition: '7'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-053823-6
   filetype: pdf

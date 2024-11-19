@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: b990e2b2b026fc49762526284d0559fb
 url: https://byrdocs.org/files/b990e2b2b026fc49762526284d0559fb.pdf
 type: book
@@ -9,7 +11,6 @@ data:
   - 夏鸿刚
   edition: '1'
   publisher: 机械工业出版社
-  publish_year: null
   isbn:
   - 978-7-111-26520-7
   filetype: pdf

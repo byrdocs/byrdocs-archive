@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 94ba29640213eb47582080030e91ef68
 url: https://byrdocs.org/files/94ba29640213eb47582080030e91ef68.pdf
 type: test
 data:
-  title: 2008-2009 第一学期 线性代数 期末
-  college: null
   course:
-    type: null
     name: 线性代数
   time:
     start: '2008'

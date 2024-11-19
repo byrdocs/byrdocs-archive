@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: f3f66564a90945dce8f8f73081c0b781
 url: https://byrdocs.org/files/f3f66564a90945dce8f8f73081c0b781.pdf
 type: book
@@ -8,10 +10,8 @@ data:
   - 赵新超
   - 陈秀卿
   - 钱江
-  translators: []
   edition: '2'
   publisher: 北京邮电大学出版社
-  publish_year: null
   isbn:
   - 978-7-5635-4909-2
   filetype: pdf

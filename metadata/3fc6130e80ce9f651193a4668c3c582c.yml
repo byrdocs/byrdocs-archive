@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: 3fc6130e80ce9f651193a4668c3c582c
 url: https://byrdocs.org/files/3fc6130e80ce9f651193a4668c3c582c.zip
 type: doc
@@ -5,7 +7,6 @@ data:
   title: 17年数据结构课件
   filetype: zip
   course:
-  - type: null
-    name: 数据结构与算法
+  - name: 数据结构与算法
   content:
   - 课件

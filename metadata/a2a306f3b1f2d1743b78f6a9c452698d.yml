@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: a2a306f3b1f2d1743b78f6a9c452698d
 url: https://byrdocs.org/files/a2a306f3b1f2d1743b78f6a9c452698d.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 费定晖
   - 周学圣
-  translators: []
   edition: '1'
   publisher: 山东科学技术出版社
-  publish_year: null
   isbn:
   - 978-7-5331-5899-6
   filetype: pdf

@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: edad62ee4840b547066a20b292ac2dbd
 url: https://byrdocs.org/files/edad62ee4840b547066a20b292ac2dbd.pdf
 type: book
@@ -9,10 +11,8 @@ data:
   - 郭军
   - 高荔
   - 杨春武
-  translators: []
   edition: '6'
   publisher: 科学出版社
-  publish_year: null
   isbn:
   - 978-7-03-037162-1
   filetype: pdf

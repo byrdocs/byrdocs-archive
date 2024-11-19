@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: d1eb80f498b81137c90e9e52bb824f84
 url: https://byrdocs.org/files/d1eb80f498b81137c90e9e52bb824f84.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: 大话数据结构
   authors:
   - 程杰
-  translators: []
   edition: '1'
   publisher: 清华大学出版社
-  publish_year: null
   isbn:
   - 978-7-302-25565-9
   filetype: pdf

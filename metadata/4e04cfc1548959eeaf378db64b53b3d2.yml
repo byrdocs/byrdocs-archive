@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 4e04cfc1548959eeaf378db64b53b3d2
 url: https://byrdocs.org/files/4e04cfc1548959eeaf378db64b53b3d2.pdf
 type: book
@@ -10,10 +12,7 @@ data:
   - 尤峻汉
   - 朱俊杰
   - 胡友秋
-  translators: []
-  edition: ''
   publisher: 科学出版社
-  publish_year: null
   isbn:
   - 978-7-03-015497-2
   filetype: pdf

@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: a71b86146e27a04b8c6b82840d1d6e89
 url: https://byrdocs.org/files/a71b86146e27a04b8c6b82840d1d6e89.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 白中英
   - 戴志涛
-  translators: []
   edition: '6'
   publisher: 科学出版社
-  publish_year: null
   isbn:
   - 978-7-03-061971-6
   filetype: pdf

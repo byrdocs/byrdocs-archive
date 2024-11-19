@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 5e8a15d1410d9831b6c93c8b62e387bb
 url: https://byrdocs.org/files/5e8a15d1410d9831b6c93c8b62e387bb.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 王绵森
   - 马知恩
-  translators: []
   edition: '3'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-049115-9
   filetype: pdf

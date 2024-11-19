@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: 5fa1b8c8638b050f24cb3b9d06fde606
 url: https://byrdocs.org/files/5fa1b8c8638b050f24cb3b9d06fde606.pdf
 type: doc
@@ -5,7 +7,6 @@ data:
   title: 单项选择题 修正版
   filetype: pdf
   course:
-  - type: null
-    name: 数据库系统原理
+  - name: 数据库系统原理
   content:
   - 题库

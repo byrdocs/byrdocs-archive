@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 924360bef16f99351c3e869b13e75f94
 url: https://byrdocs.org/files/924360bef16f99351c3e869b13e75f94.pdf
 type: book
@@ -8,10 +10,8 @@ data:
   - 安宇
   - 阮东
   - 李岩松
-  translators: []
   edition: '4'
   publisher: 清华大学出版社
-  publish_year: null
   isbn:
   - 978-7-302-50984-4
   filetype: pdf

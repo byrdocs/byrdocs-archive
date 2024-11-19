@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 2307dd58db8bd27a6f176de750e53df2
 url: https://byrdocs.org/files/2307dd58db8bd27a6f176de750e53df2.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 徐锦芬
   - 刘文波
-  translators: []
   edition: '2'
   publisher: 上海外语教育出版社
-  publish_year: null
   isbn:
   - 978-7-5446-6627-5
   filetype: pdf

@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 31601606ba85971d6e51bd1327bda68e
 url: https://byrdocs.org/files/31601606ba85971d6e51bd1327bda68e.pdf
 type: book
@@ -6,10 +8,7 @@ data:
   authors:
   - 苏志平
   - 郭志梅
-  translators: []
-  edition: ''
   publisher: 中国水利水电出版社
-  publish_year: null
   isbn:
   - 978-7-5084-6678-1
   filetype: pdf

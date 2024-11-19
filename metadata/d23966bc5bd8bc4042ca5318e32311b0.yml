@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: d23966bc5bd8bc4042ca5318e32311b0
 url: https://byrdocs.org/files/d23966bc5bd8bc4042ca5318e32311b0.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: C程序设计导引
   authors:
   - 尹宝林
-  translators: []
   edition: '1'
   publisher: 机械工业出版社
-  publish_year: null
   isbn:
   - 978-7-111-41891-7
   filetype: pdf

@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: ba296e718e5bbfd498d9d582e05963d2
 url: https://byrdocs.org/files/ba296e718e5bbfd498d9d582e05963d2.pdf
 type: doc
@@ -5,7 +7,6 @@ data:
   title: 计算机网络 自顶向下方法 8版答案
   filetype: pdf
   course:
-  - type: null
-    name: 计算机网络
+  - name: 计算机网络
   content:
   - 答案

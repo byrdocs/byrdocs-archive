@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: bdbe445cbba7ae36385bf344ebafad77
 url: https://byrdocs.org/files/bdbe445cbba7ae36385bf344ebafad77.pdf
 type: test
 data:
-  title: 2003-2004 第二学期 计算机组成原理 期末
-  college: null
   course:
-    type: null
     name: 计算机组成原理
   time:
     start: '2003'

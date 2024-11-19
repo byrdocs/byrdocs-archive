@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 2b4cd70ccff05241a0dfc87c22455413
 url: https://byrdocs.org/files/2b4cd70ccff05241a0dfc87c22455413.pdf
 type: book
@@ -8,10 +10,8 @@ data:
   - 刘雅琼
   - 闫实
   - 赵中原
-  translators: []
   edition: '1'
   publisher: 北京邮电大学出版社
-  publish_year: null
   isbn:
   - 978-7-5635-5847-6
   filetype: pdf

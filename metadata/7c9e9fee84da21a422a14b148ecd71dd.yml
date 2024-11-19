@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 7c9e9fee84da21a422a14b148ecd71dd
 url: https://byrdocs.org/files/7c9e9fee84da21a422a14b148ecd71dd.pdf
 type: test
 data:
-  title: 2019-2020 第二学期 概率论与数理统计 期末
-  college: null
   course:
-    type: null
     name: 概率论与数理统计
   time:
     start: '2019'

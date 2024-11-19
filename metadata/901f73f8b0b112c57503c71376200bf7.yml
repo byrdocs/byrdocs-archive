@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: 901f73f8b0b112c57503c71376200bf7
 url: https://byrdocs.org/files/901f73f8b0b112c57503c71376200bf7.pdf
 type: doc
@@ -5,7 +7,6 @@ data:
   title: 思维导图
   filetype: pdf
   course:
-  - type: null
-    name: 毛泽东思想和中国特色社会主义理论体系概论
+  - name: 毛泽东思想和中国特色社会主义理论体系概论
   content:
   - 思维导图

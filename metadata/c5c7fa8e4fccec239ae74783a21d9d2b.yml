@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: c5c7fa8e4fccec239ae74783a21d9d2b
 url: https://byrdocs.org/files/c5c7fa8e4fccec239ae74783a21d9d2b.pdf
 type: book
@@ -5,10 +7,7 @@ data:
   title: 'Combinatorial Optimization: Polyhedra and Efficiency'
   authors:
   - Alexander Schrijver
-  translators: []
-  edition: ''
   publisher: Springer
-  publish_year: null
   isbn:
   - 978-3-540-20456-5
   filetype: pdf

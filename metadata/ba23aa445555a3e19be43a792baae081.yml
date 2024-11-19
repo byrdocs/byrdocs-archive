@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: ba23aa445555a3e19be43a792baae081
 url: https://byrdocs.org/files/ba23aa445555a3e19be43a792baae081.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: 数学分析 下册
   authors:
   - 华东师范大学数学系
-  translators: []
   edition: '4'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-029567-2
   filetype: pdf

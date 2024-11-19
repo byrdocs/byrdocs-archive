@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 093867ede03624d5e443fe575bafaceb
 url: https://byrdocs.org/files/093867ede03624d5e443fe575bafaceb.pdf
 type: book
@@ -9,10 +11,7 @@ data:
   - Gang Kou
   - Yi Peng
   - Jianping Li
-  translators: []
-  edition: ''
   publisher: Springer
-  publish_year: null
   isbn:
   - 978-0-85729-503-3
   filetype: pdf

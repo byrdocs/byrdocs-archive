@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 77b71fe091b9831943ec2e84ebda41f2
 url: https://byrdocs.org/files/77b71fe091b9831943ec2e84ebda41f2.pdf
 type: book
@@ -7,10 +9,8 @@ data:
   - 谷利泽
   - 郑世慧
   - 杨义先
-  translators: []
   edition: '3'
   publisher: 北京邮电大学出版社
-  publish_year: null
   isbn:
   - 978-7-5635-6939-7
   filetype: pdf

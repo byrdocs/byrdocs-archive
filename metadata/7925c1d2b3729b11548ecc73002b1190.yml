@@ -1,12 +1,12 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 7925c1d2b3729b11548ecc73002b1190
 url: https://byrdocs.org/files/7925c1d2b3729b11548ecc73002b1190.pdf
 type: test
 data:
-  title: 2021-2022 第二学期 python编程与实践 期末
   college:
   - 信息与通信工程学院
   course:
-    type: null
     name: python编程与实践
   time:
     start: '2021'

@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 9a3f620bc3ea550661b6b332fad8eed4
 url: https://byrdocs.org/files/9a3f620bc3ea550661b6b332fad8eed4.pdf
 type: book
@@ -10,10 +12,8 @@ data:
   - 赵建
   - 吴晓真
   - 范烨
-  translators: []
   edition: '2'
   publisher: 上海外语教育出版社
-  publish_year: null
   isbn:
   - 978-7-5446-3138-9
   filetype: pdf

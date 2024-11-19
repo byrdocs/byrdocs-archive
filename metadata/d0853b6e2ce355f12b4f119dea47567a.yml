@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: d0853b6e2ce355f12b4f119dea47567a
 url: https://byrdocs.org/files/d0853b6e2ce355f12b4f119dea47567a.pdf
 type: book
@@ -12,7 +14,6 @@ data:
   - 陈曦
   edition: '1'
   publisher: 电子工业出版社
-  publish_year: null
   isbn:
   - 978-7-121-03336-0
   filetype: pdf

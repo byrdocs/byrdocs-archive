@@ -1,12 +1,12 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 77e6fa43e68530fff2b19f317ff369b6
 url: https://byrdocs.org/files/77e6fa43e68530fff2b19f317ff369b6.pdf
 type: test
 data:
-  title: 2023-2024 第一学期 高等数学A（上） 期中
   college:
   - 国际学院
   course:
-    type: null
     name: 高等数学A（上）
   time:
     start: '2023'

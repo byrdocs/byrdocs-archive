@@ -1,17 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: fa7b8862ac2ba6eb11ceaaeaa7a55e59
 url: https://byrdocs.org/files/fa7b8862ac2ba6eb11ceaaeaa7a55e59.pdf
 type: test
 data:
-  title: 2022-2023 信号与系统 期末
   college:
   - 国际学院
   course:
-    type: null
     name: 信号与系统
   time:
     start: '2022'
     end: '2023'
-    semester: null
     stage: 期末
   filetype: pdf
   content:

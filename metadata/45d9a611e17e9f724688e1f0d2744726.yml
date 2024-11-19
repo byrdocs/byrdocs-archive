@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 45d9a611e17e9f724688e1f0d2744726
 url: https://byrdocs.org/files/45d9a611e17e9f724688e1f0d2744726.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: 《马克思主义基本原理》实践教学辅学读本
   authors:
   - 李全喜
-  translators: []
   edition: '1'
   publisher: 研究出版社
-  publish_year: null
   isbn:
   - 978-7-5199-1388-5
   filetype: pdf

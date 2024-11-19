@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: ce97c823196212c1cb6998710da384fb
 url: https://byrdocs.org/files/ce97c823196212c1cb6998710da384fb.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - Brian W. Kernighan
   - Dennis M. Ritchie
-  translators: []
   edition: '2'
   publisher: Perentice Hall
-  publish_year: null
   isbn:
   - 978-0-13-110362-7
   filetype: pdf

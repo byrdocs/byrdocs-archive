@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 030013717ceb90865c713e8febb3948d
 url: https://byrdocs.org/files/030013717ceb90865c713e8febb3948d.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 卢开澄
   - 卢华明
-  translators: []
   edition: '4'
   publisher: 清华大学出版社
-  publish_year: null
   isbn:
   - 978-7-302-13961-4
   filetype: pdf

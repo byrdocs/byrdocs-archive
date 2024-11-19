@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 3385fa45af7d9dac34513a2a3ac8a349
 url: https://byrdocs.org/files/3385fa45af7d9dac34513a2a3ac8a349.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 林锐
   - 韩永泉
-  translators: []
   edition: '3'
   publisher: 电子工业出版社
-  publish_year: null
   isbn:
   - 978-7-121-04114-3
   filetype: pdf

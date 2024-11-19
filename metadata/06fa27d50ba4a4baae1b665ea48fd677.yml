@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 06fa27d50ba4a4baae1b665ea48fd677
 url: https://byrdocs.org/files/06fa27d50ba4a4baae1b665ea48fd677.pdf
 type: book
@@ -12,7 +14,6 @@ data:
   - 黄京民
   edition: '1'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-023069-7
   filetype: pdf

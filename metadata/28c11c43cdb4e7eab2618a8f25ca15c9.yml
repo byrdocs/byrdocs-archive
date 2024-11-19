@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 28c11c43cdb4e7eab2618a8f25ca15c9
 url: https://byrdocs.org/files/28c11c43cdb4e7eab2618a8f25ca15c9.pdf
 type: book
@@ -10,10 +12,8 @@ data:
   - 杨建奎
   - 郭永江
   - 周清
-  translators: []
   edition: '1'
   publisher: 北京邮电大学出版社
-  publish_year: null
   isbn:
   - 978-7-5635-5460-7
   filetype: pdf

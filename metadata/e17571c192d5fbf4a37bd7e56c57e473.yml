@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: e17571c192d5fbf4a37bd7e56c57e473
 url: https://byrdocs.org/files/e17571c192d5fbf4a37bd7e56c57e473.pdf
 type: book
@@ -10,7 +12,6 @@ data:
   - 黄倩
   edition: '1'
   publisher: 人民邮电出版社
-  publish_year: null
   isbn:
   - 978-7-115-21957-2
   filetype: pdf

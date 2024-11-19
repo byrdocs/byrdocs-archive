@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 79f7363b487c31b1899510f1383402fb
 url: https://byrdocs.org/files/79f7363b487c31b1899510f1383402fb.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 孙淑玲
   - 许胤龙
-  translators: []
   edition: '1'
   publisher: 中国科学技术大学出版社
-  publish_year: null
   isbn:
   - 978-7-312-01035-4
   filetype: pdf

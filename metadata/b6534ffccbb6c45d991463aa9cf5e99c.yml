@@ -1,17 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: b6534ffccbb6c45d991463aa9cf5e99c
 url: https://byrdocs.org/files/b6534ffccbb6c45d991463aa9cf5e99c.pdf
 type: test
 data:
-  title: 2015-2016 第二学期 数字电路与逻辑设计
-  college: null
   course:
-    type: null
     name: 数字电路与逻辑设计
   time:
     start: '2015'
     end: '2016'
     semester: Second
-    stage: null
   filetype: pdf
   content:
   - 原题

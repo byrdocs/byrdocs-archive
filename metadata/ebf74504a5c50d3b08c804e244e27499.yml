@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: ebf74504a5c50d3b08c804e244e27499
 url: https://byrdocs.org/files/ebf74504a5c50d3b08c804e244e27499.pdf
 type: test
 data:
-  title: 2019-2020 第一学期 马克思主义基本原理 期末
-  college: null
   course:
-    type: null
     name: 马克思主义基本原理
   time:
     start: '2019'

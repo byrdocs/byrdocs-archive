@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 9e6cade55a482829bc0429b8d0b80f9f
 url: https://byrdocs.org/files/9e6cade55a482829bc0429b8d0b80f9f.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: 电子电路基础
   authors:
   - 刘宝玲
-  translators: []
   edition: '2'
   publisher: 北京邮电大学出版社
-  publish_year: null
   isbn:
   - 978-7-04-036419-4
   filetype: pdf

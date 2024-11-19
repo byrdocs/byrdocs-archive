@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 12bec49abc8fa7762f1ecc9e143a0884
 url: https://byrdocs.org/files/12bec49abc8fa7762f1ecc9e143a0884.pdf
 type: book
@@ -7,10 +9,8 @@ data:
   - 刘庆
   - 姚丽娜
   - 余美华
-  translators: []
   edition: '1'
   publisher: 航空工业出版社
-  publish_year: null
   isbn:
   - 978-7-5165-1666-9
   filetype: pdf

@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 7a60522f051ee295ed476ce8dbe44a75
 url: https://byrdocs.org/files/7a60522f051ee295ed476ce8dbe44a75.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: 数学物理方法——理论、历史与计算机
   authors:
   - 郭玉翠
-  translators: []
   edition: '1'
   publisher: 大连理工大学出版社
-  publish_year: null
   isbn:
   - 978-7-5611-5750-3
   filetype: pdf

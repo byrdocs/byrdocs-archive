@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: d4082875ceb29f91df11117b70bffae0
 url: https://byrdocs.org/files/d4082875ceb29f91df11117b70bffae0.pdf
 type: test
 data:
-  title: 2007-2008 第一学期 微机原理与接口技术 期末
-  college: null
   course:
-    type: null
     name: 微机原理与接口技术
   time:
     start: '2007'

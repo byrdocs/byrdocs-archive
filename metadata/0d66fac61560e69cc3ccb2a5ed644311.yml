@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 0d66fac61560e69cc3ccb2a5ed644311
 url: https://byrdocs.org/files/0d66fac61560e69cc3ccb2a5ed644311.pdf
 type: book
@@ -9,7 +11,6 @@ data:
   - 冯舜玺
   edition: '1'
   publisher: 机械工业出版社
-  publish_year: null
   isbn:
   - 978-7-111-12748-2
   filetype: pdf

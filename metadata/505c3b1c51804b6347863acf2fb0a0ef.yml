@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 505c3b1c51804b6347863acf2fb0a0ef
 url: https://byrdocs.org/files/505c3b1c51804b6347863acf2fb0a0ef.pdf
 type: book
@@ -11,7 +13,6 @@ data:
   - 朱允伦
   edition: '1'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-041597-1
   filetype: pdf

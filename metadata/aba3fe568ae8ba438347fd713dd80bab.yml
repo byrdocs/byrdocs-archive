@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: aba3fe568ae8ba438347fd713dd80bab
 url: https://byrdocs.org/files/aba3fe568ae8ba438347fd713dd80bab.pdf
 type: book
@@ -10,7 +12,6 @@ data:
   - 裘宗燕
   edition: '1'
   publisher: 机械工业出版社
-  publish_year: null
   isbn:
   - 978-7-111-13510-4
   filetype: pdf

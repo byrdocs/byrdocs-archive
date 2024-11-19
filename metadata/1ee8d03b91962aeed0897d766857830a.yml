@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 1ee8d03b91962aeed0897d766857830a
 url: https://byrdocs.org/files/1ee8d03b91962aeed0897d766857830a.pdf
 type: book
@@ -8,10 +10,8 @@ data:
   - 王红玲
   - 姜华
   - 汤子瀛
-  translators: []
   edition: '1'
   publisher: 人民邮电出版社
-  publish_year: null
   isbn:
   - 978-7-115-56115-2
   filetype: pdf

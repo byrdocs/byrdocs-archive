@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 345560e5d0b32d4e073ade8f6b7afb21
 url: https://byrdocs.org/files/345560e5d0b32d4e073ade8f6b7afb21.pdf
 type: test
 data:
-  title: 2016-2017 第二学期 数学分析 期末
-  college: null
   course:
-    type: null
     name: 数学分析
   time:
     start: '2016'

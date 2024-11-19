@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: d1e32cef9a688384716b9001680c19f0
 url: https://byrdocs.org/files/d1e32cef9a688384716b9001680c19f0.pdf
 type: doc
@@ -5,7 +7,6 @@ data:
   title: 军事理论题库
   filetype: pdf
   course:
-  - type: null
-    name: 军事理论
+  - name: 军事理论
   content:
   - 题库

@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: fbae45092a3f21e1359a8a4f4076d2dc
 url: https://byrdocs.org/files/fbae45092a3f21e1359a8a4f4076d2dc.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: 测度论讲义
   authors:
   - 严加安
-  translators: []
   edition: '2'
   publisher: 科学出版社
-  publish_year: null
   isbn:
   - 978-7-03-013409-7
   filetype: pdf

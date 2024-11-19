@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: e3cc31bd3895e142b2de0b46170852b4
 url: https://byrdocs.org/files/e3cc31bd3895e142b2de0b46170852b4.pdf
 type: book
@@ -8,10 +10,8 @@ data:
   - 戴志涛
   - 张天乐
   - 覃健成
-  translators: []
   edition: '5'
   publisher: 科学出版社
-  publish_year: null
   isbn:
   - 978-7-03-032736-9
   filetype: pdf

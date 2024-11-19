@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: 34050313fffcaa60cb0d4568373d064d
 url: https://byrdocs.org/files/34050313fffcaa60cb0d4568373d064d.pdf
 type: doc
@@ -5,7 +7,6 @@ data:
   title: 马工程《中国法制史》课本期末重点笔记整理
   filetype: pdf
   course:
-  - type: null
-    name: 中国法制史
+  - name: 中国法制史
   content:
   - 知识点

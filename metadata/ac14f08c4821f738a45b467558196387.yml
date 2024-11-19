@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: ac14f08c4821f738a45b467558196387
 url: https://byrdocs.org/files/ac14f08c4821f738a45b467558196387.pdf
 type: book
@@ -11,7 +13,6 @@ data:
   - 周奇
   edition: '1'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-052701-8
   filetype: pdf

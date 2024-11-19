@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: bd5450ea00a7844950b8f6b2579b4f06
 url: https://byrdocs.org/files/bd5450ea00a7844950b8f6b2579b4f06.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: 概率论与随机过程
   authors:
   - 北京邮电大学数学系概率教学组
-  translators: []
   edition: '1'
   publisher: 北京邮电大学出版社
-  publish_year: null
   isbn:
   - 978-7-5635-6266-4
   filetype: pdf

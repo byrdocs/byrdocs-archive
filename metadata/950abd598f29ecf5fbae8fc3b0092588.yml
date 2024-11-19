@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 950abd598f29ecf5fbae8fc3b0092588
 url: https://byrdocs.org/files/950abd598f29ecf5fbae8fc3b0092588.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 刘吉佑
   - 莫骄
-  translators: []
   edition: '2'
   publisher: 北京邮电大学出版社
-  publish_year: null
   isbn:
   - 978-7-5635-5587-1
   filetype: pdf

@@ -1,16 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: cbb5ac5a98a8f9ee183cf3ee1f1e9dc9
 url: https://byrdocs.org/files/cbb5ac5a98a8f9ee183cf3ee1f1e9dc9.pdf
 type: test
 data:
-  title: 2006-2007 矩阵分析与应用 期末
-  college: null
   course:
-    type: null
     name: 矩阵分析与应用
   time:
     start: '2006'
     end: '2007'
-    semester: null
     stage: 期末
   filetype: pdf
   content:

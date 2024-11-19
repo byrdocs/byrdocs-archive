@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 8d769b65491ff4cbf0666720f4cb23c2
 url: https://byrdocs.org/files/8d769b65491ff4cbf0666720f4cb23c2.pdf
 type: book
@@ -10,7 +12,6 @@ data:
   - 陈鸣
   edition: '1'
   publisher: 机械工业出版社
-  publish_year: null
   isbn:
   - 978-7-111-16505-7
   filetype: pdf

@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: affc420cd2a72ee00ef4c185a58d2cfa
 url: https://byrdocs.org/files/affc420cd2a72ee00ef4c185a58d2cfa.pdf
 type: test
 data:
-  title: 2022-2023 第二学期 高等数学A（下） 期末
-  college: null
   course:
-    type: null
     name: 高等数学A（下）
   time:
     start: '2022'

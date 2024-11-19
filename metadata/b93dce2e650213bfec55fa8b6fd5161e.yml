@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: b93dce2e650213bfec55fa8b6fd5161e
 url: https://byrdocs.org/files/b93dce2e650213bfec55fa8b6fd5161e.pdf
 type: book
@@ -7,10 +9,8 @@ data:
   - Mokhtar S. Bazaraa
   - Hanif D. Sherali
   - C. M. Shetty
-  translators: []
   edition: '3'
   publisher: Wiley
-  publish_year: null
   isbn:
   - 978-0-471-48600-8
   filetype: pdf

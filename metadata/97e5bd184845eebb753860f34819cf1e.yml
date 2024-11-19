@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 97e5bd184845eebb753860f34819cf1e
 url: https://byrdocs.org/files/97e5bd184845eebb753860f34819cf1e.pdf
 type: book
@@ -8,10 +10,8 @@ data:
   - 王颖霞
   - 卞江
   - 陈景祖
-  translators: []
   edition: '4'
   publisher: 北京大学出版社
-  publish_year: null
   isbn:
   - 978-7-301-22557-8
   filetype: pdf

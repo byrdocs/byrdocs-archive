@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: b0bb0477e6bb5dbca9520c3bf0222cb4
 url: https://byrdocs.org/files/b0bb0477e6bb5dbca9520c3bf0222cb4.pdf
 type: test
 data:
-  title: 2022-2023 第二学期 计算机网络 期中
-  college: null
   course:
-    type: null
     name: 计算机网络
   time:
     start: '2022'

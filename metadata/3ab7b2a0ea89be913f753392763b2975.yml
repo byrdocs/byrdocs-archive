@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 3ab7b2a0ea89be913f753392763b2975
 url: https://byrdocs.org/files/3ab7b2a0ea89be913f753392763b2975.pdf
 type: book
@@ -12,7 +14,6 @@ data:
   - 吕乃刚
   edition: '2'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-018398-6
   filetype: pdf

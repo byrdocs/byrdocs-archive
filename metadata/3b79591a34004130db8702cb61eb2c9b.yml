@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 3b79591a34004130db8702cb61eb2c9b
 url: https://byrdocs.org/files/3b79591a34004130db8702cb61eb2c9b.pdf
 type: book
@@ -5,10 +7,7 @@ data:
   title: Real-World Cryptography
   authors:
   - David Wong
-  translators: []
-  edition: ''
   publisher: Manning
-  publish_year: null
   isbn:
   - 978-1-61729-671-0
   filetype: pdf

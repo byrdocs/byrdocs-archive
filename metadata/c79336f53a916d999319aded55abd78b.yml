@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: c79336f53a916d999319aded55abd78b
 url: https://byrdocs.org/files/c79336f53a916d999319aded55abd78b.pdf
 type: book
@@ -9,10 +11,8 @@ data:
   - 许桂平
   - 孙勇
   - 徐惠民
-  translators: []
   edition: '1'
   publisher: 西安电子科技大学出版社
-  publish_year: null
   isbn:
   - 978-7-5606-4370-0
   filetype: pdf

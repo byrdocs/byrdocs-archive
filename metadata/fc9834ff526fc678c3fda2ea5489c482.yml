@@ -1,16 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: fc9834ff526fc678c3fda2ea5489c482
 url: https://byrdocs.org/files/fc9834ff526fc678c3fda2ea5489c482.pdf
 type: test
 data:
-  title: 2021 数据结构与算法 期末
-  college: null
   course:
-    type: null
     name: 数据结构与算法
   time:
     start: '2021'
     end: '2021'
-    semester: null
     stage: 期末
   filetype: pdf
   content:

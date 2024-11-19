@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: ffda74da2cc11a76c32b580b47daebb5
 url: https://byrdocs.org/files/ffda74da2cc11a76c32b580b47daebb5.pdf
 type: test
 data:
-  title: 2022-2023 第二学期 大学物理E（上） 期末
-  college: null
   course:
-    type: null
     name: 大学物理E（上）
   time:
     start: '2022'

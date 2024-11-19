@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 67b1ae01879c8d4ca862c4827c2aa31a
 url: https://byrdocs.org/files/67b1ae01879c8d4ca862c4827c2aa31a.pdf
 type: book
@@ -11,7 +13,6 @@ data:
   - 束莼
   edition: '1'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-030572-2
   filetype: pdf

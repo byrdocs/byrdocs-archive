@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 8f28e7693e1543315d9fcf2105a508b6
 url: https://byrdocs.org/files/8f28e7693e1543315d9fcf2105a508b6.pdf
 type: book
@@ -10,7 +12,6 @@ data:
   - 梁宝生
   edition: '1'
   publisher: 机械工业出版社
-  publish_year: null
   isbn:
   - 978-7-111-44789-4
   filetype: pdf

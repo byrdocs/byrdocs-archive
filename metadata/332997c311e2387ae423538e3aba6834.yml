@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 332997c311e2387ae423538e3aba6834
 url: https://byrdocs.org/files/332997c311e2387ae423538e3aba6834.pdf
 type: book
@@ -10,7 +12,6 @@ data:
   - 李植
   edition: '1'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-034659-6
   filetype: pdf

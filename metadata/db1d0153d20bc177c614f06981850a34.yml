@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: db1d0153d20bc177c614f06981850a34
 url: https://byrdocs.org/files/db1d0153d20bc177c614f06981850a34.pdf
 type: doc
@@ -5,7 +7,6 @@ data:
   title: 罗鹏飞习题解答
   filetype: pdf
   course:
-  - type: null
-    name: 随机信号分析与处理
+  - name: 随机信号分析与处理
   content:
   - 答案

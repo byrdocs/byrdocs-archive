@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 5a6058e26290543bdfce4481414585f7
 url: https://byrdocs.org/files/5a6058e26290543bdfce4481414585f7.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: Discrete and Combinatorial Mathematics – An Applied Introduction
   authors:
   - Palph P. Grimaldi
-  translators: []
   edition: '5'
   publisher: Pearson
-  publish_year: null
   isbn:
   - 978-0-201-72634-3
   filetype: pdf

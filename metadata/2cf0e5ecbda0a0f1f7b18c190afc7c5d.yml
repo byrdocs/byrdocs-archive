@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: 2cf0e5ecbda0a0f1f7b18c190afc7c5d
 url: https://byrdocs.org/files/2cf0e5ecbda0a0f1f7b18c190afc7c5d.pdf
 type: doc
@@ -5,7 +7,6 @@ data:
   title: 计算机网络课后习题参考解答
   filetype: pdf
   course:
-  - type: null
-    name: 计算机网络
+  - name: 计算机网络
   content:
   - 答案

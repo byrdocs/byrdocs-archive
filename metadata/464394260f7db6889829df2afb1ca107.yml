@@ -1,16 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 464394260f7db6889829df2afb1ca107
 url: https://byrdocs.org/files/464394260f7db6889829df2afb1ca107.pdf
 type: test
 data:
-  title: 2023-2024 概率论与数理统计 期中
-  college: null
   course:
-    type: null
     name: 概率论与数理统计
   time:
     start: '2023'
     end: '2024'
-    semester: null
     stage: 期中
   filetype: pdf
   content:

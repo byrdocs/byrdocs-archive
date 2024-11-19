@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 8a19768604fc6ba326f5d68d62ced78f
 url: https://byrdocs.org/files/8a19768604fc6ba326f5d68d62ced78f.pdf
 type: book
@@ -13,7 +15,6 @@ data:
   - 周立斌
   edition: '1'
   publisher: 机械工业出版社
-  publish_year: null
   isbn:
   - 978-7-111-40088-2
   filetype: pdf

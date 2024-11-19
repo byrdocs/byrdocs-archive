@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: e9001b2bbf800581331b16e664e657bd
 url: https://byrdocs.org/files/e9001b2bbf800581331b16e664e657bd.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: 西方经济学 上册
   authors:
   - 《西方经济学》编写组
-  translators: []
   edition: '2'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-052553-3
   filetype: pdf

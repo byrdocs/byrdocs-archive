@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 6b5ddaf29b0b4f34eecb5dd1885c30e2
 url: https://byrdocs.org/files/6b5ddaf29b0b4f34eecb5dd1885c30e2.pdf
 type: book
@@ -10,10 +12,8 @@ data:
   - 秦臻
   - 邓天平
   - 罗杰
-  translators: []
   edition: '7'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-055419-9
   filetype: pdf

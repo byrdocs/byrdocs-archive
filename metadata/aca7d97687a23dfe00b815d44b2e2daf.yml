@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: aca7d97687a23dfe00b815d44b2e2daf
 url: https://byrdocs.org/files/aca7d97687a23dfe00b815d44b2e2daf.pdf
 type: book
@@ -12,7 +14,6 @@ data:
   - 邓俊辉
   edition: '3'
   publisher: 清华大学出版社
-  publish_year: null
   isbn:
   - 978-7-302-19938-0
   filetype: pdf

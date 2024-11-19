@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 0065c9c8a499d1d5614aff3ebbdfd0f9
 url: https://byrdocs.org/files/0065c9c8a499d1d5614aff3ebbdfd0f9.pdf
 type: book
@@ -8,10 +10,8 @@ data:
   - 赵欣
   - 袁方
   - 王姗姗
-  translators: []
   edition: '1'
   publisher: 清华大学出版社
-  publish_year: null
   isbn:
   - 978-7-302-59323-2
   filetype: pdf

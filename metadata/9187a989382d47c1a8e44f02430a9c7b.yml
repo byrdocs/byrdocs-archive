@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 9187a989382d47c1a8e44f02430a9c7b
 url: https://byrdocs.org/files/9187a989382d47c1a8e44f02430a9c7b.pdf
 type: book
@@ -13,7 +15,6 @@ data:
   - 宿淑春
   edition: '5'
   publisher: 电子工业出版社
-  publish_year: null
   isbn:
   - 978-7-121-25041-5
   filetype: pdf

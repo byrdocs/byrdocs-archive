@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 5779d0f9490dc6b721b4c9eb101f2f21
 url: https://byrdocs.org/files/5779d0f9490dc6b721b4c9eb101f2f21.pdf
 type: book
@@ -11,7 +13,6 @@ data:
   - 邱璟
   edition: '1'
   publisher: 人民邮电出版社
-  publish_year: null
   isbn:
   - 978-7-115-33538-8
   filetype: pdf

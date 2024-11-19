@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: e4389641249a0f69ea9e61be1e00855b
 url: https://byrdocs.org/files/e4389641249a0f69ea9e61be1e00855b.pdf
 type: book
@@ -7,10 +9,8 @@ data:
   - Abraham Silberschatz
   - Peter Baer Galvin
   - Greg Garne
-  translators: []
   edition: '9'
   publisher: Wiley
-  publish_year: null
   isbn:
   - 978-1-118-09375-7
   filetype: pdf

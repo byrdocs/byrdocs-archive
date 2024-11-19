@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: bbae58d55692d5efec8f01906b358743
 url: https://byrdocs.org/files/bbae58d55692d5efec8f01906b358743.pdf
 type: doc
@@ -5,7 +7,6 @@ data:
   title: 固体物理-笔记
   filetype: pdf
   course:
-  - type: null
-    name: 固体物理
+  - name: 固体物理
   content:
   - 知识点

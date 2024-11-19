@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 8488d0877a40c1fc9ba958fb0d44a639
 url: https://byrdocs.org/files/8488d0877a40c1fc9ba958fb0d44a639.pdf
 type: test
 data:
-  title: 2017-2018 第一学期 大学物理B（下） 期末
-  college: null
   course:
-    type: null
     name: 大学物理B（下）
   time:
     start: '2017'

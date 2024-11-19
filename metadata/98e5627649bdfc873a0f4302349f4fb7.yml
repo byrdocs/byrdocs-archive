@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: 98e5627649bdfc873a0f4302349f4fb7
 url: https://byrdocs.org/files/98e5627649bdfc873a0f4302349f4fb7.pdf
 type: doc
@@ -5,9 +7,7 @@ data:
   title: 电子电路全书课后习题答案合并
   filetype: pdf
   course:
-  - type: null
-    name: 电路分析基础
-  - type: null
-    name: 电子电路基础
+  - name: 电路分析基础
+  - name: 电子电路基础
   content:
   - 答案

@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: acbeab0ceaf07c0fa36a24c8a7093713
 url: https://byrdocs.org/files/acbeab0ceaf07c0fa36a24c8a7093713.pdf
 type: book
@@ -8,10 +10,8 @@ data:
   - 李江峰
   - 刘依
   - 沈立
-  translators: []
   edition: '2'
   publisher: 清华大学出版社
-  publish_year: null
   isbn:
   - 978-7-302-38940-8
   filetype: pdf

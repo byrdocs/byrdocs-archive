@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: 07db70884c483b4bbe6aa733c964d586
 url: https://byrdocs.org/files/07db70884c483b4bbe6aa733c964d586.pdf
 type: doc
@@ -5,7 +7,6 @@ data:
   title: 文治学业辅导中心 课程提纲
   filetype: pdf
   course:
-  - type: null
-    name: 毛泽东思想和中国特色社会主义理论体系概论
+  - name: 毛泽东思想和中国特色社会主义理论体系概论
   content:
   - 知识点

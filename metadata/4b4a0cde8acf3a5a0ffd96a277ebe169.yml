@@ -1,16 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 4b4a0cde8acf3a5a0ffd96a277ebe169
 url: https://byrdocs.org/files/4b4a0cde8acf3a5a0ffd96a277ebe169.pdf
 type: test
 data:
-  title: 2017-2018 概率论与数理统计 期末
-  college: null
   course:
-    type: null
     name: 概率论与数理统计
   time:
     start: '2017'
     end: '2018'
-    semester: null
     stage: 期末
   filetype: pdf
   content:

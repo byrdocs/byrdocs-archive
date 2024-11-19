@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: cbbdc0828717c5d6eef6c9cc6e71b1c6
 url: https://byrdocs.org/files/cbbdc0828717c5d6eef6c9cc6e71b1c6.zip
 type: doc
@@ -5,7 +7,6 @@ data:
   title: 2015年课件
   filetype: zip
   course:
-  - type: null
-    name: 模拟电子技术
+  - name: 模拟电子技术
   content:
   - 课件

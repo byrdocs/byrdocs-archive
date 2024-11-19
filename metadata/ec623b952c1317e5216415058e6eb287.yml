@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: ec623b952c1317e5216415058e6eb287
 url: https://byrdocs.org/files/ec623b952c1317e5216415058e6eb287.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 舒贤林
   - 徐志才
-  translators: []
   edition: '1'
   publisher: 北京邮电学院出版社
-  publish_year: null
   isbn:
   - 978-7-5635-0002-4
   filetype: pdf

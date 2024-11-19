@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: d084ca00aa6a0d5c97f81c63ac93abe1
 url: https://byrdocs.org/files/d084ca00aa6a0d5c97f81c63ac93abe1.pdf
 type: book
@@ -12,7 +14,6 @@ data:
   - 袁炳南
   edition: '1'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-035173-6
   filetype: pdf

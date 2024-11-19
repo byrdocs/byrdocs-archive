@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 801ba14d40990295cd84934263e93cde
 url: https://byrdocs.org/files/801ba14d40990295cd84934263e93cde.pdf
 type: test
 data:
-  title: 2019-2020 第二学期 离散数学 期末
-  college: null
   course:
-    type: null
     name: 离散数学
   time:
     start: '2019'

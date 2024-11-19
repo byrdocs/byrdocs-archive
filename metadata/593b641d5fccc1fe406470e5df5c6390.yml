@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 593b641d5fccc1fe406470e5df5c6390
 url: https://byrdocs.org/files/593b641d5fccc1fe406470e5df5c6390.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: 政治学概论
   authors:
   - 《政治学概论》编写组
-  translators: []
   edition: '2'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-054399-5
   filetype: pdf

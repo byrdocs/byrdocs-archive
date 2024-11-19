@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 476afb576b270023204c2c95413bdd09
 url: https://byrdocs.org/files/476afb576b270023204c2c95413bdd09.pdf
 type: book
@@ -7,10 +9,8 @@ data:
   - 王学丽
   - 杨建奎
   - 郭永江
-  translators: []
   edition: '1'
   publisher: 北京邮电大学出版社
-  publish_year: null
   isbn:
   - 978-7-5635-5169-9
   filetype: pdf

@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: c8d06801df540cd6a81fc7c6459d7a37
 url: https://byrdocs.org/files/c8d06801df540cd6a81fc7c6459d7a37.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 台湾大学法律学院
   - 台大法学基金会
-  translators: []
   edition: '1'
   publisher: 北京大学出版社
-  publish_year: null
   isbn:
   - 978-7-301-28011-9
   filetype: pdf

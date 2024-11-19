@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 8f70543ca6c03685ebc88e4ec6068887
 url: https://byrdocs.org/files/8f70543ca6c03685ebc88e4ec6068887.pdf
 type: test
 data:
-  title: 2015-2016 第一学期 通信原理 期中
-  college: null
   course:
-    type: null
     name: 通信原理
   time:
     start: '2015'

@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: c28516c721c6cf7a4233873171bd1df0
 url: https://byrdocs.org/files/c28516c721c6cf7a4233873171bd1df0.pdf
 type: book
@@ -8,10 +10,8 @@ data:
   - 殷实
   - 沈才康
   - 包刚
-  translators: []
   edition: '1'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-055679-7
   filetype: pdf

@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 2fbeb7ab88f7f9054fa43da9d4a9a7ca
 url: https://byrdocs.org/files/2fbeb7ab88f7f9054fa43da9d4a9a7ca.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 赵凯华
   - 陈熙谋
-  translators: []
   edition: '2'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-020202-1
   filetype: pdf

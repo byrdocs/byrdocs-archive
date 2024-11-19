@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 34dcff3d4e7faaaa747a5e2c0adf5ff8
 url: https://byrdocs.org/files/34dcff3d4e7faaaa747a5e2c0adf5ff8.pdf
 type: book
@@ -7,10 +9,8 @@ data:
   - 张雷
   - 周春燕
   - 艾波
-  translators: []
   edition: '2'
   publisher: 北京邮电大学出版社
-  publish_year: null
   isbn:
   - 978-7-5635-1325-3
   filetype: pdf

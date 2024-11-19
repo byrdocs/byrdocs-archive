@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 8dbedcd06ecce4667e3145ec558a2c5b
 url: https://byrdocs.org/files/8dbedcd06ecce4667e3145ec558a2c5b.pdf
 type: book
@@ -8,10 +10,8 @@ data:
   - 周之铭
   - 朱思铭
   - 王寿松
-  translators: []
   edition: '4'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-051465-0
   filetype: pdf

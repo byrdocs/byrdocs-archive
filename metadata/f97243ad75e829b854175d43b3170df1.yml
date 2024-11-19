@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: f97243ad75e829b854175d43b3170df1
 url: https://byrdocs.org/files/f97243ad75e829b854175d43b3170df1.zip
 type: doc
@@ -5,7 +7,6 @@ data:
   title: C++程序设计 课件
   filetype: zip
   course:
-  - type: null
-    name: C++语言程序设计
+  - name: C++语言程序设计
   content:
   - 课件

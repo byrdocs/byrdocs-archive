@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 6b34f7e70671dc91d384b263e4098571
 url: https://byrdocs.org/files/6b34f7e70671dc91d384b263e4098571.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: 线性代数附册 学习辅导与习题全解：同济 第五版
   authors:
   - 同济大学数学系
-  translators: []
   edition: '1'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-021507-6
   filetype: pdf

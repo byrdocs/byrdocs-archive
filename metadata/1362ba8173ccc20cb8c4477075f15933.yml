@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 1362ba8173ccc20cb8c4477075f15933
 url: https://byrdocs.org/files/1362ba8173ccc20cb8c4477075f15933.pdf
 type: book
@@ -10,7 +12,6 @@ data:
   - 梁砾
   edition: '1'
   publisher: 北京大学出版社
-  publish_year: null
   isbn:
   - 978-7-301-25688-6
   filetype: pdf

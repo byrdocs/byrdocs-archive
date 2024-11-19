@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: ecc132df66b256729d191511f450e1bf
 url: https://byrdocs.org/files/ecc132df66b256729d191511f450e1bf.pdf
 type: book
@@ -10,7 +12,6 @@ data:
   - 王志功
   edition: '1'
   publisher: 电子工业出版社
-  publish_year: null
   isbn:
   - 978-7-121-18672-1
   filetype: pdf

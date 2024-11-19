@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 3168220dbaa4d46dcdff9cc019a50e29
 url: https://byrdocs.org/files/3168220dbaa4d46dcdff9cc019a50e29.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: Cryptography and Network Security
   authors:
   - William Stallings
-  translators: []
   edition: '5'
   publisher: Pearson
-  publish_year: null
   isbn:
   - 978-0-13-609704-4
   filetype: pdf

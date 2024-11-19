@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: b4514bddee861cb5707a764b3c766a6e
 url: https://byrdocs.org/files/b4514bddee861cb5707a764b3c766a6e.pdf
 type: book
@@ -7,10 +9,8 @@ data:
   - 林焉炎
   - 陆传荣
   - 苏中根
-  translators: []
   edition: '2'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-042762-2
   filetype: pdf

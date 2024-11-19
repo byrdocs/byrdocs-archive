@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: b2fcb9f9776331b777903d8cd2b84c77
 url: https://byrdocs.org/files/b2fcb9f9776331b777903d8cd2b84c77.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: Visual Complex Analysis
   authors:
   - Tristan Needham
-  translators: []
   edition: '1'
   publisher: Oxford University Press
-  publish_year: null
   isbn:
   - 978-0-19-853447-1
   filetype: pdf

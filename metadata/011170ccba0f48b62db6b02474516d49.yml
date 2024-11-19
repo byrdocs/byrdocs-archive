@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 011170ccba0f48b62db6b02474516d49
 url: https://byrdocs.org/files/011170ccba0f48b62db6b02474516d49.pdf
 type: book
@@ -6,10 +8,7 @@ data:
   authors:
   - Aharon Ben-Tal
   - Arkadi Nemirovski
-  translators: []
-  edition: ''
   publisher: Siam/MPS
-  publish_year: null
   isbn:
   - 978-0-89871-491-3
   filetype: pdf

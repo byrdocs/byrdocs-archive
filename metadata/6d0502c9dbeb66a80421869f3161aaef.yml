@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 6d0502c9dbeb66a80421869f3161aaef
 url: https://byrdocs.org/files/6d0502c9dbeb66a80421869f3161aaef.pdf
 type: book
@@ -7,10 +9,8 @@ data:
   - 武新华
   - 王英英
   - 李伟
-  translators: []
   edition: '1'
   publisher: 电子工业出版社
-  publish_year: null
   isbn:
   - 978-7-121-12573-7
   filetype: pdf

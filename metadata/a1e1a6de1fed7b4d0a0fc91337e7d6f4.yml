@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: a1e1a6de1fed7b4d0a0fc91337e7d6f4
 url: https://byrdocs.org/files/a1e1a6de1fed7b4d0a0fc91337e7d6f4.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - Randal E. Bryant
   - David R. O’ Hallaron
-  translators: []
   edition: '3'
   publisher: Pearson
-  publish_year: null
   isbn:
   - 978-1-292-10176-7
   filetype: pdf

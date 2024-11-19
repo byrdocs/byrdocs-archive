@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: dd888ac40f6100415395d8c6d553aad4
 url: https://byrdocs.org/files/dd888ac40f6100415395d8c6d553aad4.pdf
 type: book
@@ -11,7 +13,6 @@ data:
   - 黄海洋
   edition: '1'
   publisher: 机械工业出版社
-  publish_year: null
   isbn:
   - 978-7-111-16440-1
   filetype: pdf

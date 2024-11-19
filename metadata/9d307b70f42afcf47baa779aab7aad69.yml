@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 9d307b70f42afcf47baa779aab7aad69
 url: https://byrdocs.org/files/9d307b70f42afcf47baa779aab7aad69.pdf
 type: test
 data:
-  title: 2017-2018 第二学期 电路与电子学基础 期末
-  college: null
   course:
-    type: null
     name: 电路与电子学基础
   time:
     start: '2017'

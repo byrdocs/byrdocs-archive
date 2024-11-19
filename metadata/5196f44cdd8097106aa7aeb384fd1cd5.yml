@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: 5196f44cdd8097106aa7aeb384fd1cd5
 url: https://byrdocs.org/files/5196f44cdd8097106aa7aeb384fd1cd5.pdf
 type: doc
@@ -5,7 +7,6 @@ data:
   title: 大学物理公式全储集
   filetype: pdf
   course:
-  - type: null
-    name: 大学物理E
+  - name: 大学物理E
   content:
   - 知识点

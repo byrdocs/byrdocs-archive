@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: be7aa0e8852bd3494304d94ade003aa0
 url: https://byrdocs.org/files/be7aa0e8852bd3494304d94ade003aa0.pdf
 type: test
 data:
-  title: 2014-2015 第一学期 信号与系统 期中
-  college: null
   course:
-    type: null
     name: 信号与系统
   time:
     start: '2014'

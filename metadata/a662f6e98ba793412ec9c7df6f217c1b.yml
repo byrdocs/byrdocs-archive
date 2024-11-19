@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: a662f6e98ba793412ec9c7df6f217c1b
 url: https://byrdocs.org/files/a662f6e98ba793412ec9c7df6f217c1b.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: 工程数学 复变函数（第四版）学习辅导与习题选解
   authors:
   - 王绵森
-  translators: []
   edition: '1'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-012957-1
   filetype: pdf

@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: fe4afd980822b9e2a6782444a857e8c1
 url: https://byrdocs.org/files/fe4afd980822b9e2a6782444a857e8c1.pdf
 type: test
 data:
-  title: 2019-2020 第二学期 形式语言与自动机 期末
-  college: null
   course:
-    type: null
     name: 形式语言与自动机
   time:
     start: '2019'

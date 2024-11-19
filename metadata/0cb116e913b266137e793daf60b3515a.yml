@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 0cb116e913b266137e793daf60b3515a
 url: https://byrdocs.org/files/0cb116e913b266137e793daf60b3515a.pdf
 type: book
@@ -11,7 +13,6 @@ data:
   - 杜瑞颖
   edition: '1'
   publisher: 电子工业出版社
-  publish_year: null
   isbn:
   - 978-7-121-15250-4
   filetype: pdf

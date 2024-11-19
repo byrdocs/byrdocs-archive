@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 3cf9fa8e25025f1134cca21a99f5bd51
 url: https://byrdocs.org/files/3cf9fa8e25025f1134cca21a99f5bd51.pdf
 type: book
@@ -7,10 +9,8 @@ data:
   - 吕玉琴
   - 俎云霄
   - 张健明
-  translators: []
   edition: '1'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-039232-6
   filetype: pdf

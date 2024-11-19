@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: 2f86b1c34727833d3572761e99368818
 url: https://byrdocs.org/files/2f86b1c34727833d3572761e99368818.pdf
 type: doc
@@ -5,7 +7,6 @@ data:
   title: 线性代数讲义
   filetype: pdf
   course:
-  - type: null
-    name: 线性代数
+  - name: 线性代数
   content:
   - 课件

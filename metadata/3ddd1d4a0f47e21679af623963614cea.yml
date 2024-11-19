@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 3ddd1d4a0f47e21679af623963614cea
 url: https://byrdocs.org/files/3ddd1d4a0f47e21679af623963614cea.pdf
 type: book
@@ -8,10 +10,8 @@ data:
   - 肖波
   - 马占宇
   - 黄平牧
-  translators: []
   edition: '1'
   publisher: 北京邮电大学出版社
-  publish_year: null
   isbn:
   - 978-7-5635-5175-0
   filetype: pdf

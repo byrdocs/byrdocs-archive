@@ -1,12 +1,12 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 8d10b540e4b39a628e2d7b0d5dfffbe5
 url: https://byrdocs.org/files/8d10b540e4b39a628e2d7b0d5dfffbe5.pdf
 type: test
 data:
-  title: 2022-2023 第一学期 法理学 期末
   college:
   - 人文学院
   course:
-    type: null
     name: 法理学
   time:
     start: '2022'

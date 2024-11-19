@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 28f409eeb6a5e89338dbdfb75b67cd7e
 url: https://byrdocs.org/files/28f409eeb6a5e89338dbdfb75b67cd7e.pdf
 type: book
@@ -8,10 +10,8 @@ data:
   - 郑玉和
   - 赵刚
   - 仁科喜久子
-  translators: []
   edition: '1'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-019938-3
   filetype: pdf

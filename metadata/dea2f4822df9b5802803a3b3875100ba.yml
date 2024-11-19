@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: dea2f4822df9b5802803a3b3875100ba
 url: https://byrdocs.org/files/dea2f4822df9b5802803a3b3875100ba.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: 高等数学（上）/Advanced Mathematics
   authors:
   - 北京邮电大学高等数学双语教学组
-  translators: []
   edition: '2'
   publisher: 北京邮电大学出版社
-  publish_year: null
   isbn:
   - 978-7-5635-5272-6
   filetype: pdf

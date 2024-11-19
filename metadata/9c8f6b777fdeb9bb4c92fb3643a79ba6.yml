@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 9c8f6b777fdeb9bb4c92fb3643a79ba6
 url: https://byrdocs.org/files/9c8f6b777fdeb9bb4c92fb3643a79ba6.pdf
 type: book
@@ -11,7 +13,6 @@ data:
   - 潘爱民
   edition: '1'
   publisher: 清华大学出版社
-  publish_year: null
   isbn:
   - 978-7-302-27462-9
   filetype: pdf

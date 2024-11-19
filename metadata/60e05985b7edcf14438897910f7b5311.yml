@@ -1,13 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 60e05985b7edcf14438897910f7b5311
 url: https://byrdocs.org/files/60e05985b7edcf14438897910f7b5311.pdf
 type: test
 data:
-  title: 2023-2024 第二学期 大学物理E（上） 期末
   college:
   - 电子工程学院
   - 人工智能学院
   course:
-    type: null
     name: 大学物理E（上）
   time:
     start: '2023'

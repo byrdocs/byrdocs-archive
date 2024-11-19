@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 3eba821057e920c1347821208b6b12a9
 url: https://byrdocs.org/files/3eba821057e920c1347821208b6b12a9.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: 新概念物理教程 光学
   authors:
   - 赵凯华
-  translators: []
   edition: '1'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-015562-4
   filetype: pdf

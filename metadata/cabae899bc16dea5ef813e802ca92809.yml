@@ -1,16 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: cabae899bc16dea5ef813e802ca92809
 url: https://byrdocs.org/files/cabae899bc16dea5ef813e802ca92809.pdf
 type: test
 data:
-  title: 2014-2015 通信原理 期中
-  college: null
   course:
-    type: null
     name: 通信原理
   time:
     start: '2014'
     end: '2015'
-    semester: null
     stage: 期中
   filetype: pdf
   content:

@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: f0373a09752edea95cf16769b861c07b
 url: https://byrdocs.org/files/f0373a09752edea95cf16769b861c07b.pdf
 type: book
@@ -12,7 +14,6 @@ data:
   - 金海岩
   edition: '1'
   publisher: 电子工业出版社
-  publish_year: null
   isbn:
   - 978-7-5053-9915-0
   filetype: pdf

@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: aaa65e5cafcce806f8474bbb7cba538f
 url: https://byrdocs.org/files/aaa65e5cafcce806f8474bbb7cba538f.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: 朗道《力学》解读
   authors:
   - 鞠国兴
-  translators: []
   edition: '1'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-039945-5
   filetype: pdf

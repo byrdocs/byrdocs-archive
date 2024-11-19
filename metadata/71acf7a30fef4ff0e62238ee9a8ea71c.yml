@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 71acf7a30fef4ff0e62238ee9a8ea71c
 url: https://byrdocs.org/files/71acf7a30fef4ff0e62238ee9a8ea71c.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: 运筹学基础及应用
   authors:
   - 胡运权
-  translators: []
   edition: '4'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-013990-7
   filetype: pdf

@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 246b8cddd307923c9a825585c701bcaa
 url: https://byrdocs.org/files/246b8cddd307923c9a825585c701bcaa.pdf
 type: book
@@ -5,10 +7,8 @@ data:
   title: A Tour of C++
   authors:
   - Bjarne Stroustrup
-  translators: []
   edition: '2'
   publisher: Pearson
-  publish_year: null
   isbn:
   - 978-0-13-499783-4
   filetype: pdf

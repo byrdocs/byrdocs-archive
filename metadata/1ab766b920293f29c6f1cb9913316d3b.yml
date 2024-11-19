@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 1ab766b920293f29c6f1cb9913316d3b
 url: https://byrdocs.org/files/1ab766b920293f29c6f1cb9913316d3b.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 尹霄丽
   - 张健明
-  translators: []
   edition: '1'
   publisher: 清华大学出版社
-  publish_year: null
   isbn:
   - 978-7-302-39957-5
   filetype: pdf

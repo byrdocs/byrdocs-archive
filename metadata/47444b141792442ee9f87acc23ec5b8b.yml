@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 47444b141792442ee9f87acc23ec5b8b
 url: https://byrdocs.org/files/47444b141792442ee9f87acc23ec5b8b.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 邓小龙
   - 吴旭
-  translators: []
   edition: '1'
   publisher: 北京邮电大学出版社
-  publish_year: null
   isbn:
   - 978-7-5635-6011-0
   filetype: pdf

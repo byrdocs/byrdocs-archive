@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: d6ba0b8fefebb74ac6d13f806d752618
 url: https://byrdocs.org/files/d6ba0b8fefebb74ac6d13f806d752618.pdf
 type: book
@@ -8,10 +10,8 @@ data:
   - 恽自求
   - 易法槐
   - 钱定边
-  translators: []
   edition: '1'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-011922-0
   filetype: pdf

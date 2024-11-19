@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 766020fc65e6453b1ff5b7dddf0119f6
 url: https://byrdocs.org/files/766020fc65e6453b1ff5b7dddf0119f6.pdf
 type: book
@@ -8,10 +10,8 @@ data:
   - 郑玉和
   - 侯仁锋
   - 宫本晶子
-  translators: []
   edition: '1'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-020125-3
   filetype: pdf

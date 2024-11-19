@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: de68b153bfe8f8e8ee2df0e077545533
 url: https://byrdocs.org/files/de68b153bfe8f8e8ee2df0e077545533.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 王珊
   - 萨师煊
-  translators: []
   edition: '5'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-040664-1
   filetype: pdf

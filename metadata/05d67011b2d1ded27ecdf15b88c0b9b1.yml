@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 05d67011b2d1ded27ecdf15b88c0b9b1
 url: https://byrdocs.org/files/05d67011b2d1ded27ecdf15b88c0b9b1.pdf
 type: book
@@ -9,10 +11,8 @@ data:
   - 郭琳
   - 孙文生
   - 刘丽华
-  translators: []
   edition: '1'
   publisher: 北京邮电大学出版社
-  publish_year: null
   isbn:
   - 978-7-5635-2729-8
   filetype: pdf

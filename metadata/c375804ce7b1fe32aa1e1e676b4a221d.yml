@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: c375804ce7b1fe32aa1e1e676b4a221d
 url: https://byrdocs.org/files/c375804ce7b1fe32aa1e1e676b4a221d.pdf
 type: book
@@ -13,10 +15,8 @@ data:
   - 邓钢
   - 崔琪楠
   - 李立华
-  translators: []
   edition: '1'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-026637-5
   filetype: pdf

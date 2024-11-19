@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 1977a0d5d0850d0f23c64165c31bff77
 url: https://byrdocs.org/files/1977a0d5d0850d0f23c64165c31bff77.pdf
 type: book
@@ -13,7 +15,6 @@ data:
   - 刘勇平
   edition: '1'
   publisher: 机械工业出版社
-  publish_year: null
   isbn:
   - 978-7-111-16709-9
   filetype: pdf

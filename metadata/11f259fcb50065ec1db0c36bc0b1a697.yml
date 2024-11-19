@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 11f259fcb50065ec1db0c36bc0b1a697
 url: https://byrdocs.org/files/11f259fcb50065ec1db0c36bc0b1a697.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 王作富
   - 黄京平
-  translators: []
   edition: '7'
   publisher: 中国人民大学出版社
-  publish_year: null
   isbn:
   - 978-7-300-30423-6
   filetype: pdf

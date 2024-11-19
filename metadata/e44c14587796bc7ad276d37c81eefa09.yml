@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: e44c14587796bc7ad276d37c81eefa09
 url: https://byrdocs.org/files/e44c14587796bc7ad276d37c81eefa09.pdf
 type: doc
@@ -5,7 +7,6 @@ data:
   title: 2022-2023学年第二学期毛概课程学生复习题
   filetype: pdf
   course:
-  - type: null
-    name: 毛泽东思想和中国特色社会主义理论体系概论
+  - name: 毛泽东思想和中国特色社会主义理论体系概论
   content:
   - 题库

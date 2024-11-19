@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: fe4f009ca99a5925ee2facce21d6c051
 url: https://byrdocs.org/files/fe4f009ca99a5925ee2facce21d6c051.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 韩万江
   - 姜立新
-  translators: []
   edition: '4'
   publisher: 机械工业出版社
-  publish_year: null
   isbn:
   - 978-7-111-62920-7
   filetype: pdf

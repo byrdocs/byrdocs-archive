@@ -1,11 +1,10 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
 id: 3e302b8953884e9e83de977b5afc8a83
 url: https://byrdocs.org/files/3e302b8953884e9e83de977b5afc8a83.pdf
 type: test
 data:
-  title: 2018-2019 第一学期 高等数学（上） 期末
-  college: null
   course:
-    type: null
     name: 高等数学（上）
   time:
     start: '2018'

@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: c287fe784ad09b9476ee90d9f5948bbf
 url: https://byrdocs.org/files/c287fe784ad09b9476ee90d9f5948bbf.pdf
 type: book
@@ -6,10 +8,8 @@ data:
   authors:
   - 王萼芳
   - 石生明
-  translators: []
   edition: '1'
   publisher: 高等教育出版社
-  publish_year: null
   isbn:
   - 978-7-04-038631-8
   filetype: pdf

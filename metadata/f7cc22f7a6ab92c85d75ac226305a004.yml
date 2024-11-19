@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: f7cc22f7a6ab92c85d75ac226305a004
 url: https://byrdocs.org/files/f7cc22f7a6ab92c85d75ac226305a004.pdf
 type: book
@@ -11,10 +13,8 @@ data:
   - James D. Foley
   - Steven K. Feiner
   - Kurt Akeley
-  translators: []
   edition: '2'
   publisher: Pearson
-  publish_year: null
   isbn:
   - 978-0-321-39952-6
   filetype: pdf

@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 32bf1b77f6079fec59c7234944d42b58
 url: https://byrdocs.org/files/32bf1b77f6079fec59c7234944d42b58.pdf
 type: book
@@ -11,7 +13,6 @@ data:
   - 贺莲
   edition: '1'
   publisher: 机械工业出版社
-  publish_year: null
   isbn:
   - 978-7-111-54493-7
   filetype: pdf

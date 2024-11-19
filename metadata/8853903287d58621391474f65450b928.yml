@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: 8853903287d58621391474f65450b928
 url: https://byrdocs.org/files/8853903287d58621391474f65450b928.pdf
 type: doc
@@ -5,7 +7,6 @@ data:
   title: 复变函数与数学物理方法-部分习题解答
   filetype: pdf
   course:
-  - type: null
-    name: 工程数学
+  - name: 工程数学
   content:
   - 答案

@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
 id: 37ede6b756b350460371b6d31c609d1b
 url: https://byrdocs.org/files/37ede6b756b350460371b6d31c609d1b.pdf
 type: doc
@@ -5,7 +7,6 @@ data:
   title: Computer Networks Fifth Edition Problem Solutions
   filetype: pdf
   course:
-  - type: null
-    name: 计算机网络
+  - name: 计算机网络
   content:
   - 答案

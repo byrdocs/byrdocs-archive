@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
 id: 65c525d65939c5026df092f68a3cf2f4
 url: https://byrdocs.org/files/65c525d65939c5026df092f68a3cf2f4.pdf
 type: book
@@ -11,7 +13,6 @@ data:
   - 李志
   edition: '2'
   publisher: 机械工业出版社
-  publish_year: null
   isbn:
   - 978-7-111-12806-9
   filetype: pdf
