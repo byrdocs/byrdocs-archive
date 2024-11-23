@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 1b39911695b9ce113fed531f8cb21c60
+url: https://byrdocs.org/files/1b39911695b9ce113fed531f8cb21c60.pdf
+type: doc
+data:
+  title: 计算机原理与应用作业参考答案
+  filetype: pdf
+  course:
+    type: 本科
+    name: 计算机原理与应用
+  content:
+  - 答案
