@@ -7,7 +7,7 @@ data:
   title: 计算机原理与应用作业参考答案
   filetype: pdf
   course:
-    type: 本科
-    name: 计算机原理与应用
+    - type: 本科
+      name: 计算机原理与应用
   content:
   - 答案
