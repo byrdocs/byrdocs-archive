@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 81036f0d78a293cb9c6ea2f6fbf14c8f
+url: https://byrdocs.org/files/81036f0d78a293cb9c6ea2f6fbf14c8f.zip
+type: doc
+data:
+  title: Python 程序设计课件
+  filetype: zip
+  course:
+  - name: Python 程序设计
+  content:
+  - 课件
