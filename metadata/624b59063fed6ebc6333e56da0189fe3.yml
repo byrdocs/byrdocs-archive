@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 624b59063fed6ebc6333e56da0189fe3
+url: https://byrdocs.org/files/624b59063fed6ebc6333e56da0189fe3.pdf
+type: test
+data:
+  college:
+  - 计算机学院（国家示范性软件学院）
+  course:
+    type: 本科
+    name: 操作系统
+  time:
+    start: '2022'
+    end: '2023'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

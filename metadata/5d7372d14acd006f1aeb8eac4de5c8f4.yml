@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 5d7372d14acd006f1aeb8eac4de5c8f4
+url: https://byrdocs.org/files/5d7372d14acd006f1aeb8eac4de5c8f4.zip
+type: doc
+data:
+  title: 数据库系统原理邵蓥侠PPT
+  filetype: zip
+  course:
+  - type: 本科
+    name: 数据库系统原理
+  content:
+  - 课件
