@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 4213e05d775cf6a327d8d722bb373322
+url: https://byrdocs.org/files/4213e05d775cf6a327d8d722bb373322.pdf
+type: test
+data:
+  college:
+  - 计算机学院（国家示范性软件学院）
+  course:
+    type: 本科
+    name: 编译原理与技术
+  time:
+    start: '2022'
+    end: '2023'
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案
