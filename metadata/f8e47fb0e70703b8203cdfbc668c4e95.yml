@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: f8e47fb0e70703b8203cdfbc668c4e95
+url: https://byrdocs.org/files/f8e47fb0e70703b8203cdfbc668c4e95.pdf
+type: test
+data:
+  course:
+    name: 算法设计与分析
+  time:
+    start: '2018'
+    end: '2019'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案
