@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: cac409c1878ac487af3a39687c924ffc
+url: https://byrdocs.org/files/cac409c1878ac487af3a39687c924ffc.pdf
+type: book
+data:
+  title: Introduction to Automata Theory, Languages, and Computations
+  authors:
+  - Jeffrey D. Ullman
+  - Rajeev Motwani
+  - John Hopcroft
+  edition: '3'
+  publisher: Pearson
+  publish_year: '2006'
+  isbn:
+  - 978-0-321-45536-9
+  filetype: pdf

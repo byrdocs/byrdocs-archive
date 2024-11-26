@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 971963771f76680ab33a314dae2f694c
+url: https://byrdocs.org/files/971963771f76680ab33a314dae2f694c.pdf
+type: doc
+data:
+  title: 形式语言与自动机 课后习题答案
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 形式语言与自动机
+  content:
+  - 答案
