@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: cb353d52b0b1dfe069038faab273efe7
+url: https://byrdocs.org/files/cb353d52b0b1dfe069038faab273efe7.pdf
+type: doc
+data:
+  title: 2020 操作系统期末模拟试题
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 操作系统
+  content:
+  - 题库
+  - 答案

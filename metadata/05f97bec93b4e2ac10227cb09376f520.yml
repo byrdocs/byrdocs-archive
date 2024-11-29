@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 05f97bec93b4e2ac10227cb09376f520
+url: https://byrdocs.org/files/05f97bec93b4e2ac10227cb09376f520.zip
+type: doc
+data:
+  title: 操作系统刘晓鸿PPT
+  filetype: zip
+  course:
+  - type: 本科
+    name: 操作系统
+  content:
+  - 课件

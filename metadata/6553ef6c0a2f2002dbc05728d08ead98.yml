@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 6553ef6c0a2f2002dbc05728d08ead98
+url: https://byrdocs.org/files/6553ef6c0a2f2002dbc05728d08ead98.pdf
+type: book
+data:
+  title: 编译原理 包含代数方法的新编译方法
+  authors:
+  - 颜松远
+  - 苏运霖
+  publisher: 高等教育出版社
+  publish_year: '2011'
+  isbn:
+  - 978-7-04-033047-2
+  filetype: pdf

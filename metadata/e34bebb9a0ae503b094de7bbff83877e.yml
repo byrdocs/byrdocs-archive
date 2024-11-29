@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: e34bebb9a0ae503b094de7bbff83877e
+url: https://byrdocs.org/files/e34bebb9a0ae503b094de7bbff83877e.pdf
+type: book
+data:
+  title: Operating System Concepts
+  authors:
+  - Greg Gagne
+  - Abraham Silberschatz
+  - Peter Baer Galvin
+  edition: '7'
+  publisher: Wiley
+  publish_year: '2005'
+  isbn:
+  - 978-0-471-69466-3
+  filetype: pdf

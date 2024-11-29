@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 1259f81a71fc908e1975c0254a76285d
+url: https://byrdocs.org/files/1259f81a71fc908e1975c0254a76285d.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 形式语言与自动机
+  time:
+    start: '2021'
+    end: '2022'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

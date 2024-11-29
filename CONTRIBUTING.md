@@ -55,3 +55,4 @@ Error from server: 文件已存在
 ## 另请参见
 
 - [关于文件](https://github.com/byrdocs/byrdocs-archive/wiki/%E5%85%B3%E4%BA%8E%E6%96%87%E4%BB%B6)
+- [如何整理试题文件？](https://blog.byrdocs.org/blog/posts/how-to-organize-test/post.html) - 一个更详细的试题整理教程

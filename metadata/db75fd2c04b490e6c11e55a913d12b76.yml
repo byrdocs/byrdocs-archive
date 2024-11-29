@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: db75fd2c04b490e6c11e55a913d12b76
+url: https://byrdocs.org/files/db75fd2c04b490e6c11e55a913d12b76.pdf
+type: doc
+data:
+  title: Operating System Concepts 7 Edi Answers
+  filetype: pdf
+  course:
+  - name: 操作系统
+  content:
+  - 答案
