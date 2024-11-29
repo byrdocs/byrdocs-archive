@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: b7be6e81b9ca4285b571dc8d0a9826e8
+url: https://byrdocs.org/files/b7be6e81b9ca4285b571dc8d0a9826e8.pdf
+type: test
+data:
+  course:
+    name: 量子力学
+  time:
+    start: '2019'
+    end: '2020'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
