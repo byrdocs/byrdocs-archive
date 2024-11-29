@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: cb579b6a18e28dcca3c226fd08a81362
+url: https://byrdocs.org/files/cb579b6a18e28dcca3c226fd08a81362.zip
+type: doc
+data:
+  title: 大物实验报告
+  filetype: zip
+  course:
+  - type: 本科
+    name: 大学物理实验
+  content:
+  - 知识点
+  - 课件
