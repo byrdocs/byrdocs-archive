@@ -1,15 +1,14 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
-id: 11409537ff27247404067953b87c6c1d
-url: https://byrdocs.org/files/11409537ff27247404067953b87c6c1d.pdf
+id: a16fab0fb37ef28bedcecd84cc8c09da
+url: https://byrdocs.org/files/a16fab0fb37ef28bedcecd84cc8c09da.pdf
 type: test
 data:
   course:
     name: 电磁场与电磁波
   time:
-    start: '2009'
-    end: '2010'
-    semester: First
+    start: '2023'
+    end: '2023'
     stage: 期末
   filetype: pdf
   content:
