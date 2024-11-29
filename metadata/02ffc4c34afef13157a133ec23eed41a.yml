@@ -1,17 +1,16 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
-id: bdbe445cbba7ae36385bf344ebafad77
-url: https://byrdocs.org/files/bdbe445cbba7ae36385bf344ebafad77.pdf
+id: 02ffc4c34afef13157a133ec23eed41a
+url: https://byrdocs.org/files/02ffc4c34afef13157a133ec23eed41a.pdf
 type: test
 data:
   course:
-    name: 计算机组成原理
+    name: 数据结构与应用
   time:
-    start: '2003'
-    end: '2004'
+    start: '2015'
+    end: '2016'
     semester: Second
     stage: 期末
   filetype: pdf
   content:
   - 原题
-  - 答案
