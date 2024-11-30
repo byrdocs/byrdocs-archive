@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: ff08ff84a7a20df1a31b7dcfc4e65e82
+url: https://byrdocs.org/files/ff08ff84a7a20df1a31b7dcfc4e65e82.pdf
+type: test
+data:
+  course:
+    name: 离散数学
+  time:
+    start: '2020'
+    end: '2021'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
