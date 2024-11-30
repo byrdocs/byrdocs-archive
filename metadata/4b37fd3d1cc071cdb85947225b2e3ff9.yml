@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 4b37fd3d1cc071cdb85947225b2e3ff9
+url: https://byrdocs.org/files/4b37fd3d1cc071cdb85947225b2e3ff9.pdf
+type: test
+data:
+  course:
+    name: 高频电子线路
+  time:
+    start: '2017'
+    end: '2018'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: d7236fb2af83586e7b73087a15a4ae7a
+url: https://byrdocs.org/files/d7236fb2af83586e7b73087a15a4ae7a.pdf
+type: test
+data:
+  course:
+    name: 计算机系统基础
+  time:
+    start: '2019'
+    end: '2020'
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题

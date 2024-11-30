@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 0d6cd5ec1e59d000706c500d3974926a
+url: https://byrdocs.org/files/0d6cd5ec1e59d000706c500d3974926a.pdf
+type: test
+data:
+  course:
+    name: 数学分析（下）
+  time:
+    start: '2020'
+    end: '2021'
+    semester: Second
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案
