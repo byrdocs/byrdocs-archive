@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 9eff34c3a234c283c66d477a38c9cc85
+url: https://byrdocs.org/files/9eff34c3a234c283c66d477a38c9cc85.pdf
+type: book
+data:
+  title: 线性代数（原书第9版）
+  authors:
+  - Steven J. Leon
+  translators:
+  - 张文博
+  - 张丽静
+  edition: '1'
+  publisher: 机械工业出版社
+  publish_year: '2015'
+  isbn:
+  - '9787111511656'
+  filetype: pdf
