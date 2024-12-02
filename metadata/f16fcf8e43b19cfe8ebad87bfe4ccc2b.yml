@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: f16fcf8e43b19cfe8ebad87bfe4ccc2b
+url: https://byrdocs.org/files/f16fcf8e43b19cfe8ebad87bfe4ccc2b.pdf
+type: doc
+data:
+  title: 2016-2017 第二学期 离散数学 免修考试试题
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 离散数学
+  content:
+  - 题库

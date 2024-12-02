@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: f57ae1a8a601377170c200abf43ad947
+url: https://byrdocs.org/files/f57ae1a8a601377170c200abf43ad947.pdf
+type: test
+data:
+  course:
+    name: 复变函数
+  time:
+    start: '2017'
+    end: '2018'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

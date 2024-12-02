@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 33cca18e53687215181b07cbeadb1ace
+url: https://byrdocs.org/files/33cca18e53687215181b07cbeadb1ace.pdf
+type: test
+data:
+  course:
+    name: 通信原理
+  time:
+    start: '2017'
+    end: '2018'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

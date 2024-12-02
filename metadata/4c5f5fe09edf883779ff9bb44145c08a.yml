@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 4c5f5fe09edf883779ff9bb44145c08a
+url: https://byrdocs.org/files/4c5f5fe09edf883779ff9bb44145c08a.pdf
+type: test
+data:
+  course:
+    name: 通信电子电路
+  time:
+    start: '2020'
+    end: '2021'
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案
