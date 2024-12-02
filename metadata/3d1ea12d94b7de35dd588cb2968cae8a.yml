@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
-id: 4ed8f3649ac1ed7ef9802bab9511221a
-url: https://byrdocs.org/files/4ed8f3649ac1ed7ef9802bab9511221a.pdf
+id: 3d1ea12d94b7de35dd588cb2968cae8a
+url: https://byrdocs.org/files/3d1ea12d94b7de35dd588cb2968cae8a.pdf
 type: test
 data:
   course:
@@ -14,3 +14,4 @@ data:
   filetype: pdf
   content:
   - 原题
+  - 答案
