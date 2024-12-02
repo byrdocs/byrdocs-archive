@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 72eeab41124312cbc48cdf472fe4af92
+url: https://byrdocs.org/files/72eeab41124312cbc48cdf472fe4af92.pdf
+type: test
+data:
+  course:
+    name: 电磁场与电磁波
+  time:
+    start: '2019'
+    end: '2019'
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: c0ec4c89f8fc408169fdcb463c90c05a
+url: https://byrdocs.org/files/c0ec4c89f8fc408169fdcb463c90c05a.pdf
+type: test
+data:
+  course:
+    name: 电磁场与电磁波
+  time:
+    start: '2018'
+    end: '2018'
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
