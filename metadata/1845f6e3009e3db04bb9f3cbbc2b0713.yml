@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 1845f6e3009e3db04bb9f3cbbc2b0713
+url: https://byrdocs.org/files/1845f6e3009e3db04bb9f3cbbc2b0713.pdf
+type: book
+data:
+  title: 机器学习
+  authors:
+  - 周志华
+  edition: '1'
+  publisher: 清华大学出版社
+  publish_year: '2016'
+  isbn:
+  - '9787302423287'
+  filetype: pdf
