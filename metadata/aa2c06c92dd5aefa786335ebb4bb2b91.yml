@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: aa2c06c92dd5aefa786335ebb4bb2b91
+url: https://byrdocs.org/files/aa2c06c92dd5aefa786335ebb4bb2b91.pdf
+type: test
+data:
+  college:
+  - 经济管理学院
+  course:
+    type: 本科
+    name: 概率论与数理统计
+  time:
+    start: '2019'
+    end: '2020'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案
