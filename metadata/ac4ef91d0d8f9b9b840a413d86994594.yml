@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: ac4ef91d0d8f9b9b840a413d86994594
+url: https://byrdocs.org/files/ac4ef91d0d8f9b9b840a413d86994594.pdf
+type: book
+data:
+  title: 复变函数论
+  authors:
+  - 钟玉泉
+  edition: '5'
+  publisher: 高等教育出版社
+  publish_year: '2021'
+  isbn:
+  - '9787040555875'
+  filetype: pdf

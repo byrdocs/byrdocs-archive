@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 74cffc5d45f6d4c71fed0ec96ff17d9d
+url: https://byrdocs.org/files/74cffc5d45f6d4c71fed0ec96ff17d9d.pdf
+type: book
+data:
+  title: 概率、随机变量与随机过程
+  authors:
+  - Athanasios Papoulis
+  - S.Unnikrishna Pillai
+  translators:
+  - 水鹏朗
+  - 保铮
+  - 冯大政
+  edition: '4'
+  publisher: 西安交通大学出版社
+  publish_year: '2012'
+  isbn:
+  - '9787560544588'
+  filetype: pdf
