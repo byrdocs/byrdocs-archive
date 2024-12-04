@@ -43,7 +43,7 @@ properties:
         type: array
         items:
           type: string
-          pattern: "^(97(8|9))-\\d{1,5}-\\d{1,7}-\\d{1,7}-\\d{1}$"
+          pattern: "^(?:ISBN(?:-13)?:?\ )?(?=[0-9]{13}$|(?=(?:[0-9]+[-\ ]){4})[-\ 0-9]{17}$)97[89][-\ ]?[0-9]{1,5}[-\ ]?[0-9]+[-\ ]?[0-9]+[-\ ]?[0-9]$"
         description: ISBN 列表，必须为 ISBN13 格式
         minItems: 1
       filetype:
