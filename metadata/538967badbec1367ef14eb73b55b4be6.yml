@@ -1,15 +1,14 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
-id: 6b3725cef9939eb681eee26bc6bee2e0
-url: https://byrdocs.org/files/6b3725cef9939eb681eee26bc6bee2e0.pdf
+id: 538967badbec1367ef14eb73b55b4be6
+url: https://byrdocs.org/files/538967badbec1367ef14eb73b55b4be6.pdf
 type: book
 data:
   title: Pattern Recognition and Machine Learning
   authors:
   - Christopher M. Bishop
-  edition: '1'
   publisher: Springer
   publish_year: '2006'
   isbn:
-  - '9781493938438'
+  - 978-0387-31073-2
   filetype: pdf
