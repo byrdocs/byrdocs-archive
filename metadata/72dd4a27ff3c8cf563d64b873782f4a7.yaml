@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 72dd4a27ff3c8cf563d64b873782f4a7
+url: https://byrdocs.org/files/72dd4a27ff3c8cf563d64b873782f4a7.zip
+type: doc
+data:
+  title: 网安小学期网络空间安全认知实习报告
+  filetype: zip
+  course:
+  - type: 本科
+    name: 网络空间安全认知实习
+  content:
+  - 答案

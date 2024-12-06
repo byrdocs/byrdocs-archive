@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 364f31e43cbb627cbb809f3937dd4e02
+url: https://byrdocs.org/files/364f31e43cbb627cbb809f3937dd4e02.zip
+type: doc
+data:
+  title: 网络空间安全导论实践实验报告
+  filetype: zip
+  course:
+  - type: 本科
+    name: 网络空间安全导论实践
+  content:
+  - 答案
