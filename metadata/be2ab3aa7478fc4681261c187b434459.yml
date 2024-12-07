@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: be2ab3aa7478fc4681261c187b434459
+url: https://byrdocs.org/files/be2ab3aa7478fc4681261c187b434459.pdf
+type: doc
+data:
+  title: 网安计算机组成原理与系统结构第五版答案
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 计算机组成原理与系统结构
+  content:
+  - 答案

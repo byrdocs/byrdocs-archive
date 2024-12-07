@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 870f1ba8a9bcd671403d943078150fe2
+url: https://byrdocs.org/files/870f1ba8a9bcd671403d943078150fe2.zip
+type: doc
+data:
+  title: 网安数字逻辑与数字系统实验代码与报告
+  filetype: zip
+  course:
+  - type: 本科
+    name: 数字逻辑与数字系统
+  content:
+  - 答案
