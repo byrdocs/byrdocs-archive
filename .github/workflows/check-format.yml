@@ -44,7 +44,7 @@ jobs:
           chmod 777 check-pr
 
       - name: Check
-        run: ./check-pr -d ./metadata -u ${{ secrets.S3_URL }} -a ${{ secrets.S3_ACCESS_KEY }} -s ${{ secrets.S3_SECRET_ACCESS_KEY }} -b ${{ secrets.BACKEND_URL }} -t ${{ secrets.BACKEND_TOKEN }} -c ${{ vars.S3_BUCKET }} 2>&1 comment.txt
+        run: ./check-pr -d ./metadata -u ${{ secrets.S3_URL }} -a ${{ secrets.S3_ACCESS_KEY }} -s ${{ secrets.S3_SECRET_ACCESS_KEY }} -b ${{ secrets.BACKEND_URL }} -t ${{ secrets.BACKEND_TOKEN }} -c ${{ vars.S3_BUCKET }} > comment.txt 2>&1
       
       - name: Debug
         if: always()
