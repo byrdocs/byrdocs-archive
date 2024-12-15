@@ -1,10 +1,10 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
 
-id: 8087447999a9996dba3c54e32345aee9
-url: https://byrdocs.org/files/8087447999a9996dba3c54e32345aee9.pdf
+id: 21e6a44ec7018421125caacfdbc95199
+url: https://byrdocs.org/files/21e6a44ec7018421125caacfdbc95199.pdf
 type: doc
 data:
-  title: 军事理论题库
+  title: 军事思考题整理
   filetype: pdf
   course:
   - name: 军事理论
