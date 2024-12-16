@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: c6cd6634322f3279285f4c2bbf906399
+url: https://byrdocs.org/files/c6cd6634322f3279285f4c2bbf906399.pdf
+type: test
+data:
+  course:
+    name: 计算机系统结构
+  time:
+    start: '2020'
+    end: '2020'
+  filetype: pdf
+  content:
+  - 原题

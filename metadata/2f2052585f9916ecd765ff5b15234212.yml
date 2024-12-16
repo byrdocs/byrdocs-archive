@@ -1,13 +1,14 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
-id: 340f15e82a9ab596fa3a240d6bfa94a8
-url: https://byrdocs.org/files/340f15e82a9ab596fa3a240d6bfa94a8.pdf
+id: 2f2052585f9916ecd765ff5b15234212
+url: https://byrdocs.org/files/2f2052585f9916ecd765ff5b15234212.pdf
 type: test
 data:
   college:
-  - 计算机学院（国家示范性软件学院）
+  - 未来学院
   course:
-    name: 组合数学
+    type: 本科
+    name: 大学物理（下）
   time:
     start: '2023'
     end: '2024'
@@ -16,3 +17,4 @@ data:
   filetype: pdf
   content:
   - 原题
+  - 答案
