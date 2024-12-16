@@ -1,11 +1,11 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
-id: 0c1294f3798f1a5d14c29e4c007b8773
-url: https://byrdocs.org/files/0c1294f3798f1a5d14c29e4c007b8773.pdf
+id: 2a8fcbb1998835305aab2b735cdc302c
+url: https://byrdocs.org/files/2a8fcbb1998835305aab2b735cdc302c.pdf
 type: test
 data:
   course:
-    name: 高等数学A（上）
+    name: 数学分析（上）
   time:
     start: '2018'
     end: '2019'
@@ -13,4 +13,5 @@ data:
     stage: 期末
   filetype: pdf
   content:
+  - 原题
   - 答案
