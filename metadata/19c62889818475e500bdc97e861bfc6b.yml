@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 19c62889818475e500bdc97e861bfc6b
+url: https://byrdocs.org/files/19c62889818475e500bdc97e861bfc6b.pdf
+type: test
+data:
+  college:
+  - 计算机学院（国家示范性软件学院）
+  course:
+    type: 本科
+    name: 操作系统
+  time:
+    start: '2017'
+    end: '2018'
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

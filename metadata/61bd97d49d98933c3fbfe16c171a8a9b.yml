@@ -1,15 +1,17 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
-id: b6071f74c4d98d6e1b801adf127ada23
-url: https://byrdocs.org/files/b6071f74c4d98d6e1b801adf127ada23.pdf
+id: 61bd97d49d98933c3fbfe16c171a8a9b
+url: https://byrdocs.org/files/61bd97d49d98933c3fbfe16c171a8a9b.pdf
 type: test
 data:
   course:
-    name: 通信原理
+    type: 本科
+    name: 操作系统
   time:
     start: '2020'
     end: '2021'
-    stage: 期末
+    semester: First
+    stage: 期中
   filetype: pdf
   content:
   - 原题

@@ -7,8 +7,8 @@ data:
   course:
     name: 通信原理
   time:
-    start: '2013'
-    end: '2014'
+    start: '2020'
+    end: '2021'
     stage: 期末
   filetype: pdf
   content:

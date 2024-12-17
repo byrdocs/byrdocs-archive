@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 469a3d60ccaa6020f6db4ec58f12827f
+url: https://byrdocs.org/files/469a3d60ccaa6020f6db4ec58f12827f.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 高等数学A（上）
+  time:
+    start: '2020'
+    end: '2021'
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案
