@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 7b0bb8c0431de3b954bbcf0b4d6b2a81
+url: https://byrdocs.org/files/7b0bb8c0431de3b954bbcf0b4d6b2a81.pdf
+type: test
+data:
+  course:
+    name: 操作系统
+  time:
+    start: '2019'
+    end: '2020'
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

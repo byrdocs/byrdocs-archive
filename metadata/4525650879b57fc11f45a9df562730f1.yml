@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 4525650879b57fc11f45a9df562730f1
+url: https://byrdocs.org/files/4525650879b57fc11f45a9df562730f1.zip
+type: doc
+data:
+  title: 操作系统概念例题与作业PPT
+  filetype: zip
+  course:
+  - name: 操作系统
+  content:
+  - 课件

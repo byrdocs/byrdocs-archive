@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: f3b1047c5bc6df102c0df4330d270805
+url: https://byrdocs.org/files/f3b1047c5bc6df102c0df4330d270805.pdf
+type: test
+data:
+  course:
+    name: 信息论与编码
+  time:
+    start: '2022'
+    end: '2023'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
