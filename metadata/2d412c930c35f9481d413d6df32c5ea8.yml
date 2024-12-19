@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 2d412c930c35f9481d413d6df32c5ea8
+url: https://byrdocs.org/files/2d412c930c35f9481d413d6df32c5ea8.pdf
+type: doc
+data:
+  title: 脑与认知科学-开卷考资料
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 脑与认知科学
+  content:
+  - 课件

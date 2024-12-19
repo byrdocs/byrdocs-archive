@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: c4776ec2efe4e25ceab46283d032fe7f
+url: https://byrdocs.org/files/c4776ec2efe4e25ceab46283d032fe7f.pdf
+type: doc
+data:
+  title: 现代密码学-开卷考资料
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 现代密码学
+  content:
+  - 课件
