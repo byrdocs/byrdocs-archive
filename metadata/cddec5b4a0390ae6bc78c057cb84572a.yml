@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: cddec5b4a0390ae6bc78c057cb84572a
+url: https://byrdocs.org/files/cddec5b4a0390ae6bc78c057cb84572a.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 线性代数
+  time:
+    start: '2023'
+    end: '2024'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
