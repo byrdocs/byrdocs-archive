@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 1da4c418f28a704a367a2166233dd285
+url: https://byrdocs.org/files/1da4c418f28a704a367a2166233dd285.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 算法设计与分析
+  time:
+    start: '2022'
+    end: '2023'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

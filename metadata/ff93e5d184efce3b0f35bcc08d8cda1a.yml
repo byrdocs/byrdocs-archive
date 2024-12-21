@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: ff93e5d184efce3b0f35bcc08d8cda1a
+url: https://byrdocs.org/files/ff93e5d184efce3b0f35bcc08d8cda1a.pdf
+type: doc
+data:
+  title: 算法设计与分析-课程教案
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 算法设计与分析
+  content:
+  - 知识点
