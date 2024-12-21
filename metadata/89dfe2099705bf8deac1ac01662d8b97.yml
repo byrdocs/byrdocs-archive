@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 89dfe2099705bf8deac1ac01662d8b97
+url: https://byrdocs.org/files/89dfe2099705bf8deac1ac01662d8b97.zip
+type: doc
+data:
+  title: 网络存储技术PPT
+  filetype: zip
+  course:
+  - name: 网络存储技术
+  content:
+  - 课件

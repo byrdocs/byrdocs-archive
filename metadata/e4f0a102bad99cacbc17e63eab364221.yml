@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: e4f0a102bad99cacbc17e63eab364221
+url: https://byrdocs.org/files/e4f0a102bad99cacbc17e63eab364221.pdf
+type: doc
+data:
+  title: 《Linux 编程环境》期末考试样题
+  filetype: pdf
+  course:
+  - type: 本科
+    name: Linux 编程环境
+  content:
+  - 题库

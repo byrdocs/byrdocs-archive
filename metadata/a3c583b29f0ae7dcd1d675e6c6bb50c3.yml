@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: a3c583b29f0ae7dcd1d675e6c6bb50c3
+url: https://byrdocs.org/files/a3c583b29f0ae7dcd1d675e6c6bb50c3.pdf
+type: book
+data:
+  title: 计算机算法设计与分析习题解答
+  authors:
+  - 王晓东
+  edition: '5'
+  publisher: 电子工业出版社
+  publish_year: '2018'
+  isbn:
+  - 978-7-121-34438-1
+  filetype: pdf
