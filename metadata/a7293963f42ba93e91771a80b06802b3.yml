@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: a7293963f42ba93e91771a80b06802b3
+url: https://byrdocs.org/files/a7293963f42ba93e91771a80b06802b3.pdf
+type: book
+data:
+  title: 现代交换技术教程
+  authors:
+  - 张燕红
+  - 郑仲桥
+  - 彭颖
+  - 何一鸣
+  - 张建生
+  edition: '1'
+  publisher: 东南大学出版社
+  publish_year: '2009'
+  isbn:
+  - '9787564116699'
+  filetype: pdf

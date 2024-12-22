@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 79e9c254a3ab6822d1df61a1f35f3611
+url: https://byrdocs.org/files/79e9c254a3ab6822d1df61a1f35f3611.zip
+type: doc
+data:
+  title: 《Linux 编程环境》PPT
+  filetype: zip
+  course:
+  - type: 本科
+    name: Linux 编程环境
+  content:
+  - 课件

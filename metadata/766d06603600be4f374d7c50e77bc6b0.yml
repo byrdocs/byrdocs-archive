@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 766d06603600be4f374d7c50e77bc6b0
+url: https://byrdocs.org/files/766d06603600be4f374d7c50e77bc6b0.pdf
+type: doc
+data:
+  title: 算法分析期末试题集与答案
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 算法设计与分析
+  content:
+  - 题库

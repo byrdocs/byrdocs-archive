@@ -13,15 +13,20 @@
     ```bash
     pip3 install byrdocs-cli
     ```
-    或者
+    或者使用 pipx
     ```bash
     pipx install byrdocs-cli
     ```
-3. 登录。
+    或者使用 homebrew
+    ```bash
+    brew tap byrdocs/homebrew-byrdocs-cli
+    brew install byrdocs-cli
+    ```
+4. 登录。
     ```bash
     byrdocs login
     ```
-4. 上传文件。
+5. 上传文件。
     ```bash
     byrdocs upload /path/to/file
     ```
@@ -32,10 +37,10 @@
     File uploaded successfully
         File URL: https://byrdocs.org/files/0a2ec7a3b027bb439e7bf021c4b1b1be.pdf
     ```
-5. 在 metadata 中新建一个名为 `<md5>.yml` 的文件，填写文件的元信息，其中 `<md5>` 是你上传的文件的 md5 值。在上一步的例子中，它是 `0a2ec7a3b027bb439e7bf021c4b1b1be`，所以应当创建 `metadata/0a2ec7a3b027bb439e7bf021c4b1b1be.yml` 文件。
-6. 编写文件元信息，参见 [文件元信息](https://github.com/byrdocs/byrdocs-archive/wiki/%E5%85%B3%E4%BA%8E%E6%96%87%E4%BB%B6#%E6%96%87%E4%BB%B6%E5%85%83%E4%BF%A1%E6%81%AF)。
-7. 提交并推送到你 Fork 的仓库，创建一个 Pull Request。
-8. 维护者审核、合并。
+6. 在 metadata 中新建一个名为 `<md5>.yml` 的文件，填写文件的元信息，其中 `<md5>` 是你上传的文件的 md5 值。在上一步的例子中，它是 `0a2ec7a3b027bb439e7bf021c4b1b1be`，所以应当创建 `metadata/0a2ec7a3b027bb439e7bf021c4b1b1be.yml` 文件。
+7. 编写文件元信息，参见 [文件元信息](https://github.com/byrdocs/byrdocs-archive/wiki/%E5%85%B3%E4%BA%8E%E6%96%87%E4%BB%B6#%E6%96%87%E4%BB%B6%E5%85%83%E4%BF%A1%E6%81%AF)。
+8. 提交并推送到你 Fork 的仓库，创建一个 Pull Request。
+9. 维护者审核、合并。
 
 如果在上传文件时遇到如下问题：
 

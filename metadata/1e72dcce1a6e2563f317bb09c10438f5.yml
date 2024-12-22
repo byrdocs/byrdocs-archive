@@ -1,18 +1,20 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
-id: 6a9b2b59b06cf3ed0919dcd5d11aa6ba
-url: https://byrdocs.org/files/6a9b2b59b06cf3ed0919dcd5d11aa6ba.pdf
+id: 1e72dcce1a6e2563f317bb09c10438f5
+url: https://byrdocs.org/files/1e72dcce1a6e2563f317bb09c10438f5.pdf
 type: book
 data:
   title: 数字逻辑
   authors:
-  - 白中英
-  - 谢松云
   - 朱正东
-  - 方维
+  - 谢松云
   - 吴俊
+  - 陈国良
+  - 方维
+  - 白中英
   edition: '6'
   publisher: 科学出版社
+  publish_year: '2013'
   isbn:
   - 978-7-03-036909-3
   filetype: pdf

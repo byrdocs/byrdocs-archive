@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 5396e74a1ed7760a34049b43b8652ea9
+url: https://byrdocs.org/files/5396e74a1ed7760a34049b43b8652ea9.zip
+type: doc
+data:
+  title: 数字逻辑与数字系统PPT
+  filetype: zip
+  course:
+  - type: 本科
+    name: 数字逻辑与数字系统
+  content:
+  - 课件
