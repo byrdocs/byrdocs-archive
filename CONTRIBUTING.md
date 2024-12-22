@@ -34,8 +34,9 @@
     ```bash
     $ byrdocs upload 2020期中.pdf
     Uploading: 100%|█████████████████████████████████████████| 716k/716k [00:05<00:00, 142kB/s]
-    File uploaded successfully
-        File URL: https://byrdocs.org/files/0a2ec7a3b027bb439e7bf021c4b1b1be.pdf
+    文件上传成功！
+         文件地址: https://byrdocs.org/files/0a2ec7a3b027bb439e7bf021c4b1b1be.pdf
+    ? 是否立即为该文件录入元信息？ (Y/n)
     ```
 6. 在 metadata 中新建一个名为 `<md5>.yml` 的文件，填写文件的元信息，其中 `<md5>` 是你上传的文件的 md5 值。在上一步的例子中，它是 `0a2ec7a3b027bb439e7bf021c4b1b1be`，所以应当创建 `metadata/0a2ec7a3b027bb439e7bf021c4b1b1be.yml` 文件。
 7. 编写文件元信息，参见 [文件元信息](https://github.com/byrdocs/byrdocs-archive/wiki/%E5%85%B3%E4%BA%8E%E6%96%87%E4%BB%B6#%E6%96%87%E4%BB%B6%E5%85%83%E4%BF%A1%E6%81%AF)。
