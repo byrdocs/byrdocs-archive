@@ -1,9 +1,11 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
-id: cddec5b4a0390ae6bc78c057cb84572a
-url: https://byrdocs.org/files/cddec5b4a0390ae6bc78c057cb84572a.pdf
+id: bd34881f9f6a917a05a9b85ea3a31665
+url: https://byrdocs.org/files/bd34881f9f6a917a05a9b85ea3a31665.pdf
 type: test
 data:
+  college:
+  - 电子工程学院
   course:
     type: 本科
     name: 线性代数
@@ -15,3 +17,4 @@ data:
   filetype: pdf
   content:
   - 原题
+  - 答案
