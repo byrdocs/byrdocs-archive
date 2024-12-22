@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 70d1c6f8204a84c7c95de42c21c9ebb7
+url: https://byrdocs.org/files/70d1c6f8204a84c7c95de42c21c9ebb7.zip
+type: doc
+data:
+  title: 计算机系统结构-裴颂伟PPT
+  filetype: zip
+  course:
+  - type: 本科
+    name: 计算机系统结构
+  content:
+  - 课件

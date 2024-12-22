@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: e9a8994aedbb6757ab425b7e379c5519
+url: https://byrdocs.org/files/e9a8994aedbb6757ab425b7e379c5519.pdf
+type: doc
+data:
+  title: 计算机系统结构知识点整理
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 计算机系统结构
+  content:
+  - 知识点

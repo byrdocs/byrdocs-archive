@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 38248e0d9d1458af4802877fc22d510f
+url: https://byrdocs.org/files/38248e0d9d1458af4802877fc22d510f.pdf
+type: test
+data:
+  course:
+    name: 数据库系统原理
+  time:
+    start: '2016'
+    end: '2017'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

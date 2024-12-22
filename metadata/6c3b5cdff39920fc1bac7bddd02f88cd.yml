@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 6c3b5cdff39920fc1bac7bddd02f88cd
+url: https://byrdocs.org/files/6c3b5cdff39920fc1bac7bddd02f88cd.zip
+type: doc
+data:
+  title: 矩阵理论与方法PPT
+  filetype: zip
+  course:
+  - type: 本科
+    name: 矩阵理论与方法
+  content:
+  - 课件

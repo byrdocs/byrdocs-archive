@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 8ba6b1af686927b583b41684a5ebf98a
+url: https://byrdocs.org/files/8ba6b1af686927b583b41684a5ebf98a.pdf
+type: book
+data:
+  title: Computer Organization and Design - The Hardware Software Interface
+  authors:
+  - David A. Patterson
+  - John L. Hennessy
+  edition: '5'
+  publisher: Morgan Kaufmann
+  publish_year: '2014'
+  isbn:
+  - 978-0-12-407726-3
+  filetype: pdf

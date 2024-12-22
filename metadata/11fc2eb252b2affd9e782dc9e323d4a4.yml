@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 11fc2eb252b2affd9e782dc9e323d4a4
+url: https://byrdocs.org/files/11fc2eb252b2affd9e782dc9e323d4a4.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 软件工程
+  time:
+    start: '2015'
+    end: '2016'
+    semester: Second
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

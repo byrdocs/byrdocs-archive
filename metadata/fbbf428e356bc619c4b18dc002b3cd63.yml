@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: fbbf428e356bc619c4b18dc002b3cd63
+url: https://byrdocs.org/files/fbbf428e356bc619c4b18dc002b3cd63.pdf
+type: book
+data:
+  title: Computer Architecture - A Quantitative Approach
+  authors:
+  - David A. Patterson
+  - John L. Hennessy
+  edition: '5'
+  publisher: Morgan Kaufmann
+  publish_year: '2012'
+  isbn:
+  - 978-0-12-383872-8
+  filetype: pdf
