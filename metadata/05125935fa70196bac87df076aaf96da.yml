@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 05125935fa70196bac87df076aaf96da
+url: https://byrdocs.org/files/05125935fa70196bac87df076aaf96da.pdf
+type: doc
+data:
+  title: 编译原理与技术 模拟试卷及参考答案
+  filetype: pdf
+  course:
+  - name: 编译原理与技术
+  content:
+  - 题库
