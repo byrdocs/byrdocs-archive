@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 63c65e80c610bea44112378eb31fbae7
+url: https://byrdocs.org/files/63c65e80c610bea44112378eb31fbae7.pdf
+type: book
+data:
+  title: Discrete Mathematical Structures
+  authors:
+  - Bernard Kolman
+  edition: '6'
+  publisher: Pearson
+  publish_year: '2014'
+  isbn:
+  - 978-1-292-02484-4
+  filetype: pdf

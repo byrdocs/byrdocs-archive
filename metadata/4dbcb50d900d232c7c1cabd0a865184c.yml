@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 4dbcb50d900d232c7c1cabd0a865184c
+url: https://byrdocs.org/files/4dbcb50d900d232c7c1cabd0a865184c.zip
+type: doc
+data:
+  title: 软件工程——皮人杰PPT
+  filetype: zip
+  course:
+  - type: 本科
+    name: 软件工程
+  content:
+  - 课件

@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 8043c650511c02bfbd7fd6f49e07f273
+url: https://byrdocs.org/files/8043c650511c02bfbd7fd6f49e07f273.pdf
+type: book
+data:
+  title: 计算机组成原理试题解析
+  authors:
+  - 白中英
+  - 戴志涛
+  edition: '5'
+  publisher: 科学出版社
+  publish_year: '2013'
+  isbn:
+  - 978-7-03-037237-6
+  filetype: pdf

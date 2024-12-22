@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: a4ff746ae5086e10f5607880542519d6
+url: https://byrdocs.org/files/a4ff746ae5086e10f5607880542519d6.pdf
+type: doc
+data:
+  title: 软件工程选择填空集锦
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 软件工程
+  content:
+  - 题库
