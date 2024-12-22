@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 5ccbc9edacc22f7dd8ed72d8874a97d5
+url: https://byrdocs.org/files/5ccbc9edacc22f7dd8ed72d8874a97d5.pdf
+type: doc
+data:
+  title: 计算机系统结构练习题讲解
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 计算机系统结构
+  content:
+  - 题库

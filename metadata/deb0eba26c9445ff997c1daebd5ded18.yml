@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: deb0eba26c9445ff997c1daebd5ded18
+url: https://byrdocs.org/files/deb0eba26c9445ff997c1daebd5ded18.zip
+type: doc
+data:
+  title: 计算机组成原理-戴志涛PPT
+  filetype: zip
+  course:
+  - type: 本科
+    name: 计算机组成原理
+  content:
+  - 课件

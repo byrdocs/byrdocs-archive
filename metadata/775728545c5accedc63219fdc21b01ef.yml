@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 775728545c5accedc63219fdc21b01ef
+url: https://byrdocs.org/files/775728545c5accedc63219fdc21b01ef.pdf
+type: book
+data:
+  title: 计算机组成原理
+  authors:
+  - 唐朔飞
+  edition: '2'
+  publisher: 高等教育出版社
+  publish_year: '2007'
+  isbn:
+  - 978-7-04-022390-3
+  filetype: pdf

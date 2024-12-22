@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 174079d8773fb68a2576d7baf0ba7ec0
+url: https://byrdocs.org/files/174079d8773fb68a2576d7baf0ba7ec0.zip
+type: doc
+data:
+  title: 软件工程复习文档
+  filetype: zip
+  course:
+  - type: 本科
+    name: 软件工程
+  content:
+  - 知识点
