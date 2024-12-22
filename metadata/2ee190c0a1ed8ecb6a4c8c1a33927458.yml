@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 2ee190c0a1ed8ecb6a4c8c1a33927458
+url: https://byrdocs.org/files/2ee190c0a1ed8ecb6a4c8c1a33927458.pdf
+type: doc
+data:
+  title: 编译原理与技术作业参考答案
+  filetype: pdf
+  course:
+  - name: 编译原理与技术
+  content:
+  - 答案

@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: bf3a22b50a37464864aa665fb5378044
+url: https://byrdocs.org/files/bf3a22b50a37464864aa665fb5378044.zip
+type: doc
+data:
+  title: 编译原理与技术——李文生PPT
+  filetype: zip
+  course:
+  - type: 本科
+    name: 编译原理与技术
+  content:
+  - 课件
