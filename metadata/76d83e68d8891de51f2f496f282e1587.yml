@@ -1,16 +1,16 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
-id: e3e56573621a31886f75fe14ba4e2a22
-url: https://byrdocs.org/files/e3e56573621a31886f75fe14ba4e2a22.pdf
+id: 76d83e68d8891de51f2f496f282e1587
+url: https://byrdocs.org/files/76d83e68d8891de51f2f496f282e1587.pdf
 type: test
 data:
   course:
+    type: 本科
     name: 电路与电子学基础
   time:
-    start: '2017'
-    end: '2018'
-    semester: Second
+    start: '2016'
+    end: '2016'
     stage: 期末
   filetype: pdf
   content:
-  - 答案
+  - 原题

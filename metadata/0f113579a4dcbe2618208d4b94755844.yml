@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 0f113579a4dcbe2618208d4b94755844
+url: https://byrdocs.org/files/0f113579a4dcbe2618208d4b94755844.zip
+type: doc
+data:
+  title: 大数据技术基础-鄂海红PPT
+  filetype: zip
+  course:
+  - name: 大数据技术基础
+  content:
+  - 课件

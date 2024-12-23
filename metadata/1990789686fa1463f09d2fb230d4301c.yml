@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 1990789686fa1463f09d2fb230d4301c
+url: https://byrdocs.org/files/1990789686fa1463f09d2fb230d4301c.pdf
+type: book
+data:
+  title: Computer Networks
+  authors:
+  - Andrew S. Tanenbaum
+  - David J. Wetherall
+  edition: '5'
+  publisher: Pearson
+  publish_year: '2011'
+  isbn:
+  - 978-0-13-212695-3
+  filetype: pdf
