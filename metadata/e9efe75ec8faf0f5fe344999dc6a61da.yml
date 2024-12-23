@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: e9efe75ec8faf0f5fe344999dc6a61da
+url: https://byrdocs.org/files/e9efe75ec8faf0f5fe344999dc6a61da.zip
+type: doc
+data:
+  title: 计算机网络-程莉PPT
+  filetype: zip
+  course:
+  - type: 本科
+    name: 计算机网络
+  content:
+  - 课件

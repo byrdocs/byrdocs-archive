@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: f5b1ba8aab11273af1036e22ff27148c
+url: https://byrdocs.org/files/f5b1ba8aab11273af1036e22ff27148c.zip
+type: doc
+data:
+  title: 概率论与数理统计知识点
+  filetype: zip
+  course:
+  - type: 本科
+    name: 概率论与数理统计
+  content:
+  - 知识点

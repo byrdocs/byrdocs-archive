@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 61745579b3d637297365d02e5aa2d033
+url: https://byrdocs.org/files/61745579b3d637297365d02e5aa2d033.pdf
+type: doc
+data:
+  title: 《计算机网络》期末考试样题
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 计算机网络
+  content:
+  - 题库

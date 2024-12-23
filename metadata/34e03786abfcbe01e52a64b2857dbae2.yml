@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 34e03786abfcbe01e52a64b2857dbae2
+url: https://byrdocs.org/files/34e03786abfcbe01e52a64b2857dbae2.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 高等数学（下）
+  time:
+    start: '2017'
+    end: '2018'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

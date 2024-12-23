@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: c628e0cf3a31e5e4e56cdde2d7db278c
+url: https://byrdocs.org/files/c628e0cf3a31e5e4e56cdde2d7db278c.pdf
+type: book
+data:
+  title: 大学物理学习题分析与解答
+  authors:
+  - 吴百诗
+  - 郑建邦
+  - 徐忠锋
+  - 李存志
+  edition: '1'
+  publisher: 高等教育出版社
+  publish_year: '2005'
+  isbn:
+  - 978-7-04-016562-3
+  filetype: pdf

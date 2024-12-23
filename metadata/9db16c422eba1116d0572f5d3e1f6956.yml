@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 9db16c422eba1116d0572f5d3e1f6956
+url: https://byrdocs.org/files/9db16c422eba1116d0572f5d3e1f6956.pdf
+type: book
+data:
+  title: 大学物理学（上）
+  authors:
+  - 吴百诗
+  - 罗春荣
+  - 马永庚
+  - 张孝林
+  edition: '1'
+  publisher: 高等教育出版社
+  publish_year: '2004'
+  isbn:
+  - 978-7-04-015573-0
+  filetype: pdf

@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 8e9eb1348252ed7074cf68c6c676f2b2
+url: https://byrdocs.org/files/8e9eb1348252ed7074cf68c6c676f2b2.zip
+type: doc
+data:
+  title: 大学物理PPT
+  filetype: zip
+  course:
+  - type: 本科
+    name: 大学物理
+  content:
+  - 课件
