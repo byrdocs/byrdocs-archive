@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 90633f349f11e62b286c0724f699faef
+url: https://byrdocs.org/files/90633f349f11e62b286c0724f699faef.pdf
+type: test
+data:
+  college:
+  - 电子工程学院
+  course:
+    type: 本科
+    name: 通信原理I
+  time:
+    start: '2023'
+    end: '2024'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

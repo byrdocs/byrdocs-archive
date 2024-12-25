@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: dee3ec0cac74c2dedb303c58a1a3a7cc
+url: https://byrdocs.org/files/dee3ec0cac74c2dedb303c58a1a3a7cc.pdf
+type: doc
+data:
+  title: 信通导论期末复习
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 信息通信导论
+  content:
+  - 知识点
