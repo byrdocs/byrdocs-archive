@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 89f3abd4f1535d74e3535f866017a6dc
+url: https://byrdocs.org/files/89f3abd4f1535d74e3535f866017a6dc.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 高等数学A（下）
+  time:
+    start: '2022'
+    end: '2023'
+    semester: Second
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题

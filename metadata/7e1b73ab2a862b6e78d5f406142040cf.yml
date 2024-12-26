@@ -1,10 +1,11 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
-id: affc420cd2a72ee00ef4c185a58d2cfa
-url: https://byrdocs.org/files/affc420cd2a72ee00ef4c185a58d2cfa.pdf
+id: 7e1b73ab2a862b6e78d5f406142040cf
+url: https://byrdocs.org/files/7e1b73ab2a862b6e78d5f406142040cf.pdf
 type: test
 data:
   course:
+    type: 本科
     name: 高等数学A（下）
   time:
     start: '2022'
