@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: c1ab0c678cc760f9915c71ba81d77bda
+url: https://byrdocs.org/files/c1ab0c678cc760f9915c71ba81d77bda.pdf
+type: test
+data:
+  college:
+  - 未来学院
+  course:
+    type: 本科
+    name: 概率论与随机过程
+  time:
+    start: '2023'
+    end: '2024'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
