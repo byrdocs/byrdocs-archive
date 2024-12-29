@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: e4c1211b4ac2bef55f43d2d5bed8fc3d
+url: https://byrdocs.org/files/e4c1211b4ac2bef55f43d2d5bed8fc3d.pdf
+type: book
+data:
+  title: C++语言程序设计案例与实践辅导
+  authors:
+  - 孙勇
+  - 许桂平
+  - 肖波
+  - 刘瑞芳
+  - 徐惠民
+  edition: '1'
+  publisher: 西安电子科技大学出版社
+  publish_year: '2017'
+  isbn:
+  - 978-7-5606-4395-3
+  filetype: pdf
