@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 3e29f95134df9992312fc4428db67f5b
+url: https://byrdocs.org/files/3e29f95134df9992312fc4428db67f5b.pdf
+type: test
+data:
+  college:
+  - 智能工程与自动化学院
+  - 计算机学院（国家示范性软件学院）
+  - 电子工程学院
+  - 人工智能学院
+  - 理学院
+  - 数字媒体与设计艺术学院
+  - 网络空间安全学院
+  - 经济管理学院
+  - 人文学院
+  - 信息与通信工程学院
+  - 集成电路学院
+  course:
+    type: 本科
+    name: 英语听说2
+  time:
+    start: '2024'
+    end: '2025'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
