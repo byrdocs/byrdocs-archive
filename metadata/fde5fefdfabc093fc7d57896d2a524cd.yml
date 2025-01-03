@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: fde5fefdfabc093fc7d57896d2a524cd
+url: https://byrdocs.org/files/fde5fefdfabc093fc7d57896d2a524cd.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 工程数学
+  time:
+    start: '2023'
+    end: '2024'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案
