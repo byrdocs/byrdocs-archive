@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
-id: c1ab0c678cc760f9915c71ba81d77bda
-url: https://byrdocs.org/files/c1ab0c678cc760f9915c71ba81d77bda.pdf
+id: bfe7791f4578e7129fc0624c84c5708d
+url: https://byrdocs.org/files/bfe7791f4578e7129fc0624c84c5708d.pdf
 type: test
 data:
   college:
@@ -17,3 +17,4 @@ data:
   filetype: pdf
   content:
   - 原题
+  - 答案
