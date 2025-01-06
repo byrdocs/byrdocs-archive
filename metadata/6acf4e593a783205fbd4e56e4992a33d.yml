@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 6acf4e593a783205fbd4e56e4992a33d
+url: https://byrdocs.org/files/6acf4e593a783205fbd4e56e4992a33d.pdf
+type: test
+data:
+  college:
+  - 电子工程学院
+  - 集成电路学院
+  course:
+    type: 本科
+    name: 模拟集成电路设计
+  time:
+    start: '2011'
+    end: '2012'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
