@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: cb1ebca2dd24f56a81edfb5a9bbe265e
+url: https://byrdocs.org/files/cb1ebca2dd24f56a81edfb5a9bbe265e.pdf
+type: doc
+data:
+  title: 模拟集成电路设计-韩可-PPT
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 模拟集成电路设计
+  content:
+  - 课件
