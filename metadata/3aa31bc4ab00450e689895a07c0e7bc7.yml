@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 3aa31bc4ab00450e689895a07c0e7bc7
+url: https://byrdocs.org/files/3aa31bc4ab00450e689895a07c0e7bc7.pdf
+type: test
+data:
+  college:
+  - 电子工程学院
+  course:
+    type: 本科
+    name: 微波工程基础
+  time:
+    start: '2022'
+    end: '2023'
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
