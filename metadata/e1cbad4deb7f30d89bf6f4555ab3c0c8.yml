@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: e1cbad4deb7f30d89bf6f4555ab3c0c8
+url: https://byrdocs.org/files/e1cbad4deb7f30d89bf6f4555ab3c0c8.pdf
+type: doc
+data:
+  title: 微波复习题合集(打印店)
+  filetype: pdf
+  course:
+  - name: 微波工程基础
+  content:
+  - 题库
+  - 答案
