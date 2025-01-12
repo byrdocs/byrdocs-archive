@@ -51,7 +51,7 @@ jobs:
         run: cat ./comment.txt
 
       - name: Create or Update Comment on pr
-        if: (github.event_name == 'pull_request_target' && always() )
+        if: (github.event_name == 'pull_request_target' && failure() )
         uses: peter-evans/create-or-update-comment@v4.0.0
         with:
           issue-number: ${{ github.event.pull_request.number }}
