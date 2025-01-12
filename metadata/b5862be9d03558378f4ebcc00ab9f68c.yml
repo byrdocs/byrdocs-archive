@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: b5862be9d03558378f4ebcc00ab9f68c
+url: https://byrdocs.org/files/b5862be9d03558378f4ebcc00ab9f68c.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 数学物理方法
+  time:
+    start: '2016'
+    end: '2017'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

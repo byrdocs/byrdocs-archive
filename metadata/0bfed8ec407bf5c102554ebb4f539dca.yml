@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 0bfed8ec407bf5c102554ebb4f539dca
+url: https://byrdocs.org/files/0bfed8ec407bf5c102554ebb4f539dca.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 计算机组织与结构
+  time:
+    start: '2022'
+    end: '2023'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
