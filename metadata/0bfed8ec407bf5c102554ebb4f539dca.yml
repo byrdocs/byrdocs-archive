@@ -6,7 +6,7 @@ type: test
 data:
   course:
     type: 本科
-    name: 计算机结构与组织（B）
+    name: 计算机组织与结构
   time:
     start: '2022'
     end: '2023'

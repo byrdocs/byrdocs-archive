@@ -8,7 +8,7 @@ data:
   - 国际学院
   course:
     type: 本科
-    name: 物联网技术导论 BBC5200 A
+    name: 物联网技术导论 
   time:
     start: '2022'
     end: '2023'
