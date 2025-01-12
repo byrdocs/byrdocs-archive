@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: b9f992989fc001dcee7cd03e3ed75a6d
+url: https://byrdocs.org/files/b9f992989fc001dcee7cd03e3ed75a6d.pdf
+type: test
+data:
+  college:
+  - 国际学院
+  course:
+    type: 本科
+    name: Introduce to AI
+  time:
+    start: '2023'
+    end: '2024'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
