@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 199445aa784868122fb810f5a5e6a4e0
+url: https://byrdocs.org/files/199445aa784868122fb810f5a5e6a4e0.pdf
+type: test
+data:
+  college:
+  - 国际学院
+  course:
+    type: 本科
+    name: 高等数学（下）
+  time:
+    start: '2023'
+    end: '2024'
+    semester: Second
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
