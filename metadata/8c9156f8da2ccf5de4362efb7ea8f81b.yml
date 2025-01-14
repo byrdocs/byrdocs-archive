@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 8c9156f8da2ccf5de4362efb7ea8f81b
+url: https://byrdocs.org/files/8c9156f8da2ccf5de4362efb7ea8f81b.pdf
+type: test
+data:
+  college:
+  - 国际学院
+  course:
+    type: 本科
+    name: 信号与系统
+  time:
+    start: '2022'
+    end: '2023'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
