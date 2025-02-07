@@ -7,7 +7,10 @@ data:
   title: A First Course in Information Theory
   authors:
   - Raymond W. Yeung
+  edition: '1'
   publisher: Springer
+  publish_year: '2002'
   isbn:
   - 978-1-4613-4645-6
+  - 978-1-4419-8608-5
   filetype: pdf

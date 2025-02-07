@@ -12,6 +12,7 @@ data:
   - 张丽静
   edition: '1'
   publisher: 机械工业出版社
+  publish_year: '2010'
   isbn:
   - 978-7-111-31344-1
   filetype: pdf

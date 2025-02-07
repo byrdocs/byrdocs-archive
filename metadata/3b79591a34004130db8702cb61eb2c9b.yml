@@ -8,6 +8,7 @@ data:
   authors:
   - David Wong
   publisher: Manning
+  publish_year: '2021'
   isbn:
   - 978-1-61729-671-0
   filetype: pdf

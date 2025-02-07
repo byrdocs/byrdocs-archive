@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
-id: 0d4d151172fda23b51cf4d2abfb384c1
-url: https://byrdocs.org/files/0d4d151172fda23b51cf4d2abfb384c1.pdf
+id: 77cc3dc2ebdbebdaffee36cb07b32f8f
+url: https://byrdocs.org/files/77cc3dc2ebdbebdaffee36cb07b32f8f.pdf
 type: book
 data:
   title: 'Database Systems: A pracital Approach to Design, Implementation, and Management'
@@ -10,6 +10,7 @@ data:
   - Carolyn E. Begg
   edition: '6'
   publisher: Pearson
+  publish_year: '2015'
   isbn:
   - 978-1-292-06118-4
   filetype: pdf

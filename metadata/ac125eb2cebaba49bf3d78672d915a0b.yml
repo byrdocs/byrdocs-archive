@@ -4,13 +4,14 @@ id: ac125eb2cebaba49bf3d78672d915a0b
 url: https://byrdocs.org/files/ac125eb2cebaba49bf3d78672d915a0b.pdf
 type: book
 data:
-  title: 复分析可视化方法
+  title: 复分析 可视化方法
   authors:
   - Tristan Needham
   translators:
   - 齐民友
   edition: '1'
   publisher: 人民邮电出版社
+  publish_year: '2009'
   isbn:
   - 978-7-115-20883-5
   filetype: pdf

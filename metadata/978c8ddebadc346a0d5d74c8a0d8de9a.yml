@@ -13,6 +13,7 @@ data:
   - 赵龙
   edition: '5'
   publisher: 北京邮电大学出版社
+  publish_year: '2022'
   isbn:
   - 978-7-5635-6798-0
   filetype: pdf

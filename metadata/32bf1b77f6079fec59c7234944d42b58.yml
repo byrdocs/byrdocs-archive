@@ -13,6 +13,7 @@ data:
   - 贺莲
   edition: '1'
   publisher: 机械工业出版社
+  publish_year: '2016'
   isbn:
   - 978-7-111-54493-7
   filetype: pdf

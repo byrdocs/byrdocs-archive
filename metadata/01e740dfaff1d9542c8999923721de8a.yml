@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
-id: 78cdb1f68e32c64a088bd0d763e72633
-url: https://byrdocs.org/files/78cdb1f68e32c64a088bd0d763e72633.pdf
+id: 01e740dfaff1d9542c8999923721de8a
+url: https://byrdocs.org/files/01e740dfaff1d9542c8999923721de8a.pdf
 type: book
 data:
   title: An Introduction to Optimization
@@ -10,6 +10,7 @@ data:
   - Stanislaw H. Zak
   edition: '4'
   publisher: Wiley
+  publish_year: '2013'
   isbn:
   - 978-1-118-27901-4
   filetype: pdf

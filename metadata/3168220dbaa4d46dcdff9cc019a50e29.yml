@@ -9,6 +9,7 @@ data:
   - William Stallings
   edition: '5'
   publisher: Pearson
+  publish_year: '2010'
   isbn:
   - 978-0-13-609704-4
   filetype: pdf

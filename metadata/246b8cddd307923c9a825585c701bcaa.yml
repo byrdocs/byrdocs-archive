@@ -9,6 +9,7 @@ data:
   - Bjarne Stroustrup
   edition: '2'
   publisher: Pearson
+  publish_year: '2018'
   isbn:
   - 978-0-13-499783-4
   filetype: pdf

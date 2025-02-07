@@ -9,6 +9,7 @@ data:
   - 李全喜
   edition: '1'
   publisher: 研究出版社
+  publish_year: '2022'
   isbn:
   - 978-7-5199-1388-5
   filetype: pdf

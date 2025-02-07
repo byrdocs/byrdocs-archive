@@ -15,6 +15,7 @@ data:
   - 张欣
   edition: '3'
   publisher: 科学出版社
+  publish_year: '2019'
   isbn:
   - 978-7-03-064006-2
   filetype: pdf

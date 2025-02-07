@@ -7,8 +7,8 @@ data:
   title: 习近平新时代中国特色社会主义思想概论
   authors:
   - 习近平新时代中国特色社会主义思想概论编写组
-  edition: '2023'
   publisher: 高等教育出版社/人民出版社
+  publish_year: '2023'
   isbn:
   - 978-7-04-061053-6
   filetype: pdf

@@ -7,8 +7,8 @@ data:
   title: 马克思主义基本原理：2023年版
   authors:
   - 《马克思主义基本原理（2023年版）》编写组
-  edition: '2'
   publisher: 高等教育出版社
+  publish_year: '2023'
   isbn:
   - 978-7-04-059900-8
   filetype: pdf

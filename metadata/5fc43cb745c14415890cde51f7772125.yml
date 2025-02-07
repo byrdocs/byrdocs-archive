@@ -14,6 +14,7 @@ data:
   - 张俊
   edition: '1'
   publisher: 高等教育出版社
+  publish_year: '2019'
   isbn:
   - 978-7-04-050123-0
   filetype: pdf

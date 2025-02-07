@@ -10,6 +10,7 @@ data:
   - 张文明
   edition: '1'
   publisher: 清华大学出版社
+  publish_year: '2006'
   isbn:
   - 978-7-302-12899-1
   filetype: pdf

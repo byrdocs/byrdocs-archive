@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
-id: dd888ac40f6100415395d8c6d553aad4
-url: https://byrdocs.org/files/dd888ac40f6100415395d8c6d553aad4.pdf
+id: 929b52d0b585643ba3fc6617e11a661b
+url: https://byrdocs.org/files/929b52d0b585643ba3fc6617e11a661b.pdf
 type: book
 data:
   title: 数学建模方法与分析（原书第2版）
@@ -13,6 +13,7 @@ data:
   - 黄海洋
   edition: '1'
   publisher: 机械工业出版社
+  publish_year: '2005'
   isbn:
   - 978-7-111-16440-1
   filetype: pdf

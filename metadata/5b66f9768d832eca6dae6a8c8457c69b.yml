@@ -14,6 +14,7 @@ data:
   - 张鸿
   edition: '2'
   publisher: 西安交通大学出版社
+  publish_year: '2018'
   isbn:
   - 978-7-5693-0992-8
   filetype: pdf
