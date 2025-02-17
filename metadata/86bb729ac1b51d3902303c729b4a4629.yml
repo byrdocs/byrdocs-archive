@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 86bb729ac1b51d3902303c729b4a4629
+url: https://byrdocs.org/files/86bb729ac1b51d3902303c729b4a4629.pdf
+type: doc
+data:
+  title: 数据库系统原理 期末总结 邵蓥侠
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 数据库系统原理
+  content:
+  - 知识点

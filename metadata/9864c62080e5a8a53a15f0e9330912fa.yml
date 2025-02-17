@@ -1,15 +1,16 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
-id: 06061c2907f1f90b540b10cc9efc0224
-url: https://byrdocs.org/files/06061c2907f1f90b540b10cc9efc0224.pdf
+id: 9864c62080e5a8a53a15f0e9330912fa
+url: https://byrdocs.org/files/9864c62080e5a8a53a15f0e9330912fa.pdf
 type: test
 data:
   course:
-    name: 线性代数
+    type: 本科
+    name: 数据结构
   time:
     start: '2018'
     end: '2019'
-    stage: 期末
+    stage: 期中
   filetype: pdf
   content:
   - 原题

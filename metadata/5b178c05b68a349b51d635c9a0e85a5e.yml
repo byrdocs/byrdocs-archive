@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 5b178c05b68a349b51d635c9a0e85a5e
+url: https://byrdocs.org/files/5b178c05b68a349b51d635c9a0e85a5e.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 数据库系统原理
+  time:
+    start: '2020'
+    end: '2021'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

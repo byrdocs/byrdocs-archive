@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: c9b61a9905db4bfcf56906b72df6fe9f
+url: https://byrdocs.org/files/c9b61a9905db4bfcf56906b72df6fe9f.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: Linux编程环境
+  time:
+    start: '2016'
+    end: '2017'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案
