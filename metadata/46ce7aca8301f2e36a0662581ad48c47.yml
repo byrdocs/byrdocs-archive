@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 46ce7aca8301f2e36a0662581ad48c47
+url: https://byrdocs.org/files/46ce7aca8301f2e36a0662581ad48c47.pdf
+type: test
+data:
+  course:
+    name: 现代交换原理
+  time:
+    start: '2022'
+    end: '2022'
+  filetype: pdf
+  content:
+  - 原题
