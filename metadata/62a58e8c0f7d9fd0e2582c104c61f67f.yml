@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 62a58e8c0f7d9fd0e2582c104c61f67f
+url: https://byrdocs.org/files/62a58e8c0f7d9fd0e2582c104c61f67f.pdf
+type: test
+data:
+  college:
+  - 计算机学院（国家示范性软件学院）
+  course:
+    type: 本科
+    name: 数据库系统原理
+  time:
+    start: '2013'
+    end: '2013'
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案
