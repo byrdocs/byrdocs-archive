@@ -13,7 +13,7 @@
 > 欢迎加入QQ群 `829649976` 交流 BYR Docs 有关事项，包括向本项目贡献资料。
 
 > [!NOTE]
-> **请勿在 Issues 内请求资源。** 我们目前无暇处理大量的资源请求。
+> 电子书资源请求请发布在 [电子书愿望单](https://github.com/orgs/byrdocs/discussions/2)，目前不接受其他类型资源的资源请求。
 
 ## 如何使用
 
@@ -32,3 +32,7 @@
 - 贡献文件，请参阅[贡献指南](./CONTRIBUTING.md)
 - 我们不接受任何形式的捐赠，除非是向我们提供资料。当然，您需要确保您对自己提供的资料有合法的分发权限。
 - 如果您有意参与维护本项目，可发送邮件到 [contact@byrdocs.org](mailto:contact@byrdocs.org) 与我们联系。
+
+## 许可协议
+
+[![CC BY-NC-SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
