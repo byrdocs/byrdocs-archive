@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 883e94a4a2a0ebdce65bdff034d51e99
+url: https://byrdocs.org/files/883e94a4a2a0ebdce65bdff034d51e99.pdf
+type: test
+data:
+  college:
+  - 信息与通信工程学院
+  course:
+    type: 研究生
+    name: 通信网理论
+  time:
+    start: '2005'
+    end: '2005'
+  filetype: pdf
+  content:
+  - 原题
