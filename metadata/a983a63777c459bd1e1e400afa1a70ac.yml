@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: a983a63777c459bd1e1e400afa1a70ac
+url: https://byrdocs.org/files/a983a63777c459bd1e1e400afa1a70ac.pdf
+type: book
+data:
+  title: 大学物理学（上册）
+  authors:
+  - 吴百诗
+  - 焦兆焕
+  - 张孝林
+  - 李甲科
+  - 王小力
+  - 周瑞云
+  edition: '1'
+  publisher: 高等教育出版社
+  publish_year: '2012'
+  isbn:
+  - 978-7-04-036755-3
+  filetype: pdf
