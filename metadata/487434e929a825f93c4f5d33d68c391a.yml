@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 487434e929a825f93c4f5d33d68c391a
+url: https://byrdocs.org/files/487434e929a825f93c4f5d33d68c391a.pdf
+type: book
+data:
+  title: 电磁场与电磁波
+  authors:
+  - 张洪欣
+  - 沈远茂
+  - 韩宇南
+  edition: '4'
+  publisher: 清华大学出版社
+  publish_year: '2024'
+  isbn:
+  - 978-7-302-66344-7
+  filetype: pdf
