@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: b1de2a2ba3aeed9845f5cf1d2ee27c10
+url: https://byrdocs.org/files/b1de2a2ba3aeed9845f5cf1d2ee27c10.pdf
+type: book
+data:
+  title: 电子电路基础
+  authors:
+  - 邓钢
+  - 刘宝玲
+  - 胡春静
+  - 孙文生
+  - 王莹
+  edition: '3'
+  publisher: 高等教育出版社
+  publish_year: '2024'
+  isbn:
+  - 978-7-04-061721-4
+  filetype: pdf
