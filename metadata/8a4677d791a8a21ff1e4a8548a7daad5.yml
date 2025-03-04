@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 8a4677d791a8a21ff1e4a8548a7daad5
+url: https://byrdocs.org/files/8a4677d791a8a21ff1e4a8548a7daad5.pdf
+type: doc
+data:
+  title: 现代通信新技术总复习题详解
+  filetype: pdf
+  course:
+  - name: 现代通信新技术
+  content:
+  - 题库
+  - 答案
