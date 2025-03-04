@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 1da9bf0464c32c556616367b6c972f65
+url: https://byrdocs.org/files/1da9bf0464c32c556616367b6c972f65.pdf
+type: test
+data:
+  college:
+  - 计算机学院（国家示范性软件学院）
+  course:
+    type: 本科
+    name: 计算机系统结构
+  time:
+    start: '2018'
+    end: '2019'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
