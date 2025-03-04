@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 6f4cdeffc566b665417a66b3e1255dd1
+url: https://byrdocs.org/files/6f4cdeffc566b665417a66b3e1255dd1.pdf
+type: book
+data:
+  title: 计算机组成原理
+  authors:
+  - 戴志涛
+  - 白中英
+  edition: '7'
+  publisher: 科学出版社
+  publish_year: '2024'
+  isbn:
+  - 978-7-03-078281-6
+  filetype: pdf
