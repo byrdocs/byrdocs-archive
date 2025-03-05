@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 7d197ed619f211802af4762b073c673b
+url: https://byrdocs.org/files/7d197ed619f211802af4762b073c673b.pdf
+type: book
+data:
+  title: 最新英美概况
+  authors:
+  - 王俊生
+  - 刘沛富
+  edition: '1'
+  publisher: 外语教学与研究出版社
+  publish_year: '2012'
+  isbn:
+  - 978-7-5135-2420-9
+  filetype: pdf

@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 1fafcd64ba68c141eaa693b6f5d6e873
+url: https://byrdocs.org/files/1fafcd64ba68c141eaa693b6f5d6e873.pdf
+type: book
+data:
+  title: 复杂系统与复杂网络
+  authors:
+  - 何大韧
+  - 刘宗华
+  - 汪秉宏
+  edition: '1'
+  publisher: '9787040256277'
+  publish_year: '2009'
+  isbn:
+  - 978-7-04-025627-7
+  filetype: pdf
