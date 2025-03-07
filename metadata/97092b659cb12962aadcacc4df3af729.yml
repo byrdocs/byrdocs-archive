@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 97092b659cb12962aadcacc4df3af729
+url: https://byrdocs.org/files/97092b659cb12962aadcacc4df3af729.pdf
+type: book
+data:
+  title: 简明电路与电子学基础
+  authors:
+  - 刘刚
+  - 侯宾
+  edition: '1'
+  publisher: 北京邮电大学出版社
+  publish_year: '2023'
+  isbn:
+  - 978-7-5635-7143-7
+  filetype: pdf
