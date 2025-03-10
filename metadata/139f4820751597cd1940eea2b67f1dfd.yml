@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 139f4820751597cd1940eea2b67f1dfd
+url: https://byrdocs.org/files/139f4820751597cd1940eea2b67f1dfd.pdf
+type: book
+data:
+  title: 大学生数学竞赛教程
+  authors:
+  - 蒲和平
+  edition: '2'
+  publisher: 电子工业出版社
+  publish_year: '2024'
+  isbn:
+  - 978-7-121-47429-3
+  filetype: pdf
