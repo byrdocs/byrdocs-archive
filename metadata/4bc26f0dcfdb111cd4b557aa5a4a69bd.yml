@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 4bc26f0dcfdb111cd4b557aa5a4a69bd
+url: https://byrdocs.org/files/4bc26f0dcfdb111cd4b557aa5a4a69bd.pdf
+type: book
+data:
+  title: 人工智能导论
+  authors:
+  - 郭军
+  - 徐蔚然
+  edition: '2'
+  publisher: 北京邮电大学出版社
+  publish_year: '2024'
+  isbn:
+  - 978-7-5635-7363-9
+  filetype: pdf

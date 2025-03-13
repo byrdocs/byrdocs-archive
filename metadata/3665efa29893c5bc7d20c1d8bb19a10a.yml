@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 3665efa29893c5bc7d20c1d8bb19a10a
+url: https://byrdocs.org/files/3665efa29893c5bc7d20c1d8bb19a10a.pdf
+type: book
+data:
+  title: 计算机系统结构教程
+  authors:
+  - 张晨曦
+  - 王志英
+  - 沈立
+  - 李江峰
+  - 王伟
+  edition: '3'
+  publisher: 清华大学出版社
+  publish_year: '2021'
+  isbn:
+  - 978-7-302-56758-5
+  filetype: pdf

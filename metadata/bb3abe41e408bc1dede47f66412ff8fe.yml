@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: bb3abe41e408bc1dede47f66412ff8fe
+url: https://byrdocs.org/files/bb3abe41e408bc1dede47f66412ff8fe.pdf
+type: book
+data:
+  title: 智能无线通信
+  authors:
+  - 张平
+  - 崔琪楣
+  edition: '1'
+  publisher: 高等教育出版社
+  publish_year: '2024'
+  isbn:
+  - 978-7-04-063172-2
+  filetype: pdf

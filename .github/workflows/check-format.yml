@@ -6,6 +6,19 @@ on:
     branches:
       - master
 
+env:
+  S3_URL: ${{ secrets.S3_URL }}
+  ACCESS_KEY_ID: ${{ secrets.S3_ACCESS_KEY }}
+  SECRET_ACCESS_KEY: ${{ secrets.S3_SECRET_ACCESS_KEY }}
+  BACKEND_URL: ${{ secrets.BACKEND_URL }}
+  BACKEND_TOKEN: ${{ secrets.BACKEND_TOKEN }}
+  BUCKET: ${{ vars.S3_BUCKET }}
+  R2_URL: ${{ secrets.R2_URL }}
+  R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+  R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+  R2_BUCKET: ${{ vars.R2_BUCKET }}
+  FILELIST_URL: ${{ secrets.FILELIST_URL }}
+
 jobs:
   check-format:
     runs-on: ubuntu-latest
@@ -44,8 +57,10 @@ jobs:
           chmod 777 check-pr
 
       - name: Check
-        run: ./check-pr -d ./metadata -u ${{ secrets.S3_URL }} -a ${{ secrets.S3_ACCESS_KEY }} -s ${{ secrets.S3_SECRET_ACCESS_KEY }} -b ${{ secrets.BACKEND_URL }} -t ${{ secrets.BACKEND_TOKEN }} -c ${{ vars.S3_BUCKET }} > comment.txt 2>&1
-      
+        env:
+          DIR: ./metadata
+        run: ./check-pr > comment.txt 2>&1
+
       - name: Debug
         if: always()
         run: cat ./comment.txt

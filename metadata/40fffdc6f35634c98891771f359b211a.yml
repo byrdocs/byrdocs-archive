@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 40fffdc6f35634c98891771f359b211a
+url: https://byrdocs.org/files/40fffdc6f35634c98891771f359b211a.pdf
+type: book
+data:
+  title: 演讲的艺术：第十三版：中国版
+  authors:
+  - Stephen E. Lucas
+  - Paul Stob
+  edition: '1'
+  publisher: 外语教学与研究出版社
+  publish_year: '2021'
+  isbn:
+  - 978-7-5213-1284-3
+  filetype: pdf

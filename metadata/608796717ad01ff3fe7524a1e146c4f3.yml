@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 608796717ad01ff3fe7524a1e146c4f3
+url: https://byrdocs.org/files/608796717ad01ff3fe7524a1e146c4f3.pdf
+type: test
+data:
+  college:
+  - 国际学院
+  course:
+    type: 本科
+    name: 大学物理C
+  time:
+    start: '2022'
+    end: '2023'
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
