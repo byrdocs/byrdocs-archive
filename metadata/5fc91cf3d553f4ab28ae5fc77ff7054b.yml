@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 5fc91cf3d553f4ab28ae5fc77ff7054b
+url: https://byrdocs.org/files/5fc91cf3d553f4ab28ae5fc77ff7054b.pdf
+type: doc
+data:
+  title: 自然辩证法2006-2007试题库
+  filetype: pdf
+  course:
+  - name: 自然辩证法
+  content:
+  - 题库
