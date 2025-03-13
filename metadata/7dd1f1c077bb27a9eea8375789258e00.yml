@@ -6,7 +6,7 @@ type: test
 data:
   course:
     type: 研究生
-    name: 图论
+    name: 图论及其应用
   time:
     start: '2006'
     end: '2007'
