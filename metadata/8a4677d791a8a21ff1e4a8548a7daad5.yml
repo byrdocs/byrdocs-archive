@@ -4,10 +4,10 @@ id: 8a4677d791a8a21ff1e4a8548a7daad5
 url: https://byrdocs.org/files/8a4677d791a8a21ff1e4a8548a7daad5.pdf
 type: doc
 data:
-  title: 现代通信新技术总复习题详解
+  title: 现代计算机与通信新技术讲座总复习题详解
   filetype: pdf
   course:
-  - name: 现代通信新技术
+  - type: 研究生
+    name: 现代计算机与通信新技术讲座
   content:
   - 题库
-  - 答案

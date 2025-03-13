@@ -4,10 +4,11 @@ id: 940f0738409fd0037ec0d7139f2b6426
 url: https://byrdocs.org/files/940f0738409fd0037ec0d7139f2b6426.pdf
 type: doc
 data:
-  title: 数字视频通信备考资料—By_XiongQQ@BYR
+  title: 数字视频通信备考资料
   filetype: pdf
   course:
-  - name: 数字视频通信
+  - type: 研究生
+    name: 数字视频通信
   content:
   - 题库
   - 答案

@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
-id: 5fc91cf3d553f4ab28ae5fc77ff7054b
-url: https://byrdocs.org/files/5fc91cf3d553f4ab28ae5fc77ff7054b.pdf
+id: 52f7501ce487ddc94253dbf091e2b41c
+url: https://byrdocs.org/files/52f7501ce487ddc94253dbf091e2b41c.pdf
 type: test
 data:
   course:
     type: 研究生
-    name: 自然辩证法概论
+    name: 矩阵分析与应用
   time:
     start: '2006'
     end: '2007'

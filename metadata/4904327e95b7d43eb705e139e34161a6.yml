@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 4904327e95b7d43eb705e139e34161a6
+url: https://byrdocs.org/files/4904327e95b7d43eb705e139e34161a6.pdf
+type: test
+data:
+  course:
+    type: 研究生
+    name: 信息论
+  time:
+    start: '2011'
+    end: '2011'
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
