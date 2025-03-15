@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 5fc91cf3d553f4ab28ae5fc77ff7054b
+url: https://byrdocs.org/files/5fc91cf3d553f4ab28ae5fc77ff7054b.pdf
+type: test
+data:
+  course:
+    type: 研究生
+    name: 自然辩证法概论
+  time:
+    start: '2006'
+    end: '2007'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

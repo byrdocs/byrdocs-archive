@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 33d449bfe411ba1c8e97b94d6842986d
+url: https://byrdocs.org/files/33d449bfe411ba1c8e97b94d6842986d.pdf
+type: test
+data:
+  course:
+    type: 研究生
+    name: 图论及其应用
+  time:
+    start: '2011'
+    end: '2012'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

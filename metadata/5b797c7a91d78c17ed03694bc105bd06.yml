@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 5b797c7a91d78c17ed03694bc105bd06
+url: https://byrdocs.org/files/5b797c7a91d78c17ed03694bc105bd06.pdf
+type: test
+data:
+  course:
+    type: 研究生
+    name: 图论及其应用
+  time:
+    start: '2006'
+    end: '2007'
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

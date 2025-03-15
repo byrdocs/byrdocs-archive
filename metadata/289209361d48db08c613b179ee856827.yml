@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 289209361d48db08c613b179ee856827
+url: https://byrdocs.org/files/289209361d48db08c613b179ee856827.pdf
+type: doc
+data:
+  title: 经济博弈论复习思考题
+  filetype: pdf
+  course:
+  - type: 研究生
+    name: 经济博弈论
+  content:
+  - 题库

@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 7e056f3dffb0c93a194b410c493b265c
+url: https://byrdocs.org/files/7e056f3dffb0c93a194b410c493b265c.pdf
+type: test
+data:
+  course:
+    type: 研究生
+    name: 宽带通信网
+  time:
+    start: '2008'
+    end: '2008'
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
