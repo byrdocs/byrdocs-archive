@@ -10,6 +10,7 @@ data:
   time:
     start: '2011'
     end: '2011'
+    semester: First
     stage: 期末
   filetype: pdf
   content:
