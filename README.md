@@ -19,11 +19,11 @@
 
 您可以访问 [BYR Docs](https://byrdocs.org) 网站，搜索并获取您想要的资源。
 
-![screenshot1.png](docs/screenshot1.png)
+![screenshot1.png](assets/screenshot1.png)
 
 您可使用关键词，诸如书名、作者、出版社、ISBN、科目、年份来查找您想要的文件。
 
-![screenshot2.png](docs/screenshot2.png)
+![screenshot2.png](assets/screenshot2.png)
 
 如果您找到了目标文件，点击文件的标题就可以开始下载了。
 
