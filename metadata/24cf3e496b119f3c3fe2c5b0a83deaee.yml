@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 24cf3e496b119f3c3fe2c5b0a83deaee
+url: https://byrdocs.org/files/24cf3e496b119f3c3fe2c5b0a83deaee.pdf
+type: book
+data:
+  title: 软件工程模型与方法
+  authors:
+  - 肖丁
+  - 修佳鹏
+  edition: '2'
+  publisher: 北京邮电大学出版社
+  publish_year: '2014'
+  isbn:
+  - 978-7-5635-4087-7
+  filetype: pdf
