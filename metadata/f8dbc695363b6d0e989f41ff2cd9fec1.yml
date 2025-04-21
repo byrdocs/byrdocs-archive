@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: f8dbc695363b6d0e989f41ff2cd9fec1
+url: https://byrdocs.org/files/f8dbc695363b6d0e989f41ff2cd9fec1.pdf
+type: doc
+data:
+  title: 运筹学作业及答案
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 运筹学
+  content:
+  - 题库

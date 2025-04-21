@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: cb33720df78192c621645612d49b36f8
+url: https://byrdocs.org/files/cb33720df78192c621645612d49b36f8.pdf
+type: doc
+data:
+  title: 2020 计算机网络期末考试样题
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 计算机网络
+  content:
+  - 题库
+  - 答案
