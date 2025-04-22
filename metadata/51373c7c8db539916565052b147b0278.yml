@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 51373c7c8db539916565052b147b0278
+url: https://byrdocs.org/files/51373c7c8db539916565052b147b0278.zip
+type: doc
+data:
+  title: 形式语言与自动机PPT
+  filetype: zip
+  course:
+  - type: 本科
+    name: 形式语言与自动机
+  content:
+  - 课件

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: abbca304e38fa2da7a618a9c0b97be6c
+url: https://byrdocs.org/files/abbca304e38fa2da7a618a9c0b97be6c.pdf
+type: test
+data:
+  college:
+  - 网络空间安全学院
+  course:
+    type: 本科
+    name: 计算机导论
+  time:
+    start: '2022'
+    end: '2023'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

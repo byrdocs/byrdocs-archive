@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 07ba9cafb7cddefccdca7fac6bd8e2a8
+url: https://byrdocs.org/files/07ba9cafb7cddefccdca7fac6bd8e2a8.zip
+type: doc
+data:
+  title: 算法设计与分析PPT
+  filetype: zip
+  course:
+  - name: 算法设计与分析
+  content:
+  - 课件

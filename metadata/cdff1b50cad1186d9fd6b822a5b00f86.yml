@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: cdff1b50cad1186d9fd6b822a5b00f86
+url: https://byrdocs.org/files/cdff1b50cad1186d9fd6b822a5b00f86.zip
+type: doc
+data:
+  title: 计算机系统基础PPT
+  filetype: zip
+  course:
+  - type: 本科
+    name: 计算机系统基础
+  content:
+  - 课件
