@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 63797e5c1ea71cdf19976d17188d1bca
+url: https://byrdocs.org/files/63797e5c1ea71cdf19976d17188d1bca.pdf
+type: doc
+data:
+  title: 群论+编码翻译及奇数题答案
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 离散数学
+  content:
+  - 题库
+  - 知识点
