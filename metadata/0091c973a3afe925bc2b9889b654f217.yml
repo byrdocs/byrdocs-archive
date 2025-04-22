@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 0091c973a3afe925bc2b9889b654f217
+url: https://byrdocs.org/files/0091c973a3afe925bc2b9889b654f217.pdf
+type: test
+data:
+  college:
+  - 网络空间安全学院
+  course:
+    type: 本科
+    name: 离散数学
+  time:
+    start: '2023'
+    end: '2024'
+    semester: Second
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
