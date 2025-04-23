@@ -8,7 +8,7 @@ data:
   filetype: pdf
   course:
   - type: 本科
-    name: 模拟电路
+    name: 电子电路基础
   content:
   - 题库
   - 知识点
