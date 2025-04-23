@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 95ef9783404666c4b70b993447cadee0
+url: https://byrdocs.org/files/95ef9783404666c4b70b993447cadee0.zip
+type: doc
+data:
+  title: 数字逻辑期末模拟试题
+  filetype: zip
+  course:
+  - type: 本科
+    name: 数字逻辑与数字系统
+  content:
+  - 题库

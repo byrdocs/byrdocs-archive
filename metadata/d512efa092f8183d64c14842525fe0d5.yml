@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: d512efa092f8183d64c14842525fe0d5
+url: https://byrdocs.org/files/d512efa092f8183d64c14842525fe0d5.pdf
+type: doc
+data:
+  title: 马克思主义基本原理练习题
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 马克思主义基本原理
+  content:
+  - 题库

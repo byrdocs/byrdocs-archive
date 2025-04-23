@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 21ec4e259acfc354e5625bee619d1854
+url: https://byrdocs.org/files/21ec4e259acfc354e5625bee619d1854.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 数字逻辑与数字系统
+  time:
+    start: '2009'
+    end: '2010'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案
