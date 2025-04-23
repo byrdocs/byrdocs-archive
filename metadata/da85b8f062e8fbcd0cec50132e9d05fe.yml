@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: da85b8f062e8fbcd0cec50132e9d05fe
+url: https://byrdocs.org/files/da85b8f062e8fbcd0cec50132e9d05fe.pdf
+type: doc
+data:
+  title: 新概念模拟电路
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 电子电路基础
+  content:
+  - 题库
+  - 知识点
