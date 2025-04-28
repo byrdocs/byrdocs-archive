@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 3d5cf6ced1a5ddc8ae12414207a6740a
+url: https://byrdocs.org/files/3d5cf6ced1a5ddc8ae12414207a6740a.pdf
+type: doc
+data:
+  title: 《马原》期末复习资料【2023版】-摘云子
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 马克思主义基本原理
+  content:
+  - 知识点

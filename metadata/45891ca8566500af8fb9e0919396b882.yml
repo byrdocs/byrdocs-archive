@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 45891ca8566500af8fb9e0919396b882
+url: https://byrdocs.org/files/45891ca8566500af8fb9e0919396b882.pdf
+type: doc
+data:
+  title: 数字逻辑（朱正东）习题答案
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 数字逻辑
+  content:
+  - 答案

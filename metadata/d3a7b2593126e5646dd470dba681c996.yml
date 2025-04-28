@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: d3a7b2593126e5646dd470dba681c996
+url: https://byrdocs.org/files/d3a7b2593126e5646dd470dba681c996.pdf
+type: doc
+data:
+  title: 马克思主义基本原理复习资料
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 马克思主义基本原理
+  content:
+  - 知识点
