@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: dd57c1cad8aabe9be1216e1906fdcb8f
+url: https://byrdocs.org/files/dd57c1cad8aabe9be1216e1906fdcb8f.pdf
+type: test
+data:
+  college:
+  - 计算机学院（国家示范性软件学院）
+  course:
+    type: 本科
+    name: 软件工程
+  time:
+    start: '2024'
+    end: '2025'
+    semester: Second
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
