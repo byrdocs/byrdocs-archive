@@ -77,7 +77,11 @@ jobs:
       - name: Read failure comment
         if: failure()
         id: comment
-        run: echo "::set-output name=body::$(cat comment.txt)"
+        run: |
+          echo "body<<BYRDOCS_HEREDOC_EOF" >> $GITHUB_OUTPUT
+          cat comment.txt                  >> $GITHUB_OUTPUT
+          echo "BYRDOCS_HEREDOC_EOF"       >> $GITHUB_OUTPUT
+
 
       - name: Request changes review
         if: github.event_name == 'pull_request_target' && failure()
