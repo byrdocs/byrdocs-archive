@@ -74,10 +74,18 @@ jobs:
         if: always()
         run: cat ./comment.txt
 
-      - name: Create or Update Comment on pr
-        if: (github.event_name == 'pull_request_target' && failure() )
-        uses: peter-evans/create-or-update-comment@v4.0.0
+      - name: Read failure comment
+        if: failure()
+        id: comment
+        run: |
+          echo "body<<BYRDOCS_HEREDOC_EOF" >> $GITHUB_OUTPUT
+          cat comment.txt                  >> $GITHUB_OUTPUT
+          echo "BYRDOCS_HEREDOC_EOF"       >> $GITHUB_OUTPUT
+
+
+      - name: Request changes review
+        if: github.event_name == 'pull_request_target' && failure()
+        uses: ntsd/auto-request-changes-action@v3
         with:
-          issue-number: ${{ github.event.pull_request.number }}
-          body-path: ./comment.txt
-        
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          review-message: ${{ steps.comment.outputs.body }}
