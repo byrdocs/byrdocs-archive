@@ -89,3 +89,30 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           review-message: ${{ steps.comment.outputs.body }}
+
+      - name: Dismiss previous change requests
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const { data: reviews } = await github.rest.pulls.listReviews({
+              owner: context.repo.owner,
+              repo:  context.repo.repo,
+              pull_number: context.payload.pull_request.number
+            });
+            for (const review of reviews) {
+              if (
+                review.state === 'CHANGES_REQUESTED' &&
+                review.user.login === 'github-actions[bot]'
+              ) {
+                await github.rest.pulls.dismissReview({
+                  owner:        context.repo.owner,
+                  repo:         context.repo.repo,
+                  pull_number:  context.payload.pull_request.number,
+                  review_id:    review.id,
+                  message:      '格式检查已通过，此更改请求已解决。'
+                });
+              }
+            }
+
