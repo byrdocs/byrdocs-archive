@@ -33,6 +33,15 @@ jobs:
       - name: Show log
         run: git log -5
 
+      - name: Check for YAML files in root directory
+        run: |
+          files=$(find . -maxdepth 1 -type f \( -name "*.yml" -o -name "*.yaml" \))
+          if [ -n "$files" ]; then
+            echo "根目录下发现 yml 或 yaml 文件，请移动到 metadata 目录中：" > comment.txt
+            echo "$files" >> comment.txt
+            exit 1
+          fi
+
       - id: pdfium
         name: Get pdfium-binaries latest
         uses: pozetroninc/github-action-get-latest-release@master
