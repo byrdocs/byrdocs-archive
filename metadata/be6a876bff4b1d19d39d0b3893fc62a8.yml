@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: be6a876bff4b1d19d39d0b3893fc62a8
+url: https://byrdocs.org/files/be6a876bff4b1d19d39d0b3893fc62a8.pdf
+type: test
+data:
+  course:
+    name: 概率论与随机过程
+  time:
+    start: '2023'
+    end: '2024'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案
