@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 17e233fb166b48dc86965f11424db8c0
+url: https://byrdocs.org/files/17e233fb166b48dc86965f11424db8c0.pdf
+type: test
+data:
+  college:
+  - 经济管理学院
+  - 人文学院
+  - 数字媒体与设计艺术学院
+  course:
+    type: 本科
+    name: 人工智能引论B
+  time:
+    start: '2024'
+    end: '2025'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

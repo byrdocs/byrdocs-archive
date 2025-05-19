@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 5e5d1804694f091e2f77b557cbaebb8b
+url: https://byrdocs.org/files/5e5d1804694f091e2f77b557cbaebb8b.pdf
+type: test
+data:
+  course:
+    name: 随机过程
+  time:
+    start: '2024'
+    end: '2025'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
