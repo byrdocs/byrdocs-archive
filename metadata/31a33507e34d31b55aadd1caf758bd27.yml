@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 31a33507e34d31b55aadd1caf758bd27
+url: https://byrdocs.org/files/31a33507e34d31b55aadd1caf758bd27.pdf
+type: test
+data:
+  course:
+    name: 电磁兼容原理设计
+  time:
+    start: '2023'
+    end: '2024'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 594ccc09741d4813d6075c73eaf80a88
+url: https://byrdocs.org/files/594ccc09741d4813d6075c73eaf80a88.pdf
+type: test
+data:
+  college:
+  - 国际学院
+  course:
+    type: 本科
+    name: 高级网络程序设计
+  time:
+    start: '2022'
+    end: '2023'
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
