@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 3dcbd2b65ff593f0bc58d1d8922d211e
+url: https://byrdocs.org/files/3dcbd2b65ff593f0bc58d1d8922d211e.pdf
+type: test
+data:
+  college:
+  - 人工智能学院
+  course:
+    type: 本科
+    name: 数学分析（上）
+  time:
+    start: '2024'
+    end: '2025'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

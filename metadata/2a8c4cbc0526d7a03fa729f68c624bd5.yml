@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 2a8c4cbc0526d7a03fa729f68c624bd5
+url: https://byrdocs.org/files/2a8c4cbc0526d7a03fa729f68c624bd5.pdf
+type: test
+data:
+  college:
+  - 未来学院
+  course:
+    type: 本科
+    name: 大学物理（下）
+  time:
+    start: '2024'
+    end: '2025'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

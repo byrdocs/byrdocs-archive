@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: c53716eb4768321464b2eb1a830ee0ad
+url: https://byrdocs.org/files/c53716eb4768321464b2eb1a830ee0ad.pdf
+type: test
+data:
+  course:
+    name: 基础物理学
+  time:
+    start: '2024'
+    end: '2025'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
