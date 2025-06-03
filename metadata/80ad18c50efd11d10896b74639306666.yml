@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 80ad18c50efd11d10896b74639306666
+url: https://byrdocs.org/files/80ad18c50efd11d10896b74639306666.pdf
+type: test
+data:
+  college:
+  - 人工智能学院
+  - 信息与通信工程学院
+  - 数字媒体与设计艺术学院
+  - 智能工程与自动化学院
+  - 理学院
+  - 电子工程学院
+  - 经济管理学院
+  - 网络空间安全学院
+  - 计算机学院（国家示范性软件学院）
+  - 集成电路学院
+  course:
+    type: 本科
+    name: 高阶综合英语
+  time:
+    start: '2024'
+    end: '2025'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

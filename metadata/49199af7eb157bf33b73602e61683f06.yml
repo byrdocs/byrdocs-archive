@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 49199af7eb157bf33b73602e61683f06
+url: https://byrdocs.org/files/49199af7eb157bf33b73602e61683f06.pdf
+type: test
+data:
+  college:
+  - 计算机学院（国家示范性软件学院）
+  course:
+    type: 本科
+    name: 数据结构
+  time:
+    start: '2024'
+    end: '2025'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
