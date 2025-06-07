@@ -1,6 +1,6 @@
 # BYR Docs Archive
 
-![metadata](https://github.com/byrdocs/byrdocs-archive/actions/workflows/check-upload.yml/badge.svg)
+[![Upload metadata](https://github.com/byrdocs/byrdocs-archive/actions/workflows/check-upload.yml/badge.svg)](https://github.com/byrdocs/byrdocs-archive/actions/workflows/check-upload.yml) [![Update Cache](https://github.com/byrdocs/byrdocs-cache/actions/workflows/update-cache.yaml/badge.svg?branch=main&event=schedule)](https://github.com/byrdocs/byrdocs-cache/actions/workflows/update-cache.yaml)
 
 **BYR Docs** 系北京邮电大学（下称“北邮”）校内资料分享平台，旨在使校内学生更方便地获取与北邮课程有关的教育资源，包括电子书籍、考试题目和复习资料等。
 
