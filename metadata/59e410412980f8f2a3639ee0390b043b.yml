@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 59e410412980f8f2a3639ee0390b043b
+url: https://byrdocs.org/files/59e410412980f8f2a3639ee0390b043b.pdf
+type: doc
+data:
+  title: 数据库系统原理复习资料
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 数据库系统原理
+  content:
+  - 知识点
