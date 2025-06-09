@@ -8,7 +8,7 @@ data:
   - 信息与通信工程学院
   course:
     type: 本科
-    name: 工科数学分析（下）
+    name: 数学分析（下）
   time:
     start: '2022'
     end: '2023'
