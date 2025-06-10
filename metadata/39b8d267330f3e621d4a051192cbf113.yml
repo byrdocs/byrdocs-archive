@@ -10,8 +10,8 @@ data:
     type: 本科
     name: 软件工程
   time:
-    start: '2024'
-    end: '2025'
+    start: '2023'
+    end: '2024'
     semester: Second
     stage: 期末
   filetype: pdf
