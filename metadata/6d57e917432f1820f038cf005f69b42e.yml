@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 6d57e917432f1820f038cf005f69b42e
+url: https://byrdocs.org/files/6d57e917432f1820f038cf005f69b42e.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 数字信号处理
+  time:
+    start: '2022'
+    end: '2022'
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案
