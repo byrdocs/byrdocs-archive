@@ -1,17 +1,14 @@
-# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
 
 id: 6d57e917432f1820f038cf005f69b42e
 url: https://byrdocs.org/files/6d57e917432f1820f038cf005f69b42e.pdf
-type: test
+type: doc
 data:
-  course:
-    type: 本科
-    name: 数字信号处理
-  time:
-    start: '2022'
-    end: '2022'
-    stage: 期末
+  title: 数字信号处理 2022 年期末考试样题（B）
   filetype: pdf
+  course:
+  - type: 本科
+    name: 数字信号处理
   content:
-  - 原题
+  - 题库
   - 答案
