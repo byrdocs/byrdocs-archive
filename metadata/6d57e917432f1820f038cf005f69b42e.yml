@@ -6,11 +6,11 @@ type: test
 data:
   filetype: pdf
   course:
-  - type: 本科
+    type: 本科
     name: 数字信号处理
   time:
-    start: 2022
-    end: 2022
+    start: '2022'
+    end: '2022'
     stage: 期末
   content:
   - 原题
