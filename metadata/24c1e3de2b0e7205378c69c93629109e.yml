@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 24c1e3de2b0e7205378c69c93629109e
+url: https://byrdocs.org/files/24c1e3de2b0e7205378c69c93629109e.zip
+type: doc
+data:
+  title: 高等数学A（下）课件
+  filetype: zip
+  course:
+  - type: 本科
+    name: 高等数学A（下）
+  content:
+  - 课件

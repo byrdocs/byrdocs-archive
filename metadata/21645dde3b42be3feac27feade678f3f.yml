@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 21645dde3b42be3feac27feade678f3f
+url: https://byrdocs.org/files/21645dde3b42be3feac27feade678f3f.pdf
+type: doc
+data:
+  title: 数据库系统原理-第七版习题答案
+  filetype: pdf
+  course:
+  - type: 本科
+    name: 数据库系统原理
+  content:
+  - 答案
