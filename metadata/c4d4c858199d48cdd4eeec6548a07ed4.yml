@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
-id: 41670c06368167a9e5c48df9d9d3cf73
-url: https://byrdocs.org/files/41670c06368167a9e5c48df9d9d3cf73.pdf
+id: c4d4c858199d48cdd4eeec6548a07ed4
+url: https://byrdocs.org/files/c4d4c858199d48cdd4eeec6548a07ed4.pdf
 type: test
 data:
   course:
@@ -10,9 +10,8 @@ data:
   time:
     start: '2017'
     end: '2018'
-    semester: First
-    stage: 期末
+    semester: Second
+    stage: 期中
   filetype: pdf
   content:
   - 原题
-  - 答案
