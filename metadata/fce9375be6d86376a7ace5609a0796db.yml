@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: fce9375be6d86376a7ace5609a0796db
+url: https://byrdocs.org/files/fce9375be6d86376a7ace5609a0796db.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 概率论与数理统计
+  time:
+    start: '2022'
+    end: '2023'
+    semester: First
+  filetype: pdf
+  content:
+  - 原题
