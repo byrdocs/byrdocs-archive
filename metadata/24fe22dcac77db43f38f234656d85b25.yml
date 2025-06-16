@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 24fe22dcac77db43f38f234656d85b25
+url: https://byrdocs.org/files/24fe22dcac77db43f38f234656d85b25.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 数据结构
+  time:
+    start: '2022'
+    end: '2023'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

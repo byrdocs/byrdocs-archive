@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: d6173b46b30e109b9e488fb9180edce7
+url: https://byrdocs.org/files/d6173b46b30e109b9e488fb9180edce7.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 计算机网络
+  time:
+    start: '2017'
+    end: '2017'
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

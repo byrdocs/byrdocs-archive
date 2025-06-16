@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 28ea68dd2a59368e9f60d2da0730f233
+url: https://byrdocs.org/files/28ea68dd2a59368e9f60d2da0730f233.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 概率论与随机过程
+  time:
+    start: '2019'
+    end: '2020'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题

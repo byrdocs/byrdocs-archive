@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: ea6ce30c1897865b63873970145e68e3
+url: https://byrdocs.org/files/ea6ce30c1897865b63873970145e68e3.zip
+type: doc
+data:
+  title: 李文生PPT
+  filetype: zip
+  course:
+  - type: 本科
+    name: 操作系统
+  content:
+  - 课件

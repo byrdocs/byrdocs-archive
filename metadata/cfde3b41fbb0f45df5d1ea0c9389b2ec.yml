@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: cfde3b41fbb0f45df5d1ea0c9389b2ec
+url: https://byrdocs.org/files/cfde3b41fbb0f45df5d1ea0c9389b2ec.pdf
+type: test
+data:
+  college:
+  - 计算机学院（国家示范性软件学院）
+  course:
+    type: 本科
+    name: 操作系统
+  time:
+    start: '2020'
+    end: '2021'
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

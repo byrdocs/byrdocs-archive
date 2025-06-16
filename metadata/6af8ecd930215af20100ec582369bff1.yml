@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 6af8ecd930215af20100ec582369bff1
+url: https://byrdocs.org/files/6af8ecd930215af20100ec582369bff1.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 编译原理与技术
+  time:
+    start: '2024'
+    end: '2024'
+    stage: 期中
+  filetype: pdf
+  content:
+  - 原题
+  - 答案

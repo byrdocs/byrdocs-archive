@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 0b5a41de18780b4cd700013c96a0983d
+url: https://byrdocs.org/files/0b5a41de18780b4cd700013c96a0983d.zip
+type: doc
+data:
+  title: 程序设计竞赛基础 课件
+  filetype: zip
+  course:
+  - type: 本科
+    name: 程序设计竞赛基础
+  content:
+  - 课件
