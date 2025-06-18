@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 0e339b6b2ea3d1d603a2575655ef7fbe
+url: https://byrdocs.org/files/0e339b6b2ea3d1d603a2575655ef7fbe.pdf
+type: test
+data:
+  college:
+  - 电子工程学院
+  course:
+    type: 本科
+    name: ASIC设计原理及应用
+  time:
+    start: '2015'
+    end: '2016'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+  - 原题
+  - 答案
