@@ -6,7 +6,7 @@ type: test
 data:
   course:
     type: 本科
-    name: Linux编程环境
+    name: Linux 编程环境
   time:
     start: '2016'
     end: '2017'
