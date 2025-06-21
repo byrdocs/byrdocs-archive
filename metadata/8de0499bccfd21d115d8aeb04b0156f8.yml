@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 8de0499bccfd21d115d8aeb04b0156f8
+url: https://byrdocs.org/files/8de0499bccfd21d115d8aeb04b0156f8.pdf
+type: book
+data:
+  title: 网络科学导论
+  authors:
+    - 汪小帆
+    - 李翔
+    - 陈关荣
+  edition: "1"
+  publisher: 高等教育出版社
+  publish_year: "2012"
+  isbn:
+    - 978-7-04-034494-3
+  filetype: pdf
