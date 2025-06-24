@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: c0ac1091389561671b1e671ecc5cedfa
+url: https://byrdocs.org/files/c0ac1091389561671b1e671ecc5cedfa.pdf
+type: doc
+data:
+  title: 电路分析基础课后答案
+  filetype: pdf
+  course:
+    - type: 本科
+      name: 电路分析基础
+  content:
+    - 答案
