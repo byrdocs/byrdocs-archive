@@ -1,18 +1,19 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
-id: 4f1323cba925db6422ae9b4b8a5f30d2
-url: https://byrdocs.org/files/4f1323cba925db6422ae9b4b8a5f30d2.pdf
+id: 05ce270c9bbae9d5ec2e9391bf4b6ab8
+url: https://byrdocs.org/files/05ce270c9bbae9d5ec2e9391bf4b6ab8.pdf
 type: test
 data:
   college:
-  - 人工智能学院
+    - 人工智能学院
   course:
     name: 形式语言与自动机
+    type: 本科
   time:
-    start: '2023'
-    end: '2024'
+    start: "2023"
+    end: "2024"
     semester: Second
     stage: 期中
   filetype: pdf
   content:
-  - 原题
+    - 原题
