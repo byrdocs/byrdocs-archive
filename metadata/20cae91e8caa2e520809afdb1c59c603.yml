@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 20cae91e8caa2e520809afdb1c59c603
+url: https://byrdocs.org/files/20cae91e8caa2e520809afdb1c59c603.pdf
+type: test
+data:
+  college:
+    - 国际学院
+  course:
+    name: 概率论与随机过程
+    type: 本科
+  time:
+    start: "2020"
+    end: "2021"
+  filetype: pdf
+  content:
+    - 原题
+    - 答案
