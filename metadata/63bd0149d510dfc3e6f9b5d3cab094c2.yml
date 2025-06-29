@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 63bd0149d510dfc3e6f9b5d3cab094c2
+url: https://byrdocs.org/files/63bd0149d510dfc3e6f9b5d3cab094c2.pdf
+type: doc
+data:
+  title: 领导力与组织管理知识点
+  filetype: pdf
+  course:
+    - name: 领导力与组织管理
+  content:
+    - 知识点
