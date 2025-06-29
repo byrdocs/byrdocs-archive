@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 6931a869174964929ba8726903086767
+url: https://byrdocs.org/files/6931a869174964929ba8726903086767.pdf
+type: book
+data:
+  title: "Nonlinear dynamics and chaos: with applications to physics, biology, chemistry, and engineering"
+  authors:
+    - Steven H. Strogatz
+  edition: "1"
+  publisher: Perseus Books Publishing, L.L.C.
+  publish_year: "1994"
+  isbn:
+    - 978-0-201-54344-5
+  filetype: pdf
