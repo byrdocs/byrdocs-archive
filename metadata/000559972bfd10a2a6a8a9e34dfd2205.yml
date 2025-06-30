@@ -6,11 +6,11 @@ type: book
 data:
   title: Б. П. 吉米多维奇高等数学习题精选精解
   authors:
-  - 张天德
-  - 蒋晓芸
-  edition: '1'
+    - 张天德
+    - 蒋晓芸1
+  edition: "2"
   publisher: 山东科学技术出版社
-  publish_year: '1991'
+  publish_year: "1992"
   isbn:
-  - 978-7-5331-4779-2
+    - 978-7-5331-4779-2
   filetype: pdf

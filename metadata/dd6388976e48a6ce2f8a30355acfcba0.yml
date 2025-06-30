@@ -1,19 +1,21 @@
-# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
 id: dd6388976e48a6ce2f8a30355acfcba0
-url: https://byrdocs.org/files/dd6388976e48a6ce2f8a30355acfcba0.pdf
-type: book
+url: https://byrdocs.org/files/dd6388976e48a6ce2f8a30355acfcba0.pdf?f=2
+type: test
 data:
-  title: 物联网基础与应用
-  authors:
-  - 彭木根
-  - 刘雅琼
-  - 刘晨熙
-  - 曹傧
-  - 刘喜庆
-  edition: '2'
-  publisher: 北京邮电大学出版社
-  publish_year: '2023'
-  isbn:
-  - 978-7-5635-6938-0
+  college:
+    - 电子工程学院
+    - 人工智能学院
+  course:
+    name: 概率论与数理统计
+    type: 本科
+  time:
+    start: "2022"
+    end: "2023"
+    semester: First
+    stage: 期末
   filetype: pdf
+  content:
+    - 答案
+    - 原题
