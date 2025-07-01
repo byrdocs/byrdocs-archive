@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: d46546a569f366a13acd50ac57d5e812
+url: https://byrdocs.org/files/d46546a569f366a13acd50ac57d5e812.pdf
+type: book
+data:
+  title: 信号的统计检测与估计理论
+  authors:
+  - 李道本
+  edition: '1'
+  publisher: 北京邮电大学出版社
+  publish_year: '1996'
+  isbn:
+  - 978-7-5635-0209-7
+  filetype: pdf
