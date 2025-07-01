@@ -16,7 +16,14 @@ env:
   R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
   R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
   R2_BUCKET: ${{ vars.R2_BUCKET }}
+  R2_REGION: ${{ secrets.R2_REGION }}
   FILELIST_URL: ${{ secrets.FILELIST_URL }}
+  REGION: ${{ secrets.REGION }}
+  BACKUP_URL: ${{ secrets.BACKUP_URL }}
+  BACKUP_ACCESS_KEY_ID: ${{ secrets.BACKUP_ACCESS_KEY_ID }}
+  BACKUP_SECRET_ACCESS_KEY: ${{ secrets.BACKUP_SECRET_ACCESS_KEY }}
+  BACKUP_BUCKET: ${{ vars.BACKUP_BUCKET }}
+  BACKUP_REGION: ${{ secrets.BACKUP_REGION }}
 
 jobs:
   update:
