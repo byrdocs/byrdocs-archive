@@ -7,11 +7,11 @@ data:
   course:
     name: 大学物理C
   time:
-    start: '2015'
-    end: '2016'
+    start: "2015"
+    end: "2015"
     semester: Second
     stage: 期末
   filetype: pdf
   content:
-  - 原题
-  - 答案
+    - 原题
+    - 答案
