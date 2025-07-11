@@ -1,41 +1,44 @@
 # 贡献指南
 
-欢迎你向本项目贡献文件！本文档将会介绍如何向 BYR Docs 添加文件。
+欢迎你向本项目贡献文件！本文档将会简要介绍如何为 BYR Docs 添加文件及修改信息。
 
-## 前提
+我们为你提供了 [BYR Docs Publish](https://publish.byrdocs.org)。这是一个简单易用的 BYR Docs 文件管理器，可以帮助你高效完成 BYR Docs 的信息编辑工作。
 
-首先，你需要确保你计划上传的文件符合本站的 [文件收录规则](docs/文件规则.md#文件收录规则)。
+## 准备工作
 
-## 添加新文件之步骤
+1. 首先你需要拥有一个 [GitHub](https://github.com) 账号；
+2. [Fork 本仓库](https://github.com/byrdocs/byrdocs-archive/fork)到自己的 GitHub 账号下；
+3. 通过 GitHub 账号[登录 BYR Docs Publish](https://publish.byrdocs.com/login)；
+4. 登录后[绑定你 Fork 的仓库](https://publish.byrdocs.org/bind)。
 
-首先你需要完成必要的配置。
+以上工作完成后，你将能在 BYR Docs Publish 首页的右上角看到自己的 GitHub 账户名和已绑定的仓库。如果该信息不正确，请对照 [https://publish.byrdocs.org/bind]() 进行检查。如果你确信这是网站错误造成的，欢迎你向我们报告错误。
 
-1. [fork 本仓库](https://github.com/byrdocs/byrdocs-archive/fork)。
+## 添加文件
 
-当确认配置工作完成后，你可以正常添加文件。
+首先，你需要确保你上传的文件符合本站的 [文件收录规则](docs/文件规则.md#文件收录规则)。
 
-1. 打开 [BYR Docs Publish](https://publish.github.com/)
-2. 选择文件类型，比如「试题 (Test)」。
-  <img src="assets/选择文件类型.png" alt="选择文件类型" width="600" />
-3. 选择本地文件并上传。<img src="assets/上传文件.png" alt="上传文件" width="600" />
-4. 填写有关试卷的详细信息。<img src="assets/填写详细信息.png" alt="填写详细信息" width="600" />
-5. 下载 yml 文件，并将其存入**你 fork 的仓库中的 metadata 目录下**。你可以在本地使用 git 进行管理，或者在 GitHub 网站中直接上传。<img src="assets/在GitHub网站中直接上传.png" alt="在 GitHub 网站中直接上传" width="600" />
-6. 向原仓库创建一个 pull request。等待维护者审核、合并。<img src="assets/创建pr.png" alt="创建 pull request" width="600" />
+在 BYR Docs Publish 首页中选择「添加文件」即可开始新文件上传工作。
+
+1. 根据[文件收录规则](docs/文件规则.md#文件收录规则)，选择文件类型；
+2. 选择本地文件并上传；
+3. 填写有关试卷的详细信息；
+4. 预览暂存，你可看到 yaml 格式的结果；
+5. 如果还有其它需要上传的文件，可以继续添加。
+6. 全部添加完毕后回到首页，能够看到你已经暂存的所有元信息，你可继续编辑和管理。一切就绪后，提交你的更改。
+7. 你的更改会在 [byrdocs/byrdocs-archive](https://github.com/byrdocs/byrdocs-archive) 中以 Pull Request 的形式提出，等待管理员处理。
 
 如果在 pull request 审核期间需要做新的更改，可以继续提交至你 fork 的仓库中，正在进行的 pull request 也会得到更新。
 
-### 文件已存在
+## 修改文件
 
-如果在上传文件时遇到「文件已存在」的问题：
+在 BYR Docs Publish 首页中选择「修改文件」即可开始文件编辑工作。每当你暂存编辑结果后，都可以在 [编辑文件列表](https://publish.byrdocs.org/edit) 中看到修改记录。文件编辑包括以下三种情况：
 
-<img src="assets/文件已存在.png" alt="文件已存在" width="600" />
+- **对元信息进行的编辑**，直接修改元信息即可；
+- **对文件进行的改动**，BYR Docs 不支持直接编辑文件，所以请在本地完成编辑，然后重新上传改动后的文件。该操作会删除原文件，并创建新文件，再将元信息迁移到新文件下，所以你将看到修改记录中出现一次「删除」和一次「新增」；
+- **删除一份文件**，会将该文件对应的元信息删除。
 
-说明该文件已存在于服务器中，已经由你或其它人上传。你可以直接使用该文件的 URL，如下图所示：
+你可以随时撤销某条更改，或在此基础上继续编辑。
 
-<img src="assets/使用URL.png" alt="使用该文件的 URL" width="600" />
+## 补充说明
 
-## 如需其它修改
-
-- **修改文件元信息**：直接修改对应的 yml 文件；
-- **删除文件**：直接删除对应的 yml 文件即可。
-- **修改文件内容**：修改文件内容会导致 md5sum 发生变化，因此必须删除原来的 yml 文件，并[添加新文件](#添加新文件之步骤)。
+- BYR Docs 为用户提供了丰富的快捷键，以便提高录入信息的效率。
