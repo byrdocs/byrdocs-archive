@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 95ae3182f4da8402e44e649cd6a63dd3
+url: https://byrdocs.org/files/95ae3182f4da8402e44e649cd6a63dd3.pdf
+type: book
+data:
+  title: 信号与系统 第二版
+  authors:
+    - Alan V. Oppenheim
+    - Alan S. Willsky
+    - S. Hamid Nawab
+  translators:
+    - 刘树棠
+  edition: "2"
+  publisher: 电子工业出版社
+  publish_year: "2013"
+  isbn:
+    - 978-7-121-19427-6
+  filetype: pdf

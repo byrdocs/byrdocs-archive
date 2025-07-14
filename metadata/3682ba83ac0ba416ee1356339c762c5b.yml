@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 3682ba83ac0ba416ee1356339c762c5b
+url: https://byrdocs.org/files/3682ba83ac0ba416ee1356339c762c5b.pdf
+type: book
+data:
+  title: 人工智能：现代方法
+  authors:
+    - Stuart Russell(斯图尔特·罗素)
+    - Peter Norvig(彼得·诺维格)
+  translators:
+    - 张博雅
+    - 陈坤
+    - 田超
+    - 顾卓尔
+    - 吴凡
+    - 赵申剑
+  edition: "4"
+  publisher: 人民邮电出版社
+  publish_year: "2023"
+  isbn:
+    - 978-7-115-59811-0
+  filetype: pdf
