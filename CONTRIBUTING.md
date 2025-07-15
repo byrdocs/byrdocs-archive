@@ -27,7 +27,7 @@
 6. 全部添加完毕后回到首页，能够看到你已经暂存的所有元信息，你可继续编辑和管理。一切就绪后，提交你的更改。
 7. 你的更改会在 [byrdocs/byrdocs-archive](https://github.com/byrdocs/byrdocs-archive) 中以 Pull Request 的形式提出，等待管理员处理。
 
-如果在 pull request 审核期间需要做新的更改，可以继续提交至你 fork 的仓库中，正在进行的 pull request 也会得到更新。
+我们暂时没有设计修改 pull request 的功能。如果在 pull request 审核期间需要做新的更改，请直接对 yaml 文件进行修改。如需更多信息，请参阅[关于元信息](docs/关于元信息.md)。
 
 ## 修改文件
 
