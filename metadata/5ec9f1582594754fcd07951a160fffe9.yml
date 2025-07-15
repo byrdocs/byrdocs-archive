@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 5ec9f1582594754fcd07951a160fffe9
+url: https://byrdocs.org/files/5ec9f1582594754fcd07951a160fffe9.pdf
+type: book
+data:
+  title: Electronic Devices and Circuit Theory
+  authors:
+    - Robert L. Boylestad(罗伯特·L. 博伊斯坦)
+    - Louis Nashelsky(路易斯·纳什斯凯)
+  edition: "11"
+  publisher: Pearson Education Limited
+  publish_year: "2013"
+  isbn:
+    - 978-1-292-02563-6
+  filetype: pdf
