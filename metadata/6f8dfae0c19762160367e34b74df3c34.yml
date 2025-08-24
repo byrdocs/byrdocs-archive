@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 6f8dfae0c19762160367e34b74df3c34
+url: https://byrdocs.org/files/6f8dfae0c19762160367e34b74df3c34.pdf
+type: test
+data:
+  college:
+    - 国际学院
+  course:
+    name: 大学物理
+    type: 本科
+  time:
+    start: "2013"
+    end: "2014"
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
