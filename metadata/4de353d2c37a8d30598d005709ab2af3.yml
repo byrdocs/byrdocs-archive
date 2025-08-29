@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 4de353d2c37a8d30598d005709ab2af3
+url: https://byrdocs.org/files/4de353d2c37a8d30598d005709ab2af3.pdf
+type: book
+data:
+  title: Data structures and algorithm analysis in C (数据结构与算算法：C语言描述 英文版 第二版）
+  authors:
+    - Mark Allen Weiss(马克·艾伦·维斯)
+  edition: "1"
+  publisher: 机械工业出版社
+  publish_year: "2010"
+  isbn:
+    - 978-7-111-31280-2
+  filetype: pdf
