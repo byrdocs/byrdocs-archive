@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: f9f980fbadf6bf28314843de20861654
+url: https://byrdocs.org/files/f9f980fbadf6bf28314843de20861654.pdf
+type: book
+data:
+  title: 微波技术基础
+  authors:
+    - 李秀萍
+  edition: "3"
+  publisher: 电子工业出版社
+  publish_year: "2023"
+  isbn:
+    - 978-7-121-46046-3
+  filetype: pdf
