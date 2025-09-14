@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 3633640eaf84ea463be5266a5754a697
+url: https://byrdocs.org/files/3633640eaf84ea463be5266a5754a697.pdf
+type: book
+data:
+  title: 高等数学（上）
+  authors:
+    - 寇彩霞
+    - 默会霞
+    - 袁健华
+    - 艾文宝
+  edition: "3"
+  publisher: 北京邮电大学出版社
+  publish_year: "2024"
+  isbn:
+    - 978-7-5635-7308-0
+  filetype: pdf
