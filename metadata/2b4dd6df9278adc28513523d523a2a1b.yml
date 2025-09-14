@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 2b4dd6df9278adc28513523d523a2a1b
+url: https://byrdocs.org/files/2b4dd6df9278adc28513523d523a2a1b.pdf
+type: book
+data:
+  title: 随机信号分析与处理
+  authors:
+    - 罗鹏飞
+    - 张文明
+    - 杨勇
+  edition: "4"
+  publisher: 清华大学出版社
+  publish_year: "2024"
+  isbn:
+    - 978-7-302-67669-0
+  filetype: pdf
