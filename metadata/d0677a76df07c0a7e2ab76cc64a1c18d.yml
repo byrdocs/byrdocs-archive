@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: d0677a76df07c0a7e2ab76cc64a1c18d
+url: https://byrdocs.org/files/d0677a76df07c0a7e2ab76cc64a1c18d.pdf
+type: book
+data:
+  title: Signals and Systems (信号与系统 英文版)
+  authors:
+    - Simon Haykin
+    - Barry Van Veen
+  edition: "1"
+  publisher: 电子工业出版社
+  publish_year: "2012"
+  isbn:
+    - 978-7-121-18594-6
+  filetype: pdf
