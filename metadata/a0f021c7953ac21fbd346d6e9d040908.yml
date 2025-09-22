@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: a0f021c7953ac21fbd346d6e9d040908
+url: https://byrdocs.org/files/a0f021c7953ac21fbd346d6e9d040908.pdf
+type: book
+data:
+  title: 新时代中国特色社会主义理论与实践（2024年版）
+  authors:
+    - 《新时代中国特色社会主义理论与实践（2024年版）》编写组
+  edition: "2"
+  publisher: 高等教育出版社
+  publish_year: "2024"
+  isbn:
+    - 978-7-04-062291-1
+  filetype: pdf
