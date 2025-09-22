@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 4e26178c72d45b626c2c9814f7dfa6b6
+url: https://byrdocs.org/files/4e26178c72d45b626c2c9814f7dfa6b6.pdf
+type: book
+data:
+  title: 信息通信导论
+  authors:
+    - 彭木根
+    - 郭彩丽
+    - 刘喜庆
+    - 孙咏梅
+    - 张冬梅
+  edition: "1"
+  publisher: 北京邮电大学出版社
+  publish_year: "2025"
+  isbn:
+    - 978-7-5635-7387-5
+  filetype: pdf
