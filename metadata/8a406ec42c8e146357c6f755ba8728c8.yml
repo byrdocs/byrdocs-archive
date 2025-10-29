@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 8a406ec42c8e146357c6f755ba8728c8
+url: https://byrdocs.org/files/8a406ec42c8e146357c6f755ba8728c8.pdf
+type: test
+data:
+  course:
+    name: 电路与电子学基础
+  time:
+    start: "2023"
+    end: "2024"
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
+    - 答案

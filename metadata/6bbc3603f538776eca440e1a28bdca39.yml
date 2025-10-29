@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 6bbc3603f538776eca440e1a28bdca39
+url: https://byrdocs.org/files/6bbc3603f538776eca440e1a28bdca39.pdf
+type: test
+data:
+  course:
+    name: 常微分方程
+  time:
+    start: "2024"
+    end: "2025"
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题

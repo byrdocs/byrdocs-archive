@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: bb0d7a94a62958e27cbe6d4e122ae9a3
+url: https://byrdocs.org/files/bb0d7a94a62958e27cbe6d4e122ae9a3.pdf
+type: test
+data:
+  course:
+    name: 系统辨识与建模
+  time:
+    start: "2024"
+    end: "2025"
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
