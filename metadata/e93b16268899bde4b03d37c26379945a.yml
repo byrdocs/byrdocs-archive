@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: e93b16268899bde4b03d37c26379945a
+url: https://byrdocs.org/files/e93b16268899bde4b03d37c26379945a.pdf
+type: book
+data:
+  title: 操作系统原理与实现：微课版
+  authors:
+    - 梁洪亮
+    - 李文生
+    - 徐梦炜
+  edition: "1"
+  publisher: 人民邮电出版社
+  publish_year: "2024"
+  isbn:
+    - 978-7-115-64911-9
+  filetype: pdf
