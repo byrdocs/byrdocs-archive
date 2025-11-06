@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: f7e2acfc76e0b0c6be8ca48ae7a20846
+url: https://byrdocs.org/files/f7e2acfc76e0b0c6be8ca48ae7a20846.pdf
+type: test
+data:
+  college:
+    - 未来学院
+  course:
+    name: 通信原理与实践
+    type: 本科
+  time:
+    start: "2024"
+    end: "2025"
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
