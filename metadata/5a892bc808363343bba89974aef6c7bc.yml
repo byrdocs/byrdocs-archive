@@ -8,8 +8,8 @@ data:
     type: 本科
     name: 通信原理I
   time:
-    start: 2025
-    end: 2026
+    start: '2025'
+    end: '2026'
     semester: First
     stage: 期中
   filetype: pdf
