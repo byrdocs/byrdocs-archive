@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 4d137e71a263e5fb4dc0d59fedfea2db
+url: https://byrdocs.org/files/4d137e71a263e5fb4dc0d59fedfea2db.pdf
+type: test
+data:
+  college:
+    - 未来学院
+  course:
+    name: 概率论与数理统计
+    type: 本科
+  time:
+    start: "2025"
+    end: "2026"
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+    - 原题
