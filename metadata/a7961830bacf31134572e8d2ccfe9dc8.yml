@@ -1,14 +1,13 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
-id: 6b543d39fc640100521cf1b23e5ed8f5
-url: https://byrdocs.org/files/6b543d39fc640100521cf1b23e5ed8f5.pdf
+id: a7961830bacf31134572e8d2ccfe9dc8
+url: https://byrdocs.org/files/a7961830bacf31134572e8d2ccfe9dc8.pdf
 type: test
 data:
   college:
-    - 电子工程学院
-    - 计算机学院（国家示范性软件学院）
+    - 经济管理学院
   course:
-    name: 数学分析（上）
+    name: 高等数学B（上）
     type: 本科
   time:
     start: "2025"
@@ -18,4 +17,3 @@ data:
   filetype: pdf
   content:
     - 原题
-    - 答案
