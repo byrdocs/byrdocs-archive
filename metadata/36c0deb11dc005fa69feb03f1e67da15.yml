@@ -4,6 +4,8 @@ id: 36c0deb11dc005fa69feb03f1e67da15
 url: https://byrdocs.org/files/36c0deb11dc005fa69feb03f1e67da15.pdf
 type: test
 data:
+  college:
+  - 信息与通信工程学院
   course:
     name: 数学分析（下）
   time:
