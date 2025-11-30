@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: e406ec901fd1d3d5b326f5e7d2619758
+url: https://byrdocs.org/files/e406ec901fd1d3d5b326f5e7d2619758.pdf
+type: test
+data:
+  course:
+    name: 智能科学数学基础
+    type: 本科
+  time:
+    start: "2022"
+    end: "2022"
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
