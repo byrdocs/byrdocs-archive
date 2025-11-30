@@ -8,7 +8,7 @@
 
 1. 首先你需要拥有一个 [GitHub](https://github.com) 账号；
 2. [Fork 本仓库](https://github.com/byrdocs/byrdocs-archive/fork)到自己的 GitHub 账号下；
-3. 通过 GitHub 账号[登录 BYR Docs Publish](https://publish.byrdocs.com/login)；
+3. 通过 GitHub 账号[登录 BYR Docs Publish](https://publish.byrdocs.org/login)；
 4. 登录后[绑定你 Fork 的仓库](https://publish.byrdocs.org/bind)。
 
 以上工作完成后，你将能在 BYR Docs Publish 首页的右上角看到自己的 GitHub 账户名和已绑定的仓库。如果该信息不正确，请对照 [https://publish.byrdocs.org/bind]() 进行检查。如果你确信这是网站错误造成的，欢迎你向我们报告错误。
