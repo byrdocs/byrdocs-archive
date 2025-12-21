@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: af3954f8a27425257b14c1326cc082a3
+url: https://byrdocs.org/files/af3954f8a27425257b14c1326cc082a3.pdf
+type: book
+data:
+  title: 软件工程与安全
+  authors:
+    - 芦效峰
+  edition: "1"
+  publisher: 北京邮电大学出版社
+  publish_year: "2021"
+  isbn:
+    - 978-7-5635-6435-4
+  filetype: pdf
