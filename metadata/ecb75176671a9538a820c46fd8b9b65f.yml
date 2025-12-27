@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: ecb75176671a9538a820c46fd8b9b65f
+url: https://byrdocs.org/files/ecb75176671a9538a820c46fd8b9b65f.pdf
+type: book
+data:
+  title: 模式识别与机器学习
+  authors:
+    - 徐蔚然
+  edition: "1"
+  publisher: 北京邮电大学出版社
+  publish_year: "2025"
+  isbn:
+    - 978-7-5635-7539-8
+  filetype: pdf
