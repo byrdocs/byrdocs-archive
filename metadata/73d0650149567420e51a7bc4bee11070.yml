@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 73d0650149567420e51a7bc4bee11070
+url: https://byrdocs.org/files/73d0650149567420e51a7bc4bee11070.pdf
+type: test
+data:
+  college:
+    - 人工智能学院
+  course:
+    name: 工程计算方法
+    type: 研究生
+  time:
+    start: "2025"
+    end: "2026"
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
