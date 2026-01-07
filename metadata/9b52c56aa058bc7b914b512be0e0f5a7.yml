@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 9b52c56aa058bc7b914b512be0e0f5a7
+url: https://byrdocs.org/files/9b52c56aa058bc7b914b512be0e0f5a7.pdf
+type: doc
+data:
+  title: 毛概大题整理
+  filetype: pdf
+  course:
+    - type: 本科
+      name: 毛泽东思想和中国特色社会主义理论体系概论
+  content:
+    - 题库
