@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: f7d94ac00193affc43d7f7b8933c0f51
+url: https://byrdocs.org/files/f7d94ac00193affc43d7f7b8933c0f51.pdf
+type: test
+data:
+  college:
+    - 信息与通信工程学院
+  course:
+    name: 随机信号分析与处理
+    type: 本科
+  time:
+    start: "2022"
+    end: "2023"
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
