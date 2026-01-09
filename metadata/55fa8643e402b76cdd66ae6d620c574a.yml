@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 55fa8643e402b76cdd66ae6d620c574a
+url: https://byrdocs.org/files/55fa8643e402b76cdd66ae6d620c574a.pdf
+type: test
+data:
+  college:
+  - 计算机学院（国家示范性软件学院）
+  course:
+    type: 研究生
+    name: 图论及其应用
+  time:
+    start: '2024'
+    end: '2025'
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content: 原题
