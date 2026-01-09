@@ -15,4 +15,6 @@ data:
     semester: First
     stage: 期末
   filetype: pdf
-  content: 原题
+  content: 
+  - 原题
+
