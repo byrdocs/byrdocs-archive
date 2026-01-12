@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 05b8c26847c082dde351ca13f648cc56
+url: https://byrdocs.org/files/05b8c26847c082dde351ca13f648cc56.pdf
+type: test
+data:
+  college:
+    - 国际学院
+  course:
+    name: 电磁场与电磁波
+    type: 本科
+  time:
+    start: "2019"
+    end: "2020"
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
