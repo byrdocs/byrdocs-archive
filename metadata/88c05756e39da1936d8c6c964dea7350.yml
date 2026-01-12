@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 88c05756e39da1936d8c6c964dea7350
+url: https://byrdocs.org/files/88c05756e39da1936d8c6c964dea7350.pdf
+type: test
+data:
+  college:
+    - 国际学院
+  course:
+    name: 高级变换
+    type: 本科
+  time:
+    start: "2024"
+    end: "2025"
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题

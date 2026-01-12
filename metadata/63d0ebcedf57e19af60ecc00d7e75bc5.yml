@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 63d0ebcedf57e19af60ecc00d7e75bc5
+url: https://byrdocs.org/files/63d0ebcedf57e19af60ecc00d7e75bc5.pdf
+type: test
+data:
+  college:
+    - 国际学院
+  course:
+    name: 机器学习
+    type: 本科
+  time:
+    start: "2023"
+    end: "2024"
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
+    - 答案
