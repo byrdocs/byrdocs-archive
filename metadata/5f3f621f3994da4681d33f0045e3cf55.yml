@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 5f3f621f3994da4681d33f0045e3cf55
+url: https://byrdocs.org/files/5f3f621f3994da4681d33f0045e3cf55.zip
+type: doc
+data:
+  title: 【公选课】公共关系学课件
+  filetype: zip
+  course:
+    - type: 本科
+      name: 公共关系学
+  content:
+    - 课件
