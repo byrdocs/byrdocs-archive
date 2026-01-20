@@ -3,10 +3,12 @@ properties:
   id:
     type: string
     description: 文件的 MD5 值
+    pattern: '^[0-9A-Za-z]{32}$'
   url:
     type: string
     format: uri
     description: 文件 URL
+    pattern: '^https://byrdocs\.org/files/[0-9A-Za-z]{32}\.(pdf|zip)$'
   type:
     type: string
     enum: [book]
