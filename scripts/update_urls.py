@@ -41,10 +41,10 @@ def update_origin_in_yaml_files(new_domain: str, metadata_dir: Path):
 
             if data and 'url' in data and data['url']:
                 original_url = data['url']
-                
-                # Parse the original URL and replace its network location (domain)
                 parsed_url = urlparse(original_url)
-                new_url_parts = parsed_url._replace(netloc=new_domain)
+                new_netloc = urlparse(new_domain).netloc
+                # Parse the original URL and replace its network location (domain)
+                new_url_parts = parsed_url._replace(netloc=new_netloc)
                 new_url = urlunparse(new_url_parts)
 
                 if original_url != new_url:
@@ -69,12 +69,6 @@ def main():
         'new_domain',
         type=str,
         help='The new domain to set in the "url" field (e.g., byrdocs.cpphusky.xyz).'
-    )
-    parser.add_argument(
-        '--dir',
-        type=str,
-        default='metadata',
-        help='The directory containing the YAML files (default: "metadata").'
     )
 
     args = parser.parse_args()
