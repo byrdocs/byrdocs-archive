@@ -11,7 +11,7 @@ from urllib.parse import urlparse, urlunparse
 from ruamel.yaml import YAML
 
 
-def update_origin_in_yaml_files(new_domain: str, metadata_dir: Path):
+def update_origin_in_metadata_files(new_domain: str, metadata_dir: Path):
     """
     Updates the domain of the 'url' field in all YAML files within a directory.
 
@@ -148,7 +148,7 @@ def main():
     metadata_dir = Path(args.metadata_dir)
     if metadata_dir.is_dir():
         print(f"Processing metadata files in '{metadata_dir}'...")
-        update_origin_in_yaml_files(args.new_domain, metadata_dir)
+        update_origin_in_metadata_files(urlparse(args.new_domain).netloc, metadata_dir)
     else:
         print(f"Info: Metadata directory '{metadata_dir}' not found, skipping.", file=sys.stdout)
 
@@ -156,7 +156,7 @@ def main():
     schema_dir = Path(args.schema_dir)
     if schema_dir.is_dir():
         print(f"Processing schema files in '{schema_dir}'...")
-        update_schema_url_patterns(args.new_domain, schema_dir)
+        update_schema_url_patterns(urlparse(args.new_domain).netloc, schema_dir)
     else:
         print(f"Info: Schema directory '{schema_dir}' not found, skipping.", file=sys.stdout)
 
