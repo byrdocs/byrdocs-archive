@@ -4,9 +4,6 @@ on:
   push:
     branches:
       - master
-    paths:
-      - schema/*.yaml
-      - schema/*.yml
 
 jobs:
   update:
@@ -16,7 +13,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - uses: dorny/paths-filter@v3
+        id: changes
+        with:
+          filters: |
+            schema:
+              - 'schema/*.yaml'
+              - 'schema/*.yml'
+
       - name: Upload schema
+        if: steps.changes.outputs.schema == 'true'
         uses: ryand56/r2-upload-action@latest
         with:
           r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
