@@ -1,4 +1,4 @@
-name: Check format
+name: Check PR format
 
 on:
   pull_request_target:
@@ -7,12 +7,20 @@ on:
       - master
 
 env:
-  R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
-  R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
-  R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-  R2_FILE_BUCKET: ${{ secrets.R2_FILE_BUCKET }}
+  BACKUP_ACCESS_KEY_ID: ${{ secrets.BACKUP_ACCESS_KEY_ID }}
+  BACKUP_ENDPOINT: ${{ secrets.BACKUP_ENDPOINT }}
+  BACKUP_FILE_BUCKET: ${{ secrets.BACKUP_FILE_BUCKET }}
+  BACKUP_SECRET_ACCESS_KEY: ${{ secrets.BACKUP_SECRET_ACCESS_KEY }}
+  BYRDOCS_CHECK_REPO_NAME: byrdocs-check
+  BYRDOCS_CHECK_REPO_OWNER: byrdocs
   BYRDOCS_SITE_URL: ${{ secrets.BYRDOCS_SITE_URL }}
   BYRDOCS_SITE_TOKEN: ${{ secrets.BYRDOCS_SITE_TOKEN }}
+  FILELIST_SITE_URL: ${{ secrets.FILELIST_SITE_URL }}
+  R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+  R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+  R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+  R2_DATA_BUCKET: ${{ secrets.R2_DATA_BUCKET }}
+  R2_FILE_BUCKET: ${{ secrets.R2_FILE_BUCKET }}
 
 jobs:
   check-format:
@@ -48,15 +56,15 @@ jobs:
         name: Get byrdocs-check release
         uses: pozetroninc/github-action-get-latest-release@master
         with:
-          owner: ${{ secrets.BYRDOCS_CHECK_REPO_OWNER }}
-          repo: ${{ secrets.BYRDOCS_CHECK_REPO_NAME }}
+          owner: ${{ env.BYRDOCS_CHECK_REPO_OWNER }}
+          repo: ${{ env.BYRDOCS_CHECK_REPO_NAME }}
 
       - name: Download release
         run: |
           wget https://github.com/bblanchon/pdfium-binaries/releases/download/${{ steps.pdfium.outputs.release }}/pdfium-linux-x64.tgz
           tar --overwrite -zxvf pdfium-linux-x64.tgz
-          wget https://github.com/${{ secrets.BYRDOCS_CHECK_REPO_OWNER }}/${{ secrets.BYRDOCS_CHECK_REPO_NAME }}/releases/download/${{ steps.check.outputs.release }}/upload-metadata -O upload-metadata
-          wget https://github.com/${{ secrets.BYRDOCS_CHECK_REPO_OWNER }}/${{ secrets.BYRDOCS_CHECK_REPO_NAME }}/releases/download/${{ steps.check.outputs.release }}/check-format -O check-format
+          wget https://github.com/$BYRDOCS_CHECK_REPO_OWNER/$BYRDOCS_CHECK_REPO_NAME/releases/download/${{ steps.check.outputs.release }}/upload-metadata -O upload-metadata
+          wget https://github.com/$BYRDOCS_CHECK_REPO_OWNER/$BYRDOCS_CHECK_REPO_NAME/releases/download/${{ steps.check.outputs.release }}/check-format -O check-format
           chmod 777 upload-metadata
           chmod 777 check-format
 
