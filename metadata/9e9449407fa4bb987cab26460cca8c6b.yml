@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 9e9449407fa4bb987cab26460cca8c6b
+url: https://byrdocs.org/files/9e9449407fa4bb987cab26460cca8c6b.pdf
+type: test
+data:
+  course:
+    name: 随机信号分析
+  time:
+    start: "2019"
+    end: "2020"
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
+    - 答案
