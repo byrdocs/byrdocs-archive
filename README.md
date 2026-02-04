@@ -2,6 +2,8 @@
 
 **BYR Docs** 系北京邮电大学（下称“北邮”）校内资料分享平台，旨在使校内学生更方便地获取与北邮课程有关的教育资源，包括电子书籍、考试题目和复习资料等。
 
+## 注意事项
+
 > [!WARNING]
 > **本项目仅面向北邮在校学生提供服务。** 如果您不是北邮在校学生，我们保留中止向您提供服务的权利。
 
@@ -32,3 +34,4 @@
 ## 许可协议
 
 [![CC BY-NC-SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
