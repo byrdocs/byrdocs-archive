@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: c8e8f9960aa2e223aeeba3a42efbaff5
+url: https://byrdocs.org/files/c8e8f9960aa2e223aeeba3a42efbaff5.pdf
+type: test
+data:
+  college:
+    - 计算机学院（国家示范性软件学院）
+  course:
+    name: 软件工程经济学
+    type: 本科
+  time:
+    start: "2025"
+    end: "2026"
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
