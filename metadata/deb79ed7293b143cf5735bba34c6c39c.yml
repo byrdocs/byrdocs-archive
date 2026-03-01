@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: deb79ed7293b143cf5735bba34c6c39c
+url: https://byrdocs.org/files/deb79ed7293b143cf5735bba34c6c39c.pdf
+type: test
+data:
+  college:
+    - 网络空间安全学院
+  course:
+    name: 大数据安全
+    type: 本科
+  time:
+    start: "2022"
+    end: "2023"
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题

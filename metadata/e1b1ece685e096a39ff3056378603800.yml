@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: e1b1ece685e096a39ff3056378603800
+url: https://byrdocs.org/files/e1b1ece685e096a39ff3056378603800.pdf
+type: test
+data:
+  college:
+    - 信息与通信工程学院
+    - 电子工程学院
+    - 计算机学院（国家示范性软件学院）
+    - 网络空间安全学院
+    - 人工智能学院
+    - 智能工程与自动化学院
+    - 集成电路学院
+    - 经济管理学院
+    - 未来学院
+    - 人文学院
+    - 数字媒体与设计艺术学院
+    - 数学科学学院
+    - 物理科学与技术学院
+  course:
+    name: 思想道德与法治
+    type: 本科
+  time:
+    start: "2025"
+    end: "2026"
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
