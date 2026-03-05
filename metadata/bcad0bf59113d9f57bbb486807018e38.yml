@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: bcad0bf59113d9f57bbb486807018e38
+url: https://byrdocs.org/files/bcad0bf59113d9f57bbb486807018e38.pdf
+type: test
+data:
+  college:
+    - 人工智能学院
+  course:
+    name: 大学物理C（下）
+    type: 本科
+  time:
+    start: "2025"
+    end: "2026"
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+    - 原题

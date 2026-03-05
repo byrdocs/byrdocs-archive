@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: f6bb2658961569c5c6528579bd0ec33b
+url: https://byrdocs.org/files/f6bb2658961569c5c6528579bd0ec33b.pdf
+type: test
+data:
+  college:
+    - 信息与通信工程学院
+  course:
+    name: 概率论与数理统计
+    type: 本科
+  time:
+    start: "2025"
+    end: "2026"
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题

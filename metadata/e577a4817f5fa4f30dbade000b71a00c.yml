@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: e577a4817f5fa4f30dbade000b71a00c
+url: https://byrdocs.org/files/e577a4817f5fa4f30dbade000b71a00c.pdf
+type: test
+data:
+  college:
+    - 人文学院
+  course:
+    name: 国际公法
+    type: 本科
+  time:
+    start: "2025"
+    end: "2026"
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
