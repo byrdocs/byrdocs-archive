@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: b8dae3181c178b09a8ad9309ca375dfc
+url: https://byrdocs.org/files/b8dae3181c178b09a8ad9309ca375dfc.pdf
+type: test
+data:
+  college:
+    - 电子工程学院
+    - 物理科学与技术学院
+  course:
+    name: 信号与系统
+    type: 本科
+  time:
+    start: "2025"
+    end: "2026"
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题

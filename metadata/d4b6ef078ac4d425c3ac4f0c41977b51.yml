@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: d4b6ef078ac4d425c3ac4f0c41977b51
+url: https://byrdocs.org/files/d4b6ef078ac4d425c3ac4f0c41977b51.pdf
+type: test
+data:
+  college:
+    - 电子工程学院
+    - 计算机学院（国家示范性软件学院）
+    - 网络空间安全学院
+    - 人工智能学院
+    - 智能工程与自动化学院
+    - 集成电路学院
+    - 国际学院
+    - 数学科学学院
+    - 物理科学与技术学院
+    - 数字媒体与设计艺术学院
+    - 未来学院
+  course:
+    name: 信息通信概论
+    type: 本科
+  time:
+    start: "2025"
+    end: "2026"
+    semester: First
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
