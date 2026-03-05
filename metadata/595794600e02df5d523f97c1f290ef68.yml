@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 595794600e02df5d523f97c1f290ef68
+url: https://byrdocs.org/files/595794600e02df5d523f97c1f290ef68.pdf
+type: book
+data:
+  title: 概率论与数理统计
+  authors:
+    - 黄煜可
+  edition: "1"
+  publisher: 清华大学出版社
+  publish_year: "2025"
+  isbn:
+    - 978-7-302-69975-0
+  filetype: pdf
