@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 3ed7efb292ca626df242d37f18d56c36
+url: https://byrdocs.org/files/3ed7efb292ca626df242d37f18d56c36.pdf
+type: book
+data:
+  title: 无线通信安全
+  authors:
+    - 李晖
+  edition: "1"
+  publisher: 北京邮电大学出版社
+  publish_year: "2018"
+  isbn:
+    - 978-7-5635-5500-0
+  filetype: pdf
