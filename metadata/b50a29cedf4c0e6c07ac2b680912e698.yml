@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: b50a29cedf4c0e6c07ac2b680912e698
+url: https://byrdocs.org/files/b50a29cedf4c0e6c07ac2b680912e698.zip
+type: doc
+data:
+  title: 研究生移动通信课件
+  filetype: zip
+  course:
+    - type: 研究生
+      name: 移动通信
+  content:
+    - 课件
