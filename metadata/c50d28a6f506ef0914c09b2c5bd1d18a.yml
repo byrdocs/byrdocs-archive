@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: c50d28a6f506ef0914c09b2c5bd1d18a
+url: https://byrdocs.org/files/c50d28a6f506ef0914c09b2c5bd1d18a.pdf
+type: book
+data:
+  title: 电路分析基础
+  authors:
+    - 俎云霄
+    - 李巍海
+    - 侯宾
+    - 张勇
+  edition: "4"
+  publisher: 电子工业出版社
+  publish_year: "2025"
+  isbn:
+    - 978-7-121-49109-2
+  filetype: pdf
