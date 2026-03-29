@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 1bde7635740584eb47dd0d201930535d
+url: https://byrdocs.org/files/1bde7635740584eb47dd0d201930535d.zip
+type: doc
+data:
+  title: 魏燕妮ppt-马克思主义基本原理
+  filetype: zip
+  course:
+    - type: 本科
+      name: 马克思主义基本原理
+  content:
+    - 课件
