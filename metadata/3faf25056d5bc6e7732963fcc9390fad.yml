@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 3faf25056d5bc6e7732963fcc9390fad
+url: https://byrdocs.org/files/3faf25056d5bc6e7732963fcc9390fad.zip
+type: doc
+data:
+  title: 马克思主义基本原理PPT-夏钊ver
+  filetype: zip
+  course:
+    - type: 本科
+      name: 马克思主义基本原理
+  content:
+    - 课件
