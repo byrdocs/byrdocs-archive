@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: b58930d99693760294a36b7de095360b
+url: https://byrdocs.org/files/b58930d99693760294a36b7de095360b.pdf
+type: test
+data:
+  college:
+    - 信息与通信工程学院
+  course:
+    name: 多媒体系统建模与仿真
+    type: 本科
+  time:
+    start: "2023"
+    end: "2024"
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
