@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: f6678f522f26ce976989f8ecddd9c2f3
+url: https://byrdocs.org/files/f6678f522f26ce976989f8ecddd9c2f3.pdf
+type: book
+data:
+  title: "基础神经科学教程  第2版  "
+  authors:
+    - "薛一雪 "
+  edition: "2"
+  publisher: 北京-科学出版社
+  publish_year: "2018"
+  isbn:
+    - 978-7-03-058794-7
+  filetype: pdf
