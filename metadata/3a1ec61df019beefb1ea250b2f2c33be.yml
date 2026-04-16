@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 3a1ec61df019beefb1ea250b2f2c33be
+url: https://byrdocs.org/files/3a1ec61df019beefb1ea250b2f2c33be.pdf
+type: test
+data:
+  course:
+    name: 大学物理C
+    type: 本科
+  time:
+    start: "2020"
+    end: "2021"
+    semester: Second
+    stage: 期中
+  filetype: pdf
+  content:
+    - 原题
+    - 答案

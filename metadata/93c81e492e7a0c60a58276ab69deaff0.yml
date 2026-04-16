@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 93c81e492e7a0c60a58276ab69deaff0
+url: https://byrdocs.org/files/93c81e492e7a0c60a58276ab69deaff0.pdf
+type: test
+data:
+  course:
+    name: 大学物理C
+    type: 本科
+  time:
+    start: "2015"
+    end: "2016"
+    semester: Second
+    stage: 期中
+  filetype: pdf
+  content:
+    - 原题
+    - 答案
