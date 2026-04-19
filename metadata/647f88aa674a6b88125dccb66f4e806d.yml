@@ -7,11 +7,11 @@ data:
   course:
     name: 高等数学A（下）
   time:
-    start: '2023'
-    end: '2024'
+    start: "2023"
+    end: "2024"
     semester: Second
-    stage: 期中
+    stage: 期末
   filetype: pdf
   content:
-  - 原题
-  - 答案
+    - 原题
+    - 答案
