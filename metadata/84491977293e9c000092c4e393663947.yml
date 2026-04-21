@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 84491977293e9c000092c4e393663947
+url: https://byrdocs.org/files/84491977293e9c000092c4e393663947.pdf
+type: book
+data:
+  title: 计算机操作系统习题与考研真题解析
+  authors:
+    - 姜华
+    - 赵阳
+    - 王艳秋
+  publisher: 人民邮电出版社
+  isbn:
+    - 978-7-115-56347-7
+  filetype: pdf
