@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 28404cf257efac382142b074f8c6192a
+url: https://byrdocs.org/files/28404cf257efac382142b074f8c6192a.pdf
+type: book
+data:
+  title: Python编程：从入门到实践（第3版）
+  authors:
+    - "[美]埃里克·马瑟斯(Eric Matthes)"
+  translators:
+    - 袁国忠
+  edition: "3"
+  publisher: 人民邮电出版社
+  publish_year: "2023"
+  isbn:
+    - 978-7-115-61363-9
+  filetype: pdf
