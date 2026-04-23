@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: e0b88ab538dcd3180ba892247baf7760
+url: https://byrdocs.org/files/e0b88ab538dcd3180ba892247baf7760.pdf
+type: book
+data:
+  title: Python编程快速上手——让繁琐工作自动化（第二版）
+  authors:
+    - "[美]阿尔·斯维加特(AI Sweigart)"
+  translators:
+    - 王海鹏
+  edition: "2"
+  publisher: 人民邮电出版社
+  publish_year: "2021"
+  isbn:
+    - 978-7-115-55187-0
+  filetype: pdf
