@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 8f53d27f673902effc9214679c2890c2
+url: https://byrdocs.org/files/8f53d27f673902effc9214679c2890c2.pdf
+type: test
+data:
+  college:
+    - 计算机学院（国家示范性软件学院）
+    - 网络空间安全学院
+    - 智能工程与自动化学院
+  course:
+    name: 大学物理D（上）
+    type: 本科
+  time:
+    start: "2025"
+    end: "2026"
+    semester: Second
+    stage: 期中
+  filetype: pdf
+  content:
+    - 原题
+    - 答案
