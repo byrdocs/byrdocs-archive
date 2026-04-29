@@ -8,7 +8,7 @@ data:
     - 信息与通信工程学院
     - 未来学院
   course:
-    name: 数学分析（下）
+    name: 工科数学分析（下）
     type: 本科
   time:
     start: "2025"
