@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 1b24f467f8aec8ce5dfa02cb8dabc898
+url: https://byrdocs.org/files/1b24f467f8aec8ce5dfa02cb8dabc898.pdf
+type: test
+data:
+  college:
+    - 人工智能学院
+  course:
+    name: 离散数学
+    type: 本科
+  time:
+    start: "2023"
+    end: "2024"
+    semester: Second
+    stage: 期中
+  filetype: pdf
+  content:
+    - 答案
+    - 原题
