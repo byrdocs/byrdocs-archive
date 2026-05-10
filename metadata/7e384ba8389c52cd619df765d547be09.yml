@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 7e384ba8389c52cd619df765d547be09
+url: https://byrdocs.org/files/7e384ba8389c52cd619df765d547be09.pdf
+type: book
+data:
+  title: 物理光学（第五版）
+  authors:
+    - 梁铨廷
+  edition: "5"
+  publisher: 电子工业出版社
+  publish_year: "2018"
+  isbn:
+    - 978-7-121-20441-8
+  filetype: pdf
