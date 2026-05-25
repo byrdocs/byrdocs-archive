@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: f7e4edf0218fb6a95b9ceeaf1a742267
+url: https://byrdocs.org/files/f7e4edf0218fb6a95b9ceeaf1a742267.pdf
+type: test
+data:
+  college:
+    - 计算机学院（国家示范性软件学院）
+  course:
+    name: 电路与电子学基础
+    type: 本科
+  time:
+    start: "2021"
+    end: "2022"
+    semester: Second
+    stage: 期中
+  filetype: pdf
+  content:
+    - 原题
+    - 答案
