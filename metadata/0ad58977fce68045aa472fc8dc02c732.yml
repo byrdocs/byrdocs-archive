@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 0ad58977fce68045aa472fc8dc02c732
+url: https://byrdocs.org/files/0ad58977fce68045aa472fc8dc02c732.pdf
+type: test
+data:
+  college:
+    - 电子工程学院
+    - 计算机学院（国家示范性软件学院）
+    - 数字媒体与设计艺术学院
+    - 网络空间安全学院
+    - 自动化学院
+  course:
+    name: 高等数学A（下）
+  time:
+    start: "2023"
+    end: "2024"
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
