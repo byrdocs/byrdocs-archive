@@ -1,0 +1,20 @@
+name: Deploy wiki site
+
+on:
+  workflow_run:
+    workflows:
+      - Upload metadata
+    types:
+      - completed
+    branches:
+      - master
+
+jobs:
+  deploy:
+    name: Trigger Cloudflare Pages deploy
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+
+    steps:
+      - name: Trigger deploy hook
+        run: curl --fail --request POST "${{ secrets.WIKI_SITE_DEPLOY_HOOK }}"
