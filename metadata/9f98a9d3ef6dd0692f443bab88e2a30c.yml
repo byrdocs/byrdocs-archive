@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 9f98a9d3ef6dd0692f443bab88e2a30c
+url: https://byrdocs.org/files/9f98a9d3ef6dd0692f443bab88e2a30c.pdf
+type: book
+data:
+  title: 半导体物理学（第八版）
+  authors:
+    - 刘恩科
+    - 朱秉升
+    - 罗普⽣
+  edition: 2023年 5⽉ 第8版
+  publisher: 电⼦⼯业出版社
+  publish_year: "2023"
+  isbn:
+    - 978-7-121-45414-1
+  filetype: pdf
