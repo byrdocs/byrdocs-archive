@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 7bef67f3ee6e72811b72c889b85a528a
+url: https://byrdocs.org/files/7bef67f3ee6e72811b72c889b85a528a.pdf
+type: book
+data:
+  title: 精密机械设计基础
+  authors:
+    - 裘祖荣
+  edition: "2"
+  publisher: 机械工业出版社
+  isbn:
+    - 978-7-111-55189-8
+  filetype: pdf
