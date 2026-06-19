@@ -1,17 +1,17 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
 
-id: ffda74da2cc11a76c32b580b47daebb5
-url: https://byrdocs.org/files/ffda74da2cc11a76c32b580b47daebb5.pdf
+id: 96f26474d18386ae31b93da59bf91792
+url: https://byrdocs.org/files/96f26474d18386ae31b93da59bf91792.pdf
 type: test
 data:
   course:
     name: 大学物理E（上）
+    type: 本科
   time:
-    start: '2022'
-    end: '2023'
+    start: "2022"
+    end: "2023"
     semester: Second
     stage: 期末
   filetype: pdf
   content:
-  - 原题
-  - 答案
+    - 原题
