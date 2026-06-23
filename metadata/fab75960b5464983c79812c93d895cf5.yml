@@ -6,6 +6,7 @@ type: test
 data:
   college:
     - 信息与通信工程学院
+    - 未来学院
   course:
     name: 通信原理
     type: 本科
