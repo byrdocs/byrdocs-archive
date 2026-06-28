@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 0d6939e1177cab3a00ed65739727b7f0
+url: https://byrdocs.org/files/0d6939e1177cab3a00ed65739727b7f0.pdf
+type: book
+data:
+  title: 新标准大学英语4 第三版 综合教程 智慧版
+  authors:
+    - 文秋芳
+  publisher: 外语教学与研究出版社
+  publish_year: "2023"
+  isbn:
+    - 978-7-89529-252-9
+  filetype: pdf
