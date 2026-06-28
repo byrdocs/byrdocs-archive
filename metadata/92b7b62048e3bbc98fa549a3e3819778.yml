@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 92b7b62048e3bbc98fa549a3e3819778
+url: https://byrdocs.org/files/92b7b62048e3bbc98fa549a3e3819778.pdf
+type: test
+data:
+  college:
+    - 电子工程学院
+    - 人工智能学院
+  course:
+    name: 大学物理E（上）
+    type: 本科
+  time:
+    start: "2023"
+    end: "2024"
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
