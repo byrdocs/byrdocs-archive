@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
 
-id: 978c539a2fcd228458118a0c07d59b85
-url: https://byrdocs.org/files/978c539a2fcd228458118a0c07d59b85.pdf
+id: 9e67e5dd31d040371d7ce901d2d985e6
+url: https://byrdocs.org/files/9e67e5dd31d040371d7ce901d2d985e6.pdf
 type: doc
 data:
   title: 蜂考速成课《数字电子技术》
   filetype: pdf
   course:
-  - name: 数字电路与逻辑系统
+    - name: 数字电路与逻辑系统
   content:
-  - 知识点
+    - 知识点
