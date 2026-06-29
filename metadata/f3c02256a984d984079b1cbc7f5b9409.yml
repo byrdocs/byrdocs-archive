@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: f3c02256a984d984079b1cbc7f5b9409
+url: https://byrdocs.org/files/f3c02256a984d984079b1cbc7f5b9409.pdf
+type: test
+data:
+  college:
+    - 信息与通信工程学院
+  course:
+    name: 数学分析（下）
+    type: 本科
+  time:
+    start: "2023"
+    end: "2024"
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
+    - 答案
