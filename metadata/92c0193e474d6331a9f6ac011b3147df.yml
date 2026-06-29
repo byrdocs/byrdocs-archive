@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
 
-id: 3e5a331e25c57384ee12fdaca11823e5
-url: https://byrdocs.org/files/3e5a331e25c57384ee12fdaca11823e5.pdf
+id: 92c0193e474d6331a9f6ac011b3147df
+url: https://byrdocs.org/files/92c0193e474d6331a9f6ac011b3147df.pdf
 type: doc
 data:
   title: 数字信号处理答案 科学社第2版
   filetype: pdf
   course:
-  - name: 数字信号处理
+    - name: 数字信号处理
   content:
-  - 答案
+    - 答案

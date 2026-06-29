@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
 
-id: 0823214f3279b5c35e8d7e2ee6257bf2
-url: https://byrdocs.org/files/0823214f3279b5c35e8d7e2ee6257bf2.pdf
+id: ea3bc11698726163b6f77e4045b893e7
+url: https://byrdocs.org/files/ea3bc11698726163b6f77e4045b893e7.pdf
 type: doc
 data:
   title: 计算机组成原理 第五版（白中英）习题答案
   filetype: pdf
   course:
-  - type: 本科
-    name: 计算机组成原理
+    - type: 本科
+      name: 计算机组成原理
   content:
-  - 答案
+    - 答案

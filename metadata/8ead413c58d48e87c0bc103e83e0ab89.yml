@@ -1,14 +1,14 @@
 # yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
 
-id: 86eec2bc96415c1254211ca8bf6b216b
-url: https://byrdocs.org/files/86eec2bc96415c1254211ca8bf6b216b.pdf
+id: 8ead413c58d48e87c0bc103e83e0ab89
+url: https://byrdocs.org/files/8ead413c58d48e87c0bc103e83e0ab89.pdf
 type: book
 data:
   title: " 数据结构与算法分析一C语言描述（原书第2版）（典藏版）"
   authors:
     - Mark Allen Weiss(马克·艾伦·维斯)
   translators:
-    - "冯舜玺"
+    - 冯舜玺
   edition: "1"
   publisher: 机械工业出版社
   publish_year: "2019"

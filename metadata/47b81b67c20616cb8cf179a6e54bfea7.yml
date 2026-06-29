@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 47b81b67c20616cb8cf179a6e54bfea7
+url: https://byrdocs.org/files/47b81b67c20616cb8cf179a6e54bfea7.pdf
+type: book
+data:
+  title: 离散数学
+  authors:
+    - 耿素云
+    - 屈婉玲
+    - 张立昂
+  edition: "5"
+  publisher: 清华大学出版社
+  publish_year: "2013"
+  isbn:
+    - 978-7-302-32507-9
+  filetype: pdf
