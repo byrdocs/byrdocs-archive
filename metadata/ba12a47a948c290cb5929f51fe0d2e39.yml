@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: ba12a47a948c290cb5929f51fe0d2e39
+url: https://byrdocs.org/files/ba12a47a948c290cb5929f51fe0d2e39.pdf
+type: test
+data:
+  college:
+    - 未来学院
+  course:
+    name: 数学分析（下）
+    type: 本科
+  time:
+    start: "2023"
+    end: "2024"
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
+    - 答案
