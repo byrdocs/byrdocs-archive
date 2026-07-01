@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: fafa254edd70051d8611aa5e81364a27
+url: https://byrdocs.org/files/fafa254edd70051d8611aa5e81364a27.pdf
+type: test
+data:
+  college:
+    - 计算机学院（国家示范性软件学院）
+  course:
+    name: 现代交换原理
+    type: 本科
+  time:
+    start: "2025"
+    end: "2026"
+    semester: Second
+    stage: 期中
+  filetype: pdf
+  content:
+    - 答案
+    - 原题
