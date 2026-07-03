@@ -12,7 +12,7 @@ data:
   time:
     start: "2024"
     end: "2025"
-    semester: First
+    semester: Second
     stage: 期末
   filetype: pdf
   content:
