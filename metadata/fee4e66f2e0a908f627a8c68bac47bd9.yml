@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: fee4e66f2e0a908f627a8c68bac47bd9
+url: https://byrdocs.org/files/fee4e66f2e0a908f627a8c68bac47bd9.pdf
+type: test
+data:
+  course:
+    name: 数学分析（下）
+    type: 本科
+  time:
+    start: "2023"
+    end: "2024"
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
