@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 015d09b2259558e0e8a93aea8e5206e1
+url: https://byrdocs.org/files/015d09b2259558e0e8a93aea8e5206e1.pdf
+type: test
+data:
+  college:
+    - 信息与通信工程学院
+  course:
+    name: 移动通信
+    type: 本科
+  time:
+    start: "2022"
+    end: "2023"
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
+    - 答案
