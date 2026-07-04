@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: de0dc78ccba45fbd783ea9ec0b370cea
+url: https://byrdocs.org/files/de0dc78ccba45fbd783ea9ec0b370cea.pdf
+type: test
+data:
+  college:
+    - 计算机学院（国家示范性软件学院）
+  course:
+    name: 高等数学（下）
+    type: 本科
+  time:
+    start: "2023"
+    end: "2024"
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
