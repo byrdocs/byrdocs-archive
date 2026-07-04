@@ -1,0 +1,17 @@
+type: test
+id: 13561302886f3d6dfd6125179cb9ceaa
+url: https://byrdocs.org/files/13561302886f3d6dfd6125179cb9ceaa.pdf
+data:
+  college:
+    - "国际学院"
+  filetype: pdf
+  course:
+    type: "本科"
+    name: "交互式媒体设计"
+  time:
+    start: "2022"
+    end: "2023"
+    semester: "Second"
+  content:
+    - "原题"
+    - "答案"
