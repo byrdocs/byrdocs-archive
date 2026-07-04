@@ -2,7 +2,6 @@ type: test
 id: 9531e5a2f7112eed28dc749c5002442c
 url: https://byrdocs.org/files/9531e5a2f7112eed28dc749c5002442c.pdf
 data:
-  title: 2024-2025 第二学期 交互式媒体设计 期末试卷（A卷）
   college:
     - 国际学院
   course:
@@ -17,4 +16,3 @@ data:
   content:
     - 原题
     - 答案
-  filesize: 1260306
