@@ -1,0 +1,18 @@
+type: test
+id: 9531e5a2f7112eed28dc749c5002442c
+url: https://byrdocs.org/files/9531e5a2f7112eed28dc749c5002442c.pdf
+data:
+  college:
+    - 国际学院
+  course:
+    type: 本科
+    name: 交互式媒体设计
+  time:
+    start: "2024"
+    end: "2025"
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
+    - 答案
