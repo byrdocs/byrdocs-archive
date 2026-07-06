@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 4d7930a3a9d79932a946341b0e4ee38f
+url: https://byrdocs.org/files/4d7930a3a9d79932a946341b0e4ee38f.pdf
+type: test
+data:
+  college:
+    - 智能工程与自动化学院
+  course:
+    name: 现代工程设计表达方法学
+    type: 本科
+  time:
+    start: "2024"
+    end: "2025"
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
