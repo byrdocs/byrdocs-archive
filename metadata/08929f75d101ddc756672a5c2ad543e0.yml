@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 08929f75d101ddc756672a5c2ad543e0
+url: https://byrdocs.org/files/08929f75d101ddc756672a5c2ad543e0.pdf
+type: doc
+data:
+  title: 《中国近现代史纲要》部分课后习题
+  filetype: pdf
+  course:
+    - type: 本科
+      name: 中国近现代史纲要
+  content:
+    - 题库
