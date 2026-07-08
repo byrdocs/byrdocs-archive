@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: e03cc1123eb2e438e552d3a597dd74f0
+url: https://byrdocs.org/files/e03cc1123eb2e438e552d3a597dd74f0.pdf
+type: test
+data:
+  college:
+    - 电子工程学院
+  course:
+    name: 电路分析基础
+    type: 本科
+  time:
+    start: "2020"
+    end: "2021"
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
