@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 0474a309b9192b5c165a0038714b7671
+url: https://byrdocs.org/files/0474a309b9192b5c165a0038714b7671.pdf
+type: doc
+data:
+  title: 现代交换原理往年题汇编
+  filetype: pdf
+  course:
+    - type: 本科
+      name: 现代交换原理
+  content:
+    - 题库
+    - 答案
