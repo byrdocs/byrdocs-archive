@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/doc.yaml
+
+id: 93f553427a44d1ea496350736205cd16
+url: https://byrdocs.org/files/93f553427a44d1ea496350736205cd16.pdf
+type: doc
+data:
+  title: 现代交换原理总复习
+  filetype: pdf
+  course:
+    - type: 本科
+      name: 现代交换原理
+  content:
+    - 题库
+    - 答案
+    - 知识点
