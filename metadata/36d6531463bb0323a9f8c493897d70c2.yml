@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 36d6531463bb0323a9f8c493897d70c2
+url: https://byrdocs.org/files/36d6531463bb0323a9f8c493897d70c2.pdf
+type: test
+data:
+  college:
+    - 信息与通信工程学院
+  course:
+    name: 信息论基础
+    type: 本科
+  time:
+    start: "2018"
+    end: "2019"
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
