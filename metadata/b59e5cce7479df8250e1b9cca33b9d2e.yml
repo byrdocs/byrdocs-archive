@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: b59e5cce7479df8250e1b9cca33b9d2e
+url: https://byrdocs.org/files/b59e5cce7479df8250e1b9cca33b9d2e.pdf
+type: book
+data:
+  title: Guide to Research Techniques in Neuroscience
+  authors:
+  - Matt Carter
+  - Jennifer C. Shieh
+  filetype: pdf
+  isbn:
+  - '9780123748492'
+  publisher: Academic Press (Elsevier)
+  publish_year: '2010'
