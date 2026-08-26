@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: e68019cb9777f46bd9d1d2bc08c161f9
+url: https://byrdocs.org/files/e68019cb9777f46bd9d1d2bc08c161f9.pdf
+type: book
+data:
+  title: 计算机视觉：模型、学习和推理
+  authors:
+  - Simon J. D. Prince
+  filetype: pdf
+  isbn:
+  - '9787111516828'
+  publisher: 机械工业出版社
+  publish_year: '2016'
