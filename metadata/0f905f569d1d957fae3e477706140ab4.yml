@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 0f905f569d1d957fae3e477706140ab4
+url: https://byrdocs.org/files/0f905f569d1d957fae3e477706140ab4.pdf
+type: book
+data:
+  title: C++大学教程（第二版）
+  authors:
+  - Harvey M. Deitel
+  - Paul James Deitel
+  filetype: pdf
+  isbn:
+  - '9787505367272'
+  translators:
+  - 邱仲潘
+  edition: 第二版
+  publisher: 电子工业出版社
+  publish_year: '2001'
