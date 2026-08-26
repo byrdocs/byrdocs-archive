@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: c2d142440320a8dae3a5fc8b51862a6b
+url: https://byrdocs.org/files/c2d142440320a8dae3a5fc8b51862a6b.pdf
+type: book
+data:
+  title: 通信原理
+  authors:
+  - 周炯槃
+  - 庞沁华
+  - 续大我
+  - 吴伟陵
+  - 杨鸿文
+  filetype: pdf
+  isbn:
+  - '9787563518135'
+  edition: 第3版
+  publisher: 北京邮电大学出版社
+  publish_year: '2008'
