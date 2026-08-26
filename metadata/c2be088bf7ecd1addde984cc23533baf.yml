@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: c2be088bf7ecd1addde984cc23533baf
+url: https://byrdocs.org/files/c2be088bf7ecd1addde984cc23533baf.pdf
+type: book
+data:
+  title: 神经科学基础（第3版）
+  authors:
+  - 李云庆
+  filetype: pdf
+  isbn:
+  - '9787040650747'
+  edition: 第3版
+  publisher: 高等教育出版社
+  publish_year: '2025'
