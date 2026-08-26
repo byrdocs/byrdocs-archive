@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 1dbeb4174913e4a5b4b327db98052e1d
+url: https://byrdocs.org/files/1dbeb4174913e4a5b4b327db98052e1d.pdf
+type: book
+data:
+  title: 电子技术基础 模拟部分（第七版）
+  authors:
+  - 康华光
+  - 张林
+  filetype: pdf
+  isbn:
+  - '9787040554199'
+  edition: 第7版
+  publisher: 高等教育出版社
+  publish_year: '2021'
