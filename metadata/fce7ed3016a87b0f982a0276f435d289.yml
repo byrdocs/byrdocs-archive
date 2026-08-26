@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: fce7ed3016a87b0f982a0276f435d289
+url: https://byrdocs.org/files/fce7ed3016a87b0f982a0276f435d289.pdf
+type: book
+data:
+  title: 动手学深度学习（PyTorch版）
+  authors:
+  - Aston Zhang
+  - Mu Li
+  - Zachary C. Lipton
+  - Alexander J. Smola
+  filetype: pdf
+  isbn:
+  - '9787115592620'
+  publisher: 人民邮电出版社
+  publish_year: '2021'
