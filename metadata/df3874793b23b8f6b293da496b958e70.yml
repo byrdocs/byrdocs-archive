@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: df3874793b23b8f6b293da496b958e70
+url: https://byrdocs.org/files/df3874793b23b8f6b293da496b958e70.pdf
+type: book
+data:
+  title: 计算机视觉——一种现代方法（第2版）
+  authors:
+  - David A. Forsyth
+  - Jean Ponce
+  filetype: pdf
+  isbn:
+  - '9787121276170'
+  translators:
+  - 高永强
+  edition: 第2版
+  publisher: 电子工业出版社
+  publish_year: '2012'
