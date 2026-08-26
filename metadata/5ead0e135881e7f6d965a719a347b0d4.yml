@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 5ead0e135881e7f6d965a719a347b0d4
+url: https://byrdocs.org/files/5ead0e135881e7f6d965a719a347b0d4.pdf
+type: book
+data:
+  title: 移动互联网
+  authors:
+  - 张鸿涛
+  filetype: pdf
+  isbn:
+  - '9787563555963'
+  publisher: 北京邮电大学出版社
+  publish_year: '2018'
