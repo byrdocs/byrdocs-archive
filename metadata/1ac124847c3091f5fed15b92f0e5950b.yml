@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 1ac124847c3091f5fed15b92f0e5950b
+url: https://byrdocs.org/files/1ac124847c3091f5fed15b92f0e5950b.pdf
+type: book
+data:
+  title: 系统解剖学（第4版）
+  authors:
+  - 张卫光
+  - 张雅芳
+  - 武艳
+  filetype: pdf
+  isbn:
+  - '9787565918025'
+  edition: 第4版
+  publisher: 北京大学医学出版社
+  publish_year: '2018'
