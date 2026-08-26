@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: dac41b16a83515231132db8f6195aa76
+url: https://byrdocs.org/files/dac41b16a83515231132db8f6195aa76.pdf
+type: book
+data:
+  title: Python编程：从入门到实践（第2版）
+  authors:
+  - Eric Matthes
+  filetype: pdf
+  isbn:
+  - '9787115546081'
+  translators:
+  - 袁国忠
+  edition: 第2版
+  publisher: 人民邮电出版社
+  publish_year: '2020'
