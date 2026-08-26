@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 0a928e9ab75e6585aa3e929e53836f78
+url: https://byrdocs.org/files/0a928e9ab75e6585aa3e929e53836f78.pdf
+type: book
+data:
+  title: 西方经济学（微观部分·第八版）
+  authors:
+  - 高鸿业
+  filetype: pdf
+  isbn:
+  - '9787300294995'
+  edition: 第八版
+  publisher: 中国人民大学出版社
+  publish_year: '2021'
