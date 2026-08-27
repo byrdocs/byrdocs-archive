@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 2b1b5b190ed57d636070873a6f609253
+url: https://byrdocs.org/files/2b1b5b190ed57d636070873a6f609253.pdf
+type: book
+data:
+  title: 最优化理论与方法
+  authors:
+  - 袁亚湘
+  - 孙文瑜
+  filetype: pdf
+  isbn:
+  - '9787030054135'
+  publisher: 科学出版社
+  publish_year: '1997'
