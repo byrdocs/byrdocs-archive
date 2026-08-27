@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 738cb3496cfeec30bfc667b812d71c94
+url: https://byrdocs.org/files/738cb3496cfeec30bfc667b812d71c94.pdf
+type: book
+data:
+  title: 统计自然语言处理（第2版）
+  authors:
+  - 宗成庆
+  filetype: pdf
+  isbn:
+  - '9787302319115'
+  edition: 第2版
+  publisher: 清华大学出版社
+  publish_year: '2013'

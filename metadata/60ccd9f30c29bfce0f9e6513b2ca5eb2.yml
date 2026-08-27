@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 60ccd9f30c29bfce0f9e6513b2ca5eb2
+url: https://byrdocs.org/files/60ccd9f30c29bfce0f9e6513b2ca5eb2.pdf
+type: book
+data:
+  title: 多媒体通信：原理、技术及应用
+  authors:
+  - 晏燕
+  - 李立
+  - 彭清斌
+  filetype: pdf
+  isbn:
+  - '9787302525103'
+  publisher: 清华大学出版社
+  publish_year: '2019'
