@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 1bee939054d2e6bf94f5dfd10e7ff7fc
+url: https://byrdocs.org/files/1bee939054d2e6bf94f5dfd10e7ff7fc.pdf
+type: book
+data:
+  title: 信息论基础（原书第2版）
+  authors:
+  - Thomas M. Cover
+  - Joy A. Thomas
+  filetype: pdf
+  isbn:
+  - '9787111220404'
+  translators:
+  - 阮吉寿
+  - 张华
+  edition: 原书第2版
+  publisher: 机械工业出版社
+  publish_year: '2008'

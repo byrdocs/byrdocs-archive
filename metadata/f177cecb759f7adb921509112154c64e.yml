@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: f177cecb759f7adb921509112154c64e
+url: https://byrdocs.org/files/f177cecb759f7adb921509112154c64e.pdf
+type: book
+data:
+  title: EDA技术实用教程——Verilog HDL版
+  authors:
+  - 潘松
+  - 黄继业
+  - 潘明
+  filetype: pdf
+  isbn:
+  - '9787030585592'
+  edition: 第6版
+  publisher: 科学出版社
+  publish_year: '2018'
