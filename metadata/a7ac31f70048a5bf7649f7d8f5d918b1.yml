@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: a7ac31f70048a5bf7649f7d8f5d918b1
+url: https://byrdocs.org/files/a7ac31f70048a5bf7649f7d8f5d918b1.pdf
+type: book
+data:
+  title: 人机情感交互
+  authors:
+  - 毛峡
+  - 薛雨丽
+  filetype: pdf
+  isbn:
+  - '9787030317995'
+  publisher: 科学出版社
+  publish_year: '2011'
