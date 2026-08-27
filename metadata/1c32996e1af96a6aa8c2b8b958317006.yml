@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 1c32996e1af96a6aa8c2b8b958317006
+url: https://byrdocs.org/files/1c32996e1af96a6aa8c2b8b958317006.pdf
+type: book
+data:
+  title: DSP原理与应用
+  authors:
+  - 刘伟
+  - 王玮
+  - 卢恒炜
+  - 陈文钢
+  - 张雪
+  filetype: pdf
+  isbn:
+  - '9787121302473'
+  edition: 第2版
+  publisher: 电子工业出版社
+  publish_year: '2017'

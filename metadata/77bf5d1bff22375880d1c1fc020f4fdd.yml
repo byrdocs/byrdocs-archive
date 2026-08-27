@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 77bf5d1bff22375880d1c1fc020f4fdd
+url: https://byrdocs.org/files/77bf5d1bff22375880d1c1fc020f4fdd.pdf
+type: book
+data:
+  title: 医学影像物理学实验（第4版）
+  authors:
+  - 仇惠
+  - 张瑞兰
+  - 吴小玲
+  - 王亚平
+  filetype: pdf
+  isbn:
+  - '9787117251426'
+  edition: 第4版
+  publisher: 人民卫生出版社
+  publish_year: '2018'
