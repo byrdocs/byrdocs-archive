@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: eaa69f3263abeaea4cb8bcb56109fb30
+url: https://byrdocs.org/files/eaa69f3263abeaea4cb8bcb56109fb30.pdf
+type: book
+data:
+  title: 复杂网络算法与应用
+  authors:
+  - 孙玺菁
+  - 司守奎
+  filetype: pdf
+  isbn:
+  - '9787118102253'
+  publisher: 国防工业出版社
+  publish_year: '2015'

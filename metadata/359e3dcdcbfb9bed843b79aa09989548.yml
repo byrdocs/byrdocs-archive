@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 359e3dcdcbfb9bed843b79aa09989548
+url: https://byrdocs.org/files/359e3dcdcbfb9bed843b79aa09989548.pdf
+type: book
+data:
+  title: 基于内容的视觉信息检索
+  authors:
+  - 章毓晋
+  filetype: pdf
+  isbn:
+  - '9787030113115'
+  publisher: 科学出版社
+  publish_year: '2003'
