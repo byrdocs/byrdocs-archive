@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 44262b718e04c1e3b5889f52638f1b48
+url: https://byrdocs.org/files/44262b718e04c1e3b5889f52638f1b48.pdf
+type: book
+data:
+  title: 强化学习（第2版）
+  authors:
+  - Richard S. Sutton
+  - Andrew G. Barto
+  filetype: pdf
+  isbn:
+  - '9787121295164'
+  edition: 第2版
+  publisher: 电子工业出版社
+  publish_year: '2019'
