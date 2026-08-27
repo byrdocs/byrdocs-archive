@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 046c65118bf628fe27f4266f0e8e2467
+url: https://byrdocs.org/files/046c65118bf628fe27f4266f0e8e2467.pdf
+type: book
+data:
+  title: 'Human-Robot Interaction: An Introduction'
+  authors:
+  - Christoph Bartneck
+  - Tony Belpaeme
+  - Friederike Eyssel
+  - Takayuki Kanda
+  - Merel Keijsers
+  - Selma Šabanović
+  filetype: pdf
+  isbn:
+  - '9781108735407'
+  publisher: Cambridge University Press
+  publish_year: '2020'
