@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 9c584ebc7aa7843e55a42c5abc10c983
+url: https://byrdocs.org/files/9c584ebc7aa7843e55a42c5abc10c983.pdf
+type: book
+data:
+  title: 面向对象软件工程
+  authors:
+  - David C. Kung
+  filetype: pdf
+  isbn:
+  - '9787302460947'
+  translators:
+  - 牟永敏
+  - 邢颖
+  publisher: 清华大学出版社
+  publish_year: '2017'

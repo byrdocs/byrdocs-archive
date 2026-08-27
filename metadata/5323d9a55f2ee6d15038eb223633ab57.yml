@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 5323d9a55f2ee6d15038eb223633ab57
+url: https://byrdocs.org/files/5323d9a55f2ee6d15038eb223633ab57.pdf
+type: book
+data:
+  title: 知识图谱：方法、实践与应用
+  authors:
+  - 王昊奋
+  - 漆桂林
+  - 陈华钧
+  filetype: pdf
+  isbn:
+  - '9787121366710'
+  publisher: 电子工业出版社
+  publish_year: '2019'
