@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 4dedb301daa17f7f79c7d57919f41b76
+url: https://byrdocs.org/files/4dedb301daa17f7f79c7d57919f41b76.pdf
+type: book
+data:
+  title: 游戏人工智能：计算机游戏中的人工智能
+  authors:
+  - John David Funge
+  filetype: pdf
+  isbn:
+  - '9787563514052'
+  translators:
+  - 李睿凡
+  - 郭燕慧
+  - 吴昕
+  publisher: 北京邮电大学出版社
+  publish_year: '2007'

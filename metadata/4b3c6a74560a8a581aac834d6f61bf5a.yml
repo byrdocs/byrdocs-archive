@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 4b3c6a74560a8a581aac834d6f61bf5a
+url: https://byrdocs.org/files/4b3c6a74560a8a581aac834d6f61bf5a.pdf
+type: book
+data:
+  title: 信息论基础
+  authors:
+  - 田宝玉
+  - 杨洁
+  - 贺志强
+  - 许文俊
+  filetype: pdf
+  isbn:
+  - '9787115391513'
+  edition: 第2版
+  publisher: 人民邮电出版社
+  publish_year: '2016'
