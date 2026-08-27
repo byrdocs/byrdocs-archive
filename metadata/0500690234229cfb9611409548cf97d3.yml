@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 0500690234229cfb9611409548cf97d3
+url: https://byrdocs.org/files/0500690234229cfb9611409548cf97d3.pdf
+type: book
+data:
+  title: 最优化方法
+  authors:
+  - 李学文
+  - 闫桂峰
+  - 李庆娜
+  filetype: pdf
+  isbn:
+  - '9787568254953'
+  publisher: 北京理工大学出版社
+  publish_year: '2018'
