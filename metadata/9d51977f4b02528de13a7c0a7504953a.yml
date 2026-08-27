@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 9d51977f4b02528de13a7c0a7504953a
+url: https://byrdocs.org/files/9d51977f4b02528de13a7c0a7504953a.pdf
+type: book
+data:
+  title: 游戏机制：高级游戏设计技术
+  authors:
+  - Ernest Adams
+  - Joris Dormans
+  filetype: pdf
+  isbn:
+  - '9787115340498'
+  translators:
+  - 石曦
+  publisher: 人民邮电出版社
+  publish_year: '2014'

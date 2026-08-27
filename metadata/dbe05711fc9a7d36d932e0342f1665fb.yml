@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: dbe05711fc9a7d36d932e0342f1665fb
+url: https://byrdocs.org/files/dbe05711fc9a7d36d932e0342f1665fb.pdf
+type: book
+data:
+  title: 应用非线性控制
+  authors:
+  - Jean-Jacques E. Slotine
+  - Weiping Li
+  filetype: pdf
+  isbn:
+  - '9787111183792'
+  translators:
+  - 程代展
+  publisher: 机械工业出版社
+  publish_year: '2006'
