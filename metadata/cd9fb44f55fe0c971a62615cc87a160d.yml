@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: cd9fb44f55fe0c971a62615cc87a160d
+url: https://byrdocs.org/files/cd9fb44f55fe0c971a62615cc87a160d.pdf
+type: book
+data:
+  title: 微机原理与接口技术（第3版）
+  authors:
+  - 吴晓非
+  - 王玉良
+  - 禹可
+  filetype: pdf
+  isbn:
+  - '9787563544967'
+  edition: 第3版
+  publisher: 北京邮电大学出版社
+  publish_year: '2015'
