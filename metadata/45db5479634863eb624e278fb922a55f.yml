@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 45db5479634863eb624e278fb922a55f
+url: https://byrdocs.org/files/45db5479634863eb624e278fb922a55f.pdf
+type: book
+data:
+  title: 自然语言处理：基于预训练模型的方法
+  authors:
+  - 车万翔
+  - 崔一鸣
+  - 郭江
+  filetype: pdf
+  isbn:
+  - '9787121415128'
+  publisher: 电子工业出版社
+  publish_year: '2021'
