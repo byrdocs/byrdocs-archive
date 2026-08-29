@@ -34,13 +34,3 @@
 ## 许可协议
 
 [![CC BY-NC-SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
----
-
-<a href="https://www.star-history.com/?repos=byrdocs%2Fbyrdocs-archive&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=byrdocs/byrdocs-archive&type=date&theme=dark&legend=top-left&sealed_token=yTdmcJmAcfMJiAlDyzBsS9sJI6XRF8gaWr2EUC3A4Wwf8kyfHDewvHEbuiLADihD7HvKsEErT1I486hMWslTWAs5GOjzwx-hZP37WtY329BLwDwk2E6keUiBOb3FGCobxCvN4KyyG5aN6fYvEmDzepBKgAqfWl8lUCAcuST4-0vrFgR0tVnyY2MrKaWg" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=byrdocs/byrdocs-archive&type=date&legend=top-left&sealed_token=yTdmcJmAcfMJiAlDyzBsS9sJI6XRF8gaWr2EUC3A4Wwf8kyfHDewvHEbuiLADihD7HvKsEErT1I486hMWslTWAs5GOjzwx-hZP37WtY329BLwDwk2E6keUiBOb3FGCobxCvN4KyyG5aN6fYvEmDzepBKgAqfWl8lUCAcuST4-0vrFgR0tVnyY2MrKaWg" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=byrdocs/byrdocs-archive&type=date&legend=top-left&sealed_token=yTdmcJmAcfMJiAlDyzBsS9sJI6XRF8gaWr2EUC3A4Wwf8kyfHDewvHEbuiLADihD7HvKsEErT1I486hMWslTWAs5GOjzwx-hZP37WtY329BLwDwk2E6keUiBOb3FGCobxCvN4KyyG5aN6fYvEmDzepBKgAqfWl8lUCAcuST4-0vrFgR0tVnyY2MrKaWg" />
- </picture>
-</a>
