@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 1b0773458303f4cd403ee1a6bf36cdeb
+url: https://byrdocs.org/files/1b0773458303f4cd403ee1a6bf36cdeb.pdf
+type: book
+data:
+  title: 网络信息系统基础
+  authors:
+    - 范春晓
+    - 漆渊
+    - 吴岳辛
+  edition: "1"
+  publisher: 北京邮电大学出版社
+  publish_year: "2019"
+  isbn:
+    - 978-7-5635-5816-2
+  filetype: pdf
