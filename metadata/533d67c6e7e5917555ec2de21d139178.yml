@@ -4,6 +4,8 @@ id: 533d67c6e7e5917555ec2de21d139178
 url: https://byrdocs.org/files/533d67c6e7e5917555ec2de21d139178.pdf
 type: test
 data:
+  college:
+    - 人工智能学院
   course:
     type: 本科
     name: 信息处理与编码

@@ -4,6 +4,8 @@ id: d8e78b299f2d6a898137c8903e764210
 url: https://byrdocs.org/files/d8e78b299f2d6a898137c8903e764210.pdf
 type: test
 data:
+  college:
+    - 计算机学院（国家示范性软件学院）
   course:
     type: 本科
     name: 多元统计分析

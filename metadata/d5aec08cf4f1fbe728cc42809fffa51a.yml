@@ -4,6 +4,9 @@ id: d5aec08cf4f1fbe728cc42809fffa51a
 url: https://byrdocs.org/files/d5aec08cf4f1fbe728cc42809fffa51a.pdf
 type: test
 data:
+  college:
+    - 信息与通信工程学院
+    - 电子工程学院
   course:
     type: 本科
     name: 电磁场与电磁波

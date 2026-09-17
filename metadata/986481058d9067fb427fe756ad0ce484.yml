@@ -4,6 +4,8 @@ id: 986481058d9067fb427fe756ad0ce484
 url: https://byrdocs.org/files/986481058d9067fb427fe756ad0ce484.pdf
 type: test
 data:
+  college:
+    - 人工智能学院
   course:
     type: 本科
     name: 数据结构与算法

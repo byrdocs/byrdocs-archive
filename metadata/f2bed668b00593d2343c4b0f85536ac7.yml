@@ -4,6 +4,8 @@ id: f2bed668b00593d2343c4b0f85536ac7
 url: https://byrdocs.org/files/f2bed668b00593d2343c4b0f85536ac7.pdf
 type: test
 data:
+  college:
+    - 未来学院
   course:
     type: 本科
     name: 数学分析（下）

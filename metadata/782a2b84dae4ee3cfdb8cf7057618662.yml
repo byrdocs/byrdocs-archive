@@ -4,6 +4,10 @@ id: 782a2b84dae4ee3cfdb8cf7057618662
 url: https://byrdocs.org/files/782a2b84dae4ee3cfdb8cf7057618662.pdf
 type: test
 data:
+  college:
+    - 智能工程与自动化学院
+    - 网络空间安全学院
+    - 计算机学院（国家示范性软件学院）
   course:
     type: 本科
     name: 大学物理D

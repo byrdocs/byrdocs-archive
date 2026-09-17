@@ -4,6 +4,11 @@ id: 37e10eea60bce82f9e7287a95c0a130e
 url: https://byrdocs.org/files/37e10eea60bce82f9e7287a95c0a130e.pdf
 type: test
 data:
+  college:
+    - 人工智能学院
+    - 智能工程与自动化学院
+    - 电子工程学院
+    - 集成电路学院
   course:
     type: 本科
     name: 电路分析基础

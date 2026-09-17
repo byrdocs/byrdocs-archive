@@ -4,6 +4,8 @@ id: 689e6635567d1a918bc012ac622a8f79
 url: https://byrdocs.org/files/689e6635567d1a918bc012ac622a8f79.pdf
 type: test
 data:
+  college:
+    - 信息与通信工程学院
   course:
     type: 本科
     name: 人工智能引论A
