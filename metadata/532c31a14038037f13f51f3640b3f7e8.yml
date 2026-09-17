@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 532c31a14038037f13f51f3640b3f7e8
+url: https://byrdocs.org/files/532c31a14038037f13f51f3640b3f7e8.pdf
+type: test
+data:
+  college:
+    - 经济管理学院
+  course:
+    type: 本科
+    name: 组织行为学
+  time:
+    start: '2025'
+    end: '2026'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题

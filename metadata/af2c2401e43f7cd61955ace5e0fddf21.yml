@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: af2c2401e43f7cd61955ace5e0fddf21
+url: https://byrdocs.org/files/af2c2401e43f7cd61955ace5e0fddf21.pdf
+type: test
+data:
+  college:
+    - 信息与通信工程学院
+    - 未来学院
+    - 经济管理学院
+    - 网络空间安全学院
+    - 数学科学学院
+    - 人工智能学院
+  course:
+    type: 本科
+    name: 习近平新时代中国特色社会主义思想概论
+  time:
+    start: '2025'
+    end: '2026'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题

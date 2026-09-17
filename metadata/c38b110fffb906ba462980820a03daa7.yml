@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: c38b110fffb906ba462980820a03daa7
+url: https://byrdocs.org/files/c38b110fffb906ba462980820a03daa7.pdf
+type: test
+data:
+  college:
+    - 人文学院
+    - 数字媒体与设计艺术学院
+    - 数学科学学院
+    - 智能工程与自动化学院
+    - 网络空间安全学院
+    - 卓越工程师学院
+  course:
+    type: 研究生
+    name: 最优化理论与算法
+  time:
+    start: '2025'
+    end: '2026'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题

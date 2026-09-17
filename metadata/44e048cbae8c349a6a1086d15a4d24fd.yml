@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 44e048cbae8c349a6a1086d15a4d24fd
+url: https://byrdocs.org/files/44e048cbae8c349a6a1086d15a4d24fd.pdf
+type: test
+data:
+  college:
+    - 人工智能学院
+    - 未来学院
+    - 电子工程学院
+    - 网络空间安全学院
+    - 计算机学院（国家示范性软件学院）
+    - 集成电路学院
+  course:
+    type: 本科
+    name: 数学分析（下）
+  time:
+    start: '2025'
+    end: '2026'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题

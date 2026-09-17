@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: ff34083cb9a2469a9b2dbf832ecd1e50
+url: https://byrdocs.org/files/ff34083cb9a2469a9b2dbf832ecd1e50.pdf
+type: test
+data:
+  college:
+    - 国际学院
+  course:
+    type: 本科
+    name: 新视野英语A（下）
+  time:
+    start: '2025'
+    end: '2026'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 533d67c6e7e5917555ec2de21d139178
+url: https://byrdocs.org/files/533d67c6e7e5917555ec2de21d139178.pdf
+type: test
+data:
+  college:
+    - 人工智能学院
+  course:
+    type: 本科
+    name: 信息处理与编码
+  time:
+    start: '2025'
+    end: '2026'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
