@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 26179bab8bc878c3b544dd66e447b7fb
+url: https://byrdocs.org/files/26179bab8bc878c3b544dd66e447b7fb.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 中国近现代史纲要
+  time:
+    start: '2025'
+    end: '2026'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题

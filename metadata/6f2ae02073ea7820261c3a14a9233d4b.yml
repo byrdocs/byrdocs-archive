@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 6f2ae02073ea7820261c3a14a9233d4b
+url: https://byrdocs.org/files/6f2ae02073ea7820261c3a14a9233d4b.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 大学物理B（上）
+  time:
+    start: '2025'
+    end: '2026'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题

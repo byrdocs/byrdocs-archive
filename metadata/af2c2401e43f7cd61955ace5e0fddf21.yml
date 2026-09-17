@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: af2c2401e43f7cd61955ace5e0fddf21
+url: https://byrdocs.org/files/af2c2401e43f7cd61955ace5e0fddf21.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 习近平新时代中国特色社会主义思想概论
+  time:
+    start: '2025'
+    end: '2026'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题

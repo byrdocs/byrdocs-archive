@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 9792ef5a29ffd89ae300be88c5bcf686
+url: https://byrdocs.org/files/9792ef5a29ffd89ae300be88c5bcf686.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 管理信息系统
+  time:
+    start: '2025'
+    end: '2026'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题

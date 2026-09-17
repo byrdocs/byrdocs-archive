@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 79a7b37e85eaa2ea7fe1b35a38a42b52
+url: https://byrdocs.org/files/79a7b37e85eaa2ea7fe1b35a38a42b52.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 进阶综合英语（下）
+  time:
+    start: '2025'
+    end: '2026'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题

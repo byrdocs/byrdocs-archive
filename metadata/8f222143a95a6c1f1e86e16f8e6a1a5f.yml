@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 8f222143a95a6c1f1e86e16f8e6a1a5f
+url: https://byrdocs.org/files/8f222143a95a6c1f1e86e16f8e6a1a5f.pdf
+type: test
+data:
+  college:
+    - 国际学院
+  course:
+    type: 本科
+    name: 高等数学A（下）
+  time:
+    start: '2025'
+    end: '2026'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题

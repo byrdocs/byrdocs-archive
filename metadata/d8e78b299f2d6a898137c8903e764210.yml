@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: d8e78b299f2d6a898137c8903e764210
+url: https://byrdocs.org/files/d8e78b299f2d6a898137c8903e764210.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 多元统计分析
+  time:
+    start: '2025'
+    end: '2026'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题

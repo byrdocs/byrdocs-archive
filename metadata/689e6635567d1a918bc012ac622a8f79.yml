@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 689e6635567d1a918bc012ac622a8f79
+url: https://byrdocs.org/files/689e6635567d1a918bc012ac622a8f79.pdf
+type: test
+data:
+  course:
+    type: 本科
+    name: 人工智能引论A
+  time:
+    start: '2025'
+    end: '2026'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题

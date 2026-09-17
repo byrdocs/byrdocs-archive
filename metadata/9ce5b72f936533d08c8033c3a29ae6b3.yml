@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 9ce5b72f936533d08c8033c3a29ae6b3
+url: https://byrdocs.org/files/9ce5b72f936533d08c8033c3a29ae6b3.pdf
+type: test
+data:
+  college:
+    - 信息与通信工程学院
+  course:
+    type: 本科
+    name: 电子电路基础
+  time:
+    start: '2025'
+    end: '2026'
+    semester: Second
+    stage: 期末
+  filetype: pdf
+  content:
+    - 原题
