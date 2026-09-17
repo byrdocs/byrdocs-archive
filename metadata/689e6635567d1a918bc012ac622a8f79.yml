@@ -8,7 +8,7 @@ data:
     - 信息与通信工程学院
   course:
     type: 本科
-    name: 人工智能引论A
+    name: 人工智能引论
   time:
     start: '2025'
     end: '2026'
