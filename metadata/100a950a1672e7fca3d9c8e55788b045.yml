@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 100a950a1672e7fca3d9c8e55788b045
+url: https://byrdocs.org/files/100a950a1672e7fca3d9c8e55788b045.pdf
+type: book
+data:
+  title: 工科数学分析基础 上册
+  authors:
+    - 马知恩
+    - 王绵森
+  edition: "4"
+  publisher: 高等教育出版社
+  publish_year: "2025"
+  isbn:
+    - 978-7-04-065253-6
+  filetype: pdf
