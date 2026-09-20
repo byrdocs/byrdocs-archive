@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: 387e5a732a6be17311f55659cb1bee46
+url: https://byrdocs.org/files/387e5a732a6be17311f55659cb1bee46.pdf
+type: book
+data:
+  title: 线性代数（原书第6版·中文版）
+  authors:
+    - Gilbert Strang（吉尔伯特·斯特朗）
+  translators:
+    - 刘余
+    - 黄晔辉
+    - 杨晶
+  edition: '1'
+  publisher: 清华大学出版社
+  publish_year: '2026'
+  isbn:
+    - 978-7-302-71165-0
+  filetype: pdf
