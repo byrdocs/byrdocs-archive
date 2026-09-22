@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 3f6eadc79c1c1c3862c00d4adab0b80a
+url: https://byrdocs.org/files/3f6eadc79c1c1c3862c00d4adab0b80a.pdf
+type: book
+data:
+  title: 大学物理实验教程
+  authors:
+    - 杨胡江
+    - 毕科
+    - 尚玉峰
+    - 代琼琳
+    - 李海红
+    - 郝亚楠
+  edition: "1"
+  publisher: 北京邮电大学出版社
+  publish_year: "2025"
+  isbn:
+    - 978-7-5635-7611-1
+  filetype: pdf
