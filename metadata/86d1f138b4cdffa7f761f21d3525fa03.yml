@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 86d1f138b4cdffa7f761f21d3525fa03
+url: https://byrdocs.org/files/86d1f138b4cdffa7f761f21d3525fa03.pdf
+type: book
+data:
+  title: Python 应用基础
+  authors:
+    - 谢志龙
+    - 李庆
+  edition: '1'
+  publisher: 机械工业出版社
+  publish_year: '2023'
+  isbn:
+    - 978-7-111-68513-5
+  filetype: pdf
