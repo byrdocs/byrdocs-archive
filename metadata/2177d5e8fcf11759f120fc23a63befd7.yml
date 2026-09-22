@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 2177d5e8fcf11759f120fc23a63befd7
+url: https://byrdocs.org/files/2177d5e8fcf11759f120fc23a63befd7.pdf
+type: book
+data:
+  title: 新工科大学英语
+  authors:
+    - 方富民
+    - 何莲珍
+    - 李航
+    - 李莎
+    - 梁君英
+    - 马鸿
+    - 闵尚超
+    - 周颂波
+  edition: '1'
+  publisher: 外语教学与研究出版社
+  publish_year: '2025'
+  isbn:
+    - 978-7-5213-6252-7
+  filetype: pdf
