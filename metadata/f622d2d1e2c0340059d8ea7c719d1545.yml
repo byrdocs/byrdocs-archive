@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+id: f622d2d1e2c0340059d8ea7c719d1545
+url: https://byrdocs.org/files/f622d2d1e2c0340059d8ea7c719d1545.pdf
+type: book
+data:
+  title: 线性代数及其应用（原书第6版）
+  authors:
+    - Lay, David C.（戴维·C. 雷）
+    - Lay, Steven R.（史蒂文·R. 雷）
+    - McDonald, Judi J.（朱迪·J. 麦克唐纳）
+  translators:
+    - 刘深泉
+    - 陈玉珍
+    - 张万芹
+    - 包东娥
+    - 陆博
+    - 于雪
+  edition: '1'
+  publisher: 机械工业出版社
+  publish_year: '2023'
+  isbn:
+    - 978-7-111-72803-0
+  filetype: pdf
