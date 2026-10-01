@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 141be731b56f25e2201ae4e62a486a5c
+url: https://byrdocs.org/files/141be731b56f25e2201ae4e62a486a5c.pdf
+type: book
+data:
+  title: 大数据安全与隐私保护
+  authors:
+  - 石瑞生
+  - 兰丽娜
+  edition: '1'
+  publisher: 机械工业出版社
+  publish_year: '2025'
+  isbn:
+  - 978-7-111-78741-9
+  filetype: pdf
