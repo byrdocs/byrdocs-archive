@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 3d30c669af9d391661acec1d36317515
+url: https://byrdocs.org/files/3d30c669af9d391661acec1d36317515.pdf
+type: book
+data:
+  title: 数字逻辑习题解析与实验教程
+  authors:
+    - 白中英
+    - 朱正东
+  edition: "7"
+  publisher: 科学出版社
+  publish_year: "2021"
+  isbn:
+    - 978-7-03-064109-0
+  filetype: pdf
