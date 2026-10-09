@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 9de06a045e49c714e7c43f6fe7da8999
+url: https://byrdocs.org/files/9de06a045e49c714e7c43f6fe7da8999.pdf
+type: book
+data:
+  title: 大学物理学（下册）
+  authors:
+    - 吴百诗，李锦泉，张孝林 等
+  edition: "1"
+  publisher: 高等教育出版社
+  publish_year: "2012"
+  isbn:
+    - 978-7-04-036756-0
+  filetype: pdf
