@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 2487d80f26f6f46e56f835de589be23b
+url: https://byrdocs.org/files/2487d80f26f6f46e56f835de589be23b.pdf
+type: book
+data:
+  title: Academic Vocabulary in Use (Second Edition)
+  authors:
+    - Michael McCarthy
+    - Felicity O'Dell
+  edition: Second Edition（第 2 版）
+  publisher: Cambridge University Press（剑桥大学出版社）
+  publish_year: "2016"
+  isbn:
+    - 978-1-107-59166-0
+  filetype: pdf
