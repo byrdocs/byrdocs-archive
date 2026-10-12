@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: d3e50dfdd7538c77f96bdc54990fe431
+url: https://byrdocs.org/files/d3e50dfdd7538c77f96bdc54990fe431.pdf
+type: book
+data:
+  title: Discrete-Time Signal Processing
+  authors:
+    - Alan V. Oppenheim（艾伦·V·奥本海姆）
+    - Ronald W. Schafer（罗纳德·W·施弗）
+  edition: "3"
+  publisher: Pearson
+  publish_year: "2014"
+  isbn:
+    - 978-0-13-198842-2
+  filetype: pdf
