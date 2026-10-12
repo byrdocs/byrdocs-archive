@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: 2f603831e7335a0c5b0cc639fd350d16
+url: https://byrdocs.org/files/2f603831e7335a0c5b0cc639fd350d16.pdf
+type: book
+data:
+  title: 通信网理论与技术基础
+  authors:
+    - 彭木根
+  edition: "1"
+  publisher: 北京邮电大学出版社
+  publish_year: "2024"
+  isbn:
+    - 978-7-5635-7058-4
+  filetype: pdf
