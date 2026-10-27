@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 10acd008e59a7ad749b5cbf9b41e2060
+url: https://byrdocs.org/files/10acd008e59a7ad749b5cbf9b41e2060.pdf
+type: test
+data:
+  course:
+    name: 工科数学分析（上）
+    type: 本科
+  time:
+    start: "2025"
+    end: "2026"
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+    - 原题
