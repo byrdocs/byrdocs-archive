@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+type: book
+id: a8f818fe09c68425bf3b59f7dbe4c6f7
+url: https://byrdocs.org/files/a8f818fe09c68425bf3b59f7dbe4c6f7.pdf
+data:
+  title: 计算理论导引（原书第3版）
+  authors:
+    - Michael Sipser
+  translators:
+    - 段磊
+    - 唐常杰
+  edition: '1'
+  publisher: 机械工业出版社
+  publish_year: '2015'
+  isbn:
+    - 978-7-111-49971-8
+  filetype: pdf
