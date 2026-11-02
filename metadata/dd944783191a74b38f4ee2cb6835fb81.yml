@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: dd944783191a74b38f4ee2cb6835fb81
+url: https://byrdocs.org/files/dd944783191a74b38f4ee2cb6835fb81.pdf
+type: book
+data:
+  title: 信息论与编码理论
+  authors:
+    - 王育民 李晖
+  edition: "2"
+  publisher: 高等教育出版社
+  publish_year: "2013"
+  isbn:
+    - 978-7-04-036988-5
+  filetype: pdf
