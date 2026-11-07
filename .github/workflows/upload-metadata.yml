@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+  workflow_dispatch:
 
 env:
   BACKUP_ACCESS_KEY_ID: ${{ secrets.BACKUP_ACCESS_KEY_ID }}
@@ -11,8 +12,6 @@ env:
   BACKUP_ENDPOINT_REGION: ${{ secrets.BACKUP_ENDPOINT_REGION }}
   BACKUP_FILE_BUCKET: ${{ secrets.BACKUP_FILE_BUCKET }}
   BACKUP_SECRET_ACCESS_KEY: ${{ secrets.BACKUP_SECRET_ACCESS_KEY }}
-  BYRDOCS_CHECK_REPO_NAME: byrdocs-check
-  BYRDOCS_CHECK_REPO_OWNER: byrdocs
   BYRDOCS_SITE_URL: ${{ secrets.BYRDOCS_SITE_URL }}
   BYRDOCS_SITE_TOKEN: ${{ secrets.BYRDOCS_SITE_TOKEN }}
   FILELIST_SITE_URL: ${{ secrets.FILELIST_SITE_URL }}
@@ -21,48 +20,58 @@ env:
   R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
   R2_DATA_BUCKET: ${{ secrets.R2_DATA_BUCKET }}
   R2_FILE_BUCKET: ${{ secrets.R2_FILE_BUCKET }}
-  SITEMAP_MIN_LASTMOD: ${{ vars.SITEMAP_MIN_LASTMOD}}
+  SITEMAP_MIN_LASTMOD: ${{ vars.SITEMAP_MIN_LASTMOD }}
+
+permissions:
+  contents: read
 
 jobs:
   update:
+    if: github.repository == 'byrdocs/byrdocs-archive' && github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
-
+    concurrency:
+      group: byrdocs-storage
+      cancel-in-progress: false
+      queue: max
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
       - id: pdfium
         name: Get pdfium-binaries latest
         uses: pozetroninc/github-action-get-latest-release@master
         with:
           owner: bblanchon
           repo: pdfium-binaries
-
-      - id: check
-        name: Get byrdocs-check release
-        uses: pozetroninc/github-action-get-latest-release@master
-        with:
-          owner: byrdocs
-          repo: byrdocs-check
-
       - name: Download release
         run: |
           wget https://github.com/bblanchon/pdfium-binaries/releases/download/${{ steps.pdfium.outputs.release }}/pdfium-linux-x64.tgz
           tar -zxvf pdfium-linux-x64.tgz
-          wget https://github.com/byrdocs/byrdocs-check/releases/download/${{ steps.check.outputs.release }}/upload-metadata
-          wget https://github.com/byrdocs/byrdocs-check/releases/download/${{ steps.check.outputs.release }}/check-format
-          chmod 777 upload-metadata
-          chmod 777 check-format
-
+          wget https://github.com/byrdocs/byrdocs-check/releases/download/v6.5.1/upload-metadata
+          wget https://github.com/byrdocs/byrdocs-check/releases/download/v6.5.1/check-format
+          # Digests from the v6.5.1 release assets; update with the pinned version.
+          sha256sum --check <<'SHA256'
+          4d34304c9e98c22ba588e98d5901431302bec923db0a7b24ba654296596d917f  check-format
+          045631ae490612536177816aa516183ab77386f11df51d492c0e17687def0177  upload-metadata
+          SHA256
+          chmod +x upload-metadata check-format
       - name: Check format
         env:
           METADATA_DIR: ./metadata
-        run: |
-          ./check-format
+        run: ./check-format
       - name: Upload metadata
         env:
           METADATA_DIR: ./metadata
-        run: |
-          ./upload-metadata
+        run: ./upload-metadata
+      # Confirmation failures belong to BUMP cleanup, not ordinary publication.
+      - name: Save publication output for BUMP cleanup
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: bump-publication-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            metadata/metadata.json
+            metadata/sitemap.xml
+          if-no-files-found: error
+          retention-days: 90
