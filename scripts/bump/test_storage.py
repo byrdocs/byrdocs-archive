@@ -21,6 +21,7 @@ import publisher
 import storage
 import sync
 from PIL import Image, UnidentifiedImageError
+from pypdf import PageObject
 
 ROOT = Path(__file__).resolve().parents[2]
 
@@ -926,7 +927,7 @@ class PublisherBoundaryTests(unittest.TestCase):
                     {
                         "title": "2024–2025 高等数学期末考试",
                         "tags": ["分析上期末"],
-                        "page-physical": 1,
+                        "page-physical": 2,
                         "length-in-page": 1,
                     }
                 ],
@@ -935,6 +936,7 @@ class PublisherBoundaryTests(unittest.TestCase):
             def download(url, path):
                 if url.endswith(".pdf"):
                     with sync.PdfWriter() as writer:
+                        writer.add_blank_page(width=200, height=200)
                         writer.add_blank_page(width=100, height=100)
                         writer.write(path)
                 else:
@@ -955,6 +957,15 @@ class PublisherBoundaryTests(unittest.TestCase):
                 ),
                 patch.object(pipeline, "pull_requests", return_value=[]),
                 patch.object(sync, "download", side_effect=download),
+                patch.object(
+                    PageObject,
+                    "extract_text",
+                    lambda page: (
+                        "版权声明与授权许可 CC BY-NC-SA 4.0"
+                        if page.mediabox.width == 200
+                        else ""
+                    ),
+                ),
                 patch.object(
                     pipeline,
                     "maintenance",

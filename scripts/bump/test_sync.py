@@ -148,6 +148,7 @@ class MetadataTests(unittest.TestCase):
             )
             pdf = root / "source.pdf"
             with sync.PdfWriter() as writer:
+                writer.add_blank_page(width=200, height=200)
                 writer.add_blank_page(width=100, height=100)
                 writer.write(pdf)
             source = root / "source.json"
@@ -155,7 +156,7 @@ class MetadataTests(unittest.TestCase):
                 source,
                 {
                     "config": {"release-type": "release", "version-number": "1.5.0"},
-                    "problemsets": [entry(page=1, length=1)],
+                    "problemsets": [entry(page=2, length=1)],
                 },
             )
             for number, (text, expected) in enumerate(
@@ -166,7 +167,15 @@ class MetadataTests(unittest.TestCase):
             ):
                 with (
                     self.subTest(text=text),
-                    patch.object(PageObject, "extract_text", return_value=text),
+                    patch.object(
+                        PageObject,
+                        "extract_text",
+                        lambda page, text=text: (
+                            "版权声明与授权许可 CC BY-NC-SA 4.0"
+                            if page.mediabox.width == 200
+                            else text
+                        ),
+                    ),
                 ):
                     out = root / f"build-{number}"
                     sync.build(
@@ -182,6 +191,10 @@ class MetadataTests(unittest.TestCase):
                     yaml = next((out / "metadata").glob("*.yml"))
                     item = sync.YAML_CODEC.load(yaml.read_text(encoding="utf-8"))
                     self.assertEqual(item["data"]["content"], expected)
+                    pages = sync.PdfReader(out / "files" / f"{item['id']}.pdf").pages
+                    self.assertEqual(
+                        [page.mediabox.width for page in pages], [100, 200]
+                    )
 
     def test_dates_and_missing_semester(self):
         for title, expected in [
@@ -344,7 +357,14 @@ class OwnershipTests(unittest.TestCase):
                 version="1.5.0",
                 apply=True,
             )
-            reader = SimpleNamespace(pages=[None, None])
+            reader = SimpleNamespace(
+                pages=[
+                    SimpleNamespace(
+                        extract_text=lambda: "版权声明与授权许可 CC BY-NC-SA 4.0"
+                    ),
+                    None,
+                ]
+            )
             with (
                 patch.object(sync, "PdfReader", return_value=reader),
                 self.assertRaisesRegex(ValueError, "没有有效条目"),

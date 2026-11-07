@@ -387,6 +387,14 @@ def build(args):
     source = read_json(args.source_metadata)
     reader = PdfReader(args.source_pdf)
     entries = validate_source(source, reader, args.version)
+    front_end = min(e["page-physical"] for e in entries) - 1
+    license_pages = []
+    for page in range(front_end):
+        text = reader.pages[page].extract_text()
+        if "版权声明与授权许可" in text[:80] and "CC BY-NC-SA 4.0" in text:
+            license_pages.append(page)
+    if len(license_pages) != 1:
+        raise ValueError("无法唯一定位原书许可页，请检查新版结构")
     schema = strict_schema(
         YAML_CODEC.load((args.repo / "schema/test.yaml").read_text(encoding="utf-8"))
     )
@@ -411,14 +419,15 @@ def build(args):
             f"大邮数学集 {args.version}\n{entry['title']}\n"
             f"作者：fa_555 及其他贡献者（见原书）\n源文件：{pdf_url}\n"
             f"元信息：{metadata_url}\n原始物理页：{start}-{start + length - 1}\n"
-            "BYR Docs 修改：按原始页码拆分；题目页未改写。\n"
-            "许可范围以原书声明为准，原始试题和第三方材料不适用该 CC 授权。\n"
+            "BYR Docs 修改：按原始页码拆分，附加原书许可页及本说明；题目页未改写。\n"
+            "许可范围以附带的原书许可页为准，原始试题和第三方材料不适用该 CC 授权。\n"
             "https://creativecommons.org/licenses/by-nc-sa/4.0/\n"
         )
         writer = PdfWriter()
         writer.append(
             reader, pages=(start - 1, start + length - 1), import_outline=False
         )
+        writer.append(reader, pages=license_pages, import_outline=False)
         writer.add_metadata(
             {
                 "/Title": entry["title"],
@@ -442,7 +451,7 @@ def build(args):
             "data": data,
         }
         validator.validate(value)
-        if len(PdfReader(io.BytesIO(raw)).pages) != length:
+        if len(PdfReader(io.BytesIO(raw)).pages) != length + 1:
             raise ValueError("输出 PDF 页数不符")
         if digest not in generated:
             pdf = files / f"{digest}.pdf"
