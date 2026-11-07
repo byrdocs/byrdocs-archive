@@ -1,0 +1,6 @@
+pypdf==6.21.4
+pypdfium2==5.15.0
+pillow==13.0.0
+ruamel.yaml==0.19.1
+jsonschema==4.26.0
+boto3==1.43.125
