@@ -1,0 +1,15 @@
+data:
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 组合数学
+  filetype: pdf
+  time:
+    end: '2023'
+    semester: First
+    stage: 期末
+    start: '2022'
+id: e20b9a23026337b2cbf6285b8a65582e
+type: test
+url: https://byrdocs.org/files/e20b9a23026337b2cbf6285b8a65582e.pdf

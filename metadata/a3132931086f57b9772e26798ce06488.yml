@@ -1,0 +1,15 @@
+data:
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 概率论与随机过程
+  filetype: pdf
+  time:
+    end: '2010'
+    semester: Second
+    stage: 期末
+    start: '2009'
+id: a3132931086f57b9772e26798ce06488
+type: test
+url: https://byrdocs.org/files/a3132931086f57b9772e26798ce06488.pdf

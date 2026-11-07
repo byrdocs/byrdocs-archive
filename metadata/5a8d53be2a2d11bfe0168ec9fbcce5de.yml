@@ -1,0 +1,15 @@
+data:
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 工程数学
+  filetype: pdf
+  time:
+    end: '2019'
+    semester: First
+    stage: 期末
+    start: '2018'
+id: 5a8d53be2a2d11bfe0168ec9fbcce5de
+type: test
+url: https://byrdocs.org/files/5a8d53be2a2d11bfe0168ec9fbcce5de.pdf

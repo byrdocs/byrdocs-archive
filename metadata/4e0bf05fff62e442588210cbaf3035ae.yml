@@ -1,0 +1,14 @@
+data:
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 高等数学A（上）
+  filetype: pdf
+  time:
+    end: '2024'
+    stage: 期中
+    start: '2023'
+id: 4e0bf05fff62e442588210cbaf3035ae
+type: test
+url: https://byrdocs.org/files/4e0bf05fff62e442588210cbaf3035ae.pdf

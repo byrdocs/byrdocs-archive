@@ -1,0 +1,15 @@
+data:
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 线性代数
+  filetype: pdf
+  time:
+    end: '2026'
+    semester: First
+    stage: 期末
+    start: '2025'
+id: ef21f8f25c07719be4e001d37e05d604
+type: test
+url: https://byrdocs.org/files/ef21f8f25c07719be4e001d37e05d604.pdf

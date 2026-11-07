@@ -1,0 +1,14 @@
+data:
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 数学分析（下）
+  filetype: pdf
+  time:
+    end: '2021'
+    stage: 期中
+    start: '2020'
+id: f56b599a9d35b5d2f6e62afc85abafdf
+type: test
+url: https://byrdocs.org/files/f56b599a9d35b5d2f6e62afc85abafdf.pdf
