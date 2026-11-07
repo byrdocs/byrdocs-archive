@@ -1,0 +1,17 @@
+data:
+  college:
+  - 计算机学院（国家示范性软件学院）
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 概率论与数理统计
+  filetype: pdf
+  time:
+    end: '2020'
+    semester: Second
+    stage: 期末
+    start: '2019'
+id: bd06aa625eabe644f47b678aea91a514
+type: test
+url: https://byrdocs.org/files/bd06aa625eabe644f47b678aea91a514.pdf

@@ -1,0 +1,16 @@
+data:
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 最优化理论与算法
+    type: 研究生
+  filetype: pdf
+  time:
+    end: '2026'
+    semester: Second
+    stage: 期末
+    start: '2025'
+id: a15e6ef1a1e10946772d7d10b84ae93b
+type: test
+url: https://byrdocs.org/files/a15e6ef1a1e10946772d7d10b84ae93b.pdf

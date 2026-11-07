@@ -1,0 +1,15 @@
+data:
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 高等代数（下）
+  filetype: pdf
+  time:
+    end: '2023'
+    semester: Second
+    stage: 期末
+    start: '2022'
+id: 283264cbbdce63d64ca253b473648ca1
+type: test
+url: https://byrdocs.org/files/283264cbbdce63d64ca253b473648ca1.pdf

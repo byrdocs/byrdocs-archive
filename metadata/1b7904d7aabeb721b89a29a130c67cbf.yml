@@ -1,0 +1,17 @@
+data:
+  college:
+  - 未来学院
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 数学分析（下）
+  filetype: pdf
+  time:
+    end: '2026'
+    semester: Second
+    stage: 期末
+    start: '2025'
+id: 1b7904d7aabeb721b89a29a130c67cbf
+type: test
+url: https://byrdocs.org/files/1b7904d7aabeb721b89a29a130c67cbf.pdf

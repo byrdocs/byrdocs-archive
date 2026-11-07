@@ -1,0 +1,16 @@
+data:
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 高级数理逻辑
+    type: 研究生
+  filetype: pdf
+  time:
+    end: '2009'
+    semester: First
+    stage: 期末
+    start: '2008'
+id: 910437abf9674ce369f888d18cb8c330
+type: test
+url: https://byrdocs.org/files/910437abf9674ce369f888d18cb8c330.pdf

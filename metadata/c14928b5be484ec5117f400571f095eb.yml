@@ -1,0 +1,16 @@
+data:
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 概率论与随机过程
+    type: 研究生
+  filetype: pdf
+  time:
+    end: '2025'
+    semester: First
+    stage: 期末
+    start: '2024'
+id: c14928b5be484ec5117f400571f095eb
+type: test
+url: https://byrdocs.org/files/c14928b5be484ec5117f400571f095eb.pdf

@@ -1,0 +1,15 @@
+data:
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 组合数学
+  filetype: pdf
+  time:
+    end: '2006'
+    semester: First
+    stage: 期末
+    start: '2005'
+id: a931d66614695b13780b67a0aa46df36
+type: test
+url: https://byrdocs.org/files/a931d66614695b13780b67a0aa46df36.pdf

@@ -1,0 +1,15 @@
+data:
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 数学分析（下）
+  filetype: pdf
+  time:
+    end: '2023'
+    semester: Second
+    stage: 期中
+    start: '2022'
+id: 7ba163ff15d6e77777b988a189f0a1bb
+type: test
+url: https://byrdocs.org/files/7ba163ff15d6e77777b988a189f0a1bb.pdf

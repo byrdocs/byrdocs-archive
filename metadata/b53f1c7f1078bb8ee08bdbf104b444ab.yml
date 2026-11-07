@@ -1,0 +1,15 @@
+data:
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 工科数学分析
+  filetype: pdf
+  time:
+    end: '2012'
+    semester: Second
+    stage: 期末
+    start: '2011'
+id: b53f1c7f1078bb8ee08bdbf104b444ab
+type: test
+url: https://byrdocs.org/files/b53f1c7f1078bb8ee08bdbf104b444ab.pdf

@@ -1,0 +1,15 @@
+data:
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 线性代数
+  filetype: pdf
+  time:
+    end: '2013'
+    semester: First
+    stage: 期末
+    start: '2012'
+id: b4d3df67bd1f5d3ecdffcc72fbd5879b
+type: test
+url: https://byrdocs.org/files/b4d3df67bd1f5d3ecdffcc72fbd5879b.pdf

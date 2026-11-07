@@ -1,0 +1,15 @@
+data:
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 高等数学A（下）
+  filetype: pdf
+  time:
+    end: '2019'
+    semester: Second
+    stage: 期末
+    start: '2018'
+id: 8aa539e0d09f816b9f6069e5607441b4
+type: test
+url: https://byrdocs.org/files/8aa539e0d09f816b9f6069e5607441b4.pdf

@@ -1,0 +1,14 @@
+data:
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 线性代数
+  filetype: pdf
+  time:
+    end: '2020'
+    stage: 期末
+    start: '2019'
+id: adf510fbe3def3f4186adddc8d183531
+type: test
+url: https://byrdocs.org/files/adf510fbe3def3f4186adddc8d183531.pdf

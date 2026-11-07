@@ -1,0 +1,15 @@
+data:
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 线性代数
+  filetype: pdf
+  time:
+    end: '2024'
+    semester: First
+    stage: 期末
+    start: '2023'
+id: 6800652aec2e7b735ae1162ab0f3dce8
+type: test
+url: https://byrdocs.org/files/6800652aec2e7b735ae1162ab0f3dce8.pdf
