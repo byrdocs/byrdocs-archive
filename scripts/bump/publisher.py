@@ -200,7 +200,7 @@ def public_ready(store, timestamp=None):
         # Serial with a small pause: bursting 186 downloads trips the site's rate limit.
         for digest in batch["ids"]:
             verify_file(digest)
-            time.sleep(0.25)
+            time.sleep(1)
         batch["public_files_verified"] = True
         storage.save_state(store, state)
 
