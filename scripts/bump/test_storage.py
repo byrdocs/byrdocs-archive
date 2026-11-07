@@ -1225,6 +1225,40 @@ class PublicConsumerTests(unittest.TestCase):
             server.server_close()
             thread.join()
 
+    def test_rate_limited_download_retries_then_succeeds(self):
+        attempts = []
+
+        class Handler(BaseHTTPRequestHandler):
+            def do_GET(self):
+                attempts.append(self.path)
+                if len(attempts) < 3:
+                    self.send_response(429)
+                    self.send_header("Retry-After", "1")
+                    self.end_headers()
+                    return
+                body = b"payload"
+                self.send_response(200)
+                self.send_header("Content-Length", str(len(body)))
+                self.end_headers()
+                self.wfile.write(body)
+
+            def log_message(self, *_):
+                pass
+
+        server = ThreadingHTTPServer(("127.0.0.1", 0), Handler)
+        thread = threading.Thread(target=server.serve_forever, daemon=True)
+        thread.start()
+        try:
+            with patch.object(publisher.time, "sleep") as sleep:
+                body = publisher.fetch(f"http://127.0.0.1:{server.server_port}/r")
+            self.assertEqual(body, b"payload")
+            self.assertEqual(len(attempts), 3)
+            self.assertEqual(sleep.call_count, 2)
+        finally:
+            server.shutdown()
+            server.server_close()
+            thread.join()
+
 
 def production_env():
     return {

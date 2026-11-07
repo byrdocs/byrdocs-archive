@@ -5,9 +5,10 @@ import json
 import os
 import subprocess
 import tempfile
+import time
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
-from concurrent.futures import ThreadPoolExecutor
 from datetime import UTC, datetime
 from pathlib import Path
 
@@ -124,17 +125,49 @@ class NoRedirect(urllib.request.HTTPRedirectHandler):
         return None
 
 
-def fetch(url, payload=None, *, authenticated=False):
+RETRY_STATUS = {429, 500, 502, 503, 504}
+
+
+def retry_delay(error, attempt):
+    """Honour Retry-After when present, otherwise back off exponentially."""
+    header = error.headers.get("Retry-After") if error.headers else None
+    if header:
+        try:
+            return min(max(float(header), 1.0), 120.0)
+        except ValueError:
+            pass
+    return min(2**attempt, 60)
+
+
+def fetch(url, payload=None, *, authenticated=False, attempts=5):
     data = json.dumps(payload).encode() if payload is not None else None
-    request = urllib.request.Request(
-        url,
-        data=data,
-        headers={"User-Agent": "BYRDocs-Bump-Sync", "Content-Type": "application/json"},
-    )
-    if authenticated:
-        request.add_header("X-Byrdocs-Token", os.environ["BYRDOCS_SITE_TOKEN"])
-    with urllib.request.build_opener(NoRedirect).open(request, timeout=120) as response:
-        return response.read()
+    for attempt in range(1, attempts + 1):
+        request = urllib.request.Request(
+            url,
+            data=data,
+            headers={
+                "User-Agent": "BYRDocs-Bump-Sync",
+                "Content-Type": "application/json",
+            },
+        )
+        if authenticated:
+            request.add_header("X-Byrdocs-Token", os.environ["BYRDOCS_SITE_TOKEN"])
+        try:
+            with urllib.request.build_opener(NoRedirect).open(
+                request, timeout=120
+            ) as response:
+                return response.read()
+        except urllib.error.HTTPError as error:
+            # Redirects are a security boundary, never retry them.
+            if error.code not in RETRY_STATUS or attempt == attempts:
+                raise
+            delay = retry_delay(error, attempt)
+            print(
+                f"HTTP {error.code}：{delay:.0f} 秒后重试（{attempt}/{attempts - 1}）",
+                flush=True,
+            )
+            time.sleep(delay)
+    raise ValueError(f"请求失败: {url}")
 
 
 def public_ready(store, timestamp=None):
@@ -164,8 +197,10 @@ def public_ready(store, timestamp=None):
             if hashlib.md5(raw).hexdigest() != digest:
                 raise ValueError(f"Public PDF differs from its MD5: {digest}")
 
-        with ThreadPoolExecutor(max_workers=4) as pool:
-            list(pool.map(verify_file, batch["ids"]))
+        # Serial with a small pause: bursting 186 downloads trips the site's rate limit.
+        for digest in batch["ids"]:
+            verify_file(digest)
+            time.sleep(0.25)
         batch["public_files_verified"] = True
         storage.save_state(store, state)
 
