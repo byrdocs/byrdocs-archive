@@ -14,12 +14,11 @@
 
 备份凭据、endpoint 和 region 单独使用。`BACKUP_ENDPOINT_REGION` 必须明确配置；R2 备份填 `auto`，其他 S3 服务按其实际 region 填写。
 
-自动数据 PR 使用安装在 `byrdocs/byrdocs-archive` 的 GitHub App：
+自动数据 PR 使用 Fine-grained Personal Access Token，存为 Secret `BUMP_PAT`：
 
-- Variable：`BUMP_APP_ID`。
-- Secret：`BUMP_APP_PRIVATE_KEY`。
-- App 权限：Contents、Pull requests 读写；安装范围仅需本仓库。
-- 工作流在上传完成后才申请短期令牌，使用它推送同步分支和创建 PR，使已有 PR 检查可以正常触发。
+- 仓库范围仅 `byrdocs/byrdocs-archive`；权限为 Contents、Pull requests 读写。
+- 工作流在上传完成后才使用它推送同步分支和创建 PR，使已有 PR 检查可以正常触发。
+- 令牌绑定个人账号且有有效期，到期前需重新签发并更新 Secret；签发人离开组织后需改用 GitHub App。
 
 Variable `BUMP_SYNC_ENABLED=true` 开启每日／手动同步及独立清理；缺失或为 `false` 时这两个任务不执行。继续使用现有 `SITEMAP_MIN_LASTMOD`，未配置时遵循原版发布程序的行为。
 

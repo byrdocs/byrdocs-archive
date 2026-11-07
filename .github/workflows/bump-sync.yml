@@ -123,21 +123,10 @@ jobs:
             output/bump/run/candidate/pr-body.md
           if-no-files-found: ignore
           retention-days: 14
-      - name: Create repository-scoped PR token
-        if: steps.run.outputs.create_pr == 'true'
-        id: app
-        uses: actions/create-github-app-token@v2
-        with:
-          app-id: ${{ vars.BUMP_APP_ID }}
-          private-key: ${{ secrets.BUMP_APP_PRIVATE_KEY }}
-          owner: byrdocs
-          repositories: byrdocs-archive
-          permission-contents: write
-          permission-pull-requests: write
       - name: Create upstream data PR
         if: steps.run.outputs.create_pr == 'true'
         env:
-          GH_TOKEN: ${{ steps.app.outputs.token }}
+          GH_TOKEN: ${{ secrets.BUMP_PAT }}
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
           gh auth setup-git --hostname github.com

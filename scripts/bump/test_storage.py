@@ -638,10 +638,11 @@ class PublisherBoundaryTests(unittest.TestCase):
         )
         self.assertTrue(
             any(
-                step.get("uses") == "actions/create-github-app-token@v2"
+                step.get("env", {}).get("GH_TOKEN") == "${{ secrets.BUMP_PAT }}"
                 for step in job["steps"]
             )
         )
+        self.assertNotIn("BUMP_APP_PRIVATE_KEY", str(workflow))
 
     def test_ordinary_open_pr_protects_bump_file_references(self):
         digest = "d" * 32
