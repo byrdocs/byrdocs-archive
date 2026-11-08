@@ -211,6 +211,26 @@ class MetadataTests(unittest.TestCase):
                     (time["start"], time["end"], time.get("semester")), expected
                 )
 
+    def test_admission_starts_at_academic_year_2016(self):
+        # Long-lived admission contract: use the parsed academic start year.
+        for date, accepted in (
+            ("2015", False),
+            ("2015–2016 学年", False),
+            ("2016 年 1 月", False),
+            ("2016", True),
+            ("2016–2017 学年", True),
+            ("2016 年 9 月", True),
+        ):
+            with self.subTest(date=date):
+                source = entry(f"{date} 高等数学期末考试")
+                data = sync.parse_entry(source)
+                if accepted:
+                    sync.check_admission(data)
+                    self.assertEqual(data["time"]["start"], "2016")
+                else:
+                    with self.assertRaisesRegex(sync.SkipPaper, "早于 2016 年"):
+                        sync.check_admission(data)
+
     def test_unparseable_and_out_of_scope_entries_are_skippable(self):
         for source in [
             entry("高等数学期末考试"),
