@@ -99,7 +99,7 @@ YAML_CODEC.default_flow_style = False
 
 
 class SkipPaper(ValueError):
-    """A source entry cannot be imported without human interpretation."""
+    """A source entry is out of scope or cannot be parsed unambiguously."""
 
 
 def read_json(path):
@@ -273,6 +273,12 @@ def parse_entry(entry):
     return data
 
 
+def check_admission(data):
+    """Apply the collection's minimum academic-year admission rule."""
+    if int(data["time"]["start"]) < 2016:
+        raise SkipPaper("排除：学年起始年份早于 2016 年")
+
+
 def validate_source(source, reader, version):
     if (
         source["config"]["release-type"] != "release"
@@ -406,6 +412,7 @@ def build(args):
         start, length = entry["page-physical"], entry["length-in-page"]
         try:
             data = parse_entry(entry)
+            check_admission(data)
             contents = "\n".join(
                 reader.pages[i].extract_text()
                 for i in range(start - 1, start + length - 1)
