@@ -4,7 +4,8 @@ data:
   - 答案
   course:
     name: 概率论与数理统计
-  filetype: bump
+  filetype: pdf
+  external_source: bump
   time:
     end: '2025'
     semester: First

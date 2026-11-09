@@ -4,7 +4,8 @@ data:
   - 答案
   course:
     name: 工科数学分析（下）
-  filetype: bump
+  filetype: pdf
+  external_source: bump
   time:
     end: '2026'
     semester: Second
