@@ -4,7 +4,8 @@ data:
   - 答案
   course:
     name: 工程数学
-  filetype: bump
+  filetype: pdf
+  external_source: bump
   time:
     end: '2024'
     semester: First

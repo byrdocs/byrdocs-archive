@@ -5,7 +5,8 @@ data:
   course:
     name: 最优化理论与算法
     type: 研究生
-  filetype: bump
+  filetype: pdf
+  external_source: bump
   time:
     end: '2023'
     semester: Second

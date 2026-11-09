@@ -4,7 +4,8 @@ data:
   - 答案
   course:
     name: 数学分析（上）
-  filetype: bump
+  filetype: pdf
+  external_source: bump
   time:
     end: '2023'
     semester: First
