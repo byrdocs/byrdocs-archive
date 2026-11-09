@@ -4,13 +4,16 @@ id: 220acb70bd8690c91ddc58beecf7482a
 url: https://byrdocs.org/files/220acb70bd8690c91ddc58beecf7482a.pdf
 type: test
 data:
+  college:
+    - 计算机学院（国家示范性软件学院）
   course:
-    name: CSAPP
+    name: 计算机系统基础
+    type: 本科
   time:
-    start: '2020'
-    end: '2020'
+    start: "2020"
+    end: "2020"
     stage: 期中
   filetype: pdf
   content:
-  - 原题
-  - 答案
+    - 原题
+    - 答案
