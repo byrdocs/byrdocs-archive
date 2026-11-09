@@ -3,7 +3,7 @@ data:
   - 原题
   course:
     name: 数学分析（上）
-  filetype: pdf
+  filetype: bump
   time:
     end: '2025'
     semester: First

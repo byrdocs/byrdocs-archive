@@ -263,7 +263,12 @@ def parse_entry(entry):
     course_data = {"name": course}
     if "研究生课" in tags:
         course_data["type"] = "研究生"
-    data = {"course": course_data, "time": time, "filetype": "pdf", "content": ["原题"]}
+    data = {
+        "course": course_data,
+        "time": time,
+        "filetype": "bump",
+        "content": ["原题"],
+    }
     colleges = {
         COLLEGE_ALIASES.get(name, name)
         for name in COLLEGE_PATTERN.findall(title.replace("(", "（").replace(")", "）"))
