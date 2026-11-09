@@ -4,7 +4,7 @@ data:
   - 答案
   course:
     name: 复变函数
-  filetype: pdf
+  filetype: bump
   time:
     end: '2017'
     semester: First

@@ -124,6 +124,7 @@ class MetadataTests(unittest.TestCase):
         for source, course, semester in cases:
             with self.subTest(title=source["title"]):
                 data = sync.parse_entry(source)
+                self.assertEqual(data["filetype"], "bump")
                 self.assertEqual(data["course"]["name"], course)
                 self.assertEqual(data["time"].get("semester"), semester)
                 value = {
@@ -191,6 +192,10 @@ class MetadataTests(unittest.TestCase):
                     yaml = next((out / "metadata").glob("*.yml"))
                     item = sync.YAML_CODEC.load(yaml.read_text(encoding="utf-8"))
                     self.assertEqual(item["data"]["content"], expected)
+                    self.assertEqual(item["data"]["filetype"], "bump")
+                    self.assertEqual(
+                        item["url"], f"https://byrdocs.org/files/{item['id']}.pdf"
+                    )
                     pages = sync.PdfReader(out / "files" / f"{item['id']}.pdf").pages
                     self.assertEqual(
                         [page.mediabox.width for page in pages], [100, 200]

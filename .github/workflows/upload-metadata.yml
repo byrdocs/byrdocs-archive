@@ -48,12 +48,12 @@ jobs:
         run: |
           wget https://github.com/bblanchon/pdfium-binaries/releases/download/${{ steps.pdfium.outputs.release }}/pdfium-linux-x64.tgz
           tar -zxvf pdfium-linux-x64.tgz
-          wget https://github.com/byrdocs/byrdocs-check/releases/download/v6.5.1/upload-metadata
-          wget https://github.com/byrdocs/byrdocs-check/releases/download/v6.5.1/check-format
-          # Digests from the v6.5.1 release assets; update with the pinned version.
+          wget https://github.com/byrdocs/byrdocs-check/releases/download/v6.5.2/upload-metadata
+          wget https://github.com/byrdocs/byrdocs-check/releases/download/v6.5.2/check-format
+          # Digests from the v6.5.2 release assets; update with the pinned version.
           sha256sum --check <<'SHA256'
-          4d34304c9e98c22ba588e98d5901431302bec923db0a7b24ba654296596d917f  check-format
-          045631ae490612536177816aa516183ab77386f11df51d492c0e17687def0177  upload-metadata
+          ad895d6b98a46c289593091bbbac3cdb05d7d6fbbcc12216b6687a552756749b  check-format
+          0e0096938862cbb85b3278823673f34ec70f32e8731ae3d5c1712181602eb332  upload-metadata
           SHA256
           chmod +x upload-metadata check-format
       - name: Check format

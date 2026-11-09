@@ -4,7 +4,7 @@ data:
   - 答案
   course:
     name: 高等数学A（上）
-  filetype: pdf
+  filetype: bump
   time:
     end: '2018'
     semester: First

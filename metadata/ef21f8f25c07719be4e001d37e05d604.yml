@@ -4,7 +4,7 @@ data:
   - 答案
   course:
     name: 线性代数
-  filetype: pdf
+  filetype: bump
   time:
     end: '2026'
     semester: First
