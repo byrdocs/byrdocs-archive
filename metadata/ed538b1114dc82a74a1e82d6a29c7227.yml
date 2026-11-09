@@ -1,0 +1,15 @@
+data:
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 概率论与随机过程
+  filetype: pdf
+  time:
+    end: '2020'
+    semester: First
+    stage: 期末
+    start: '2019'
+id: ed538b1114dc82a74a1e82d6a29c7227
+type: test
+url: https://byrdocs.org/files/ed538b1114dc82a74a1e82d6a29c7227.pdf

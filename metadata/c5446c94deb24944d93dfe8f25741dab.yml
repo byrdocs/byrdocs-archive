@@ -1,0 +1,15 @@
+data:
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 数学分析
+  filetype: pdf
+  time:
+    end: '2017'
+    semester: Second
+    stage: 期末
+    start: '2016'
+id: c5446c94deb24944d93dfe8f25741dab
+type: test
+url: https://byrdocs.org/files/c5446c94deb24944d93dfe8f25741dab.pdf

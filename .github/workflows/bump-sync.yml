@@ -1,0 +1,133 @@
+name: BUMP sync
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: '正式版本号；留空时从 RSS 获取'
+        type: string
+      retry:
+        description: '重新处理已关闭或已合并的版本'
+        type: boolean
+        default: false
+  schedule:
+    - cron: '17 21 * * *'
+  push:
+    paths:
+      - 'scripts/bump/**'
+      - '.github/workflows/**'
+      - 'schema/**'
+  pull_request:
+    paths:
+      - 'scripts/bump/**'
+      - '.github/workflows/**'
+      - 'schema/**'
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: scripts/bump/requirements.txt
+      - run: python -m pip install -r scripts/bump/requirements.txt
+      - name: Check Python lint and formatting
+        run: |
+          python -m pip install ruff==0.17.4
+          ruff check scripts/bump
+          ruff format --check scripts/bump
+      - name: Check workflows
+        run: |
+          curl --fail --silent --show-error --location \
+            https://github.com/rhysd/actionlint/releases/download/v1.7.12/actionlint_1.7.12_linux_amd64.tar.gz \
+            --output "$RUNNER_TEMP/actionlint.tar.gz"
+          tar -xzf "$RUNNER_TEMP/actionlint.tar.gz" -C "$RUNNER_TEMP" actionlint
+          # Remove this narrow ignore when actionlint supports concurrency.queue.
+          "$RUNNER_TEMP/actionlint" \
+            -ignore '^unexpected key "queue" for "concurrency" section\.' \
+            .github/workflows/bump-sync.yml \
+            .github/workflows/bump-cleanup.yml \
+            .github/workflows/upload-metadata.yml
+      - run: python -m unittest discover -s scripts/bump -p 'test_*.py' -v
+
+  sync:
+    needs: test
+    if: >-
+      github.repository == 'byrdocs/byrdocs-archive' &&
+      github.ref == 'refs/heads/master' &&
+      vars.BUMP_SYNC_ENABLED == 'true' &&
+      (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
+    runs-on: ubuntu-24.04
+    timeout-minutes: 90
+    permissions:
+      contents: read
+      pull-requests: read
+    concurrency:
+      group: byrdocs-storage
+      cancel-in-progress: false
+      queue: max
+    env:
+      R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+      R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      R2_FILE_BUCKET: ${{ secrets.R2_FILE_BUCKET }}
+      R2_DATA_BUCKET: ${{ secrets.R2_DATA_BUCKET }}
+      BACKUP_ENDPOINT: ${{ secrets.BACKUP_ENDPOINT }}
+      BACKUP_ENDPOINT_REGION: ${{ secrets.BACKUP_ENDPOINT_REGION }}
+      BACKUP_ACCESS_KEY_ID: ${{ secrets.BACKUP_ACCESS_KEY_ID }}
+      BACKUP_SECRET_ACCESS_KEY: ${{ secrets.BACKUP_SECRET_ACCESS_KEY }}
+      BACKUP_FILE_BUCKET: ${{ secrets.BACKUP_FILE_BUCKET }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Refresh current default branch
+        run: |
+          git fetch origin master
+          git checkout --detach origin/master
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: scripts/bump/requirements.txt
+      - run: python -m pip install -r scripts/bump/requirements.txt
+      - name: Synchronize release
+        id: run
+        env:
+          REQUESTED_VERSION: ${{ inputs.version }}
+          RETRY_VERSION: ${{ inputs.retry }}
+        run: |
+          args=()
+          if [ -n "$REQUESTED_VERSION" ]; then args+=(--version "$REQUESTED_VERSION"); fi
+          if [ "$RETRY_VERSION" = true ]; then args+=(--retry); fi
+          python scripts/bump/pipeline.py sync --output output/bump/run "${args[@]}"
+      - name: Upload generated files for review
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: bump-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            output/bump/run/candidate/files/
+            output/bump/run/candidate/metadata/
+            output/bump/run/candidate/manifest.json
+            output/bump/run/candidate/cleanup-preview.json
+            output/bump/run/candidate/pr-body.md
+          if-no-files-found: ignore
+          retention-days: 14
+      - name: Create upstream data PR
+        if: steps.run.outputs.create_pr == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.BUMP_PAT }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          gh auth setup-git --hostname github.com
+          python scripts/bump/sync.py pr --repository byrdocs/byrdocs-archive --output output/bump/run/candidate --run-url "$RUN_URL"

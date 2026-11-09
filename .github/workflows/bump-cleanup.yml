@@ -1,0 +1,65 @@
+name: BUMP cleanup
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: [BUMP sync, Upload metadata]
+    types: [completed]
+    branches: [master]
+
+permissions:
+  actions: read
+  contents: read
+  pull-requests: read
+
+jobs:
+  cleanup:
+    if: >-
+      github.repository == 'byrdocs/byrdocs-archive' &&
+      github.ref == 'refs/heads/master' &&
+      vars.BUMP_SYNC_ENABLED == 'true' &&
+      (github.event_name == 'workflow_dispatch' ||
+       (github.event.workflow_run.head_repository.full_name == 'byrdocs/byrdocs-archive' &&
+        github.event.workflow_run.conclusion == 'success' &&
+        (github.event.workflow_run.name == 'Upload metadata' ||
+         (github.event.workflow_run.name == 'BUMP sync' &&
+          (github.event.workflow_run.event == 'schedule' ||
+           github.event.workflow_run.event == 'workflow_dispatch')))))
+    runs-on: ubuntu-24.04
+    timeout-minutes: 90
+    concurrency:
+      group: byrdocs-storage
+      cancel-in-progress: false
+      queue: max
+    env:
+      R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+      R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      R2_FILE_BUCKET: ${{ secrets.R2_FILE_BUCKET }}
+      R2_DATA_BUCKET: ${{ secrets.R2_DATA_BUCKET }}
+      BACKUP_ENDPOINT: ${{ secrets.BACKUP_ENDPOINT }}
+      BACKUP_ENDPOINT_REGION: ${{ secrets.BACKUP_ENDPOINT_REGION }}
+      BACKUP_ACCESS_KEY_ID: ${{ secrets.BACKUP_ACCESS_KEY_ID }}
+      BACKUP_SECRET_ACCESS_KEY: ${{ secrets.BACKUP_SECRET_ACCESS_KEY }}
+      BACKUP_FILE_BUCKET: ${{ secrets.BACKUP_FILE_BUCKET }}
+      BYRDOCS_SITE_TOKEN: ${{ secrets.BYRDOCS_SITE_TOKEN }}
+      BYRDOCS_SITE_URL: ${{ secrets.BYRDOCS_SITE_URL }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Refresh current default branch
+        run: |
+          git fetch origin master
+          git checkout --detach origin/master
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: scripts/bump/requirements.txt
+      - run: python -m pip install -r scripts/bump/requirements.txt
+      - name: Confirm public data and clean managed objects
+        run: python scripts/bump/pipeline.py cleanup --output output/bump/cleanup

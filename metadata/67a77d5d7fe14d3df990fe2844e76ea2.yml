@@ -1,0 +1,17 @@
+data:
+  college:
+  - 智能工程与自动化学院
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 概率论与数理统计
+  filetype: pdf
+  time:
+    end: '2020'
+    semester: Second
+    stage: 期末
+    start: '2019'
+id: 67a77d5d7fe14d3df990fe2844e76ea2
+type: test
+url: https://byrdocs.org/files/67a77d5d7fe14d3df990fe2844e76ea2.pdf

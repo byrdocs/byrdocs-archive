@@ -1,0 +1,15 @@
+data:
+  content:
+  - 原题
+  - 答案
+  course:
+    name: 高等数学A（下）
+  filetype: pdf
+  time:
+    end: '2022'
+    semester: Second
+    stage: 期末
+    start: '2021'
+id: 523bb62c37e93caab50fa03f30e950ff
+type: test
+url: https://byrdocs.org/files/523bb62c37e93caab50fa03f30e950ff.pdf
