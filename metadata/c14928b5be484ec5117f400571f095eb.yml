@@ -5,7 +5,8 @@ data:
   course:
     name: 概率论与随机过程
     type: 研究生
-  filetype: bump
+  filetype: pdf
+  external_source: bump
   time:
     end: '2025'
     semester: First

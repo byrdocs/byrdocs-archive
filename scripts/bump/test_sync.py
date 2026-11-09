@@ -124,7 +124,8 @@ class MetadataTests(unittest.TestCase):
         for source, course, semester in cases:
             with self.subTest(title=source["title"]):
                 data = sync.parse_entry(source)
-                self.assertEqual(data["filetype"], "bump")
+                self.assertEqual(data["filetype"], "pdf")
+                self.assertEqual(data["external_source"], "bump")
                 self.assertEqual(data["course"]["name"], course)
                 self.assertEqual(data["time"].get("semester"), semester)
                 value = {
@@ -135,6 +136,16 @@ class MetadataTests(unittest.TestCase):
                 }
                 validator.validate(value)
         self.assertNotIn("stage", data["time"])
+        ordinary = {**value, "data": {**data}}
+        del ordinary["data"]["external_source"]
+        validator.validate(ordinary)
+        for filetype, source in [("bump", "bump"), ("pdf", "other")]:
+            with self.subTest(filetype=filetype, external_source=source):
+                invalid = {
+                    **value,
+                    "data": {**data, "filetype": filetype, "external_source": source},
+                }
+                self.assertFalse(validator.is_valid(invalid))
         data["title"] = "must not extend metadata"
         self.assertFalse(validator.is_valid(value))
 
@@ -192,7 +203,8 @@ class MetadataTests(unittest.TestCase):
                     yaml = next((out / "metadata").glob("*.yml"))
                     item = sync.YAML_CODEC.load(yaml.read_text(encoding="utf-8"))
                     self.assertEqual(item["data"]["content"], expected)
-                    self.assertEqual(item["data"]["filetype"], "bump")
+                    self.assertEqual(item["data"]["filetype"], "pdf")
+                    self.assertEqual(item["data"]["external_source"], "bump")
                     self.assertEqual(
                         item["url"], f"https://byrdocs.org/files/{item['id']}.pdf"
                     )

@@ -54,8 +54,12 @@ properties:
         required: [start, end]
       filetype:
         type: string
-        enum: [pdf, bump]
-        description: 文件格式，bump 表示大邮数学集同步的 PDF 试卷
+        enum: [pdf]
+        description: 文件格式
+      external_source:
+        type: string
+        enum: [bump]
+        description: 外部来源，可选，bump 表示大邮数学集
       content:
         type: array
         items:

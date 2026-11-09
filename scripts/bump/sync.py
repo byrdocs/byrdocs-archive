@@ -266,7 +266,8 @@ def parse_entry(entry):
     data = {
         "course": course_data,
         "time": time,
-        "filetype": "bump",
+        "filetype": "pdf",
+        "external_source": "bump",
         "content": ["原题"],
     }
     colleges = {
