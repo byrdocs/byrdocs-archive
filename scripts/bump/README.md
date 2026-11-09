@@ -53,7 +53,7 @@ Variable `BUMP_SYNC_ENABLED=true` 开启每日／手动同步及独立清理；�
 
 ## 全库发布与清理
 
-发布使用固定的 `byrdocs-check v6.5.2`（`check-format` 和 `upload-metadata`）。发布程序直接读取真实仓库中的 YAML 和 Git 修改日期，连接正式临时上传与预览接口，大邮脚本只读取发布结果。
+发布自动获取 `byrdocs/byrdocs-check` 的最新 release。发布程序直接读取真实仓库中的 YAML 和 Git 修改日期，连接正式临时上传与预览接口，大邮脚本只读取发布结果。
 
 ### 封面与发布确认
 

@@ -44,17 +44,18 @@ jobs:
         with:
           owner: bblanchon
           repo: pdfium-binaries
+      - id: check
+        name: Get byrdocs-check release
+        uses: pozetroninc/github-action-get-latest-release@master
+        with:
+          owner: byrdocs
+          repo: byrdocs-check
       - name: Download release
         run: |
           wget https://github.com/bblanchon/pdfium-binaries/releases/download/${{ steps.pdfium.outputs.release }}/pdfium-linux-x64.tgz
           tar -zxvf pdfium-linux-x64.tgz
-          wget https://github.com/byrdocs/byrdocs-check/releases/download/v6.5.2/upload-metadata
-          wget https://github.com/byrdocs/byrdocs-check/releases/download/v6.5.2/check-format
-          # Digests from the v6.5.2 release assets; update with the pinned version.
-          sha256sum --check <<'SHA256'
-          ad895d6b98a46c289593091bbbac3cdb05d7d6fbbcc12216b6687a552756749b  check-format
-          0e0096938862cbb85b3278823673f34ec70f32e8731ae3d5c1712181602eb332  upload-metadata
-          SHA256
+          wget https://github.com/byrdocs/byrdocs-check/releases/download/${{ steps.check.outputs.release }}/upload-metadata
+          wget https://github.com/byrdocs/byrdocs-check/releases/download/${{ steps.check.outputs.release }}/check-format
           chmod +x upload-metadata check-format
       - name: Check format
         env:
