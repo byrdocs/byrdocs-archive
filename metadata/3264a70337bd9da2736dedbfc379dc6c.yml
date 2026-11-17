@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: 3264a70337bd9da2736dedbfc379dc6c
+url: https://byrdocs.org/files/3264a70337bd9da2736dedbfc379dc6c.pdf
+type: test
+data:
+  college:
+    - 计算机学院（国家示范性软件学院）
+  course:
+    name: 离散数学（下）
+    type: 本科
+  time:
+    start: "2019"
+    end: "2020"
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+    - 原题
+    - 答案
