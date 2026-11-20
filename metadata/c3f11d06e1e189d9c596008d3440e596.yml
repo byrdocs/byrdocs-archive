@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/test.yaml
+
+id: c3f11d06e1e189d9c596008d3440e596
+url: https://byrdocs.org/files/c3f11d06e1e189d9c596008d3440e596.pdf
+type: test
+data:
+  course:
+    name: 计算机组成与系统结构
+    type: 本科
+  time:
+    start: "2026"
+    end: "2027"
+    semester: First
+    stage: 期中
+  filetype: pdf
+  content:
+    - 原题
