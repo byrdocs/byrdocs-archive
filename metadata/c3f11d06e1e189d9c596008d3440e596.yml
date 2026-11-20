@@ -4,6 +4,8 @@ id: c3f11d06e1e189d9c596008d3440e596
 url: https://byrdocs.org/files/c3f11d06e1e189d9c596008d3440e596.pdf
 type: test
 data:
+  college:
+    - 网络空间安全学院
   course:
     name: 计算机组成与系统结构
     type: 本科
