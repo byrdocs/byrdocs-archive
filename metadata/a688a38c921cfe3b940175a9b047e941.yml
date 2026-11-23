@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://byrdocs.org/schema/book.yaml
+
+id: a688a38c921cfe3b940175a9b047e941
+url: https://byrdocs.org/files/a688a38c921cfe3b940175a9b047e941.pdf
+type: book
+data:
+  title: 全国大学生数学竞赛解析教程 非数学专业类 上册
+  authors:
+    - 佘志坤
+    - 全国大学生数学竞赛命题组
+  edition: "2"
+  publisher: 科学出版社
+  publish_year: "2025"
+  isbn:
+    - 978-7-03-082291-8
+  filetype: pdf
