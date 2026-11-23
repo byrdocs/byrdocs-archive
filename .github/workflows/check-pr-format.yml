@@ -39,9 +39,9 @@ jobs:
 
       - name: Check for YAML files in root directory
         run: |
-          files=$(find . -maxdepth 1 -type f \( -name "*.yml" -o -name "*.yaml" \))
+          files=$(find . -maxdepth 1 -type f \( \( -name "*.yml" -o -name "*.yaml" \) ! -name "ignore-isbn-check-list.yml" \))
           if [ -n "$files" ]; then
-            echo "根目录下发现 yml 或 yaml 文件，请移动到 metadata 目录中：" > comment.txt
+            echo "根目录下发现不允许的 yml 或 yaml 文件，请移动到 metadata 目录中：" > comment.txt
             echo "$files" >> comment.txt
             exit 1
           fi
@@ -119,4 +119,3 @@ jobs:
                 });
               }
             }
-
